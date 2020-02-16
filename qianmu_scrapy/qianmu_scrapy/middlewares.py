@@ -4,6 +4,7 @@
 #
 # See documentation in:
 # https://docs.scrapy.org/en/latest/topics/spider-middleware.html
+from collections import defaultdict
 from random import random
 
 from scrapy import signals
@@ -108,7 +109,9 @@ class QianmuScrapyDownloaderMiddleware(object):
 class RandomProxyMiddleware(object):
 
     def __init__(self, settings):
-        self.proxies = settings.getlist('PROXIES');
+        self.proxies = settings.getlist('PROXIES')
+        self.stats = defaultdict(int)
+        self.max_failed = 3
 
     @classmethod
     def from_crawler(cls, crawler):
@@ -121,7 +124,29 @@ class RandomProxyMiddleware(object):
             request.meta['proxy'] = random.choice(self.proxies)
 
     def process_resoponse(self, request, response, spider):
+        cur_proxy = request.meta.get('proxy')
+        if response.status in (400, 403):
+            self.stats[cur_proxy] += 1
+            print('%s got wrong code %t times' %(cur_proxy, self.stats[cur_proxy]))
+
+        if self.stats[cur_proxy] >= self.max_failed:
+            print('got wrong http code (%s) when use %s'
+                  %(response.status, cur_proxy))
+            self.remove_proxy(cur_proxy)
+            del request.meta['proxy']
+            return request
         return response
 
     def process_exception(self, request, exception, spider):
-        pass
+        cur_proxy = request.meta.get('proxy')
+        from twisted.internet.error import ConnectionRefusedError, TimeoutError
+        if cur_proxy and isinstance(exception, (ConnectionRefusedError, TimeoutError)):
+            print('erro (%s) occur when use proxy %s' %(exception, cur_proxy))
+            self.remove_proxy(cur_proxy)
+            del request.meta['proxy']
+            return request
+
+    def remove_proxy(self, proxy):
+        if proxy in self.proxies:
+            self.proxies.remove(proxy)
+            print('remove %s from proxy list' % proxy)
