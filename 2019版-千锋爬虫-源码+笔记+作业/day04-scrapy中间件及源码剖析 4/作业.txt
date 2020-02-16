@@ -1,0 +1,11 @@
+基础作业：
+1. 完成一个IP动态代理池中间件
+2. 完成一个插件，可以在失败的请求超过20%以上时发出警告。
+3. 操作telnet控制台查看运行中的爬虫状态
+4. 使用-s参数保存爬虫的状态，并查看相应的目录。
+5. 查看缓存目录（.scrapy）下的文件内容。
+
+
+扩展作业：
+查看scrapy框架中downloadmiddlewares、spidermiddlewares、extensions中的源码
+

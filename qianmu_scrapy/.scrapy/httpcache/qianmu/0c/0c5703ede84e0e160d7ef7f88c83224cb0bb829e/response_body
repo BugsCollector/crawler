@@ -1,0 +1,433 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>国际关系学-迁木网</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="keywords"  content="国际关系学" />
+<meta name="description"  id="description"  content="国际关系学:国际关系学（IR）是研究各个国家间外交关系的跨学科专业；如：主权国家、国际政府组织（IGO）、国际非政府组织（INGO）、非政府组织（NGO）以及跨国公司（MNC）等。" />
+
+<link rel="stylesheet" type="text/css" href="/r/release/css/all.min.css?v=1.2">
+<!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+<link rel="icon" type="image/png" sizes="16x16" href="/r/plugins/images/logo.ico"> 
+
+
+<style>
+#tree>ul>li{font-size:15px;}
+.container-fluid{padding-left:0px;}
+</style>
+</head>
+<body class="fix-header fix-sidebar"> 
+<script type="text/javascript">
+document.body.oncopy = function () { 
+ setTimeout( function () { 
+	 if(document.all){ 
+		 var text = clipboardData.getData("text");
+		  if (text) { 
+		   text = text + "\r\n文章来自: 迁木网(http://www.qianmu.org)  详文参考："+location.href; 
+		   clipboardData.setData("text", text);
+		  } 
+		}else{ 
+		 }
+    }, 100 ) 
+}
+
+</script>
+	 <div class="preloader">
+  	<div class="cssload-speeding-wheel"></div>
+    </div>
+<div id="wrapper">
+   
+<nav class="navbar navbar-default navbar-static-top m-b-0">
+	<div class="navbar-header">
+		<a class="navbar-toggle hidden-sm hidden-md hidden-lg "
+			href="javascript:void(0)" data-toggle="collapse"
+			data-target=".navbar-collapse"><i class="ti-menu"></i></a>
+		<div class="top-left-part">
+			<a class="logo" href="/"><b> <img
+					src="/r/plugins/images/lo.png" alt="迁木网" title="迁木网"
+					class="dark-logo" style="padding:10px;" /><img
+					src="/r/plugins/images/lo.png" title="迁木网" alt="迁木网"
+					class="light-logo" style="padding:10px;" /></b> <span class="hidden-xs"><img
+					src="/r/plugins/images/logo22.png" title="迁木网" alt="迁木网"
+					class="dark-logo" /><img src="/r/plugins/images/logo22.png"
+					title="迁木网" alt="迁木网" class="light-logo" /></span></a>
+		</div>
+		<ul class="nav navbar-top-links navbar-left hidden-xs">
+			<li><a href="javascript:void(0)"
+				class="open-close hidden-xs waves-effect waves-light"><i
+					class="icon-arrow-left-circle ti-menu"></i></a></li>
+			<li  >
+				<form role="search" class="app-search hidden-xs" action="/q"
+					method="get">
+					<input type="text" placeholder="学校、问题搜一下..." q class="form-control"
+						name="title" style="min-width:300px;"> <a href="#"><i
+						class="fa fa-search search"></i></a>
+				</form>
+			</li>
+			<li >
+				<a   href="/mall" ><i class="fa fa-shopping-cart"></i>&nbsp;留学商城</a>
+			</li>
+		</ul>
+		<ul class="nav navbar-top-links navbar-right pull-right">
+			<li pub>
+				<a id="navfb" href="javascript:void(0)" >发帖</a>
+			</li>
+			
+			
+			
+			<li class="dropdown" chat><a  href="/chat?tid=38"><i class="ti-email"></i></a>
+			</li>
+			<li class="dropdown hide" msg><a
+				class="dropdown-toggle waves-effect waves-light"
+				data-toggle="dropdown" href="#"><i class="icon-volume-2"></i>
+					<div class="notify"></div> </a>
+				<ul
+					class="dropdown-menu dropdown-cart dropdown-tasks animated bounceInDown">
+					<li><a class="text-center" href="/forum"><strong>查看全部</strong>
+							<i class="fa fa-angle-right"></i> </a></li>
+				</ul></li>
+			<li class="dropdown" userArea></li>
+			<li class="right-side-toggle"><a
+				class="waves-effect waves-light" href="javascript:void(0)"><i
+					class="ti-settings"></i></a></li>
+		</ul>
+	</div>
+</nav>
+
+<div id="myModalnav" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+		<div class="modal-dialog" style="width: 700px">
+			<div class="modal-content" style="margin-top: 100px;">
+				<div class="modal-body modal-body-alert" >
+						<div class="row" >
+			        		<div class="row"  style="text-align: center;margin-left: 5%;width: 89%;height: 60px;" >
+			        			<div style="text-align: center;"><h1 class="news-title"><a href="/addForumView" class="btn btn-block btn-info" style="font-size: 25px;" target="_blank">发表主题</a></h1></div>
+			        		</div>
+							<div class="row" style="text-align: center;margin-left: 5%;width: 89%;margin-top:10px;">
+									<ul class="bs-glyphicons">
+										<li style="width: 33%">
+										<a href="/estimate" target="_blank"><span class="glyphicon glyphicon-paperclip " aria-hidden="true"></span>
+											<span class="glyphicon-class">求定位</span></a></li>
+										<li style="width: 33%"><a href="/addOffer" target="_blank"><span class="glyphicon glyphicon-leaf" aria-hidden="true"></span> <span class="glyphicon-class">报Offer</span>
+										</a>
+										</li>
+										<li style="width: 33%"><a href="/chat?tid=38" target="_blank"><span class="glyphicon glyphicon-font" aria-hidden="true"></span> <span class="glyphicon-class">咨询版主</span>
+										</a>
+										</li>
+									</ul>
+							</div>
+			        	</div>
+				</div>
+			</div>
+		</div>
+</div> 
+   
+<div class="navbar-default sidebar" role="navigation">
+    <div class="sidebar-nav navbar-collapse slimscrollsidebar">
+      <ul class="nav" id="side-menu">
+        <li class="m-t-10"><a href="/forum" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="-"></i> <span class="hide-menu">互动 <span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+            <li><a href="/forum" class="">在线论坛</a></li>
+            <li><a href="/forum?type=2" class="">Offer榜</a></li>
+            <li><a href="/askshow" class="">小秘回复墙</a></li>
+            
+          </ul>
+        </li>
+        <li><a href="/ranking/1528.htm" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="+"></i> <span class="hide-menu">排名 <span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+            <li><a href="/ranking/1528.htm">QS世界排名</a></li>
+            <li><a href="/ranking/905.htm">USNEWS排名</a></li>
+            <li><a href="/ranking/1209.htm">PayScale工资排名</a></li>
+            <li><a href="/ranking/904.htm">上交大排名</a></li>
+          </ul>
+        </li>
+        <li><a href="/美国本科研究生选校" class="waves-effect"><i class="linea-icon linea-basic fa-fw" data-icon=">"></i> <span class="hide-menu">选校<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level collapse in">
+            <li><a href="/美国本科研究生选校">选校</a></li>
+            <li><a href="/offer">案例库</a></li>
+          </ul>
+        </li>
+        <li><a href="/分类索引" class="waves-effect active"><i class="linea-icon linea-basic fa-fw" data-icon="m"></i> <span class="hide-menu">词条<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level collapse in">
+            <li><a href="/分类索引">百科</a></li>
+            <li><a href="http://www.qianmu.org/%E7%B2%BE%E5%8D%8E%E6%94%BB%E7%95%A5%E7%B4%A2%E5%BC%95">精华索引</a></li>
+            <li><a href="/留学中介机构列表">中介</a></li>
+            <li><a href="/下载中心">下载中心</a></li>
+          </ul>
+        </li>
+        <li><a href="/mall" class="waves-effect" ><i class="linea-icon linea-basic fa-fw" data-icon="V"></i> <span class="hide-menu">商城<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+          	 <li><a href="/mall?c=1">美国申请</a></li>
+          	 <li><a href="/mall?c=2">英国留学</a></li>
+             <li><a href="/mall?c=8">文书服务</a></li>
+          </ul>
+        </li>
+		 <li style="display:none;"><a href="/article" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="a"></i><span class="hide-menu">新闻<span class="fa arrow"></span></span></a>
+				<ul class="nav nav-second-level   ">
+					<li><a href="/article">资讯</a></li>
+				</ul></li>
+			<li class="nav-small-cap m-t-10" style="text-align:center;border-bottom: 1px solid #ddd;"></li>
+			
+      </ul>
+    </div>
+  </div> 
+   <div class="right-sidebar">
+        <div class="slimscrollright">
+          <div class="rpanel-title">个性化设置<span><i class="ti-close right-side-toggle"></i></span> </div>
+          <div class="r-panel-body">
+            <ul>
+              <li><b>显示设置</b></li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkbox1" type="checkbox" class="fxhdr">
+                  <label for="checkbox1">固定头部导航</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-warning">
+                  <input id="checkbox2" type="checkbox" checked="" class="fxsdr">
+                  <label for="checkbox2" >固定左侧导航</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-success">
+                  <input id="checkbox4" type="checkbox" class="open-close">
+                  <label for="checkbox4" >切换工具栏目</label>
+                </div>
+              </li>
+            </ul>
+            <ul>
+              <li><b>消息设置</b></li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkboxmsg" type="checkbox" class="fxhdr">
+                  <label for="checkboxmsg">不接受网页通知</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkboxmail" type="checkbox" class="fxhdr">
+                  <label for="checkboxmail">不接受邮件通知</label>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="share-tools" >
+         <ul>
+         	<li style="font-size: 14px;" id="fk"><a  href="#comments">评论反馈</a></li>
+         	<li id="sharebtn" style="font-size: 14px;padding-left: 12px;" ><a href="javascript:" >我要分享</a></a>
+	         	<ul style="display:none; height:50px;position: absolute;width:180px;right:50px;margin-top:-45px;" id="sharelist" >
+	               <li style="padding-left: 15px;" class="inli"><a href="javascript:shareToWB();" title="分享至微博" >微博</a></li>
+	               <li style="padding-left: 15px;" class="weixin-icon inli"><a href="javascript:" title="分享至微信" >微信</a></li>
+	               <li class="inli" ><a href="javascript:shareToQQ();"  title="分享至QQ空间">QQ空间</a></li>
+	            </ul>
+         	</li>
+         	<li class="back_top" id="back-to-top" style="display: none;" ></li>
+         </ul>
+	 </div>
+ 
+   <div id="page-wrapper">
+   <div class="container-fluid">
+      <!-- row -->
+      <div class="row">
+        <!-- Left sidebar -->
+        <div class="col-md-12">
+          <div class="white-box" style="padding-left:0px;">
+            <!-- row -->
+            <div class="row">
+              <div class="col-lg-2 col-md-3  col-sm-12 col-xs-12 " style="overflow:auto;min-height:30px;display:block;" >
+                <div class='treeDiv'>
+                <div id="treeDiv" ><ul id="tree" class="ztree"></ul></div>
+                </div>
+              </div>
+              
+              <div style="" class="col-lg-10 col-md-9 col-sm-12 col-xs-12 mail_listing">
+               <div class="row" >
+		     <input type="hidden" id="type"/>
+			   <div class="wikiContent" id="wikiContent"  >
+			        <h1 class="wikiTitle">国际关系学 </h1> 
+					<div class="infobox"><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td colspan="2">			<p>国际关系学（International Relations）</p>			</td>		</tr>		<tr>			<td>			<p>常见学位</p>			</td>			<td>			<p>B.S.</p>			</td>		</tr>		<tr>			<td>			<p>典型职业及薪水</p>			</td>			<td>			<p>广播新闻分析员：$78,380*(3)</p>			<p><a href="http://www.qianmu.org/记者" target="_blank">记者</a>：$45,120*(4)</p>			<p>政府人员及立法者：$38,590*(5)</p>			</td>		</tr>		<tr>			<td>			<p>签证敏感度</p>			</td>			<td>			<p>无</p>			</td>		</tr>		<tr>			<td>			<p>高中课程准备</p>			</td>			<td>			<p><a href="http://www.qianmu.org/比较政治学" target="_blank">比较政治学</a>、人类<a href="http://www.qianmu.org/地理学" target="_blank">地理学</a>、外语、世界史、美国政治与政府、美国<a href="http://www.qianmu.org/历史" target="_blank">历史</a>、<a href="http://www.qianmu.org/哲学" target="_blank">哲学</a>、宗教、<a href="http://www.qianmu.org/英语" target="_blank">英语</a>*(2)</p>			</td>		</tr>		<tr>			<td>			<p>专业领域</p>			</td>			<td>			<p>社会科学</p>			</td>		</tr>	</tbody></table></div>
+					<div id="content"><p>国际关系学（IR）是研究各个国家间外交关系的跨学科专业；如：主权国家、国际政府组织（IGO）、国际非政府组织（INGO）、非政府组织（NGO）以及跨国公司（MNC）等。除了<a  href='http://www.qianmu.org/政治学' target='_blank'>政治学</a>与<a  href='http://www.qianmu.org/公共关系' target='_blank'>公共关系</a>学外，其领域还涉及工程学、<a  href='http://www.qianmu.org/经济学' target='_blank'>经济学</a>、<a  href='http://www.qianmu.org/历史' target='_blank'>历史</a>学、<a  href='http://www.qianmu.org/国际法' target='_blank'>国际法</a>学、<a  href='http://www.qianmu.org/哲学' target='_blank'>哲学</a>、<a  href='http://www.qianmu.org/地理学' target='_blank'>地理学</a>、<a  href='http://www.qianmu.org/社会工作' target='_blank'>社会工作</a>学、<a  href='http://www.qianmu.org/社会学' target='_blank'>社会学</a>、<a  href='http://www.qianmu.org/犯罪学' target='_blank'>犯罪学</a>、<a  href='http://www.qianmu.org/心理学' target='_blank'>心理学</a>、国际安全学、生态环境学、经济发展学等学科领域紧密相连。*(1)</p><h2><strong>就业展望</strong></h2><p><a  href='http://www.qianmu.org/国际关系学' target='_blank'>国际关系</a>专业毕业生可选择的就业去向&mdash;&mdash;</p><p>广播新闻分析员（Broadcast News Analysts）：$78,380</p><p><a  href='http://www.qianmu.org/记者' target='_blank'>记者</a>（Reporters and Correspondents）：$45,120</p><p>政府人员及立法者（Government Executives and Legislators）：$38,590</p><p>公共关系专员（<a  href='http://www.qianmu.org/公共关系' target='_blank'>Public Relations</a> Specialists）：$61,980*(6)</p><p><a  href='http://www.qianmu.org/人类学家' target='_blank'>人类学家</a>（Anthropologist）：$60,230*(7)</p><h2><strong>典型课程列表</strong></h2><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:258px">			<p>防止种族暴力</p>			</td>			<td style="width:320px">			<p>Preventing Ethnic Violence</p>			</td>		</tr>		<tr>			<td style="width:258px">			<p>冷战认知</p>			</td>			<td style="width:320px">			<p>Understanding the Cold War</p>			</td>		</tr>		<tr>			<td style="width:258px">			<p>国际惯例</p>			</td>			<td style="width:320px">			<p>International Norms</p>			</td>		</tr>		<tr>			<td style="width:258px">			<p>和平操作维护</p>			</td>			<td style="width:320px">			<p>Peace-Maintenance <a  href='http://www.qianmu.org/运营管理' target='_blank'>Operations</a></p>			</td>		</tr>		<tr>			<td style="width:258px">			<p>全球化与福利国家的未来</p>			</td>			<td style="width:320px">			<p>Globalization and the Future of the Welfare State</p>			</td>		</tr>		<tr>			<td style="width:258px">			<p>后共产主义地区安全</p>			</td>			<td style="width:320px">			<p>Security in Post Communist Regions</p>			</td>		</tr>		<tr>			<td style="width:258px">			<p>国际公法</p>			</td>			<td style="width:320px">			<p>Public International <a  href='http://www.qianmu.org/法学' target='_blank'>Law</a></p>			</td>		</tr>		<tr>			<td style="width:258px">			<p><a  href='http://www.qianmu.org/国际政治学' target='_blank'>国际政治学</a></p>			</td>			<td style="width:320px">			<p>International Politics</p>			</td>		</tr>		<tr>			<td style="width:258px">			<p>全球变化与安全</p>			</td>			<td style="width:320px">			<p>Global Change and Security</p>			</td>		</tr>		<tr>			<td style="width:258px">			<p>全球化及其批判</p>			</td>			<td style="width:320px">			<p>Globalization and Its Critics</p>			</td>		</tr>		<tr>			<td style="width:258px">			<p>企业战略</p>			</td>			<td style="width:320px">			<p>Business Strategy</p>			</td>		</tr>		<tr>			<td style="width:258px">			<p>国家安全技术</p>			</td>			<td style="width:320px">			<p>Technology in National Security</p>			</td>		</tr>		<tr>			<td style="width:258px">			<p>政治哲学</p>			</td>			<td style="width:320px">			<p>Political Philosophy</p>			</td>		</tr>		<tr>			<td style="width:258px">			<p>种族和阶级政治学</p>			</td>			<td style="width:320px">			<p>Politics of Race and Class</p>			</td>		</tr>		<tr>			<td style="width:258px">			<p>全球环境政策与法律</p>			</td>			<td style="width:320px">			<p>Global Environmental Policy and Law</p>			</td>		</tr>		<tr>			<td style="width:258px">			<p>区域贸易协定经济学</p>			</td>			<td style="width:320px">			<p><a  href='http://www.qianmu.org/经济学' target='_blank'>Economics</a> of Regional Trade Agreements</p>			</td>		</tr>	</tbody></table><p>*(8)</p><p>注：课程列表为本科专业课程列表。</p><h2><strong>选校分析</strong></h2><p>建议申请者在选校时考虑以下因素，再做决定：</p><p>该专业是门跨学科学科还是政治学（经济学）的分支学科？</p><p>师生比率是多少？</p><p>课堂规模有多大？教授有多少人？</p><p>外语的具体要求？</p><p>该专业提供哪些海外机会？</p><p>该专业提供实习工作吗？*(2)</p><h2><strong>心理准备</strong></h2><p>Are You Ready To...?</p><p>Learn how spies operate in today&rsquo;s world</p><p>Gain a different perspective on life by, perhaps, studying abroad</p><p>Read books by noted world leaders and diplomats</p><p>Specialize in a particular region, such as the Middle East or the Philippines</p><p>Take part in heated discussions on, for example, the effects of the Kyoto Protocol on relations between nations*(2)</p><h2><strong>学生评价</strong></h2><p><strong>&ldquo;Students should expect to write interpretive essays on examinations rather than face simple multiple-choice or true-false questions, as well as to write papers that combine solid research with independent thinking.&rdquo;</strong></p><p>Robert Mandel, Professor and Chair, International Affairs Department, Lewis and <a  href='http://www.qianmu.org/克拉克学院' target='_blank'>Clark College</a></p><p>Do you believe that societies and cultures are linked in such a way that changes made in one society affect the rest of the world? If you do, International Relations might be the major for you.*(2)</p><p>参考资料</p><p>(1) <a  href='http://www.qianmu.org/redirect?code=VrxbIdz8wiWP52X7ttttttMbjNM5asolSrylcFKbS9Yv2NKUkCo5R5oFS9Ibkx-ecN95RCHFZ9oeRUPwiUjKJcPcaty3STZ' target='_blank'>International relations</a> Wikipedia</p><p>(2) <a  href='http://www.qianmu.org/redirect?code=XrChP9xoLzABI--7OOOOONxPfx_DfGcVuTEPnI9G9BhNmGTcRjzfMYyHEI1oRB1F2Gz6E6zXRIm5QnTVQnXYBvZApt_9BvZJouXJRtZ0oGaJ1-HA8vZYouZJ4-FxTZwzjJf_iCV' target='_blank'>Major: International Relations</a> College Board</p><p>(3) <a  href='http://www.qianmu.org/redirect?code=wrYmhlERLuKMyL4m999999RdxFo7UlwD16WSWSmt_IQ3U5TYsYojrJCGbJ8VQJSaGd_eehdAMpDc-D2enB2hD9ahm3' target='_blank'>Occupational Employment and Wages, May 2012 27-3021 Broadcast News Analysts</a> U.S. Bureau of Labor <a  href='http://www.qianmu.org/统计学' target='_blank'>Statistics</a></p><p>(4) <a  href='http://www.qianmu.org/redirect?code=2rNMmQ1swUvq6KQmLLLLLLr5ARjDXMlLmaWnWnHgFQo2U3g6-6iB71fZK1-XFT-nv2CMINlq83rTVNsEPFsOj0b4On' target='_blank'>Occupational Employment and Wages, May 2012 27-3022 Reporters and Correspondents</a> U.S. Bureau of Labor Statistics</p><p>(5) <a  href='http://www.qianmu.org/redirect?code=2rNMmQn8L3NxwKgommmmmma6y_xMG-NsFIFIrQkOyib3ftfsftSMrtPICBr3KQxsftSMHzExMWrIPT8-ispN' target='_blank'>Occupational Employment and Wages, May 2012 11-1031 Legislators</a> U.S. Bureau of Labor Statistics</p><p>(6) <a  href='http://www.qianmu.org/redirect?code=ZrygfZo0kiLYy2BjkkkkkkzCKnDLgv8xA6A6eGwiK7WTy2yxy2PLe246Y0CGoSVfP5zNl6MIr6H6rmVui9f' target='_blank'>Occupational Employment and Wages, May 2012 27-3031 Public Relations Specialists</a> U.S. Bureau of Labor Statistics</p><p>(7) <a  href='http://www.qianmu.org/redirect?code=pr9ExTItwQ4TaG-gNpmQqpd5zLoMGlM1LhEUHIAQOJtOWtOcLfO2viROaWfa6IL6BaHzDhZu0xh-OJflbfAtOOLEMgUBc8dO-Y' target='_blank'>Occupational Employment and Wages, May 2012 19-3091 Anthropologists and Archeologists</a> &nbsp;U.S. Bureau of Labor Statistics</p><p>(8) <a  href='http://www.qianmu.org/redirect?code=-rGz4Os5wfFe8hFJdddddcOBKw6qzebtyXyXN40qOY28tg3dmg-qereDerJ8tgCsbvIIaAKbqs3szA3VInQlid3pCCiOwz7pUbmLa1-VIAHlRqiIBHAG6wfK6isHL3q7S' target='_blank'><a href='http://www.qianmu.org/专业列表' target='_blank'  >Major</a>: International Relations</a> The Princeton Review</p><p>&nbsp;</p><h1>学校列表</h1><h2>美国</h2><h3>本科</h3><p><strong>综合性大学（非完全列表）：</strong></p><table border="1px">	<tbody>		<tr>			<td><a  href='http://www.qianmu.org/卡耐基梅隆大学' target='_blank'>卡耐基梅隆大学</a></td>			<td><a  href='http://www.qianmu.org/德克萨斯大学奥斯汀分校' target='_blank'>德克萨斯大学奥斯汀分校</a></td>			<td><a  href='http://www.qianmu.org/华盛顿大学' target='_blank'>华盛顿大学</a></td>		</tr>		<tr>			<td><a  href='http://www.qianmu.org/佐治亚理工学院' target='_blank'>佐治亚理工学院</a></td>			<td><a  href='http://www.qianmu.org/弗吉尼亚大学' target='_blank'>弗吉尼亚大学</a></td>			<td><a  href='http://www.qianmu.org/加州大学戴维斯分校' target='_blank'>加州大学戴维斯分校</a></td>		</tr>		<tr>			<td><a  href='http://www.qianmu.org/纽约大学' target='_blank'>纽约大学</a></td>			<td><a  href='http://www.qianmu.org/东北大学' target='_blank'>东北大学</a></td>			<td><a  href='http://www.qianmu.org/加州大学河滨分校' target='_blank'>加州大学河滨分校</a></td>		</tr>		<tr>			<td><a  href='http://www.qianmu.org/密歇根州立大学' target='_blank'>密歇根州立大学</a></td>			<td><a  href='http://www.qianmu.org/科罗拉多大学博尔德分校' target='_blank'>科罗拉多大学博尔德分校</a></td>			<td><a  href='http://www.qianmu.org/亚利桑那大学' target='_blank'>亚利桑那大学</a></td>		</tr>		<tr>			<td><a  href='http://www.qianmu.org/斯坦福大学' target='_blank'>斯坦福大学</a></td>			<td><a  href='http://www.qianmu.org/阿拉斯加大学费尔班克斯分校' target='_blank'>阿拉斯加大学费尔班克斯分校</a></td>			<td><a  href='http://www.qianmu.org/塔夫斯大学' target='_blank'>塔夫斯大学</a></td>		</tr>		<tr>			<td><a  href='http://www.qianmu.org/西北大学' target='_blank'>西北大学</a></td>			<td><a  href='http://www.qianmu.org/罗切斯特大学' target='_blank'>罗切斯特大学</a></td>			<td><a  href='http://www.qianmu.org/波士顿大学' target='_blank'>波士顿大学</a></td>		</tr>		<tr>			<td><a  href='http://www.qianmu.org/里海大学' target='_blank'>里海大学</a></td>			<td><a  href='http://www.qianmu.org/乔治华盛顿大学' target='_blank'>乔治华盛顿大学</a></td>			<td><a  href='http://www.qianmu.org/杜兰大学' target='_blank'>杜兰大学</a></td>		</tr>		<tr>			<td><a  href='http://www.qianmu.org/迈阿密大学' target='_blank'>迈阿密大学</a></td>			<td><a  href='http://www.qianmu.org/南加州大学' target='_blank'>南加州大学</a></td>			<td><a  href='http://www.qianmu.org/威廉玛丽学院' target='_blank'>威廉玛丽学院</a></td>		</tr>		<tr>			<td><a  href='http://www.qianmu.org/克雷顿大学' target='_blank'>克雷顿大学</a></td>			<td><a  href='http://www.qianmu.org/特拉华大学' target='_blank'>特拉华大学</a></td>			<td><a  href='http://www.qianmu.org/爱荷华大学' target='_blank'>爱荷华大学</a></td>		</tr>		<tr>			<td><a  href='http://www.qianmu.org/薛顿贺尔大学' target='_blank'>薛顿贺尔大学</a></td>			<td><a  href='http://www.qianmu.org/蒙大拿州立大学' target='_blank'>蒙大拿州立大学</a></td>			<td><a  href='http://www.qianmu.org/佐治亚大学' target='_blank'>佐治亚大学</a></td>		</tr>		<tr>			<td><a  href='http://www.qianmu.org/堪萨斯大学' target='_blank'>堪萨斯大学</a></td>			<td><a  href='http://www.qianmu.org/缅因大学' target='_blank'>缅因大学</a></td>			<td><a  href='http://www.qianmu.org/内华达大学雷诺分校' target='_blank'>内华达大学雷诺分校</a></td>		</tr>		<tr>			<td><a  href='http://www.qianmu.org/布朗大学' target='_blank'>布朗大学</a></td>			<td><a  href='http://www.qianmu.org/雪城大学' target='_blank'>雪城大学</a></td>			<td><a  href='http://www.qianmu.org/杨百翰大学' target='_blank'>杨百翰大学</a></td>		</tr>		<tr>			<td><a  href='http://www.qianmu.org/马凯特大学' target='_blank'>马凯特大学</a></td>			<td>阿肯色大学</td>			<td><a  href='http://www.qianmu.org/贝勒大学' target='_blank'>贝勒大学</a></td>		</tr>		<tr>			<td><a  href='http://www.qianmu.org/太平洋大学' target='_blank'>太平洋大学</a></td>			<td><a  href='http://www.qianmu.org/圣地亚哥大学' target='_blank'>圣地亚哥大学</a></td>			<td><a  href='http://www.qianmu.org/佛罗里达州立大学' target='_blank'>佛罗里达州立大学</a></td>		</tr>		<tr>			<td><a  href='http://www.qianmu.org/凯斯西储大学' target='_blank'>凯斯西储大学</a></td>			<td><a  href='http://www.qianmu.org/杜肯大学' target='_blank'>杜肯大学</a></td>			<td><a  href='http://www.qianmu.org/丹佛大学' target='_blank'>丹佛大学</a></td>		</tr>		<tr>			<td><a  href='http://www.qianmu.org/乔治梅森大学' target='_blank'>乔治梅森大学</a></td>			<td><a  href='http://www.qianmu.org/宾夕法尼亚大学' target='_blank'>宾夕法尼亚大学</a></td>			<td>&nbsp;</td>		</tr>	</tbody></table><p><strong>文理学院（非完全列表）：</strong></p><table border="1px">	<tbody>		<tr>			<td><a  href='http://www.qianmu.org/斯克利普斯学院' target='_blank'>斯克利普斯学院</a></td>			<td><a  href='http://www.qianmu.org/巴克内尔大学' target='_blank'>巴克内尔大学</a></td>			<td><a  href='http://www.qianmu.org/狄金森学院' target='_blank'>狄金森学院</a></td>		</tr>		<tr>			<td><a  href='http://www.qianmu.org/斯基德莫尔学院' target='_blank'>斯基德莫尔学院</a></td>			<td><a  href='http://www.qianmu.org/曼荷莲女子学院' target='_blank'>曼荷莲女子学院</a></td>			<td><a  href='http://www.qianmu.org/康涅狄格学院' target='_blank'>康涅狄格学院</a></td>		</tr>		<tr>			<td><a  href='http://www.qianmu.org/葛底斯堡学院' target='_blank'>葛底斯堡学院</a></td>			<td><a  href='http://www.qianmu.org/维斯理学院' target='_blank'>维斯理学院</a></td>			<td><a  href='http://www.qianmu.org/波莫纳学院' target='_blank'>波莫纳学院</a></td>		</tr>		<tr>			<td><a  href='http://www.qianmu.org/卡尔顿学院' target='_blank'>卡尔顿学院</a></td>			<td>克莱蒙特&middot;麦肯纳学院</td>			<td><a  href='http://www.qianmu.org/卫斯理大学' target='_blank'>卫斯理大学</a></td>		</tr>		<tr>			<td><a  href='http://www.qianmu.org/科尔盖特大学' target='_blank'>科尔盖特大学</a></td>			<td>&nbsp;</td>			<td>&nbsp;</td>		</tr>	</tbody></table><h3>研究生</h3><p><strong>非完全列表：</strong></p><table border="1px">	<tbody>		<tr>			<td><a  href='http://www.qianmu.org/佐治亚理工学院' target='_blank'>佐治亚理工学院</a></td>			<td><a  href='http://www.qianmu.org/弗吉尼亚大学' target='_blank'>弗吉尼亚大学</a></td>			<td><a  href='http://www.qianmu.org/加州大学圣塔芭芭拉分校' target='_blank'>加州大学圣塔芭芭拉分校</a></td>		</tr>		<tr>			<td><a  href='http://www.qianmu.org/加州大学圣地亚哥分校' target='_blank'>加州大学圣地亚哥分校</a></td>			<td><a  href='http://www.qianmu.org/佛罗里达大学' target='_blank'>佛罗里达大学</a></td>			<td><a  href='http://www.qianmu.org/乔治梅森大学' target='_blank'>乔治梅森大学</a></td>		</tr>		<tr>			<td><a  href='http://www.qianmu.org/薛顿贺尔大学' target='_blank'>薛顿贺尔大学</a></td>			<td><a  href='http://www.qianmu.org/弗吉尼亚理工学院' target='_blank'>弗吉尼亚理工学院</a></td>			<td><a  href='http://www.qianmu.org/纽约市立学院' target='_blank'>纽约市立学院</a></td>		</tr>		<tr>			<td><a  href='http://www.qianmu.org/贝勒大学' target='_blank'>贝勒大学</a></td>			<td><a  href='http://www.qianmu.org/德州农工大学' target='_blank'>德州农工大学</a></td>			<td><a  href='http://www.qianmu.org/约翰霍普金斯大学' target='_blank'>约翰霍普金斯大学</a></td>		</tr>		<tr>			<td><a  href='http://www.qianmu.org/波士顿大学' target='_blank'>波士顿大学</a></td>			<td><a  href='http://www.qianmu.org/乔治华盛顿大学' target='_blank'>乔治华盛顿大学</a></td>			<td><a  href='http://www.qianmu.org/加州大学河滨分校' target='_blank'>加州大学河滨分校</a></td>		</tr>		<tr>			<td><a  href='http://www.qianmu.org/亚利桑那大学' target='_blank'>亚利桑那大学</a></td>			<td><a  href='http://www.qianmu.org/佩伯代因大学' target='_blank'>佩伯代因大学</a></td>			<td><a  href='http://www.qianmu.org/马凯特大学' target='_blank'>马凯特大学</a></td>		</tr>		<tr>			<td><a  href='http://www.qianmu.org/芝加哥大学' target='_blank'>芝加哥大学</a></td>			<td><a  href='http://www.qianmu.org/艾茉莉大学' target='_blank'>艾茉莉大学</a></td>			<td><a  href='http://www.qianmu.org/莱斯大学' target='_blank'>莱斯大学</a></td>		</tr>		<tr>			<td><a  href='http://www.qianmu.org/波士顿学院' target='_blank'>波士顿学院</a></td>			<td><a  href='http://www.qianmu.org/圣母大学' target='_blank'>圣母大学</a></td>			<td><a  href='http://www.qianmu.org/范德堡大学' target='_blank'>范德堡大学</a></td>		</tr>		<tr>			<td><a  href='http://www.qianmu.org/南加州大学' target='_blank'>南加州大学</a></td>			<td><a  href='http://www.qianmu.org/凯斯西储大学' target='_blank'>凯斯西储大学</a></td>			<td><a  href='http://www.qianmu.org/迈阿密大学' target='_blank'>迈阿密大学</a></td>		</tr>		<tr>			<td><a  href='http://www.qianmu.org/克雷顿大学' target='_blank'>克雷顿大学</a></td>			<td><a  href='http://www.qianmu.org/圣地亚哥大学' target='_blank'>圣地亚哥大学</a></td>			<td><a  href='http://www.qianmu.org/美利坚大学' target='_blank'>美利坚大学</a></td>		</tr>	</tbody></table><p>&nbsp;</p><p>&nbsp;</p></div>
+					
+	           </div>
+	           <div id="authorTrueName" style="float: right;"></div><br>
+				
+	           <div class="col-md-12">
+	           		<div id="cmt" style="position: relative;"><a name="comments" style="margin-top:150px;"></a>
+		           			<div id="lastEditTime" style="position: absolute;top: 18px;right: 10px;">2015-07-06</div>
+		           			<div style="position: absolute;top: 18px;right: 100px;">最后修改时间：</div>
+	           		</div>
+	           </div>
+			  </div>
+              </div>
+            </div>
+            <!-- /.row -->
+          </div>
+        </div>
+      </div>
+      <!-- /.row -->
+    </div>
+  </div>
+</div>
+
+
+<script type="text/javascript">
+	var ctx= '',uId='',vl='', wsip = 'ws://www.qianmu.org:8080/',ve='';
+	var vipendtime="";
+	var et='';
+	var b_name = navigator.appName; 
+	var b_version = navigator.appVersion; 
+	var version = b_version.split(";"); 
+	var trim_Version=version[1].replace(/[ ]/g,"");
+	if (b_name == "Microsoft Internet Explorer") { 
+
+	if (trim_Version == "MSIE7.0" || trim_Version == "MSIE6.0" ||trim_Version == "MSIE8.0") { 
+		alert("IE浏览器版本过低，请到指定网站去下载相关版本"); 
+	 		window.location.href="http://jiaoxueyun.com/download.jsp"; 
+		} 
+	} 
+</script>
+<script src="/r/plugins/bower_components/jquery/dist/jquery.min.js"></script>
+<script src="/r/release/js/all.js?v=1.2"></script>
+<script type='text/javascript'>
+    (function(m, ei, q, i, a, j, s) {
+        m[i] = m[i] || function() {
+            (m[i].a = m[i].a || []).push(arguments)
+        };
+        j = ei.createElement(q),
+            s = ei.getElementsByTagName(q)[0];
+        j.async = true;
+        j.charset = 'UTF-8';
+        j.src = 'https://static.meiqia.com/dist/meiqia.js?_=t';
+        s.parentNode.insertBefore(j, s);
+    })(window, document, 'script', '_MEIQIA');
+    _MEIQIA('entId', 99735);
+</script>
+ 
+ 
+<script type="text/javascript">
+function inadd(){
+	 var incontent = $("#intext").val();
+	 var inpid = $("#inpid").val();
+	 var itemId=258;
+	 
+	 $.ajax({
+			url:ctx+"/addComment",
+			data:{itemId:itemId,content:incontent,type:'item',pid:inpid},
+			dataType:"json",
+			type:"post",
+			success:function(resp){
+				if(resp.success){
+					$("#pl").val(resp.msg);
+					location.reload();
+				}else{
+					if("needlogin"==resp.status){
+						$.fn.loginShow();
+					}else{
+						$.fn.notify("温馨提示",resp.msg);
+					}
+				}
+			}
+		});
+}
+
+var itemId = '258' ;
+var editLevel  = '';
+if(itemId==''){
+	itemId=2006;
+}
+var needlogin = '1';
+	var needFill = '0';
+ 	var ads = '';  
+var needpay = '0';
+var vipnotice = '' ;
+if(vl=='0'){
+	
+}
+$(document).ready(function(){
+	if(needlogin=='1'){
+		location.href = "/loginView";
+	}
+	console.log(vipnotice);
+	if(uId!=''&&vipnotice>0&&vipnotice<3){
+		 swal({   
+	           title: "您的VIP即将到期",   
+	           text: "到期时间"+vipendtime,   
+	           type: "warning",   
+	           showCancelButton: true,   
+	           confirmButtonColor: "#DD6B55",   
+	           confirmButtonText: "购买VIP", 
+	           cancelButtonText:'我知道了',
+	           closeOnConfirm: true 
+	       }, function(){   
+	           location.href=ctx+"/zone/vippay2?vipRange=12";
+	       });
+	}
+	  
+	  /* if(ads=='0'){
+			var fillContent = new Ads({
+				closeClick:true,
+				render : function() {
+					return $.ajax({
+						url : ctx + "/getAds",
+						async : false,
+						dataType : 'text'
+					}).responseText;
+				}
+			});
+			fillContent.show();
+			$(document).scroll(function() {
+				fillContent.reposition();
+			});
+		}  */
+});
+</script>
+<script type="text/javascript">
+//反馈纠错
+$(document).ready(function(){
+	//$.fn.addCmt();
+	var itemId=258;
+  	$("#cmt").comments({
+  		url:ctx+'/listComment',
+  		param:{itemId:itemId,type:'item'},
+  		total:"commentCount",
+  		submit:function(opts){
+  			var content = opts.content;
+  			var pid = opts.pid;
+  			if(content==""&&content.trim()==""){
+  				$.fn.notify("温馨提示","请输入评论内容");
+  				return ;
+  			}
+  			$.ajax({
+  				url:ctx+"/addComment",
+  				data:{itemId:itemId,content:content,type:'item',pid:pid},
+  				dataType:"json",
+  				type:"post",
+  				success:function(resp){
+  					if(resp.success){
+  						location.reload();
+  					}else{
+  						if("needlogin"==resp.status){
+  							$.fn.loginShow();
+  						}else{
+  							$.fn.notify("温馨提示",resp.msg);
+  						}
+  					}
+  				}
+  			});
+  		}
+  	});
+});
+
+</script>
+<script type="text/javascript" src="/static/standard/ckeditor/ckeditor.js"></script>
+<script src="/static/standard/ckeditor/adapters/jquery.js"></script> 
+<script src="/r/plugins/bower_components/bootstrap-treeview-master/dist/bootstrap-treeview.min.js"></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/js/wiki.js?v=1.2"></script>
+</body>
+</html>

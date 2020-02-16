@@ -1,0 +1,5 @@
+基础作业：
+1. 使用selenium爬取京东、去哪儿网的信息
+2. 在ubuntu中安装docker
+
+

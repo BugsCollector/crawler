@@ -1,0 +1,433 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>三一学院-迁木网</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="keywords"  content="三一学院" />
+<meta name="description"  id="description"  content="三一学院:三一学院（Trinity College）成立于1823年，位于美国东部康涅狄格州哈特福德市，开设有本科、硕士两种学位项目。三一学院是一所美国著名的小型私立文理学院，素有“小常春藤”之称。" />
+
+<link rel="stylesheet" type="text/css" href="/r/release/css/all.min.css?v=1.2">
+<!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+<link rel="icon" type="image/png" sizes="16x16" href="/r/plugins/images/logo.ico"> 
+
+
+<style>
+#tree>ul>li{font-size:15px;}
+.container-fluid{padding-left:0px;}
+</style>
+</head>
+<body class="fix-header fix-sidebar"> 
+<script type="text/javascript">
+document.body.oncopy = function () { 
+ setTimeout( function () { 
+	 if(document.all){ 
+		 var text = clipboardData.getData("text");
+		  if (text) { 
+		   text = text + "\r\n文章来自: 迁木网(http://www.qianmu.org)  详文参考："+location.href; 
+		   clipboardData.setData("text", text);
+		  } 
+		}else{ 
+		 }
+    }, 100 ) 
+}
+
+</script>
+	 <div class="preloader">
+  	<div class="cssload-speeding-wheel"></div>
+    </div>
+<div id="wrapper">
+   
+<nav class="navbar navbar-default navbar-static-top m-b-0">
+	<div class="navbar-header">
+		<a class="navbar-toggle hidden-sm hidden-md hidden-lg "
+			href="javascript:void(0)" data-toggle="collapse"
+			data-target=".navbar-collapse"><i class="ti-menu"></i></a>
+		<div class="top-left-part">
+			<a class="logo" href="/"><b> <img
+					src="/r/plugins/images/lo.png" alt="迁木网" title="迁木网"
+					class="dark-logo" style="padding:10px;" /><img
+					src="/r/plugins/images/lo.png" title="迁木网" alt="迁木网"
+					class="light-logo" style="padding:10px;" /></b> <span class="hidden-xs"><img
+					src="/r/plugins/images/logo22.png" title="迁木网" alt="迁木网"
+					class="dark-logo" /><img src="/r/plugins/images/logo22.png"
+					title="迁木网" alt="迁木网" class="light-logo" /></span></a>
+		</div>
+		<ul class="nav navbar-top-links navbar-left hidden-xs">
+			<li><a href="javascript:void(0)"
+				class="open-close hidden-xs waves-effect waves-light"><i
+					class="icon-arrow-left-circle ti-menu"></i></a></li>
+			<li  >
+				<form role="search" class="app-search hidden-xs" action="/q"
+					method="get">
+					<input type="text" placeholder="学校、问题搜一下..." q class="form-control"
+						name="title" style="min-width:300px;"> <a href="#"><i
+						class="fa fa-search search"></i></a>
+				</form>
+			</li>
+			<li >
+				<a   href="/mall" ><i class="fa fa-shopping-cart"></i>&nbsp;留学商城</a>
+			</li>
+		</ul>
+		<ul class="nav navbar-top-links navbar-right pull-right">
+			<li pub>
+				<a id="navfb" href="javascript:void(0)" >发帖</a>
+			</li>
+			
+			
+			
+			<li class="dropdown" chat><a  href="/chat?tid=38"><i class="ti-email"></i></a>
+			</li>
+			<li class="dropdown hide" msg><a
+				class="dropdown-toggle waves-effect waves-light"
+				data-toggle="dropdown" href="#"><i class="icon-volume-2"></i>
+					<div class="notify"></div> </a>
+				<ul
+					class="dropdown-menu dropdown-cart dropdown-tasks animated bounceInDown">
+					<li><a class="text-center" href="/forum"><strong>查看全部</strong>
+							<i class="fa fa-angle-right"></i> </a></li>
+				</ul></li>
+			<li class="dropdown" userArea></li>
+			<li class="right-side-toggle"><a
+				class="waves-effect waves-light" href="javascript:void(0)"><i
+					class="ti-settings"></i></a></li>
+		</ul>
+	</div>
+</nav>
+
+<div id="myModalnav" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+		<div class="modal-dialog" style="width: 700px">
+			<div class="modal-content" style="margin-top: 100px;">
+				<div class="modal-body modal-body-alert" >
+						<div class="row" >
+			        		<div class="row"  style="text-align: center;margin-left: 5%;width: 89%;height: 60px;" >
+			        			<div style="text-align: center;"><h1 class="news-title"><a href="/addForumView" class="btn btn-block btn-info" style="font-size: 25px;" target="_blank">发表主题</a></h1></div>
+			        		</div>
+							<div class="row" style="text-align: center;margin-left: 5%;width: 89%;margin-top:10px;">
+									<ul class="bs-glyphicons">
+										<li style="width: 33%">
+										<a href="/estimate" target="_blank"><span class="glyphicon glyphicon-paperclip " aria-hidden="true"></span>
+											<span class="glyphicon-class">求定位</span></a></li>
+										<li style="width: 33%"><a href="/addOffer" target="_blank"><span class="glyphicon glyphicon-leaf" aria-hidden="true"></span> <span class="glyphicon-class">报Offer</span>
+										</a>
+										</li>
+										<li style="width: 33%"><a href="/chat?tid=38" target="_blank"><span class="glyphicon glyphicon-font" aria-hidden="true"></span> <span class="glyphicon-class">咨询版主</span>
+										</a>
+										</li>
+									</ul>
+							</div>
+			        	</div>
+				</div>
+			</div>
+		</div>
+</div> 
+   
+<div class="navbar-default sidebar" role="navigation">
+    <div class="sidebar-nav navbar-collapse slimscrollsidebar">
+      <ul class="nav" id="side-menu">
+        <li class="m-t-10"><a href="/forum" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="-"></i> <span class="hide-menu">互动 <span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+            <li><a href="/forum" class="">在线论坛</a></li>
+            <li><a href="/forum?type=2" class="">Offer榜</a></li>
+            <li><a href="/askshow" class="">小秘回复墙</a></li>
+            
+          </ul>
+        </li>
+        <li><a href="/ranking/1528.htm" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="+"></i> <span class="hide-menu">排名 <span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+            <li><a href="/ranking/1528.htm">QS世界排名</a></li>
+            <li><a href="/ranking/905.htm">USNEWS排名</a></li>
+            <li><a href="/ranking/1209.htm">PayScale工资排名</a></li>
+            <li><a href="/ranking/904.htm">上交大排名</a></li>
+          </ul>
+        </li>
+        <li><a href="/美国本科研究生选校" class="waves-effect"><i class="linea-icon linea-basic fa-fw" data-icon=">"></i> <span class="hide-menu">选校<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level collapse in">
+            <li><a href="/美国本科研究生选校">选校</a></li>
+            <li><a href="/offer">案例库</a></li>
+          </ul>
+        </li>
+        <li><a href="/分类索引" class="waves-effect active"><i class="linea-icon linea-basic fa-fw" data-icon="m"></i> <span class="hide-menu">词条<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level collapse in">
+            <li><a href="/分类索引">百科</a></li>
+            <li><a href="http://www.qianmu.org/%E7%B2%BE%E5%8D%8E%E6%94%BB%E7%95%A5%E7%B4%A2%E5%BC%95">精华索引</a></li>
+            <li><a href="/留学中介机构列表">中介</a></li>
+            <li><a href="/下载中心">下载中心</a></li>
+          </ul>
+        </li>
+        <li><a href="/mall" class="waves-effect" ><i class="linea-icon linea-basic fa-fw" data-icon="V"></i> <span class="hide-menu">商城<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+          	 <li><a href="/mall?c=1">美国申请</a></li>
+          	 <li><a href="/mall?c=2">英国留学</a></li>
+             <li><a href="/mall?c=8">文书服务</a></li>
+          </ul>
+        </li>
+		 <li style="display:none;"><a href="/article" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="a"></i><span class="hide-menu">新闻<span class="fa arrow"></span></span></a>
+				<ul class="nav nav-second-level   ">
+					<li><a href="/article">资讯</a></li>
+				</ul></li>
+			<li class="nav-small-cap m-t-10" style="text-align:center;border-bottom: 1px solid #ddd;"></li>
+			
+      </ul>
+    </div>
+  </div> 
+   <div class="right-sidebar">
+        <div class="slimscrollright">
+          <div class="rpanel-title">个性化设置<span><i class="ti-close right-side-toggle"></i></span> </div>
+          <div class="r-panel-body">
+            <ul>
+              <li><b>显示设置</b></li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkbox1" type="checkbox" class="fxhdr">
+                  <label for="checkbox1">固定头部导航</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-warning">
+                  <input id="checkbox2" type="checkbox" checked="" class="fxsdr">
+                  <label for="checkbox2" >固定左侧导航</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-success">
+                  <input id="checkbox4" type="checkbox" class="open-close">
+                  <label for="checkbox4" >切换工具栏目</label>
+                </div>
+              </li>
+            </ul>
+            <ul>
+              <li><b>消息设置</b></li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkboxmsg" type="checkbox" class="fxhdr">
+                  <label for="checkboxmsg">不接受网页通知</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkboxmail" type="checkbox" class="fxhdr">
+                  <label for="checkboxmail">不接受邮件通知</label>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="share-tools" >
+         <ul>
+         	<li style="font-size: 14px;" id="fk"><a  href="#comments">评论反馈</a></li>
+         	<li id="sharebtn" style="font-size: 14px;padding-left: 12px;" ><a href="javascript:" >我要分享</a></a>
+	         	<ul style="display:none; height:50px;position: absolute;width:180px;right:50px;margin-top:-45px;" id="sharelist" >
+	               <li style="padding-left: 15px;" class="inli"><a href="javascript:shareToWB();" title="分享至微博" >微博</a></li>
+	               <li style="padding-left: 15px;" class="weixin-icon inli"><a href="javascript:" title="分享至微信" >微信</a></li>
+	               <li class="inli" ><a href="javascript:shareToQQ();"  title="分享至QQ空间">QQ空间</a></li>
+	            </ul>
+         	</li>
+         	<li class="back_top" id="back-to-top" style="display: none;" ></li>
+         </ul>
+	 </div>
+ 
+   <div id="page-wrapper">
+   <div class="container-fluid">
+      <!-- row -->
+      <div class="row">
+        <!-- Left sidebar -->
+        <div class="col-md-12">
+          <div class="white-box" style="padding-left:0px;">
+            <!-- row -->
+            <div class="row">
+              <div class="col-lg-2 col-md-3  col-sm-12 col-xs-12 " style="overflow:auto;min-height:30px;display:block;" >
+                <div class='treeDiv'>
+                <div id="treeDiv" ><ul id="tree" class="ztree"></ul></div>
+                </div>
+              </div>
+              
+              <div style="" class="col-lg-10 col-md-9 col-sm-12 col-xs-12 mail_listing">
+               <div class="row" >
+		     <input type="hidden" id="type"/>
+			   <div class="wikiContent" id="wikiContent"  >
+			        <h1 class="wikiTitle">三一学院 </h1> 
+					<div class="infobox"><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:130px">			<p>排名</p>			</td>			<td style="width:277px">			<p>文理第46*(2)</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>国家</p>			</td>			<td style="width:277px">			<p>美国</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>州省</p>			</td>			<td style="width:277px">			<p><a href="http://www.qianmu.org/康涅狄格州" target="_blank">康涅狄格州</a></p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>城市</p>			</td>			<td style="width:277px">			<p><a href="http://www.qianmu.org/哈特福德（康涅狄格州）" target="_blank">哈特福德</a></p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>校训</p>			</td>			<td style="width:277px">			<p>Pro Ecclesia Et Patria (Latin)*(1)</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>英译</p>			</td>			<td style="width:277px">			<p>For Church and Country</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>汉译</p>			</td>			<td style="width:277px">			<p>为了教会和祖国！</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>性质</p>			</td>			<td style="width:277px">			<p>私立，男女合校*(3)</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>成立年份</p>			</td>			<td style="width:277px">			<p>1823*(1)</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>宗教信仰</p>			</td>			<td style="width:277px">			<p>无</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>校园</p>			</td>			<td style="width:277px">			<p>0.40Km<sup>2</sup>，市区*(2)</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>学生人数</p>			</td>			<td style="width:277px">			<p>-*(3)</p>			</td>		</tr>		<tr>			<td style="width:130px">本科生人数</td>			<td style="width:277px">			<p>2,289</p>			</td>		</tr>		<tr>			<td style="width:130px">研究生人数</td>			<td style="width:277px">			<p>-</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>师生比</p>			</td>			<td style="width:277px">			<p>-*(3)</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>国际学生比例</p>			</td>			<td style="width:277px">			<p>10%*(4)</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>学校分类</p>			</td>			<td style="width:277px">			<p><a href="http://www.qianmu.org/文理学院" target="_blank">文理学院</a></p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>学校集团</p>			</td>			<td style="width:277px">			<p><a href="http://www.qianmu.org/小常春藤" target="_blank">小常春藤</a>*(1)</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>认证机构</p>			</td>			<td style="width:277px">			<p>新<a href="http://www.qianmu.org/英格兰" target="_blank">英格兰</a>学院及学校协会（NEACS）*(3)</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>网址</p>			</td>			<td style="width:277px">			<p>www.trincoll.edu</p>			</td>		</tr>	</tbody></table></div>
+					<div id="content"><p>三一学院（Trinity College）位于美国东部<a href="http://www.qianmu.org/康涅狄格州" target="_blank">康涅狄格州</a><a href="http://www.qianmu.org/哈特福德（康涅狄格州）" target="_blank">哈特福德</a>市，成立于1823年5月，开设有本科、硕士两种学位项目。</p><p>三一学院是一所美国著名的小型私立<a href="http://www.qianmu.org/文理学院" target="_blank">文理学院</a>，素有&ldquo;<a href="http://www.qianmu.org/小常春藤" target="_blank">小常春藤</a>&rdquo;之称，也是康涅狄格州继<a href="http://www.qianmu.org/耶鲁大学" target="_blank">耶鲁大学</a>之后成立最早的学院。该校自1969年开始男女合校，在校学生人数约2,300。*(1)</p><h2>申请点评</h2><p><strong>好评项：</strong></p><p>1.The people and the community</p><p>2.Professors who are open-minded and approachable</p><p>3.The five-college consortium</p><p>4.Beautiful weather</p><p>5.Small class sizes</p><p>6.The dining hall/food</p><p>7.Academics</p><p>8.Students actively participate in the governance of the school.</p><p>9.Relaxed atmosphere</p><p>10.Freedom in an accepting environment</p><p><strong>差评项：</strong></p><p>1.Claremont is isolated and can be boring.</p><p>2.Lack of social class diversity</p><p>3.Construction</p><p>4.Unfair reputation as hippies-not necessarily true</p><p>5.LA public transit is poor.</p><p>6.Lack of school athletic spirit</p><p>7.No business-related courses</p><p>8.Small department sizes (not enough faculty members in each department)</p><p>9.Student center has bad hours and needs</p><p>10.Lack of food places on campus*(5)</p><p>参考资料：</p><p>(1)&nbsp;<a href="http://www.qianmu.org/redirect?code=1rdft_1Ck3Fezd4zBjfF5SCC6ZyqTk3Caw7ouKvJYZ2eVQFcJmAHQPTCRS_mobvD6OpCd-qsl52M_ruSumjWKPzHhJbXtjCZ-LuEJhJP-VGSYd7FP5Z9NK8" target="_blank">Trinity College (Connecticut)</a>&nbsp;Wikipedia</p><p>(2)&nbsp;<a href="http://www.qianmu.org/redirect?code=Lr8sWS2YkmG0lTvGgs4Zs_Ydq5Nm9XC3o8XQEB1pYIkn_SMrZPxxiRWS0FUShcrtUrp3iyli3OnF3Cg5c9YsQ3_9GaNrWn_jsD2jgHaUyVwqukYfC-t0YxCE_mLO8K79QmCdcC3Gxlf_9OLQjE0QPd2C" target="_blank">Trinity College</a>&nbsp;USNEWS</p><p>(3)&nbsp;<a href="http://www.qianmu.org/redirect?code=9rpcSXLPwYZ8xpyZuuuuuHi3HLo1ILmCvCawIQ0l3W_ZJqY46CJjPV4UR56W3TtzxZtGuzQfpxpfJvVMYKX0l7WOZbCyZ3dlAM6ivPaQob0h9bPzTiBHrKSCvlqeyfsgzI-FfDs8ao" target="_blank">Trinity College</a>&nbsp;College Board</p><p>(4)&nbsp;<a href="http://www.qianmu.org/redirect?code=MrO2caiwkxAv4jdslllllHYwNbk7UeE3FfFfjgx7Gt1oCnkcCgjqSq6qS71oCaZ3Guyk3fL5vS45jxLlvfc79sLIvxrl9VN_wd1P3VyP-dR8shID1nuFAlZeiYCYzY0k" target="_blank">Trinity College</a>&nbsp;Princeton Review</p><p>(5)&nbsp;<a href="http://www.qianmu.org/redirect?code=orDtO5cfw5T1UpIBwwwwwIwKteC3t7JNsqEGl4gHL083szoKLi_H9zEGlCSPHgMZu86tyTNQuXdzskH6xfq3sTNnsK4txTN_u8I2xKHP7C4txL" target="_blank">Trinity College</a>&nbsp;College Prowler</p><p>&nbsp;</p><h1>本科申请</h1><p><strong>基本信息：</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:111px">			<p><a href="http://www.qianmu.org/USNEWS排名" target="_blank">USNEWS排名</a></p>			</td>			<td style="width:75px">			<p>文理第46</p>			</td>			<td style="width:95px">			<p>学费（/年）</p>			</td>			<td style="width:94px">			<p>$52,760</p>			</td>			<td style="width:132px">			<p>申请截止日期</p>			</td>			<td style="width:94px">			<p>1月1日</p>			</td>		</tr>		<tr>			<td style="width:111px">			<p><a href="http://www.qianmu.org/TOEFL" target="_blank">TOEFL</a>要求</p>			</td>			<td style="width:75px">			<p>Required</p>			</td>			<td style="width:95px">			<p>住宿费（/年）</p>			</td>			<td style="width:94px">			<p>$13,680</p>			</td>			<td style="width:132px">			<p>开学时间</p>			</td>			<td style="width:94px">			<p>每年8月-9月</p>			</td>		</tr>		<tr>			<td style="width:111px">			<p><a href="http://www.qianmu.org/IELTS" target="_blank">IELTS</a>要求</p>			</td>			<td style="width:75px">			<p>Accepted</p>			</td>			<td style="width:95px">			<p>申请费</p>			</td>			<td style="width:94px">			<p>$60</p>			</td>			<td style="width:132px">			<p>可申请学期</p>			</td>			<td style="width:94px">			<p>秋季</p>			</td>		</tr>		<tr>			<td style="width:111px">			<p><a href="http://www.qianmu.org/SAT" target="_blank">SAT</a>均分</p>			</td>			<td style="width:75px">			<p>1790-2070</p>			</td>			<td style="width:95px">			<p>申请人数</p>			</td>			<td style="width:94px">			<p>7,569</p>			</td>			<td style="width:132px">			<p><a href="http://www.qianmu.org/奖学金" target="_blank">奖学金</a>形式</p>			</td>			<td style="width:94px">			<p>Need-aware、<a href="http://www.qianmu.org/Merit-based" target="_blank">Merit-based</a></p>			</td>		</tr>		<tr>			<td style="width:111px">			<p>平均<a href="http://www.qianmu.org/GPA" target="_blank">GPA</a></p>			</td>			<td style="width:75px">			<p>-</p>			</td>			<td style="width:95px">			<p>录取率</p>			</td>			<td style="width:94px">			<p>33%</p>			</td>			<td style="width:132px">			<p>是否提供<a href="http://www.qianmu.org/双录取" target="_blank">双录取</a></p>			</td>			<td style="width:94px">			<p>Yes</p>			</td>		</tr>	</tbody></table><p>*(1)(2)(3)(4)(5)(6)</p><p>注：</p><p>(1) 三一学院要求递交TOEFL考试成绩，未设定最低分数要求，入学学生的TOEFL平均分为105；IELTS分数要求未详。</p><p>(2) 三一学院另有<a href="http://www.qianmu.org/Early Decision" target="_blank">ED</a>申请方式，11月15日申请截止</p><h2>教学质量</h2><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td>			<p>本科生人数</p>			</td>			<td>			<p>2,289</p>			</td>			<td>			<p>小班比例(&lt;20)</p>			</td>			<td>			<p>73.1%</p>			</td>			<td>			<p><a href="http://www.qianmu.org/学期制度" target="_blank">学期制度</a></p>			</td>			<td>			<p>Semester</p>			</td>		</tr>		<tr>			<td>			<p>研究生人数</p>			</td>			<td>			<p>-</p>			</td>			<td>			<p>中班比例(20-49)</p>			</td>			<td>			<p>26%</p>			</td>			<td>			<p>教授水平满意度</p>			</td>			<td>			<p>100%</p>			</td>		</tr>		<tr>			<td>			<p>国际学生比例</p>			</td>			<td>			<p>10%</p>			</td>			<td>			<p>大班比例(&gt;50)</p>			</td>			<td>			<p>0.9%</p>			</td>			<td>			<p>就业实习满意度</p>			</td>			<td>			<p>63%</p>			</td>		</tr>		<tr>			<td>			<p>师生比</p>			</td>			<td>			<p>-</p>			</td>			<td>			<p>六年毕业率</p>			</td>			<td>			<p>84%</p>			</td>			<td>			<p>学生满意度</p>			</td>			<td>			<p>-</p>			</td>		</tr>		<tr>			<td>			<p>四年毕业率</p>			</td>			<td>			<p>81%</p>			</td>			<td>			<p>新生保持率</p>			</td>			<td>			<p>89%</p>			</td>			<td>			<p>教授博士学位比率</p>			</td>			<td>			<p>94%</p>			</td>		</tr>		<tr>			<td>毕业2年平均薪水</td>			<td>$45,100</td>			<td>就业率</td>			<td>84%</td>			<td>校友网络认可度</td>			<td>90%</td>		</tr>	</tbody></table><p><strong>校园安全</strong></p><table border="0" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:143px">校园安全事件</td>			<td style="width:403px">Criminal Offenses -- On-Campus&nbsp;</td>			<td style="width:103px">2012</td>			<td style="width:100px">2013</td>			<td style="width:97px">2014</td>		</tr>		<tr>			<td>谋杀</td>			<td>Murder/Non-negligent manslaughter</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>过失杀人</td>			<td>Negligent manslaughter</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>强奸</td>			<td>Rape</td>			<td>			<p>N/A</p>			</td>			<td>			<p>N/A</p>			</td>			<td>			<p>12</p>			</td>		</tr>		<tr>			<td>乱伦</td>			<td>Incest</td>			<td>			<p>N/A</p>			</td>			<td>			<p>N/A</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>强奸幼童罪</td>			<td>Statutory Rape</td>			<td>			<p>N/A</p>			</td>			<td>			<p>N/A</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>猥亵</td>			<td>Fondling</td>			<td>			<p>N/A</p>			</td>			<td>			<p>N/A</p>			</td>			<td>			<p>9</p>			</td>		</tr>		<tr>			<td>性侵犯-强迫</td>			<td>Sex offenses - Forcible</td>			<td>			<p>7</p>			</td>			<td>			<p>21</p>			</td>			<td>			<p>N/A</p>			</td>		</tr>		<tr>			<td>性侵犯-非强迫</td>			<td>Sex offenses - non-forcible (incest and statutory rape only)</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>N/A</p>			</td>		</tr>		<tr>			<td>抢劫</td>			<td>Robbery</td>			<td>			<p>1</p>			</td>			<td>			<p>3</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>暴力袭击</td>			<td>Aggravated assault</td>			<td>			<p>2</p>			</td>			<td>			<p>1</p>			</td>			<td>			<p>1</p>			</td>		</tr>		<tr>			<td>盗窃</td>			<td>Burglary</td>			<td>			<p>8</p>			</td>			<td>			<p>5</p>			</td>			<td>			<p>11</p>			</td>		</tr>		<tr>			<td>汽车盗窃</td>			<td>Motor vehicle theft</td>			<td>			<p>2</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>纵火</td>			<td>Arson</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>		</tr>	</tbody></table><p>*(1)</p><h2>申请说明</h2><p><strong>SAT/ACT</strong></p><p>三一学院要求所有申请者递交SAT或ACT考试成绩，申请者必须递交以下考试中其中一项：</p><p>1. 两门SAT II成绩；</p><p>2. SAT I阅读成绩；</p><p>3. ACT，建议递交写作成绩。*(6)</p><p>三一学院建议申请者递交所有参加过的SAT/ACT考试成绩，承诺将会从申请者递交的所有考试中选取分数最高的一次。2015年秋季三一学院入学新生的SAT与ACT的单项均分如下：</p><ul>	<li>SAT阅读均分：540-670；SAT数学均分：570-700；SAT写作均分：550-680；编号3899；</li>	<li>ACT综合均分：26-31；编号0598</li></ul><p><strong>GPA与班级排名</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td colspan="2" style="width:51.8%">			<p>GPA</p>			</td>			<td colspan="2" style="width:48.2%">			<p>班级排名</p>			</td>		</tr>		<tr>			<td style="width:27.7%">			<p>分段</p>			</td>			<td style="width:24.1%">			<p>占比</p>			</td>			<td style="width:24.1%">			<p>分段</p>			</td>			<td style="width:24.1%">			<p>占比</p>			</td>		</tr>		<tr>			<td style="width:27.7%">			<p>3.75以上</p>			</td>			<td style="width:24.1%">			<p>-</p>			</td>			<td style="width:24.1%">			<p>TOP10%</p>			</td>			<td style="width:24.1%">			<p>43%</p>			</td>		</tr>		<tr>			<td style="width:27.7%">			<p>3.5-3.74</p>			</td>			<td style="width:24.1%">			<p>-</p>			</td>			<td style="width:24.1%">			<p>TOP25%</p>			</td>			<td style="width:24.1%">			<p>80%</p>			</td>		</tr>		<tr>			<td style="width:27.7%">			<p>3.25-3.49</p>			</td>			<td style="width:24.1%">			<p>-</p>			</td>			<td style="width:24.1%">			<p>TOP50%</p>			</td>			<td style="width:24.1%">			<p>97%</p>			</td>		</tr>		<tr>			<td style="width:27.7%">			<p>3.0-3.24</p>			</td>			<td style="width:24.1%">			<p>-</p>			</td>			<td style="width:24.1%">			<p>50%以下</p>			</td>			<td style="width:24.1%">			<p>3%</p>			</td>		</tr>		<tr>			<td style="width:27.7%">			<p>2.99以下</p>			</td>			<td style="width:24.1%">			<p>-</p>			</td>			<td style="width:24.1%">			<p>75%以下</p>			</td>			<td style="width:24.1%">			<p>-</p>			</td>		</tr>	</tbody></table><p><strong>AP/IB</strong></p><p>三一学院接受国际课程如<a href="http://www.qianmu.org/AP" target="_blank">AP</a>、<a href="http://www.qianmu.org/IB" target="_blank">IB</a>抵学分，一般AP课程考试成绩4分或5分，IB课程考试成绩5、6或7分即可抵学分。*(7)</p><p><strong>申请时间</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:18.66%">			<p>申请方式</p>			</td>			<td style="width:22.14%">			<p>申请截止日期</p>			</td>			<td style="width:30.14%">			<p>补充材料递交截止日期</p>			</td>			<td style="width:29.06%">			<p>公布录取通知日期</p>			</td>		</tr>		<tr>			<td style="width:18.66%">			<p>ED I</p>			</td>			<td style="width:22.14%">			<p>11月15日</p>			</td>			<td style="width:30.14%">			<p>11月15日</p>			</td>			<td style="width:29.06%">			<p>12月中旬</p>			</td>		</tr>		<tr>			<td style="width:18.66%">			<p>ED II</p>			</td>			<td style="width:22.14%">			<p>1月1日</p>			</td>			<td style="width:30.14%">			<p>1月1日</p>			</td>			<td style="width:29.06%">			<p>2月中旬</p>			</td>		</tr>		<tr>			<td style="width:18.66%">			<p><a href="http://www.qianmu.org/Regular Decision" target="_blank">RD</a></p>			</td>			<td style="width:22.14%">			<p>1月1日</p>			</td>			<td style="width:30.14%">			<p>1月15日</p>			</td>			<td style="width:29.06%">			<p>3月底</p>			</td>		</tr>	</tbody></table><p>*(6)</p><p><strong>申请材料</strong></p><p>三一学院有来自50个国家的约2,300名学生，其中有来自110名学生来自亚洲。该学院通过Common Application和Universal College Application系统进行申请，要求申请者递交以下<a href="http://www.qianmu.org/申请材料" target="_blank">申请材料</a>：</p><ul>	<li>申请表格；</li>	<li>申请费：$60；</li>	<li><a href="http://www.qianmu.org/推荐信" target="_blank">推荐信</a>：其中一封来自班主任，另外两封来自授课教师；</li>	<li>标准考试成绩：SAT或ACT成绩；</li>	<li>TOEFL/IELTS<a href="http://www.qianmu.org/成绩单" target="_blank">成绩单</a>。*(8)(9)</li></ul><p>注：</p><p>(1) 三一学院虽不强制要求国际学生参加<a href="http://www.qianmu.org/面试" target="_blank">面试</a>，但十分建议学生预约面试，中国学生可参加美国国际教育交流委员会组织的面试。*(10)</p><p>(2) <a href="http://www.qianmu.org/音乐" target="_blank">音乐</a>艺术类专业申请者还需要递交<a href="http://www.qianmu.org/个人作品" target="_blank">个人作品</a>等资料，具体要求请见外部链接。</p><p><strong>费用与奖学金</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:23.04%">			<p>支出项目</p>			</td>			<td style="width:55.76%">			<p>项目英文名</p>			</td>			<td style="width:21.18%">			<p>2016-2017学年费用</p>			</td>		</tr>		<tr>			<td style="width:23.04%">			<p>学费</p>			</td>			<td style="width:55.76%">			<p>Tuition and fees</p>			</td>			<td style="width:21.18%">			<p>$52,760</p>			</td>		</tr>		<tr>			<td style="width:23.04%">			<p>住宿费用</p>			</td>			<td style="width:55.76%">			<p>Room and board</p>			</td>			<td style="width:21.18%">			<p>$13,680</p>			</td>		</tr>		<tr>			<td style="width:23.04%">			<p>书本费</p>			</td>			<td style="width:55.76%">			<p>Books and supplies</p>			</td>			<td style="width:21.18%">			<p>$1,000</p>			</td>		</tr>		<tr>			<td style="width:23.04%">			<p>个人花费</p>			</td>			<td style="width:55.76%">			<p>Estimated personal expenses</p>			</td>			<td style="width:21.18%">			<p>$1,000</p>			</td>		</tr>		<tr>			<td style="width:23.04%">			<p>交通费</p>			</td>			<td style="width:55.76%">			<p>Transportation expenses</p>			</td>			<td style="width:21.18%">			<p>$500</p>			</td>		</tr>		<tr>			<td style="width:23.04%">			<p>合计</p>			</td>			<td style="width:55.76%">			<p>Estimated Total</p>			</td>			<td style="width:21.18%">			<p>$68,940</p>			</td>		</tr>	</tbody></table><p>三一学院向国际学生提供Need-aware和Merit-based奖学金，具体金额及覆盖率不详。*(2)</p><h2>转学申请</h2><p><strong>基本信息：</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:92px">			<p>TOEFL要求</p>			</td>			<td style="width:76px">			<p>Required</p>			</td>			<td style="width:104px">			<p>GPA要求</p>			</td>			<td style="width:104px">			<p>3.0</p>			</td>			<td style="width:123px">			<p>申请截止日期</p>			</td>			<td style="width:76px">			<p>4月1日</p>			</td>		</tr>		<tr>			<td style="width:92px">			<p>IELTS要求</p>			</td>			<td style="width:76px">			<p>Accepted</p>			</td>			<td style="width:104px">			<p>SAT要求</p>			</td>			<td style="width:104px">			<p>Not Required</p>			</td>			<td style="width:123px">			<p>开学时间</p>			</td>			<td style="width:76px">			<p>8月-9月</p>			</td>		</tr>		<tr>			<td style="width:92px">最高可转学分</td>			<td style="width:76px">18</td>			<td style="width:104px">最低学分要求</td>			<td style="width:104px">-</td>			<td style="width:123px">可申请学期</td>			<td style="width:76px">			<p>秋季、春季</p>			</td>		</tr>	</tbody></table><p>*(2)(12)(13)</p><p>注：</p><p>(1) 三一学院转学要求本科GPA不低于3.0；单门课程GPA要求1.8以上方可转学分</p><p>(2) 三一学院接受秋季和春季学期转学，截止日期分别为4月1日和11月1日。</p><p><strong>申请说明</strong></p><p>三一学院秋季和春季学期皆可申请转学，可入读大一、大二、大三其中的任何一个学期，该校通过Common Application申请，要求申请者递交的申请材料除上文中提到的本科申请材料外，还需递交大学<a href="http://www.qianmu.org/在读证明" target="_blank">在读证明</a>和课程描述。如申请者已修够8门课程的学分无需递交SAT或ACT成绩，一般大二的学生申请转学可满足上述要求。*(12)(13)</p><p>三一学院向国际学生提供<a href="http://www.qianmu.org/Need-blind" target="_blank">Need-blind</a>奖学金，秋季和春季学期奖学金申请截止日期分别为3月1日和11月15日。申请者需额外递交CSS表格、<a href="http://www.qianmu.org/资金证明" target="_blank">资金证明</a>表格和收入证明。*(14)(15)</p><h2>专业设置</h2><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:44.48%">			<p>专业名称</p>			</td>			<td style="width:55.52%">			<p>专业英文</p>			</td>		</tr>		<tr>			<td style="width:44.48%">			<p>美国研究</p>			</td>			<td style="width:55.52%">			<p>American Studies</p>			</td>		</tr>		<tr>			<td style="width:44.48%">			<p><a href="http://www.qianmu.org/人类学" target="_blank">人类学</a></p>			</td>			<td style="width:55.52%">			<p>Anthropology</p>			</td>		</tr>		<tr>			<td style="width:44.48%">			<p><a href="http://www.qianmu.org/艺术史" target="_blank">艺术史</a></p>			</td>			<td style="width:55.52%">			<p>Art <a href="http://www.qianmu.org/历史" target="_blank">History</a></p>			</td>		</tr>		<tr>			<td style="width:44.48%">			<p><a href="http://www.qianmu.org/生物化学" target="_blank">生物化学</a></p>			</td>			<td style="width:55.52%">			<p>Biochemistry</p>			</td>		</tr>		<tr>			<td style="width:44.48%">			<p>生物</p>			</td>			<td style="width:55.52%">			<p>Biology</p>			</td>		</tr>		<tr>			<td style="width:44.48%">			<p><a href="http://www.qianmu.org/化学" target="_blank">化学</a></p>			</td>			<td style="width:55.52%">			<p><a href="http://www.qianmu.org/化学" target="_blank">Chemistry</a></p>			</td>		</tr>		<tr>			<td style="width:44.48%">			<p><a href="http://www.qianmu.org/古典文学" target="_blank">古典文学</a>研究</p>			</td>			<td style="width:55.52%">			<p>Classical Studies</p>			</td>		</tr>		<tr>			<td style="width:44.48%">			<p><a href="http://www.qianmu.org/计算机科学" target="_blank">计算机科学</a></p>			</td>			<td style="width:55.52%">			<p><a href="http://www.qianmu.org/计算机科学" target="_blank">Computer Science</a></p>			</td>		</tr>		<tr>			<td style="width:44.48%">			<p><a href="http://www.qianmu.org/经济学" target="_blank">经济学</a></p>			</td>			<td style="width:55.52%">			<p><a href="http://www.qianmu.org/经济学" target="_blank">Economics</a></p>			</td>		</tr>		<tr>			<td style="width:44.48%">			<p>教育研究</p>			</td>			<td style="width:55.52%">			<p>​Educational Studies</p>			</td>		</tr>		<tr>			<td style="width:44.48%">			<p>工程学</p>			</td>			<td style="width:55.52%">			<p>Engineering</p>			</td>		</tr>		<tr>			<td style="width:44.48%">			<p><a href="http://www.qianmu.org/英语" target="_blank">英语</a></p>			</td>			<td style="width:55.52%">			<p>English</p>			</td>		</tr>		<tr>			<td style="width:44.48%">			<p><a href="http://www.qianmu.org/环境科学" target="_blank">环境科学</a></p>			</td>			<td style="width:55.52%">			<p>Environmental Science</p>			</td>		</tr>		<tr>			<td style="width:44.48%">			<p>法国研究</p>			</td>			<td style="width:55.52%">			<p>French Studies</p>			</td>		</tr>		<tr>			<td style="width:44.48%">			<p>德国研究</p>			</td>			<td style="width:55.52%">			<p>German Studies</p>			</td>		</tr>		<tr>			<td style="width:44.48%">			<p>西班牙研究</p>			</td>			<td style="width:55.52%">			<p>Hispanic Studies</p>			</td>		</tr>		<tr>			<td style="width:44.48%">			<p><a href="http://www.qianmu.org/历史" target="_blank">历史</a></p>			</td>			<td style="width:55.52%">			<p>History</p>			</td>		</tr>		<tr>			<td style="width:44.48%">			<p>交叉学科计算</p>			</td>			<td style="width:55.52%">			<p>Interdisciplinary Computing</p>			</td>		</tr>		<tr>			<td style="width:44.48%">			<p>国际问题研究</p>			</td>			<td style="width:55.52%">			<p>International Studies</p>			</td>		</tr>		<tr>			<td style="width:44.48%">			<p>意大利研究</p>			</td>			<td style="width:55.52%">			<p>Italian Studies</p>			</td>		</tr>		<tr>			<td style="width:44.48%">			<p><a href="http://www.qianmu.org/犹太研究" target="_blank">犹太研究</a></p>			</td>			<td style="width:55.52%">			<p>Jewish Studies</p>			</td>		</tr>		<tr>			<td style="width:44.48%">			<p>语言与文化研究（<a href="http://www.qianmu.org/阿拉伯语" target="_blank">阿拉伯语</a>、汉语、<a href="http://www.qianmu.org/希伯来语" target="_blank">希伯来语</a>、<a href="http://www.qianmu.org/日语" target="_blank">日语</a>）</p>			</td>			<td style="width:55.52%">			<p>Language and Culture Studies(Arabic,Chinese,Hebrew,Japanese)</p>			</td>		</tr>		<tr>			<td style="width:44.48%">			<p>数学</p>			</td>			<td style="width:55.52%">			<p><a href="http://www.qianmu.org/数学" target="_blank">Mathematics</a></p>			</td>		</tr>		<tr>			<td style="width:44.48%">			<p>音乐</p>			</td>			<td style="width:55.52%">			<p>Music</p>			</td>		</tr>		<tr>			<td style="width:44.48%">			<p>神经科学</p>			</td>			<td style="width:55.52%">			<p>Neuroscience</p>			</td>		</tr>		<tr>			<td style="width:44.48%">			<p><a href="http://www.qianmu.org/哲学" target="_blank">哲学</a></p>			</td>			<td style="width:55.52%">			<p>Philosophy</p>			</td>		</tr>		<tr>			<td style="width:44.48%">			<p><a href="http://www.qianmu.org/物理" target="_blank">物理</a></p>			</td>			<td style="width:55.52%">			<p><a href="http://www.qianmu.org/物理" target="_blank">Physics</a></p>			</td>		</tr>		<tr>			<td style="width:44.48%">			<p><a href="http://www.qianmu.org/政治学" target="_blank">政治学</a></p>			</td>			<td style="width:55.52%">			<p><a href="http://www.qianmu.org/政治学" target="_blank">Political Science</a></p>			</td>		</tr>		<tr>			<td style="width:44.48%">			<p><a href="http://www.qianmu.org/心理学" target="_blank">心理学</a></p>			</td>			<td style="width:55.52%">			<p><a href="http://www.qianmu.org/心理学" target="_blank">Psychology</a></p>			</td>		</tr>		<tr>			<td style="width:44.48%">			<p><a href="http://www.qianmu.org/公共事务" target="_blank">公共政策</a>与法律</p>			</td>			<td style="width:55.52%">			<p>Public Policy and <a href="http://www.qianmu.org/法学" target="_blank">Law</a></p>			</td>		</tr>		<tr>			<td style="width:44.48%">			<p><a href="http://www.qianmu.org/宗教学" target="_blank">宗教学</a></p>			</td>			<td style="width:55.52%">			<p>Religion</p>			</td>		</tr>		<tr>			<td style="width:44.48%">			<p><a href="http://www.qianmu.org/俄语" target="_blank">俄语</a></p>			</td>			<td style="width:55.52%">			<p>Russian</p>			</td>		</tr>		<tr>			<td style="width:44.48%">			<p><a href="http://www.qianmu.org/社会学" target="_blank">社会学</a></p>			</td>			<td style="width:55.52%">			<p><a href="http://www.qianmu.org/社会学" target="_blank">Sociology</a></p>			</td>		</tr>		<tr>			<td style="width:44.48%">			<p><a href="http://www.qianmu.org/美术" target="_blank">工作室艺术</a></p>			</td>			<td style="width:55.52%">			<p>Studio Arts​</p>			</td>		</tr>		<tr>			<td style="width:44.48%">			<p><a href="http://www.qianmu.org/戏剧" target="_blank">戏剧</a>与<a href="http://www.qianmu.org/舞蹈" target="_blank">舞蹈</a></p>			</td>			<td style="width:55.52%">			<p>Theater and Dance</p>			</td>		</tr>		<tr>			<td style="width:44.48%">			<p>城市发展研究</p>			</td>			<td style="width:55.52%">			<p>Urban Studies</p>			</td>		</tr>		<tr>			<td style="width:44.48%">			<p>女性、性别与性倾向</p>			</td>			<td style="width:55.52%">			<p>Women, Gender, and Sexuality</p>			</td>		</tr>		<tr>			<td style="width:44.48%">			<p>世界文学与文化研究</p>			</td>			<td style="width:55.52%">			<p>​World Literature and Culture Studies</p>			</td>		</tr>	</tbody></table><p>*(16)</p><p>注：另外，还有个性化定制的两个专业：电影研究（​Film Studies）和人权研究（​Human Rights Studies）。</p><p>联系方式：</p><p>联系人：Mandi Haines(associate director of admissions and coordinator of international recruitment and financial aid)</p><p>地址：Trinity College</p><p>Admissions Office</p><p>300 Summit Street</p><p>Hartford, CT 06106-3100</p><p>邮箱：Mandi.Haines@trincoll.edu</p><p>外部链接：</p><ul>	<li>申请材料清单：<a href="http://www.qianmu.org/redirect?code=9rpcSX33kCscvuq2zX4_-ACPmJf4oM_PYu3eurktmGBWSchK-m5q5smNA8PQKRzCOQtPKz3DlnsJPYz0AuL8ACuO2pL60LYOk9h0UP93ZClwdDVQ_JDDIMx3E_kegtCtfemsGuRusLGPWwXvCd3XUkltV" target="_blank">FIRST-YEAR ADMISSIONS CHECKLIST</a>(PDF)</li>	<li>音乐艺术类专业个人作品要求：<a href="http://www.qianmu.org/redirect?code=KruBHN7Uws9rfxFJdddddcJBKw6qzebtyXyXN46qIb8omlqgGBz8HtRjSLeYK6irKLqo3sqA3tIgZ9qSmL08jR1A4rjUc3eU6PdNmJjUlR1NkReuY" target="_blank">ARTS SUBMISSIONS</a></li></ul><p>参考资料：</p><p>(1)&nbsp;<a href="http://www.qianmu.org/redirect?code=VrxbIdtYLclZ6ILCx11ftxq6TMYT3VhadjIgk01rqm5gVtxlU-55coqO_prtFcw5WdOwQJFRdUTRSOAnwh-fASKeA7SwQ9rNbvKm5Cot6zaSW5v8trK_25ORsryAnTxJJUt3jZu35l8aBUXA6qiJrXqp" target="_blank">Trinity College</a>&nbsp;USNEWS</p><p>(2)&nbsp;<a href="http://www.qianmu.org/redirect?code=hrfXwivBLpMoTsUAQQQQQ8IRY1CdYI_ieVlRL-9-r1bd9VKPkVU2cwHgGdSCkJS3-DUaGaUycV52GdQt-JHPfJGtAgoXQsb8hs1qrIZE2VfxW8blUot6hC_PXuieryp41" target="_blank">Trinity College</a>&nbsp;College Board</p><p>(3)&nbsp;<a href="http://www.qianmu.org/redirect?code=Trq48pW4wbton0ZyJJJJJsf8lnkvhL-Jj0e2e21N4asDRZfU2coQ0eDktkW_VHmB4dMxAh8Aa5Bj1lqP_cSIpCHzrvRIHtPgsOMIQ6E-OPYK51_L5uzQ8HG40-1Ome8W41IYVfV2V4p" target="_blank">Trinity College</a>&nbsp;Princeton Review</p><p>(4)&nbsp;<a href="http://www.qianmu.org/redirect?code=1rdft_2cw1hiqnQa-vEgtVfllXULC04zvME8USk0B_ahk5x0jfz6Q4fvODdQpc1_OPihv6cNlrwPBY3FUC6iA15x0jR0g-hqDa8XGu7fzhMw4LAxfcyeL49DTF1UyYmh" target="_blank">Trinity College</a>&nbsp;College Prowler</p><p>(5) <a href="http://www.qianmu.org/redirect?code=trmo1nqHwSnOKikwEEEEEERZVOBqiQKpXlzFzFnCM6-USqEQknQom1Jg2qQMuZAKCPt49NVTJM-TBOt_p2JqSdAVGHk5GjYpU1d3nh_" target="_blank">TUITION + FEES</a> Trinity College</p><p>(6) <a href="http://www.qianmu.org/redirect?code=QrzUA2QgwEi9XO3q1p3_D0OHBMR97Kfh7LS3nhIHOV2OTWo61zI2eiid88zjHQLWkmRhyqSfD05V1pvc6gucSdnLi_YJILF4UInFjlFOl2OuP5DeOF09D-aDp1Pbx" target="_blank">HOW TO APPLY</a> Trinity College</p><p>(7) <a href="http://www.qianmu.org/redirect?code=JrvWrUj_LfWcHNapPPPPPXpmvSc8nsUQS8K1K1Zpl_lpbKqhP_qinUv06J-nUIhXuB-JdxVaQUhaMwy-Z_Mu6X2jQhJ42EBcFuDS6WyUfOMLbZlLnf_SFe6wpx" target="_blank">FACTS + FIGURES</a> Trinity College</p><p>(8) <a href="http://www.qianmu.org/redirect?code=lreSUw0MLwBRm6SfFFFFFjqj2L3YrbBXZ9yDyDSb6bsf_gA1FB1Y2t7hACs3MHj0gLKX24k_JwOIBJTQLMdVHnkz3yP4fME1CHRsCxKPMahH4AfSRJRMvGUVyPQh2Z63zo6-Df2" target="_blank">DEMOGRAPHICS</a> Trinity College</p><p>(9) <a href="http://www.qianmu.org/redirect?code=SrWl9LTZLDXYczXK8gTUys-cVmxQrC_ayOBmMQmphOpxkC0Gxr2ZshwsqYSFcGSIY41q54lf7Cbyw67Vfbw2dSFZOSh9e_r3EscuMtYagfAi3iEU-wv_stARfSFEEbzrvGSTd" target="_blank">INTERNATIONAL APPLICANTS</a> Trinity College</p><p>(10) <a href="http://www.qianmu.org/redirect?code=8rL6TCPXLCZnSme5J5GFYKSEz0zqSepae4LttgRFqWSPov48saWCck7tbKwl5fil46f-y1LE9EODwWMbSWUrZ-71is6EOdSKDummkm-aXujLtJbYq1ZscFeVwrdDmMWI28qvE_" target="_blank">INTERVIEWS</a> Trinity College</p><p>(11) <a href="http://www.qianmu.org/redirect?code=1rdft_3bLk7hG1Lv30CkkztFv5Mk1kphM9yXOF_E-rHrQbtBhwXewJTa19tBFBJ_IbVtc8SSmk07akU1XXOMNrtPT6zNIHq1wCHBnswwLQykoiveSrXuH53EFhW3yjD8ujtBFnIdAroq1YlQgP56hX8uXHRyOrBWu" target="_blank">FINANCIAL AID FOR INTERNATIONAL STUDENTS</a> Trinity College</p><p>(12) <a href="http://www.qianmu.org/redirect?code=2rNMmQ1Iw0DYWauvyyyyyj924ViGWO6zhNhNpZiGQBTPCfdSvZBx436M5Vn2YrH25fTGpfH0N5k1NhIANftZ-FSANmt0N5k1NhIArzobKzeX6GOksROumvY" target="_blank">TRANSFER CREDIT</a> Trinity College</p><p>(13) <a href="http://www.qianmu.org/redirect?code=UrsQlJ0AkawhoS31RRRRRRHGxzVU9tIdfCfCWQVUbe3ETOJaf9j3rP0Y_-dFVZICV-JEKQJ0Ke7EKOpOWv7iayJHWvsiTvXTAzCUov-TD" target="_blank">APPLY</a> Trinity College</p><p>(14) <a href="http://www.qianmu.org/redirect?code=kr53aG4tLqEHvzG5qqqqq_yiXtru7-W_YW2c2czrjAVyx-bCevNGLIBRPpg1pJUND-aoj2x4jrs4Wjr8EjrnD91k_vpQJS7YvzmnTbruIQKD6pntaV4dt3-D0Ti7t9" target="_blank">FINANCIAL AID FOR TRANSFER STUDENT</a> Trinity College</p><p>(15) <a href="http://www.qianmu.org/redirect?code=5rk_5oGELAtGuFjJ66666S32L3YrbBXoG5G5sRYr89jin4-PJR9DLWX_x3U2TCK2x4jrs482xR6kgR0lfqUlfMzWDMwIFP5lFqUkaCSPc9hl5AiCcps5y4WO_IsOmBaSXeUfv" target="_blank">FINANCIAL AID MATERIALS OF TRANSFER STUDENTS</a> Trinity College</p><p>(16) <a href="http://www.qianmu.org/redirect?code=OrMxo-G3wwGN948vOIR0LWdB3KQSsojhynzd39N51TmiZps_T1t4IDtlb8FwWUIXZR0z70LA-1mk1qTXvWCkafxAK7h8KoBeUkB44DafjlKaQ0p8fjlKG40eAd0fQ_OS95BJtw" target="_blank">MAJORS AND MINORS</a> Trinity College</p><p>&nbsp;</p><h1>研究生申请</h1><p>三一学院自1927年提供研究生教育，且主要是为已工作人士和成人提供的非全日制硕士项目，目前提供以下三个领域的硕士学位项目：美国研究、英语、公共政策，另外，还有神经科学是本硕连读的项目，仅面向三一学院本校学生招生。*(1)</p><p>参考资料：</p><p>(1) <a href="http://www.qianmu.org/redirect?code=Hr3vKzN1wcXfYRyGEoRUaIdi3VCwu-LBnxTgsp6KhNFxRLhWch3gY7n1GjhGZyFk5Th1WLVOzSUr1TLVsd0yAfrDWjPTQa1F6iKzSU6B6tUwJBGOBUG2H" target="_blank">GRADUATE STUDIES AT TRINITY COLLEGE</a> Trinity College</p></div>
+					
+	           </div>
+	           <div id="authorTrueName" style="float: right;"></div><br>
+				
+	           <div class="col-md-12">
+	           		<div id="cmt" style="position: relative;"><a name="comments" style="margin-top:150px;"></a>
+		           			<div id="lastEditTime" style="position: absolute;top: 18px;right: 10px;">2018-09-18</div>
+		           			<div style="position: absolute;top: 18px;right: 100px;">最后修改时间：</div>
+	           		</div>
+	           </div>
+			  </div>
+              </div>
+            </div>
+            <!-- /.row -->
+          </div>
+        </div>
+      </div>
+      <!-- /.row -->
+    </div>
+  </div>
+</div>
+
+
+<script type="text/javascript">
+	var ctx= '',uId='',vl='', wsip = 'ws://www.qianmu.org:8080/',ve='';
+	var vipendtime="";
+	var et='';
+	var b_name = navigator.appName; 
+	var b_version = navigator.appVersion; 
+	var version = b_version.split(";"); 
+	var trim_Version=version[1].replace(/[ ]/g,"");
+	if (b_name == "Microsoft Internet Explorer") { 
+
+	if (trim_Version == "MSIE7.0" || trim_Version == "MSIE6.0" ||trim_Version == "MSIE8.0") { 
+		alert("IE浏览器版本过低，请到指定网站去下载相关版本"); 
+	 		window.location.href="http://jiaoxueyun.com/download.jsp"; 
+		} 
+	} 
+</script>
+<script src="/r/plugins/bower_components/jquery/dist/jquery.min.js"></script>
+<script src="/r/release/js/all.js?v=1.2"></script>
+<script type='text/javascript'>
+    (function(m, ei, q, i, a, j, s) {
+        m[i] = m[i] || function() {
+            (m[i].a = m[i].a || []).push(arguments)
+        };
+        j = ei.createElement(q),
+            s = ei.getElementsByTagName(q)[0];
+        j.async = true;
+        j.charset = 'UTF-8';
+        j.src = 'https://static.meiqia.com/dist/meiqia.js?_=t';
+        s.parentNode.insertBefore(j, s);
+    })(window, document, 'script', '_MEIQIA');
+    _MEIQIA('entId', 99735);
+</script>
+ 
+ 
+<script type="text/javascript">
+function inadd(){
+	 var incontent = $("#intext").val();
+	 var inpid = $("#inpid").val();
+	 var itemId=1353;
+	 
+	 $.ajax({
+			url:ctx+"/addComment",
+			data:{itemId:itemId,content:incontent,type:'item',pid:inpid},
+			dataType:"json",
+			type:"post",
+			success:function(resp){
+				if(resp.success){
+					$("#pl").val(resp.msg);
+					location.reload();
+				}else{
+					if("needlogin"==resp.status){
+						$.fn.loginShow();
+					}else{
+						$.fn.notify("温馨提示",resp.msg);
+					}
+				}
+			}
+		});
+}
+
+var itemId = '1353' ;
+var editLevel  = '';
+if(itemId==''){
+	itemId=2006;
+}
+var needlogin = '1';
+	var needFill = '0';
+ 	var ads = '';  
+var needpay = '0';
+var vipnotice = '' ;
+if(vl=='0'){
+	
+}
+$(document).ready(function(){
+	if(needlogin=='1'){
+		location.href = "/loginView";
+	}
+	console.log(vipnotice);
+	if(uId!=''&&vipnotice>0&&vipnotice<3){
+		 swal({   
+	           title: "您的VIP即将到期",   
+	           text: "到期时间"+vipendtime,   
+	           type: "warning",   
+	           showCancelButton: true,   
+	           confirmButtonColor: "#DD6B55",   
+	           confirmButtonText: "购买VIP", 
+	           cancelButtonText:'我知道了',
+	           closeOnConfirm: true 
+	       }, function(){   
+	           location.href=ctx+"/zone/vippay2?vipRange=12";
+	       });
+	}
+	  
+	  /* if(ads=='0'){
+			var fillContent = new Ads({
+				closeClick:true,
+				render : function() {
+					return $.ajax({
+						url : ctx + "/getAds",
+						async : false,
+						dataType : 'text'
+					}).responseText;
+				}
+			});
+			fillContent.show();
+			$(document).scroll(function() {
+				fillContent.reposition();
+			});
+		}  */
+});
+</script>
+<script type="text/javascript">
+//反馈纠错
+$(document).ready(function(){
+	//$.fn.addCmt();
+	var itemId=1353;
+  	$("#cmt").comments({
+  		url:ctx+'/listComment',
+  		param:{itemId:itemId,type:'item'},
+  		total:"commentCount",
+  		submit:function(opts){
+  			var content = opts.content;
+  			var pid = opts.pid;
+  			if(content==""&&content.trim()==""){
+  				$.fn.notify("温馨提示","请输入评论内容");
+  				return ;
+  			}
+  			$.ajax({
+  				url:ctx+"/addComment",
+  				data:{itemId:itemId,content:content,type:'item',pid:pid},
+  				dataType:"json",
+  				type:"post",
+  				success:function(resp){
+  					if(resp.success){
+  						location.reload();
+  					}else{
+  						if("needlogin"==resp.status){
+  							$.fn.loginShow();
+  						}else{
+  							$.fn.notify("温馨提示",resp.msg);
+  						}
+  					}
+  				}
+  			});
+  		}
+  	});
+});
+
+</script>
+<script type="text/javascript" src="/static/standard/ckeditor/ckeditor.js"></script>
+<script src="/static/standard/ckeditor/adapters/jquery.js"></script> 
+<script src="/r/plugins/bower_components/bootstrap-treeview-master/dist/bootstrap-treeview.min.js"></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/js/wiki.js?v=1.2"></script>
+</body>
+</html>

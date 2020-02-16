@@ -1,0 +1,433 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>旧金山大学-迁木网</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="keywords"  content="旧金山大学" />
+<meta name="description"  id="description"  content="旧金山大学:旧金山大学学校规模较小，8000名左右学生，由来自75个国家，所有五十个州（包括华盛顿特区，波多黎各和关岛）的学生组成。在学生的多样性和国际学生的入学率方面，旧金山大学在国家排名的前15名内。" />
+
+<link rel="stylesheet" type="text/css" href="/r/release/css/all.min.css?v=1.2">
+<!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+<link rel="icon" type="image/png" sizes="16x16" href="/r/plugins/images/logo.ico"> 
+
+
+<style>
+#tree>ul>li{font-size:15px;}
+.container-fluid{padding-left:0px;}
+</style>
+</head>
+<body class="fix-header fix-sidebar"> 
+<script type="text/javascript">
+document.body.oncopy = function () { 
+ setTimeout( function () { 
+	 if(document.all){ 
+		 var text = clipboardData.getData("text");
+		  if (text) { 
+		   text = text + "\r\n文章来自: 迁木网(http://www.qianmu.org)  详文参考："+location.href; 
+		   clipboardData.setData("text", text);
+		  } 
+		}else{ 
+		 }
+    }, 100 ) 
+}
+
+</script>
+	 <div class="preloader">
+  	<div class="cssload-speeding-wheel"></div>
+    </div>
+<div id="wrapper">
+   
+<nav class="navbar navbar-default navbar-static-top m-b-0">
+	<div class="navbar-header">
+		<a class="navbar-toggle hidden-sm hidden-md hidden-lg "
+			href="javascript:void(0)" data-toggle="collapse"
+			data-target=".navbar-collapse"><i class="ti-menu"></i></a>
+		<div class="top-left-part">
+			<a class="logo" href="/"><b> <img
+					src="/r/plugins/images/lo.png" alt="迁木网" title="迁木网"
+					class="dark-logo" style="padding:10px;" /><img
+					src="/r/plugins/images/lo.png" title="迁木网" alt="迁木网"
+					class="light-logo" style="padding:10px;" /></b> <span class="hidden-xs"><img
+					src="/r/plugins/images/logo22.png" title="迁木网" alt="迁木网"
+					class="dark-logo" /><img src="/r/plugins/images/logo22.png"
+					title="迁木网" alt="迁木网" class="light-logo" /></span></a>
+		</div>
+		<ul class="nav navbar-top-links navbar-left hidden-xs">
+			<li><a href="javascript:void(0)"
+				class="open-close hidden-xs waves-effect waves-light"><i
+					class="icon-arrow-left-circle ti-menu"></i></a></li>
+			<li  >
+				<form role="search" class="app-search hidden-xs" action="/q"
+					method="get">
+					<input type="text" placeholder="学校、问题搜一下..." q class="form-control"
+						name="title" style="min-width:300px;"> <a href="#"><i
+						class="fa fa-search search"></i></a>
+				</form>
+			</li>
+			<li >
+				<a   href="/mall" ><i class="fa fa-shopping-cart"></i>&nbsp;留学商城</a>
+			</li>
+		</ul>
+		<ul class="nav navbar-top-links navbar-right pull-right">
+			<li pub>
+				<a id="navfb" href="javascript:void(0)" >发帖</a>
+			</li>
+			
+			
+			
+			<li class="dropdown" chat><a  href="/chat?tid=38"><i class="ti-email"></i></a>
+			</li>
+			<li class="dropdown hide" msg><a
+				class="dropdown-toggle waves-effect waves-light"
+				data-toggle="dropdown" href="#"><i class="icon-volume-2"></i>
+					<div class="notify"></div> </a>
+				<ul
+					class="dropdown-menu dropdown-cart dropdown-tasks animated bounceInDown">
+					<li><a class="text-center" href="/forum"><strong>查看全部</strong>
+							<i class="fa fa-angle-right"></i> </a></li>
+				</ul></li>
+			<li class="dropdown" userArea></li>
+			<li class="right-side-toggle"><a
+				class="waves-effect waves-light" href="javascript:void(0)"><i
+					class="ti-settings"></i></a></li>
+		</ul>
+	</div>
+</nav>
+
+<div id="myModalnav" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+		<div class="modal-dialog" style="width: 700px">
+			<div class="modal-content" style="margin-top: 100px;">
+				<div class="modal-body modal-body-alert" >
+						<div class="row" >
+			        		<div class="row"  style="text-align: center;margin-left: 5%;width: 89%;height: 60px;" >
+			        			<div style="text-align: center;"><h1 class="news-title"><a href="/addForumView" class="btn btn-block btn-info" style="font-size: 25px;" target="_blank">发表主题</a></h1></div>
+			        		</div>
+							<div class="row" style="text-align: center;margin-left: 5%;width: 89%;margin-top:10px;">
+									<ul class="bs-glyphicons">
+										<li style="width: 33%">
+										<a href="/estimate" target="_blank"><span class="glyphicon glyphicon-paperclip " aria-hidden="true"></span>
+											<span class="glyphicon-class">求定位</span></a></li>
+										<li style="width: 33%"><a href="/addOffer" target="_blank"><span class="glyphicon glyphicon-leaf" aria-hidden="true"></span> <span class="glyphicon-class">报Offer</span>
+										</a>
+										</li>
+										<li style="width: 33%"><a href="/chat?tid=38" target="_blank"><span class="glyphicon glyphicon-font" aria-hidden="true"></span> <span class="glyphicon-class">咨询版主</span>
+										</a>
+										</li>
+									</ul>
+							</div>
+			        	</div>
+				</div>
+			</div>
+		</div>
+</div> 
+   
+<div class="navbar-default sidebar" role="navigation">
+    <div class="sidebar-nav navbar-collapse slimscrollsidebar">
+      <ul class="nav" id="side-menu">
+        <li class="m-t-10"><a href="/forum" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="-"></i> <span class="hide-menu">互动 <span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+            <li><a href="/forum" class="">在线论坛</a></li>
+            <li><a href="/forum?type=2" class="">Offer榜</a></li>
+            <li><a href="/askshow" class="">小秘回复墙</a></li>
+            
+          </ul>
+        </li>
+        <li><a href="/ranking/1528.htm" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="+"></i> <span class="hide-menu">排名 <span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+            <li><a href="/ranking/1528.htm">QS世界排名</a></li>
+            <li><a href="/ranking/905.htm">USNEWS排名</a></li>
+            <li><a href="/ranking/1209.htm">PayScale工资排名</a></li>
+            <li><a href="/ranking/904.htm">上交大排名</a></li>
+          </ul>
+        </li>
+        <li><a href="/美国本科研究生选校" class="waves-effect"><i class="linea-icon linea-basic fa-fw" data-icon=">"></i> <span class="hide-menu">选校<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level collapse in">
+            <li><a href="/美国本科研究生选校">选校</a></li>
+            <li><a href="/offer">案例库</a></li>
+          </ul>
+        </li>
+        <li><a href="/分类索引" class="waves-effect active"><i class="linea-icon linea-basic fa-fw" data-icon="m"></i> <span class="hide-menu">词条<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level collapse in">
+            <li><a href="/分类索引">百科</a></li>
+            <li><a href="http://www.qianmu.org/%E7%B2%BE%E5%8D%8E%E6%94%BB%E7%95%A5%E7%B4%A2%E5%BC%95">精华索引</a></li>
+            <li><a href="/留学中介机构列表">中介</a></li>
+            <li><a href="/下载中心">下载中心</a></li>
+          </ul>
+        </li>
+        <li><a href="/mall" class="waves-effect" ><i class="linea-icon linea-basic fa-fw" data-icon="V"></i> <span class="hide-menu">商城<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+          	 <li><a href="/mall?c=1">美国申请</a></li>
+          	 <li><a href="/mall?c=2">英国留学</a></li>
+             <li><a href="/mall?c=8">文书服务</a></li>
+          </ul>
+        </li>
+		 <li style="display:none;"><a href="/article" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="a"></i><span class="hide-menu">新闻<span class="fa arrow"></span></span></a>
+				<ul class="nav nav-second-level   ">
+					<li><a href="/article">资讯</a></li>
+				</ul></li>
+			<li class="nav-small-cap m-t-10" style="text-align:center;border-bottom: 1px solid #ddd;"></li>
+			
+      </ul>
+    </div>
+  </div> 
+   <div class="right-sidebar">
+        <div class="slimscrollright">
+          <div class="rpanel-title">个性化设置<span><i class="ti-close right-side-toggle"></i></span> </div>
+          <div class="r-panel-body">
+            <ul>
+              <li><b>显示设置</b></li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkbox1" type="checkbox" class="fxhdr">
+                  <label for="checkbox1">固定头部导航</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-warning">
+                  <input id="checkbox2" type="checkbox" checked="" class="fxsdr">
+                  <label for="checkbox2" >固定左侧导航</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-success">
+                  <input id="checkbox4" type="checkbox" class="open-close">
+                  <label for="checkbox4" >切换工具栏目</label>
+                </div>
+              </li>
+            </ul>
+            <ul>
+              <li><b>消息设置</b></li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkboxmsg" type="checkbox" class="fxhdr">
+                  <label for="checkboxmsg">不接受网页通知</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkboxmail" type="checkbox" class="fxhdr">
+                  <label for="checkboxmail">不接受邮件通知</label>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="share-tools" >
+         <ul>
+         	<li style="font-size: 14px;" id="fk"><a  href="#comments">评论反馈</a></li>
+         	<li id="sharebtn" style="font-size: 14px;padding-left: 12px;" ><a href="javascript:" >我要分享</a></a>
+	         	<ul style="display:none; height:50px;position: absolute;width:180px;right:50px;margin-top:-45px;" id="sharelist" >
+	               <li style="padding-left: 15px;" class="inli"><a href="javascript:shareToWB();" title="分享至微博" >微博</a></li>
+	               <li style="padding-left: 15px;" class="weixin-icon inli"><a href="javascript:" title="分享至微信" >微信</a></li>
+	               <li class="inli" ><a href="javascript:shareToQQ();"  title="分享至QQ空间">QQ空间</a></li>
+	            </ul>
+         	</li>
+         	<li class="back_top" id="back-to-top" style="display: none;" ></li>
+         </ul>
+	 </div>
+ 
+   <div id="page-wrapper">
+   <div class="container-fluid">
+      <!-- row -->
+      <div class="row">
+        <!-- Left sidebar -->
+        <div class="col-md-12">
+          <div class="white-box" style="padding-left:0px;">
+            <!-- row -->
+            <div class="row">
+              <div class="col-lg-2 col-md-3  col-sm-12 col-xs-12 " style="overflow:auto;min-height:30px;display:block;" >
+                <div class='treeDiv'>
+                <div id="treeDiv" ><ul id="tree" class="ztree"></ul></div>
+                </div>
+              </div>
+              
+              <div style="" class="col-lg-10 col-md-9 col-sm-12 col-xs-12 mail_listing">
+               <div class="row" >
+		     <input type="hidden" id="type"/>
+			   <div class="wikiContent" id="wikiContent"  >
+			        <h1 class="wikiTitle">旧金山大学 </h1> 
+					<div class="infobox"><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:130px">			<p>排名</p>			</td>			<td style="width:293px">			<p>97*(3)</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>国家</p>			</td>			<td style="width:293px">			<p>美国</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>州省</p>			</td>			<td style="width:293px">			<p>加州</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>城市</p>			</td>			<td style="width:293px">			<p><a href="http://www.qianmu.org/旧金山" target="_blank">旧金山</a></p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>校训</p>			</td>			<td style="width:293px">			<p>For the City and University *(1)</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>汉译</p>			</td>			<td style="width:293px">			<p>一切为了旧金山和大学</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>性质</p>			</td>			<td style="width:293px">			<p>私立，男女合校</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>成立年份</p>			</td>			<td style="width:293px">			<p>1855年*(1)</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>宗教信仰</p>			</td>			<td style="width:293px">			<p>天主教</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>校园</p>			</td>			<td style="width:293px">			<p>0.22Km<sup>2</sup>，市区*(1)</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>学生人数</p>			</td>			<td style="width:293px">			<p>10,701</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>本科生人数</p>			</td>			<td style="width:293px">			<p>6,782*(2)</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>研究生人数</p>			</td>			<td style="width:293px">			<p>4,046*(2)</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>师生比</p>			</td>			<td style="width:293px">			<p>1:14*(4)</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>国际学生比例</p>			</td>			<td style="width:293px">			<p>19%*(4)</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>学校分类</p>			</td>			<td style="width:293px">			<p><a href="http://www.qianmu.org/全国性大学" target="_blank">全国性大学</a></p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>认证机构</p>			</td>			<td style="width:293px">			<p>西部院校协会（WASC）</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>网址</p>			</td>			<td style="width:293px">			<p>www.usfca.edu*(5)</p>			</td>		</tr>	</tbody></table></div>
+					<div id="content"><p>旧金山大学（University of San Francisco, 简称USF）成立于1855年，是一所位于美国<a href="http://www.qianmu.org/加利福尼亚州" target="_blank">加利福尼亚州</a><a href="http://www.qianmu.org/旧金山" target="_blank">旧金山</a>市的私立天主教大学。它既是旧金山第一所大学，也是加利福尼亚州第二古老大学和第十古老的天主教大学，也是美国第八大天主教大学。2005年是其建校150周年庆。</p><p>旧金山大学前身为&ldquo;圣依纳爵书院&rdquo;的天主教身份象征植根于耶稣会创始人圣依纳爵&bull;罗耀拉，其包容性的建校理念吸引来自不同的宗教传统和有着不同理念的学生和教师。然而，天主教在伸张正义方面的行动在社区服务，思考静修，校园内外的宗教界限的课程和工作中是显而易见的。</p><p><strong>校训</strong>：For the City and University，中译为：一切为了城市和大学。该校训反映了旧金山大学与旧金山县市的<a href="http://www.qianmu.org/历史" target="_blank">历史</a>联系。</p><p><strong>校园环境</strong></p><p>旧金山大学的主校区占地20公顷，坐落于金门大桥和金门公园之间。旧金山大学有一个很合适的绰号叫&ldquo;山顶（The Hilltop）&rdquo;，因为校园位于旧金山的主要山丘之一的顶峰。</p><p>旧金山大学共有4个校区，分别位于萨克拉门托、普莱森顿、圣罗莎和圣何塞。这些分校区主要是为了帮助已参加工作的成年人拿到本科学位。</p><p>校区内的主要建筑有：</p><p>科威尔楼（Cowell Hall (CO)）---以旧金山慈善家萨缪尔&middot;科威尔的名字命名。这里主要是<a href="http://www.qianmu.org/护理" target="_blank">护理</a>学院和其他系的教室和办公室，还有学习和写作中心。</p><p>哈尼科学中心（Harney Science Center (HR)）---主要是艺术与科学学院的教室和办公室。</p><p>卡尔曼罗维茨楼（Kalmanovitz Hall (KA)）---主要是教室、办公室、会议室和写作、多媒体、语言和心理实验室。</p><p>肯德里克楼（Kendrick Hall (KN)）---<a href="http://www.qianmu.org/法学" target="_blank">法学</a>院和法学院图书馆（Dorainne Zief <a href="http://www.qianmu.org/法学" target="_blank">Law</a> Library）的所在地。</p><p>洛内山（Lone Mountain (LM)）---前身为旧金山女子学院或洛内学院。这里有教室、办公室、学习中心以及180名学生，学校校长和副校长的办公室也在这里。</p><p>迈凯伦会议中心（McLaren Conference Center (MC)）---费伦楼西侧的一部分，主要是<a href="http://www.qianmu.org/管理学" target="_blank">管理学</a>院的所在地，前身为商科和专业学习学院。</p><p><a href="http://www.qianmu.org/教育学" target="_blank">教育学</a>院（School of Education (<a href="http://www.qianmu.org/Early Decision" target="_blank">ED</a>)）---教室和教育学院的行政办公室。在被旧金山大学收购之前是一所天主教高中。</p><p>大学中心（University Center (UC)）</p><p>科学与创新中心（John Lo Schiavo, S.J., Center for Science and Innovation (CSI)）</p><p>格里森图书馆和格什克学习资源中心（Gleeson Library and the Geschke Learning Resource Center）</p><p><strong>院系设置</strong></p><p>目前，旧金山大学五个学部提供本科和研究生阶段的课程，另外还有两个学部侧重提供研究生教育，共可授予50多种学位。旧金山大学已被美国西部院校协会认证，其管理学院亦被国际精英商学院协会（AACSB）认可，管理学院下开设的<a href="http://www.qianmu.org/公共事务" target="_blank">公共管理</a>学硕士（MPA）项目也被公共管理院校联合会（NASPAA）单独认证。*(1)</p><h2>申请点评</h2><p>旧金山大学学校规模较小，8,000名左右学生，由来自75个国家，五十个州（包括<a href="http://www.qianmu.org/华盛顿" target="_blank">华盛顿</a>特区，波多黎各和关岛）的学生组成。在学生多样性和国际学生入学率方面，旧金山大学排名全国前15名。</p><p>小班比例很高，充分保证每个学生平等接受教育的权利。</p><p>旧金山大学的优势专业有公共服务（麦卡锡中心）、环太平洋地区研究（亚洲和美洲研究）、法律、教育、商科、护理和环境管理等领域的研究生课程。</p><p>交通便利，餐费较贵。</p><p>好评项：</p><p>1.Diverse student body</p><p>2.Accessibility of professors</p><p>3.San Francisco!</p><p>4.MUNI pass included in tuition</p><p>5.Small class sizes</p><p>6.Beautiful campus</p><p>7.Focus on human rights and social justice</p><p>8.Clubs and organizations</p><p>9.Transportation</p><p>10.Off-campus dining and nightlife</p><p>差评项：</p><p>1.The 100-plus stairs up to Lone Mountain</p><p>2.High cost of tuition</p><p>3.Lack of school spirit in athletics</p><p>4.Difficulty finding parking</p><p>5.Four-unit system</p><p>6.Expensive meal plan</p><p>7.Lackluster freshman dorms</p><p>8.Unpredictable weather (daily!)</p><p>9.Constant construction on Main Campus</p><p>10.The social scene can be cliquey.*(2)</p><p>参考资料：</p><p>(1)<a href="http://www.qianmu.org/redirect?code=vrJH6YhBLpMoTdulffffff0aHnY3uAvSbJ1vgJpkWt3GVIUopyGaF8xonoxiOTYvXeilNGkB6RNoviXFrcFTiLatJ1R6KdmSRhTY9Og-ZfzN" target="_blank">University of San Francisco</a> Wikipedia</p><p>(2)<a href="http://www.qianmu.org/redirect?code=xrVOpgSVwAbLSISYWWWWWmxSigqt7e3PzuqoWHtcyzEq6TuZIM5ZymsoH_Ly2CB_2gz5V_dCDZdufuz5fQzYrqeXpVrvr4KjJFMiJF7IhkITtAhlt-6JnZ_oalFaJ6FXjWNKys_G" target="_blank">University of San Francisco: the Best and Worst</a> College Prowler</p><p>(3)<a href="http://www.qianmu.org/全国性大学" target="_blank">National University</a> Rankings USNEWS Ranking</p><p>(4)<a href="http://www.qianmu.org/redirect?code=Hr3vKzpBk6RIqysOtFUPtYPdEg6PUVcRewigse1CPIeOdREWFPtbKWvvWs_pn9-7H1oPUVi_sTo3U9THIcJ28UkTBwch2wPLkJPXCXsUVgQfAquAmK7XLOwMnRKTICOBsm_S8B" target="_blank">Facts &amp; Figures</a> University of San Francisco</p><p>(5)<a href="http://www.qianmu.org/redirect?code=JrvWrUMMwr-KeqZyJJJJJs5Lq36_t3gZdE82RfjTwmn8pX_TDhUXaGwJcRt0mvkRh3kP0jAglmlge4L3IJ8PbV0j3nL73m_S7C4ZHgp2yK5M8KgV6xSCB4RDuk5Xk_7fRceNxfV3HfydEdpzw6pLIdfVUZ1M" target="_blank">University of San Francisco</a> College Board</p><p>&nbsp;</p><h1>本科申请</h1><p><strong>基本信息：</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:21.22%">			<p>USNEWS排名</p>			</td>			<td style="width:13.3%">			<p>97</p>			</td>			<td style="width:17.16%">			<p>学费(/年)</p>			</td>			<td style="width:12.96%">			<p>$44,494</p>			</td>			<td style="width:21.5%">			<p>申请截止日期</p>			</td>			<td style="width:13.82%">			<p>2月15日</p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p><a href="http://www.qianmu.org/TOEFL" target="_blank">TOEFL</a>要求</p>			</td>			<td style="width:13.3%">			<p>79</p>			</td>			<td style="width:17.16%">			<p>食宿(/年)</p>			</td>			<td style="width:12.96%">			<p>$13,990</p>			</td>			<td style="width:21.5%">			<p>开学时间</p>			</td>			<td style="width:13.82%">			<p>8月-9月</p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p><a href="http://www.qianmu.org/IELTS" target="_blank">IELTS</a>要求</p>			</td>			<td style="width:13.3%">			<p>6.0</p>			</td>			<td style="width:17.16%">			<p>申请费</p>			</td>			<td style="width:12.96%">			<p>$65</p>			</td>			<td style="width:21.5%">			<p>可申请学期</p>			</td>			<td style="width:13.82%">			<p>秋季、春季、夏季</p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p><a href="http://www.qianmu.org/SAT" target="_blank">SAT</a>均分</p>			</td>			<td style="width:13.3%">			<p>1120-1320(1600)</p>			</td>			<td style="width:17.16%">			<p>录取率</p>			</td>			<td style="width:12.96%">			<p>64%</p>			</td>			<td style="width:21.5%">			<p>奖学金形式</p>			</td>			<td style="width:13.82%">			<p>Need-aware</p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p>平均GPA</p>			</td>			<td style="width:13.3%">			<p>3.6</p>			</td>			<td style="width:17.16%">			<p>申请人数</p>			</td>			<td style="width:12.96%">			<p>15,462</p>			</td>			<td style="width:21.5%">			<p>是否提供<a href="http://www.qianmu.org/双录取" target="_blank">双录取</a></p>			</td>			<td style="width:13.82%">			<p>Yes</p>			</td>		</tr>	</tbody></table><p>*(1)(2)(3)</p><p>注：</p><p>(1)TOEFL成绩要求最低79，单项成绩不低于17；IELTS成绩要求不低于6.0，单项成绩不低于5.5；<a href="http://www.qianmu.org/PTE" target="_blank">PTE</a>总分不低于53，单项成绩不低于45。入学新生TOEFL均分84</p><p>(2)旧金山大学接受<a href="http://www.qianmu.org/条件录取" target="_blank">条件录取</a>。学生语言成绩如未达标，可申请该校开设的<a href="http://www.qianmu.org/语言课程" target="_blank">语言课程</a>强化。要求TOEFL总分最低60，单项成绩不低于10；IELTS总分5.5，单项成绩不低于5.0；PTE总分最低40。其中，护理专业无条件录取，申请者需达到学校规定的最低语言要求*(4)</p><p>(3)秋季学期申请截止日期是2月15日，ED/<a href="http://www.qianmu.org/Early Action" target="_blank">EA</a>申请截止日期是11月15日；录取确认截止日期是5月1日；春季学期申请截止日期是11月1日*(5)</p><p>(4)接受高考成绩，<strong>国内考生可凭高考成绩直接申请</strong>，甚至直接通过双录取而无需TOEFL成绩</p><p>(5)该校要求申请者高中GPA2.5以上</p><p>(6)被录取学生SAT均分范围：SAT阅读530-620，SAT数学540-640，SAT写作520-620；ACT综合均分范围：24-28</p><h2>教学质量</h2><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:19.66%">			<p>本科生人数</p>			</td>			<td style="width:9.4%">			<p>6,782</p>			</td>			<td style="width:22.3%">			<p>小班比例(&lt;20)</p>			</td>			<td style="width:9.84%">			<p>47.6%</p>			</td>			<td style="width:25.28%">			<p><a href="http://www.qianmu.org/学期制度" target="_blank">学期制度</a></p>			</td>			<td style="width:13.52%">			<p>Semseter</p>			</td>		</tr>		<tr>			<td style="width:19.66%">			<p>研究生人数</p>			</td>			<td style="width:9.4%">			<p>4,046</p>			</td>			<td style="width:22.3%">			<p>中班比例(20-49)</p>			</td>			<td style="width:9.84%">			<p>50.6%</p>			</td>			<td style="width:25.28%">			<p>教授水平满意度</p>			</td>			<td style="width:13.52%">			<p>95%</p>			</td>		</tr>		<tr>			<td style="width:19.66%">			<p>国际学生比例</p>			</td>			<td style="width:9.4%">			<p>19%</p>			</td>			<td style="width:22.3%">			<p>大班比例(&gt;50)</p>			</td>			<td style="width:9.84%">			<p>1.9%</p>			</td>			<td style="width:25.28%">			<p>就业实习满意度</p>			</td>			<td style="width:13.52%">			<p>61%</p>			</td>		</tr>		<tr>			<td style="width:19.66%">			<p>师生比</p>			</td>			<td style="width:9.4%">			<p>1:14</p>			</td>			<td style="width:22.3%">			<p>六年毕业率</p>			</td>			<td style="width:9.84%">			<p>71%</p>			</td>			<td style="width:25.28%">			<p>学生满意度</p>			</td>			<td style="width:13.52%">			<p>-</p>			</td>		</tr>		<tr>			<td style="width:19.66%">			<p>四年毕业率</p>			</td>			<td style="width:9.4%">			<p>60%</p>			</td>			<td style="width:22.3%">			<p>新生保持率</p>			</td>			<td style="width:9.84%">			<p>83%</p>			</td>			<td style="width:25.28%">			<p>校园自豪感</p>			</td>			<td style="width:13.52%">			<p>96%</p>			</td>		</tr>		<tr>			<td style="width:19.66%">毕业2年平均薪水</td>			<td style="width:9.4%">$48,100</td>			<td style="width:22.3%">就业率</td>			<td style="width:9.84%">70%</td>			<td style="width:25.28%">校友网络认可度</td>			<td style="width:13.52%">75%</td>		</tr>	</tbody></table><p>*(2)(4)(6)(7)(8)</p><p><strong>校园安全</strong></p><table border="0" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:143px">校园安全事件</td>			<td style="width:403px">Criminal Offenses -- On-Campus&nbsp;</td>			<td style="width:103px">2012</td>			<td style="width:100px">2013</td>			<td style="width:97px">2014</td>		</tr>		<tr>			<td>谋杀</td>			<td>Murder/Non-negligent manslaughter</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>过失杀人</td>			<td>Negligent manslaughter</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>强奸</td>			<td>Rape</td>			<td>			<p>N/A</p>			</td>			<td>			<p>N/A</p>			</td>			<td>			<p>2</p>			</td>		</tr>		<tr>			<td>乱伦</td>			<td>Incest</td>			<td>			<p>N/A</p>			</td>			<td>			<p>N/A</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>强奸幼童罪</td>			<td>Statutory Rape</td>			<td>			<p>N/A</p>			</td>			<td>			<p>N/A</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>猥亵</td>			<td>Fondling</td>			<td>			<p>N/A</p>			</td>			<td>			<p>N/A</p>			</td>			<td>			<p>2</p>			</td>		</tr>		<tr>			<td>性侵犯-强迫</td>			<td>Sex offenses - Forcible</td>			<td>			<p>1</p>			</td>			<td>			<p>3</p>			</td>			<td>			<p>N/A</p>			</td>		</tr>		<tr>			<td>性侵犯-非强迫</td>			<td>Sex offenses - non-forcible (incest and statutory rape only)</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>N/A</p>			</td>		</tr>		<tr>			<td>抢劫</td>			<td>Robbery</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>1</p>			</td>		</tr>		<tr>			<td>暴力袭击</td>			<td>Aggravated assault</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>1</p>			</td>		</tr>		<tr>			<td>盗窃</td>			<td>Burglary</td>			<td>			<p>3</p>			</td>			<td>			<p>8</p>			</td>			<td>			<p>6</p>			</td>		</tr>		<tr>			<td>汽车盗窃</td>			<td>Motor vehicle theft</td>			<td>			<p>0</p>			</td>			<td>			<p>3</p>			</td>			<td>			<p>1</p>			</td>		</tr>		<tr>			<td>纵火</td>			<td>Arson</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>		</tr>	</tbody></table><p>*(6)</p><h2>申请说明</h2><p><strong>GPA与班级排名</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:26.96%">			<p>GPA</p>			</td>			<td style="width:23.48%">&nbsp;</td>			<td style="width:24.78%">			<p>班级排名</p>			</td>			<td style="width:24.78%">&nbsp;</td>		</tr>		<tr>			<td style="width:26.96%">			<p>分段</p>			</td>			<td style="width:23.48%">			<p>占比</p>			</td>			<td style="width:24.78%">			<p>分段</p>			</td>			<td style="width:24.78%">			<p>占比</p>			</td>		</tr>		<tr>			<td style="width:26.96%">			<p>3.75以上</p>			</td>			<td style="width:23.48%">			<p>40%</p>			</td>			<td style="width:24.78%">			<p>TOP10%</p>			</td>			<td style="width:24.78%">			<p>25%</p>			</td>		</tr>		<tr>			<td style="width:26.96%">			<p>3.5-3.74</p>			</td>			<td style="width:23.48%">			<p>24%</p>			</td>			<td style="width:24.78%">			<p>TOP25%</p>			</td>			<td style="width:24.78%">			<p>67%</p>			</td>		</tr>		<tr>			<td style="width:26.96%">			<p>3.25-3.49</p>			</td>			<td style="width:23.48%">			<p>20%</p>			</td>			<td style="width:24.78%">			<p>TOP50%</p>			</td>			<td style="width:24.78%">			<p>94%</p>			</td>		</tr>		<tr>			<td style="width:26.96%">			<p>3.0-3.24</p>			</td>			<td style="width:23.48%">			<p>14%</p>			</td>			<td style="width:24.78%">			<p>50%以下</p>			</td>			<td style="width:24.78%">			<p>6%</p>			</td>		</tr>		<tr>			<td style="width:26.96%">			<p>2.50-2.99</p>			</td>			<td style="width:23.48%">			<p>2%</p>			</td>			<td style="width:24.78%">			<p>75%以下</p>			</td>			<td style="width:24.78%">			<p>2%</p>			</td>		</tr>		<tr>			<td style="width:26.96%">			<p>2.49以下</p>			</td>			<td style="width:23.48%">&nbsp;</td>			<td style="width:24.78%">&nbsp;</td>			<td style="width:24.78%">&nbsp;</td>		</tr>	</tbody></table><p>*(2)</p><p>旧金山大学本科以小班教学为主，小班比例达到1/2。国际学生是全美招收国际学生最多的大学之一，国际学生比例占22%。2013年秋季招生录取的报告显示：艺术与科学学院录取名额3,000多，商学院录取了2,000多名学生，护理学院也收到了700多份的申请。*(4)</p><p><strong>申请材料：</strong></p><ul>	<li>在线申请表：学生可通过旧金山大学自建网上申请系统或Common Application申请。</li>	<li>ESSAY</li>	<li>中学或大学<a href="http://www.qianmu.org/成绩单" target="_blank">成绩单</a>，中英文各一份</li>	<li>中期考试报告表：如学生未高中毕业需向学校出示</li>	<li>&ldquo;GAP YEAR&rdquo;说明</li>	<li>语言成绩：TOEFL、IELTS、PTE</li>	<li>SAT/<a href="http://www.qianmu.org/ACT" target="_blank">ACT</a>：提供该项成绩即可自动获得学校提供的<a href="http://www.qianmu.org/Merit-based" target="_blank">Merit-based</a><a href="http://www.qianmu.org/奖学金" target="_blank">奖学金</a></li>	<li>教师<a href="http://www.qianmu.org/推荐信" target="_blank">推荐信</a></li>	<li><a href="http://www.qianmu.org/资金证明" target="_blank">资金证明</a></li>	<li>护照复印件</li>	<li>申请费：55美元</li></ul><p>注：材料邮寄地址：</p><p>University of San Francisco</p><p>Office of International Admission Records</p><p>2130 Fulton Street</p><p>San Francisco, CA 94117-1088</p><p>USA *(9)</p><p><strong>费用与奖学金</strong></p><p><strong>费用列表：</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:20.72%">			<p>支出项目</p>			</td>			<td style="width:57.56%">			<p>项目英文名</p>			</td>			<td style="width:21.72%">			<p>2016-2017学年费用</p>			</td>		</tr>		<tr>			<td style="width:20.72%">			<p>学费</p>			</td>			<td style="width:57.56%">			<p>Tuition and fees</p>			</td>			<td style="width:21.72%">			<p>$44,494</p>			</td>		</tr>		<tr>			<td style="width:20.72%">			<p>住宿费用</p>			</td>			<td style="width:57.56%">			<p>Room and board</p>			</td>			<td style="width:21.72%">			<p>$13,990</p>			</td>		</tr>		<tr>			<td style="width:20.72%">			<p>书本费</p>			</td>			<td style="width:57.56%">			<p>Books and supplies</p>			</td>			<td style="width:21.72%">			<p>$1,600</p>			</td>		</tr>		<tr>			<td style="width:20.72%">			<p>个人花费</p>			</td>			<td style="width:57.56%">			<p>Estimated personal expenses</p>			</td>			<td style="width:21.72%">			<p>$2,600</p>			</td>		</tr>		<tr>			<td style="width:20.72%">			<p>交通费</p>			</td>			<td style="width:57.56%">			<p>Transportation expenses</p>			</td>			<td style="width:21.72%">			<p>$1,200</p>			</td>		</tr>		<tr>			<td style="width:20.72%">			<p>合计</p>			</td>			<td style="width:57.56%">			<p>Estimated Total</p>			</td>			<td style="width:21.72%">			<p>$63,884</p>			</td>		</tr>	</tbody></table><p><strong>住宿费用</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:43.38%">			<p>Room Rates - Traditional Style Halls</p>			</td>			<td style="width:23.94%">			<p>Semester</p>			</td>			<td style="width:32.68%">			<p>Annual (Fall/Spring)</p>			</td>		</tr>		<tr>			<td style="width:43.38%">			<p>Small Double Room</p>			</td>			<td style="width:23.94%">			<p>$4,275</p>			</td>			<td style="width:32.68%">			<p>$8,550</p>			</td>		</tr>		<tr>			<td style="width:43.38%">			<p>Double Room</p>			</td>			<td style="width:23.94%">			<p>$4,475</p>			</td>			<td style="width:32.68%">			<p>$8,950</p>			</td>		</tr>		<tr>			<td style="width:43.38%">			<p>Large Double Room</p>			</td>			<td style="width:23.94%">			<p>$4,755</p>			</td>			<td style="width:32.68%">			<p>$9,510</p>			</td>		</tr>		<tr>			<td style="width:43.38%">			<p>Triple Room</p>			</td>			<td style="width:23.94%">			<p>$3,585</p>			</td>			<td style="width:32.68%">			<p>$7,170</p>			</td>		</tr>		<tr>			<td style="width:43.38%">			<p>Small Single Room</p>			</td>			<td style="width:23.94%">			<p>$5,560</p>			</td>			<td style="width:32.68%">			<p>$11,120</p>			</td>		</tr>		<tr>			<td style="width:43.38%">			<p>Large Single Room</p>			</td>			<td style="width:23.94%">			<p>$5,985</p>			</td>			<td style="width:32.68%">			<p>$11,970</p>			</td>		</tr>		<tr>			<td style="width:43.38%">			<p><a href="http://www.qianmu.org/RA" target="_blank">RA</a> Room</p>			</td>			<td style="width:23.94%">			<p>$5,985</p>			</td>			<td style="width:32.68%">			<p>$11,970</p>			</td>		</tr>	</tbody></table><p>*(10)</p><p>旧金山大学提供Merit-based奖学金。要求国际学生必须提供<a href="http://www.qianmu.org/GPA" target="_blank">GPA</a>、SAT/ACT成绩。学生无需单独提交奖学金申请表，只需在2月15日前递交申请表即可自动获得Merit-based奖学金。2015年度共有131名国际学生获得奖学金，奖学金总额为$3,055,355，平均金额为$23,323。*(11)</p><h2>转学申请</h2><p><strong>基本信息</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:17.7%">			<p>TOEF要求</p>			</td>			<td style="width:13.1%">			<p>79</p>			</td>			<td style="width:20.28%">			<p>GPA要求</p>			</td>			<td style="width:12.76%">			<p>3.0</p>			</td>			<td style="width:21.3%">			<p>申请截止日期</p>			</td>			<td style="width:14.86%">滚动录取</td>		</tr>		<tr>			<td style="width:17.7%">			<p>IELTS要求</p>			</td>			<td style="width:13.1%">			<p>6.0</p>			</td>			<td style="width:20.28%">			<p>SAT要求</p>			</td>			<td style="width:12.76%">			<p>Not Required</p>			</td>			<td style="width:21.3%">			<p>开学时间</p>			</td>			<td style="width:14.86%">			<p>8月-9月</p>			</td>		</tr>		<tr>			<td style="width:17.7%">			<p>最高可转学分</p>			</td>			<td style="width:13.1%">			<p>-</p>			</td>			<td style="width:20.28%">			<p>最低学分要求</p>			</td>			<td style="width:12.76%">			<p>24</p>			</td>			<td style="width:21.3%">			<p>可申请学期</p>			</td>			<td style="width:14.86%">			<p>秋季、春季</p>			</td>		</tr>		<tr>			<td style="width:17.7%">			<p>申请人数</p>			</td>			<td style="width:13.1%">			<p>2,420</p>			</td>			<td style="width:20.28%">			<p>录取人数</p>			</td>			<td style="width:12.76%">			<p>1,367</p>			</td>			<td style="width:21.3%">			<p>录取率</p>			</td>			<td style="width:14.86%">			<p>56%</p>			</td>		</tr>	</tbody></table><p>*(4)(12)</p><p>注：</p><p>（1）秋季学期申请截止日期是2月15日，奖学金申请截止日期是1月15日；春季学期申请截止日期是11月1日，护理专业申请截止日期是11月1日。*(5)</p><p>（2）国际学生的成绩单需经<a href="http://www.qianmu.org/WES" target="_blank">WES</a>公证递交</p><p>（3）旧金山大学要求转学申请者GPA3.0以上，如考虑转学分，单门课程GPA须在2.0以上</p><p><strong>申请说明</strong></p><p>旧金山大学秋季和春季学期均可以转学，可入读大一、大二、大三、大四其中任何一个学期。要求申请者至少修读过24个学分，方能以转学生的身份申请&mdash;&mdash;一般需读完大一即可以达到。该校转学申请与新生申请并无区别，奖学金申请需SAT与ACT成绩。*(13)</p><p>奖学金申请参见外部链接说明。</p><p><strong>联系方式：</strong></p><p>Office of Undergraduate Admission</p><p>admission@usfca.edu</p><p>(415) 422-6563 or</p><p>1-800-CALL-USF*(14)</p><h2>专业设置</h2><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:44.24%">			<p>专业名称</p>			</td>			<td style="width:55.76%">			<p>专业英文名</p>			</td>		</tr>		<tr>			<td style="width:44.24%">			<p><a href="http://www.qianmu.org/会计" target="_blank">会计</a></p>			</td>			<td style="width:55.76%">			<p><a href="http://www.qianmu.org/会计" target="_blank">Accounting</a></p>			</td>		</tr>		<tr>			<td style="width:44.24%">			<p>广告</p>			</td>			<td style="width:55.76%">			<p><a href="http://www.qianmu.org/广告学" target="_blank">Advertising</a></p>			</td>		</tr>		<tr>			<td style="width:44.24%">			<p>建筑与社区设计</p>			</td>			<td style="width:55.76%">			<p>Architecture and Community Design</p>			</td>		</tr>		<tr>			<td style="width:44.24%">			<p><a href="http://www.qianmu.org/艺术史" target="_blank">艺术史</a>与艺术管理</p>			</td>			<td style="width:55.76%">			<p>Art <a href="http://www.qianmu.org/历史" target="_blank">History</a>/Arts Management</p>			</td>		</tr>		<tr>			<td style="width:44.24%">			<p>亚洲研究</p>			</td>			<td style="width:55.76%">			<p>Asian Studies</p>			</td>		</tr>		<tr>			<td style="width:44.24%">			<p>生物学</p>			</td>			<td style="width:55.76%">			<p>Biology</p>			</td>		</tr>		<tr>			<td style="width:44.24%">			<p>工商管理</p>			</td>			<td style="width:55.76%">			<p>Business Administration</p>			</td>		</tr>		<tr>			<td style="width:44.24%">			<p><a href="http://www.qianmu.org/化学" target="_blank">化学</a></p>			</td>			<td style="width:55.76%">			<p><a href="http://www.qianmu.org/化学" target="_blank">Chemistry</a></p>			</td>		</tr>		<tr>			<td style="width:44.24%">			<p>传播研究</p>			</td>			<td style="width:55.76%">			<p>Communication Studies</p>			</td>		</tr>		<tr>			<td style="width:44.24%">			<p><a href="http://www.qianmu.org/比较文学" target="_blank">比较文学</a>与文化</p>			</td>			<td style="width:55.76%">			<p>Comparative Literature and Culture</p>			</td>		</tr>		<tr>			<td style="width:44.24%">			<p><a href="http://www.qianmu.org/计算机科学" target="_blank">计算机科学</a></p>			</td>			<td style="width:55.76%">			<p><a href="http://www.qianmu.org/计算机科学" target="_blank">Computer Science</a></p>			</td>		</tr>		<tr>			<td style="width:44.24%">			<p>多样性研究</p>			</td>			<td style="width:55.76%">			<p>Critical Diversity Studies</p>			</td>		</tr>		<tr>			<td style="width:44.24%">			<p>数据科学</p>			</td>			<td style="width:55.76%">			<p>Data Science</p>			</td>		</tr>		<tr>			<td style="width:44.24%">			<p>设计</p>			</td>			<td style="width:55.76%">			<p>Design</p>			</td>		</tr>		<tr>			<td style="width:44.24%">			<p><a href="http://www.qianmu.org/经济学" target="_blank">经济学</a></p>			</td>			<td style="width:55.76%">			<p><a href="http://www.qianmu.org/经济学" target="_blank">Economics</a></p>			</td>		</tr>		<tr>			<td style="width:44.24%">			<p><a href="http://www.qianmu.org/英语" target="_blank">英语</a></p>			</td>			<td style="width:55.76%">			<p>English</p>			</td>		</tr>		<tr>			<td style="width:44.24%">			<p>企业管理与创新</p>			</td>			<td style="width:55.76%">			<p><a href="http://www.qianmu.org/创业管理" target="_blank">Entrepreneurship</a> and Innovation</p>			</td>		</tr>		<tr>			<td style="width:44.24%">			<p><a href="http://www.qianmu.org/环境科学" target="_blank">环境科学</a></p>			</td>			<td style="width:55.76%">			<p>Environmental Science</p>			</td>		</tr>		<tr>			<td style="width:44.24%">			<p>环境研究</p>			</td>			<td style="width:55.76%">			<p>Environmental Studies</p>			</td>		</tr>		<tr>			<td style="width:44.24%">			<p>运动科学</p>			</td>			<td style="width:55.76%">			<p>Exercise and Sport Science</p>			</td>		</tr>		<tr>			<td style="width:44.24%">			<p><a href="http://www.qianmu.org/金融" target="_blank">金融</a></p>			</td>			<td style="width:55.76%">			<p><a href="http://www.qianmu.org/金融" target="_blank">Finance</a></p>			</td>		</tr>		<tr>			<td style="width:44.24%">			<p><a href="http://www.qianmu.org/美术" target="_blank">美术</a></p>			</td>			<td style="width:55.76%">			<p><a href="http://www.qianmu.org/美术" target="_blank">Fine Arts</a></p>			</td>		</tr>		<tr>			<td style="width:44.24%">			<p>法国研究</p>			</td>			<td style="width:55.76%">			<p>French Studies</p>			</td>		</tr>		<tr>			<td style="width:44.24%">			<p>历史</p>			</td>			<td style="width:55.76%">			<p>History</p>			</td>		</tr>		<tr>			<td style="width:44.24%">			<p><a href="http://www.qianmu.org/酒店管理" target="_blank">酒店管理</a></p>			</td>			<td style="width:55.76%">			<p>Hospitality Management</p>			</td>		</tr>		<tr>			<td style="width:44.24%">			<p><a href="http://www.qianmu.org/国际贸易" target="_blank">国际贸易</a></p>			</td>			<td style="width:55.76%">			<p>International Business</p>			</td>		</tr>		<tr>			<td style="width:44.24%">			<p>国际问题研究</p>			</td>			<td style="width:55.76%">			<p>International Studies</p>			</td>		</tr>		<tr>			<td style="width:44.24%">			<p>日本研究</p>			</td>			<td style="width:55.76%">			<p>Japanese Studies</p>			</td>		</tr>		<tr>			<td style="width:44.24%">			<p>拉丁美洲研究</p>			</td>			<td style="width:55.76%">			<p>Latin American Studies</p>			</td>		</tr>		<tr>			<td style="width:44.24%">			<p><a href="http://www.qianmu.org/市场营销" target="_blank">市场营销</a></p>			</td>			<td style="width:55.76%">			<p><a href="http://www.qianmu.org/市场营销" target="_blank">Marketing</a></p>			</td>		</tr>		<tr>			<td style="width:44.24%">			<p>管理</p>			</td>			<td style="width:55.76%">			<p>Management</p>			</td>		</tr>		<tr>			<td style="width:44.24%">			<p><a href="http://www.qianmu.org/数学" target="_blank">数学</a></p>			</td>			<td style="width:55.76%">			<p><a href="http://www.qianmu.org/数学" target="_blank">Mathematics</a></p>			</td>		</tr>		<tr>			<td style="width:44.24%">			<p>媒体研究</p>			</td>			<td style="width:55.76%">			<p>Media Studies</p>			</td>		</tr>		<tr>			<td style="width:44.24%">			<p>护理</p>			</td>			<td style="width:55.76%">			<p>Nursing</p>			</td>		</tr>		<tr>			<td style="width:44.24%">			<p>组织领导与行为</p>			</td>			<td style="width:55.76%">			<p>Organizational Leadership and Behavior</p>			</td>		</tr>		<tr>			<td style="width:44.24%">			<p>表演艺术</p>			</td>			<td style="width:55.76%">			<p>Performing Arts</p>			</td>		</tr>		<tr>			<td style="width:44.24%">			<p><a href="http://www.qianmu.org/哲学" target="_blank">哲学</a></p>			</td>			<td style="width:55.76%">			<p>Philosophy</p>			</td>		</tr>		<tr>			<td style="width:44.24%">			<p><a href="http://www.qianmu.org/物理" target="_blank">物理</a></p>			</td>			<td style="width:55.76%">			<p><a href="http://www.qianmu.org/物理" target="_blank">Physics</a></p>			</td>		</tr>		<tr>			<td style="width:44.24%">			<p>政治</p>			</td>			<td style="width:55.76%">			<p>Politics</p>			</td>		</tr>		<tr>			<td style="width:44.24%">			<p><a href="http://www.qianmu.org/心理学" target="_blank">心理学</a></p>			</td>			<td style="width:55.76%">			<p>Psychology</p>			</td>		</tr>		<tr>			<td style="width:44.24%">			<p><a href="http://www.qianmu.org/社会学" target="_blank">社会学</a></p>			</td>			<td style="width:55.76%">			<p><a href="http://www.qianmu.org/社会学" target="_blank">Sociology</a></p>			</td>		</tr>		<tr>			<td style="width:44.24%">			<p><a href="http://www.qianmu.org/西班牙语" target="_blank">西班牙语</a>研究</p>			</td>			<td style="width:55.76%">			<p>Spanish Studies</p>			</td>		</tr>		<tr>			<td style="width:44.24%">			<p><a href="http://www.qianmu.org/神学" target="_blank">神学</a>和<a href="http://www.qianmu.org/宗教学" target="_blank">宗教研究</a></p>			</td>			<td style="width:55.76%">			<p>Theology and Religious Studies</p>			</td>		</tr>		<tr>			<td style="width:44.24%">			<p>城市发展研究</p>			</td>			<td style="width:55.76%">			<p>Urban Studies</p>			</td>		</tr>	</tbody></table><p>*(15)</p><p><strong>外部链接：</strong></p><p>转学专业奖学金申请要求：<a href="http://www.qianmu.org/redirect?code=vrJH6YyGwx30hzwkIIII0K-u7btTxCNRj4I4Il6Mxomehs6_mbHRwo6_x4tRxOg17iCv4kVIl3CmgACfYBu8K3CvuZQ14kVrgz7Idk7m4ZGIdSU_jB7tb8xz6QHZwS-XoLhtnSe-zThtdWM472hAjIe4qde" target="_blank">Outside Scholarships for Transfer and Continuing Students</a></p><p><strong>参考资料：</strong></p><p>(1)<a href="http://www.qianmu.org/redirect?code=Gr-dDk5xLyQ825-WMs1RYzh2pC5OId1wyAHjxii4wgbRFhkLehhW9HV3StahwF6bmjz-CGxZUbBs-KJRwNUaXaow6eWW1SrPsvMWZv6wbWPZTyfXrnZcx-yGOrgMKTTZX4rakRk1Q5NqTNT4P45M-sGxLuoGutSI2_5G2oaMyqDWx-FhkLeKvrxvhaDCPDp8-tNkiS" target="_blank">National University Rankings</a> USNEWS Ranking</p><p>(2)<a href="http://www.qianmu.org/redirect?code=5rk_5oaLwolVB9PbNNNNNGujlsmDlR7-_9QLwoDtDzEA6tjlHsQqYmcxRoXNHzX3_tQ9R9QiYswoU7b3YGKuNAJuW3dYw-o_VGkYpbQY4-BOmbCyZ3dYw-o_VGknpxkYpgCOT37xTUryZ-ry2o" target="_blank">Annual College Costs (Fall 2015)</a> College Board</p><p>(3)<a href="http://www.qianmu.org/redirect?code=yrZqibevLJD7t4xwTTTTTi7aHnY3uAvSV-EQEQa_vKWklFX6oaistZ_jDrkrLUp4LF52DlPXNjyXB8Pc4iPBCiOijEWft5R1kbTNQJXsBx0Imp8fMDjVFzZ5_F_lQz" target="_blank">Facts &amp; Figures</a> University of San Francisco</p><p>(4)<a href="http://www.qianmu.org/redirect?code=srULj0BNLT819nzr555556fkwSXx4APMtotoYBuxZ9ETfB29wgPTNSVkYEhGTbmSW29S-n9z-2Yu-U9ucnDFTbrj-EYdQvbo89eLn9OahJbqmxbcrJqaC9eGm9VRQHSq7xVaQEp" target="_blank">Required Documentation</a> University of San Francisco</p><p>(5)<a href="http://www.qianmu.org/redirect?code=DroIGDOJLvi-JM2SjkV2X-hBbeObF6saP2zY1O7jqce4K5t_C-RnLy32WzwLsIjFQzUtjHnlGxMPw4Es3YiMswLEppY2M0r5-KBQksJtw44Je8ITron" target="_blank">Deadlines</a> University of San Francisco</p><p>(6)<a href="http://www.qianmu.org/redirect?code=SrWl9LuckzD3-EDDIIIIIhF0MLB8gQPBpr0B5YJnLrEqpmroWjIogzFZFxKZfEKZez8dHbaY6QI66Qg0Hx8vR58Y6zg7Rx8vujToebNHbcGlEuGSLtKOHjobfAnDqAM6fW4tZSZlJ_LpFOHpnQgiMVp0I" target="_blank">University of San Francisco</a> USNEWS</p><p>(7)<a href="http://www.qianmu.org/redirect?code=Rr0CBrMJLvi-JINLiiiii-xj2L3YrLAfZ9SwVpmDgXCHlf057323HKVAisLp4C2yIs29jo84sDs4Hxt5HxBjyAjoTgj2TD9CE6jnXbdqB3cAl30fjDlPXN15jFOLtKhiX6F6aNDdfNisAp3r7b3wq3tk5TC-" target="_blank">Majors and Learning Environment</a> College Board</p><p>(8)<a href="http://www.qianmu.org/redirect?code=zrQ-nHVhwkcdGuLWQQQQQLkrGEi7zEw-OWqSN1_pYW_ZJqY46CRr1bA6JUHYCa_7Tu_iJgEVxNxVucEnzxLy1PWOZbCyZ3dw2Whc3fuDGut_OuB1GUpURM4i5KjRmCg2XH6apUf7sU-Z_-OVf4ORXSiK4QuL" target="_blank">Campus Life: Housing</a> College Board</p><p>(9)<a href="http://www.qianmu.org/redirect?code=mrtw23qOktZGdUSNyyyyymfTGWoOvRnJvEIEIwkdoiJx2aS7jDGEn60WzTdpMT0wgyHNDyECDJENztEFDOQtkrChgA8pVBD9VTPXbAQXcKipV4UhVBmp4KmqEAjbEn7RYKJZFn3Rur" target="_blank">Required Documentation</a> University of San Francisco</p><p>(10)<a href="http://www.qianmu.org/redirect?code=Nr20uKHpwOBAjWTEeUlnAzzCkcVgiT_15UR2vq59OdjswmUI1hr2z0XDKHzZrBCv8uMh7GFdJTz0BOD1Fhb" target="_blank">Tuition and Fees Schedule for Academic Year 2014-15</a> University of San Francisco</p><p>(11)<a href="http://www.qianmu.org/redirect?code=IrnDV7pywRjyJ5CtvDm3HuBu7zR6ya6h2m08PxSDhzxQZ-HDcFIhxROA3bzYI5H0vATd11Dp2iVKOO0NNyiAWzYzHo0TLqOB6S5wr3U" target="_blank">Undergraduate Financial Aid</a> University of San Francisco</p><p>(12)<a href="http://www.qianmu.org/redirect?code=urKrNAQiLOJkAaqnGGGGGg_wJz6PNzLBYWzmLTbco9n6vcQUsx57xrhlB5eJd1HfUVHKuBuh-b-hLxt5HxBjyAwK0t1J02kQ9YZAVRvrt5GwC54A8WY1F45cS6rjBp907MQzhZTVxZpF0xPqKLPaU1D-aMY5" target="_blank">Transfer Students</a> College Board</p><p>(13)<a href="http://www.qianmu.org/redirect?code=YrwF0vBTwdft_1FJddddddeBKw6qzebtyXyXN4Cq1RMwDNQeM7aADmKfOqGSOmiHb2KeGz7o_OrEGf3" target="_blank">Transfer Admission</a> University of San Francisco</p><p>(14)<a href="http://www.qianmu.org/redirect?code=5rk_5oGSL1wLXOK1pY-5gUraCOzmQdS-DMa_tGmb-6Ucejrq8reIYQeuo7q3YVsIITIqIz1MB0M" target="_blank">Contact Us</a> University of San Francisco</p><p>(15) <a href="http://www.qianmu.org/redirect?code=MrO2cainkkP-GVRjBjru2uRjXp1o13U38uoxWgpkC5GFGUdGwPhUTfxxLJCb28DXCnyPn5hKERBfPcq9abHPAm5GpuTEojmFHkJLEYD_jAxsepzo" target="_blank">Undergraduate Programs</a> University of San Francisco</p><h1>研究生申请</h1><p><strong>院系设置</strong></p><p>旧金山大学开设共5所学术学院，分别是：</p><ul>	<li>护理与卫生学院（School of Nursing and Health Professions）</li>	<li>管理学院（School of Management）</li>	<li>法学院（School of Law）</li>	<li>教育学院（School of Education）</li>	<li>艺术与科学学院（College of Arts and Sciences）*(1)</li></ul><p><strong>基本要求</strong></p><p>旧金山大学研究生项目主要由学校研究生院负责，法学院申请主要通过法学院内部系统在线申请。*(2)</p><p>基本申请条件如下：</p><ul>	<li>学位要求：要求正规大学本科毕业并取得学士学位</li>	<li>GPA要求：要求本科GPA不低于2.75分</li>	<li>语言要求：TOEFL要求不低于100分，IELTS要求不低于7.0分，均无单项要求；PTE要求不低于68，接受双录取*(3)</li>	<li><strong>G</strong>RE要求：大多数项目均要求有<a href="http://www.qianmu.org/GRE" target="_blank">GRE</a>成绩，部分商科项目还要求递交<a href="http://www.qianmu.org/GMAT" target="_blank">GMAT</a>成绩</li>	<li>申请时间：旧金山大学并未设定统一的申请截止日期，各项目有各自的规定，多在10月15日-4月1日间截止，具体参照各个学院项目具体说明。*(4)</li>	<li>条件录取：<a href="http://www.qianmu.org/西弗吉尼亚大学" target="_blank">西弗吉尼亚大学</a>接受条件录取；欲申请条件录取项目的学生，需在申请的同时与学校招生处联系，说明自己有意入读该校开设的英语强化课程</li></ul><p><strong>申请说明</strong></p><p>旧金山大学研究生有着统一的<a href="http://www.qianmu.org/申请材料" target="_blank">申请材料</a>规定，具体如下：</p><ul>	<li>在线申请表，通过学校内部系统申请</li>	<li>申请费</li>	<li>正式成绩单</li>	<li>GRE/GMAT成绩</li>	<li>TOEFL与IELTS成绩</li>	<li>资金证明：申请时无需递交，录取后必需递交</li>	<li>其它材料：推荐信、<a href="http://www.qianmu.org/个人陈述" target="_blank">个人陈述</a>、<a href="http://www.qianmu.org/个人作品" target="_blank">个人作品</a>、<a href="http://www.qianmu.org/个人简历" target="_blank">个人简历</a>、<a href="http://www.qianmu.org/写作样本" target="_blank">写作样本</a>、试镜、<a href="http://www.qianmu.org/面试" target="_blank">面试</a>等部分专业可能会需要。一般而言，人文类专业多会要求递交写作样本，艺术类专业可能会要求递交个人作品等</li></ul><p><strong>资金证明要求：</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:76.0%">			<p><strong>Programs</strong></p>			</td>			<td style="width:24.0%">			<p><strong>Funding/Year</strong></p>			</td>		</tr>		<tr>			<td colspan="2" style="width:100.0%">			<p><strong>Arts&nbsp;and Sciences</strong></p>			</td>		</tr>		<tr>			<td style="width:76.0%">			<p>Analytics</p>			</td>			<td style="width:24.0%">			<p>$57,830 (2014-2015)</p>			</td>		</tr>		<tr>			<td style="width:76.0%">			<p>Biology</p>			</td>			<td style="width:24.0%">			<p>$16,880 (2014-2015)</p>			</td>		</tr>		<tr>			<td style="width:76.0%">			<p>Chemistry</p>			</td>			<td style="width:24.0%">			<p>$16,880 (2014-2015)</p>			</td>		</tr>		<tr>			<td style="width:76.0%">			<p>International Studies</p>			</td>			<td style="width:24.0%">			<p>$47,775 (2014-2015)</p>			</td>		</tr>		<tr>			<td style="width:76.0%">			<p>Museum Studies</p>			</td>			<td style="width:24.0%">			<p>$57,830 (2014-2015)</p>			</td>		</tr>		<tr>			<td style="width:76.0%">			<p>Sport Management</p>			</td>			<td style="width:24.0%">			<p>$42,250 (2014-2015)</p>			</td>		</tr>		<tr>			<td style="width:76.0%">			<p>Writing</p>			</td>			<td style="width:24.0%">			<p>$42,250 (2014-2015)</p>			</td>		</tr>		<tr>			<td style="width:76.0%">			<p>All other Arts&nbsp;and Sciences programs</p>			</td>			<td style="width:24.0%">			<p>$40,585 (2014-2015)</p>			</td>		</tr>		<tr>			<td colspan="2" style="width:100.0%">			<p><strong>Education</strong></p>			</td>		</tr>		<tr>			<td style="width:76.0%">			<p><strong>Master&#39;s Programs</strong></p>			</td>			<td style="width:24.0%">&nbsp;</td>		</tr>		<tr>			<td style="width:76.0%">			<p>Catholic Educational Leadership</p>			</td>			<td style="width:24.0%">			<p>$28,720 (2014-2015)</p>			</td>		</tr>		<tr>			<td style="width:76.0%">			<p>Counseling Psychology - Marriage &amp; Family Therapy</p>			</td>			<td style="width:24.0%">			<p>$53,815 (2014-2015)</p>			</td>		</tr>		<tr>			<td style="width:76.0%">			<p>All Other Master&#39;s Programs</p>			</td>			<td style="width:24.0%">			<p>$38,635 (2014-2015)</p>			</td>		</tr>		<tr>			<td style="width:76.0%">			<p><strong>Doctoral Programs</strong></p>			</td>			<td style="width:24.0%">&nbsp;</td>		</tr>		<tr>			<td style="width:76.0%">			<p>Catholic Educational Leadership</p>			</td>			<td style="width:24.0%">			<p>$27,960 (2014-2015)</p>			</td>		</tr>		<tr>			<td style="width:76.0%">			<p>International &amp; Multicultural Education / Organization &amp; Leadership</p>			</td>			<td style="width:24.0%">			<p>$36,785 (2014-2015)</p>			</td>		</tr>		<tr>			<td style="width:76.0%">			<p>Learning &amp; Instruction / Special Education</p>			</td>			<td style="width:24.0%">			<p>$33,185 (2014-2015)</p>			</td>		</tr>		<tr>			<td colspan="2" style="width:100.0%">			<p><strong>Law</strong></p>			</td>		</tr>		<tr>			<td style="width:76.0%">			<p><a href="http://www.qianmu.org/LLM" target="_blank">LLM</a></p>			</td>			<td style="width:24.0%">			<p>$65,632 (2014-2015)</p>			</td>		</tr>		<tr>			<td colspan="2" style="width:100.0%">			<p><strong>Management</strong></p>			</td>		</tr>		<tr>			<td style="width:76.0%">			<p>Analytics&nbsp;</p>			</td>			<td style="width:24.0%">			<p>$57,830 (2014-2015)&nbsp;</p>			</td>		</tr>		<tr>			<td style="width:76.0%">			<p>Full-Time <a href="http://www.qianmu.org/MBA" target="_blank">MBA</a></p>			</td>			<td style="width:24.0%">			<p>$63,500 (2014-2015)</p>			</td>		</tr>		<tr>			<td style="width:76.0%">			<p>Financial Analysis</p>			</td>			<td style="width:24.0%">			<p>$56,620 (2014-2015)</p>			</td>		</tr>		<tr>			<td style="width:76.0%">			<p>Accelerated Financial Analysis</p>			</td>			<td style="width:24.0%">			<p>$66,220 (2014-2015)&nbsp;</p>			</td>		</tr>		<tr>			<td style="width:76.0%">			<p><a href="http://www.qianmu.org/风险管理与保险" target="_blank">Risk Management</a>&nbsp;</p>			</td>			<td style="width:24.0%">			<p>$40,380 (2014-2015)</p>			</td>		</tr>		<tr>			<td style="width:76.0%">			<p>Certificate Programs</p>			</td>			<td style="width:24.0%">			<p>$18,165 (2014-2015)</p>			</td>		</tr>		<tr>			<td colspan="2" style="width:100.0%">			<p><strong>Nursing and Health Professions</strong></p>			</td>		</tr>		<tr>			<td style="width:76.0%">			<p>MSN for Non-Nurse with any Bachelor&#39;s</p>			</td>			<td style="width:24.0%">			<p>$73,360 (2014-2015)</p>			</td>		</tr>		<tr>			<td style="width:76.0%">			<p>MSN for RN with AND</p>			</td>			<td style="width:24.0%">			<p>$57,780 (2014-2015)</p>			</td>		</tr>		<tr>			<td style="width:76.0%">			<p>MSN for RN with BSN</p>			</td>			<td style="width:24.0%">			<p>$44,595 (2014-2015)</p>			</td>		</tr>		<tr>			<td style="width:76.0%">			<p>Public Heath</p>			</td>			<td style="width:24.0%">			<p>$54,185 (2014-2015)</p>			</td>		</tr>		<tr>			<td style="width:76.0%">			<p>Executive Leadership DNP</p>			</td>			<td style="width:24.0%">			<p>$53,935 (2014-2015)</p>			</td>		</tr>		<tr>			<td style="width:76.0%">			<p>DNP Programs for RN with BSN</p>			</td>			<td style="width:24.0%">			<p>$50,590 (2014-2015)</p>			</td>		</tr>		<tr>			<td style="width:76.0%">			<p>DNP Programs for RN with MSN&nbsp;</p>			</td>			<td style="width:24.0%">			<p>$60,175 (2014-2015)</p>			</td>		</tr>	</tbody></table><p>*(5)</p><p><strong>语言成绩要求：</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:34.54%">			<p><strong>Programs</strong></p>			</td>			<td style="width:14.98%">			<p><strong>TOEFL(iBT)</strong></p>			</td>			<td style="width:23.28%">			<p><strong>Minimum sub-score</strong></p>			</td>			<td style="width:11.64%">			<p><strong>IELTS</strong></p>			</td>			<td style="width:15.56%">			<p><strong>PTE</strong></p>			</td>		</tr>		<tr>			<td style="width:34.54%">			<p>Analytics</p>			</td>			<td style="width:14.98%">			<p>90</p>			</td>			<td style="width:23.28%">			<p>17</p>			</td>			<td style="width:11.64%">			<p>6.5</p>			</td>			<td style="width:15.56%">			<p>61</p>			</td>		</tr>		<tr>			<td colspan="5" style="width:100.0%">			<p><strong>College of Arts and Sciences</strong></p>			</td>		</tr>		<tr>			<td style="width:34.54%">			<p>Asia Pacific Studies, Biology, Biotechnology, Public Affairs, Urban Affairs</p>			</td>			<td style="width:14.98%">			<p>100</p>			</td>			<td style="width:23.28%">			<p>17</p>			</td>			<td style="width:11.64%">			<p>7</p>			</td>			<td style="width:15.56%">			<p>65</p>			</td>		</tr>		<tr>			<td style="width:34.54%">			<p>Chemistry, Collegiate Athletics, Environmental Management, International Studies, Museum Studies</p>			</td>			<td style="width:14.98%">			<p>90</p>			</td>			<td style="width:23.28%">			<p>17</p>			</td>			<td style="width:11.64%">			<p>6.5</p>			</td>			<td style="width:15.56%">			<p>61</p>			</td>		</tr>		<tr>			<td style="width:34.54%">			<p>Economics, International and Development Economics, Sport Management, Writing</p>			</td>			<td style="width:14.98%">			<p>79</p>			</td>			<td style="width:23.28%">			<p>17</p>			</td>			<td style="width:11.64%">			<p>6.5</p>			</td>			<td style="width:15.56%">			<p>53</p>			</td>		</tr>		<tr>			<td style="width:34.54%">			<p>Computer Science and Web Science</p>			</td>			<td style="width:14.98%">			<p>71</p>			</td>			<td style="width:23.28%">			<p>17</p>			</td>			<td style="width:11.64%">			<p>6</p>			</td>			<td style="width:15.56%">			<p>48</p>			</td>		</tr>		<tr>			<td colspan="5" style="width:100.0%">			<p><strong>School of Education</strong></p>			</td>		</tr>		<tr>			<td style="width:34.54%">			<p>Master&#39;s Programs</p>			</td>			<td style="width:14.98%">			<p>92</p>			</td>			<td style="width:23.28%">			<p>20</p>			</td>			<td style="width:11.64%">			<p>7</p>			</td>			<td style="width:15.56%">			<p>62</p>			</td>		</tr>		<tr>			<td style="width:34.54%">			<p>Doctoral Programs</p>			</td>			<td style="width:14.98%">			<p>100</p>			</td>			<td style="width:23.28%">			<p>20</p>			</td>			<td style="width:11.64%">			<p>7</p>			</td>			<td style="width:15.56%">			<p>68</p>			</td>		</tr>		<tr>			<td colspan="5" style="width:100.0%">			<p><strong>School of Management</strong></p>			</td>		</tr>		<tr>			<td style="width:34.54%">			<p>Global Entrepreneurial Management</p>			</td>			<td style="width:14.98%">			<p>79</p>			</td>			<td style="width:23.28%">&nbsp;</td>			<td style="width:11.64%">			<p>6</p>			</td>			<td style="width:15.56%">			<p>53</p>			</td>		</tr>		<tr>			<td style="width:34.54%">			<p>All Other Programs (except Analytics)</p>			</td>			<td style="width:14.98%">			<p>100</p>			</td>			<td style="width:23.28%">&nbsp;</td>			<td style="width:11.64%">			<p>7</p>			</td>			<td style="width:15.56%">			<p>68</p>			</td>		</tr>		<tr>			<td colspan="5" style="width:100.0%">			<p><strong>School of Nursing and Health Professions</strong></p>			</td>		</tr>		<tr>			<td style="width:34.54%">			<p>All Programs</p>			</td>			<td style="width:14.98%">			<p>100</p>			</td>			<td style="width:23.28%">&nbsp;</td>			<td style="width:11.64%">			<p>7</p>			</td>			<td style="width:15.56%">			<p>68</p>			</td>		</tr>	</tbody></table><p>*(6)</p><p><strong>费用与奖学金</strong></p><p><strong>费用（2014-15</strong><strong>）</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:330px">			<p><strong>Programs</strong></p>			</td>			<td style="width:66px">			<p><strong>Unit</strong></p>			</td>			<td style="width:81px">			<p><strong>Semester</strong></p>			</td>			<td style="width:91px">			<p><strong>Year</strong></p>			</td>		</tr>		<tr>			<td style="width:330px">			<p>Arts and Sciences</p>			</td>			<td style="width:66px">			<p>$1,209</p>			</td>			<td style="width:81px">&nbsp;</td>			<td style="width:91px">&nbsp;</td>		</tr>		<tr>			<td style="width:330px">			<p>Management</p>			</td>			<td style="width:66px">&nbsp;</td>			<td style="width:81px">&nbsp;</td>			<td style="width:91px">&nbsp;</td>		</tr>		<tr>			<td style="width:330px">			<p>MBA</p>			</td>			<td style="width:66px">			<p>$1,291</p>			</td>			<td style="width:81px">&nbsp;</td>			<td style="width:91px">&nbsp;</td>		</tr>		<tr>			<td style="width:330px">			<p>MSFA&nbsp;</p>			</td>			<td style="width:66px">			<p>$1,291</p>			</td>			<td style="width:81px">			<p>$13,490 &nbsp; &nbsp;</p>			</td>			<td style="width:91px">			<p>$26,980</p>			</td>		</tr>		<tr>			<td style="width:330px">			<p>&nbsp;MSAFA, MSFN, MS(Supply Chain Mgmt), MSAIR, MSRM</p>			</td>			<td style="width:66px">			<p>$1,209</p>			</td>			<td style="width:81px">&nbsp;</td>			<td style="width:91px">&nbsp;</td>		</tr>		<tr>			<td style="width:330px">			<p>&nbsp;MGEM</p>			</td>			<td style="width:66px">&nbsp;</td>			<td style="width:81px">			<p>$13,099</p>			</td>			<td style="width:91px">&nbsp;</td>		</tr>		<tr>			<td style="width:330px">			<p>MBAE</p>			</td>			<td style="width:66px">&nbsp;</td>			<td style="width:81px">			<p>$22,375</p>			</td>			<td style="width:91px">			<p>$44,750</p>			</td>		</tr>		<tr>			<td style="width:330px">			<p>MSIS, MNA, MPA, MSOD</p>			</td>			<td style="width:66px">			<p>$1,080</p>			</td>			<td style="width:81px">&nbsp;</td>			<td style="width:91px">&nbsp;</td>		</tr>		<tr>			<td style="width:330px">			<p>Joint Arts &amp; Sciences and Management Graduate Degree Program&nbsp;- MSAN</p>			</td>			<td style="width:66px">			<p>$1,209</p>			</td>			<td style="width:81px">&nbsp;</td>			<td style="width:91px">&nbsp;</td>		</tr>		<tr>			<td style="width:330px">			<p>Nursing &amp; Health Professions</p>			</td>			<td style="width:66px">&nbsp;</td>			<td style="width:81px">&nbsp;</td>			<td style="width:91px">&nbsp;</td>		</tr>		<tr>			<td style="width:330px">			<p>Masters (MSN, MPH, MSBH, MSHI)</p>			</td>			<td style="width:66px">			<p>$1,209</p>			</td>			<td style="width:81px">&nbsp;</td>			<td style="width:91px">&nbsp;</td>		</tr>		<tr>			<td style="width:330px">			<p>Masters (MSHS)</p>			</td>			<td style="width:66px">&nbsp;</td>			<td style="width:81px">			<p>$13,778</p>			</td>			<td style="width:91px">			<p>$27,556</p>			</td>		</tr>		<tr>			<td style="width:330px">			<p>Doctoral (DNP, PsyD)</p>			</td>			<td style="width:66px">			<p>$1,209</p>			</td>			<td style="width:81px">&nbsp;</td>			<td style="width:91px">&nbsp;</td>		</tr>		<tr>			<td style="width:330px">			<p>Executive DNP (Doctoral)</p>			</td>			<td style="width:66px">&nbsp;</td>			<td style="width:81px">			<p>$13,778</p>			</td>			<td style="width:91px">			<p>$27,556</p>			</td>		</tr>		<tr>			<td style="width:330px">			<p>Education</p>			</td>			<td style="width:66px">&nbsp;</td>			<td style="width:81px">&nbsp;</td>			<td style="width:91px">&nbsp;</td>		</tr>		<tr>			<td style="width:330px">			<p>Masters</p>			</td>			<td style="width:66px">			<p>$1,080</p>			</td>			<td style="width:81px">&nbsp;</td>			<td style="width:91px">&nbsp;</td>		</tr>		<tr>			<td style="width:330px">			<p>Institute for Catholic Educational Leadership</p>			</td>			<td style="width:66px">			<p>$556</p>			</td>			<td style="width:81px">&nbsp;</td>			<td style="width:91px">&nbsp;</td>		</tr>		<tr>			<td style="width:330px">			<p>EARCOS</p>			</td>			<td style="width:66px">			<p>$556</p>			</td>			<td style="width:81px">&nbsp;</td>			<td style="width:91px">&nbsp;</td>		</tr>		<tr>			<td style="width:330px">			<p>Credential Programs</p>			</td>			<td style="width:66px">			<p>$911</p>			</td>			<td style="width:81px">&nbsp;</td>			<td style="width:91px">&nbsp;</td>		</tr>		<tr>			<td style="width:330px">			<p>TED Catholic School</p>			</td>			<td style="width:66px">			<p>$556</p>			</td>			<td style="width:81px">&nbsp;</td>			<td style="width:91px">&nbsp;</td>		</tr>		<tr>			<td style="width:330px">			<p>Doctoral</p>			</td>			<td style="width:66px">			<p>$1,209</p>			</td>			<td style="width:81px">&nbsp;</td>			<td style="width:91px">&nbsp;</td>		</tr>		<tr>			<td style="width:330px">			<p>Institute for Catholic Educational Leadership</p>			</td>			<td style="width:66px">			<p>$612</p>			</td>			<td style="width:81px">&nbsp;</td>			<td style="width:91px">&nbsp;</td>		</tr>		<tr>			<td style="width:330px">			<p>Law</p>			</td>			<td style="width:66px">&nbsp;</td>			<td style="width:81px">&nbsp;</td>			<td style="width:91px">&nbsp;</td>		</tr>		<tr>			<td style="width:330px">			<p>Full-time (<a href="http://www.qianmu.org/JD" target="_blank">JD</a>, LLM - ICL, LLM - IPTL)</p>			</td>			<td style="width:66px">&nbsp;</td>			<td style="width:81px">			<p>$22,731</p>			</td>			<td style="width:91px">			<p>$45,462</p>			</td>		</tr>		<tr>			<td style="width:330px">			<p>LLM - Taxation</p>			</td>			<td style="width:66px">			<p>$1,816</p>			</td>			<td style="width:81px">&nbsp;</td>			<td style="width:91px">&nbsp;</td>		</tr>	</tbody></table><p>*(7)</p><p>旧金山大学的奖学金主要由学生所申请的系所或项目提供，其形式以<a href="http://www.qianmu.org/TA" target="_blank">TA</a>、RA为主。学生在申请时应主动与系里的导师或招生办联系，以期获得由导师或系里提供的RA、TA奖学金。该校奖学金形式以Merit-based为主，该奖学金无需单独申请，自动随Offer发放，其形式主要以TA和RA为主。一般而言，PhD学生的获奖几率要远远大于硕士学生获得的几率。</p><p><strong>联系方式</strong></p><p>Office of Graduate Admission</p><p>(Graduate Admission for School of Education and School of Nursing, for all other schools see below)</p><p>graduate@usfca.edu</p><p>(415) 422-2090 *(8)</p><p><strong>参考资料：</strong></p><p>(1)<a href="http://www.qianmu.org/redirect?code=vrJH6Yycw1hiqnLmkQUP6lBwLVNHgQddvzsFA8As12woWhzWvdfa2oSagxzcClQ5pOsF2v1PnvqC" target="_blank">The Graduate Programs at USF</a> University of San Francisco</p><p>(2)<a href="http://www.qianmu.org/redirect?code=2rNMmQLYkmG0lFW8GGGGGv9cWzmQpSBfJVeVeIY7ptxTUPYaxzyfULmwWkDXWLrcJteIULm7UkmaJtn_pMsHnIB" target="_blank">Apply Now</a> University of San Francisco</p><p>(3)<a href="http://www.qianmu.org/redirect?code=trmo1nqmwnkBwm89B4yoiIfZqnws_18ONY2eb2_J1BVi7C6GsFb7Hc2qFzz4seqW-t1zrW" target="_blank">USF: IEP</a> University of San Francisco</p><p>(4)<a href="http://www.qianmu.org/redirect?code=_r75g1xPkVnHXeg401BYBURgukCkPNoCCgnU8Nuz39ARrMGP_RlLTYMedQmThHp-6n0RDahoCqwnUAsMGCZ1_Pezx1xTl0CL80VekTrPxazdLgOVCiaOVKeNWPezx1LNF" target="_blank">Application Priority Dates</a> University of San Francisco</p><p>(5)<a href="http://www.qianmu.org/redirect?code=2rNMmQ1pwOBAjf1VBBBBBBRO7K3g6tAb2c2cjQTgR-RiHPOgRejNHoEZwzW-woQl_sD9HoEAHzEg_sglDmc9j3cSlPdAfJd4I" target="_blank">Financial Requirements for International Students</a> University of San Francisco</p><p>(6)<a href="http://www.qianmu.org/redirect?code=ir67yhZXLCZnS9apPPPPPXPrL7iGj6XtNy_T_TcInX0mQGK2J--YflqYevQXQODpC47jysheEmzTfKXPBu4ko7oZgJCZYzPhQMYkM7m8Q98eA9zerXQvJzcW" target="_blank">English Proficiency Requirement</a> University of San Francisco</p><p>(7)<a href="http://www.qianmu.org/redirect?code=_r75g1qSL1wLXyt6______93ipJ5W8rmzqzqk1P5h_1WoD281xPwaxhOav8wz8uS1Owp0Ty" target="_blank">Tuition and Fees Schedule for Academic Year 2014-15</a> University of San Francisco</p><p>(8)<a href="http://www.qianmu.org/redirect?code=dr1GqV8ywRjyJFLWQQQQQQoTaHR0cDovqVMeMeOhWDPLht1l3NpGhYZwWli0I1DeIOW" target="_blank">Contact Us</a> University of San Francisco</p><h2>艺术与科学学院</h2><p>旧金山大学艺术与科学学院（School of Arts and Sciences）研究生开设有以下学位项目，分别是：</p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:23.32%">			<p><strong>项目名称</strong></p>			</td>			<td style="width:43.94%">			<p><strong>项目英文名</strong></p>			</td>			<td style="width:32.74%">			<p><strong>开设学位</strong></p>			</td>		</tr>		<tr>			<td style="width:23.32%">			<p>分析学</p>			</td>			<td style="width:43.94%">			<p>Analytics</p>			</td>			<td style="width:32.74%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:23.32%">			<p>亚洲太平洋研究</p>			</td>			<td style="width:43.94%">			<p>Asia Pacific Studies</p>			</td>			<td style="width:32.74%">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:23.32%">			<p>生物学</p>			</td>			<td style="width:43.94%">			<p>Biology</p>			</td>			<td style="width:32.74%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:23.32%">			<p>生物技术</p>			</td>			<td style="width:43.94%">			<p>Biotechnology&nbsp;&nbsp;&nbsp;</p>			</td>			<td style="width:32.74%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:23.32%">			<p>化学</p>			</td>			<td style="width:43.94%">			<p>Chemistry</p>			</td>			<td style="width:32.74%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:23.32%">			<p>计算机科学</p>			</td>			<td style="width:43.94%">			<p>Computer Science</p>			</td>			<td style="width:32.74%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:23.32%">			<p>经济学</p>			</td>			<td style="width:43.94%">			<p>Economics</p>			</td>			<td style="width:32.74%">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:23.32%">			<p>环境管理</p>			</td>			<td style="width:43.94%">			<p>Environmental Management</p>			</td>			<td style="width:32.74%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:23.32%">			<p>国际<a href="http://www.qianmu.org/发展经济学" target="_blank">发展经济学</a></p>			</td>			<td style="width:43.94%">			<p>International and Development Economics</p>			</td>			<td style="width:32.74%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:23.32%">			<p>国际问题研究</p>			</td>			<td style="width:43.94%">			<p>International Studies</p>			</td>			<td style="width:32.74%">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:23.32%">			<p>博物馆研究</p>			</td>			<td style="width:43.94%">			<p>Museum Studies</p>			</td>			<td style="width:32.74%">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:23.32%">			<p><a href="http://www.qianmu.org/公共事务" target="_blank">公共事务</a></p>			</td>			<td style="width:43.94%">			<p>Public Affairs</p>			</td>			<td style="width:32.74%">			<p>MPA</p>			</td>		</tr>		<tr>			<td style="width:23.32%">			<p>体育管理</p>			</td>			<td style="width:43.94%">			<p>Sport Management</p>			</td>			<td style="width:32.74%">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:23.32%">			<p>市区事务</p>			</td>			<td style="width:43.94%">			<p>Urban Affairs</p>			</td>			<td style="width:32.74%">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:23.32%">			<p>写作</p>			</td>			<td style="width:43.94%">			<p>Writing</p>			</td>			<td style="width:32.74%">			<p>MFA</p>			</td>		</tr>	</tbody></table><p>&nbsp;</p><p>*</p><p><strong>参考资料：</strong></p><p><a href="http://www.qianmu.org/redirect?code=Erbpef5mkYo9ibnn777777cRtBLNxQShMkMk9s5NVuaqOs8utASqmB-R_ZwbV-JEbODQT-dmTZd3bckQfODQT-mCbn" target="_blank">Graduate Program List</a> University of San Francisco</p><h2>教育学院</h2><p>旧金山大学教育学院（School of Education）研究生开设有以下学位项目，分别是：</p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:31.22%">			<p><strong>项目名称</strong></p>			</td>			<td style="width:48.26%">			<p><strong>项目英文名</strong></p>			</td>			<td style="width:20.52%">			<p><strong>开设学位</strong></p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p>天主教育领导</p>			</td>			<td style="width:48.26%">			<p>Catholic Educational Leadership</p>			</td>			<td style="width:20.52%">			<p>MA D.Ed</p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p>宗教教育</p>			</td>			<td style="width:48.26%">			<p>Catholic School Teaching with optional Concentration in Religious Education</p>			</td>			<td style="width:20.52%">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p>咨询心理学（婚姻与家庭治疗）</p>			</td>			<td style="width:48.26%">			<p>Counseling Psychology - Concentration in Marriage and Family Therapy*</p>			</td>			<td style="width:20.52%">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p>咨询心理学（学校咨询）</p>			</td>			<td style="width:48.26%">			<p>Counseling Psychology - Concentration in School Counseling with Pupil Personnel Services Credential</p>			</td>			<td style="width:20.52%">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p>数字媒体研究</p>			</td>			<td style="width:48.26%">			<p>Digital Media and Learning</p>			</td>			<td style="width:20.52%">			<p>MA D.Ed</p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p>高等教育与教学</p>			</td>			<td style="width:48.26%">			<p>Higher Education and Student Affairs</p>			</td>			<td style="width:20.52%">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p>人权教育</p>			</td>			<td style="width:48.26%">			<p>Human Rights Education</p>			</td>			<td style="width:20.52%">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p>国际与多文化研究</p>			</td>			<td style="width:48.26%">			<p>International and Multicultural Education with optional Concentration in Human Rights Education</p>			</td>			<td style="width:20.52%">			<p>MA D.Ed</p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p>组织与领导</p>			</td>			<td style="width:48.26%">			<p>Organization and Leadership</p>			</td>			<td style="width:20.52%">			<p>MA D.Ed</p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p><a href="http://www.qianmu.org/特殊教育" target="_blank">特殊教育</a></p>			</td>			<td style="width:48.26%">			<p>Special Education with Mild/Moderate Education Specialist Credential</p>			</td>			<td style="width:20.52%">			<p>MA D.Ed</p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p>师范教育（旧金山）</p>			</td>			<td style="width:48.26%">			<p>Teaching - San Francisco Teacher Residency</p>			</td>			<td style="width:20.52%">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p>城市教育与社会公正</p>			</td>			<td style="width:48.26%">			<p>Teaching - Urban Education and Social Justice</p>			</td>			<td style="width:20.52%">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p>对外英语</p>			</td>			<td style="width:48.26%">			<p>Teaching English to Speakers of Other Languages with optional Concentration in Digital Media and Learning*</p>			</td>			<td style="width:20.52%">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:31.22%">			<p>阅读教学</p>			</td>			<td style="width:48.26%">			<p>Teaching Reading</p>			</td>			<td style="width:20.52%">			<p>MA</p>			</td>		</tr>	</tbody></table><p>*</p><p><strong>参考资料：</strong></p><p><a href="http://www.qianmu.org/redirect?code=hrfXwiGPkVnHXe4sQZoeuXRh52Q1jqHYo5-W9N1aRSzEOXhKCPugg8dUIz3s2mpuDQsCZDCvlyHPPWgr7dwolRVbu2mCop_lK_HgRlHYjq" target="_blank">Graduate Program List</a> University of San Francisco</p><h2>法学院</h2><p>旧金山大学法学院（School of Law）研究生开设有以下学位项目，分别是：</p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:15.64%">			<p><strong>项目名称</strong></p>			</td>			<td style="width:68.78%">			<p><strong>项目英文名</strong></p>			</td>			<td style="width:15.58%">			<p><strong>开设学位</strong></p>			</td>		</tr>		<tr>			<td style="width:15.64%">			<p>法学</p>			</td>			<td style="width:68.78%">			<p>Law</p>			</td>			<td style="width:15.58%">			<p>JD</p>			</td>		</tr>		<tr>			<td style="width:15.64%">			<p><a href="http://www.qianmu.org/知识产权法" target="_blank">知识产权法</a></p>			</td>			<td style="width:68.78%">			<p>Intellectual Property &amp; Technology Law</p>			</td>			<td style="width:15.58%">			<p>LLM</p>			</td>		</tr>		<tr>			<td style="width:15.64%">			<p>企业法</p>			</td>			<td style="width:68.78%">			<p>International Transactions &amp; Comparative Law</p>			</td>			<td style="width:15.58%">			<p>LLM</p>			</td>		</tr>		<tr>			<td style="width:15.64%">			<p><a href="http://www.qianmu.org/税法" target="_blank">税法</a></p>			</td>			<td style="width:68.78%">			<p>Taxation</p>			</td>			<td style="width:15.58%">			<p>LLM</p>			</td>		</tr>	</tbody></table><p>*</p><p><strong>参考资料：</strong></p><p><a href="http://www.qianmu.org/redirect?code=zrQ-nH7kLbTirK3AgRU9xst8Tc1HmpowUYvgbNzN-pFupnWx0abUrPnu7AwNYsGEAMpwUrmbyAebq0s87e61creZ1j0kF7-2fueSjBiq0G" target="_blank">Graduate Program List</a> University of San Francisco</p><h2>商学院</h2><p>旧金山大学商学院（School of Management）研究生开设有以下学位项目，分别是：</p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:24.58%">			<p><strong>项目名称</strong></p>			</td>			<td style="width:57.94%">			<p><strong>项目英文名</strong></p>			</td>			<td style="width:17.48%">			<p><strong>开设学位</strong></p>			</td>		</tr>		<tr>			<td style="width:24.58%">			<p>分析硕士</p>			</td>			<td style="width:57.94%">			<p>Analytics</p>			</td>			<td style="width:17.48%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:24.58%">			<p>工商管理硕士</p>			</td>			<td style="width:57.94%">			<p>MBA</p>			</td>			<td style="width:17.48%">			<p>MBA</p>			</td>		</tr>		<tr>			<td style="width:24.58%">			<p>高级工商管理硕士</p>			</td>			<td style="width:57.94%">			<p>Executive MBA</p>			</td>			<td style="width:17.48%">			<p>MBA</p>			</td>		</tr>		<tr>			<td style="width:24.58%">			<p>金融分析硕士</p>			</td>			<td style="width:57.94%">			<p>Financial Analysis</p>			</td>			<td style="width:17.48%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:24.58%">			<p>国际企业管理</p>			</td>			<td style="width:57.94%">			<p>Global Entrepreneurial Management</p>			</td>			<td style="width:17.48%">			<p>MGEM</p>			</td>		</tr>		<tr>			<td style="width:24.58%">			<p>信息系统硕士</p>			</td>			<td style="width:57.94%">			<p>Informational Systems</p>			</td>			<td style="width:17.48%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:24.58%">			<p>非营利组织管理</p>			</td>			<td style="width:57.94%">			<p>Nonprofit Administration</p>			</td>			<td style="width:17.48%">			<p>MNA</p>			</td>		</tr>		<tr>			<td style="width:24.58%">			<p>组织发展硕士</p>			</td>			<td style="width:57.94%">			<p>Organization Development</p>			</td>			<td style="width:17.48%">			<p>MS</p>			</td>		</tr>	</tbody></table><p>*</p><p><strong>参考资料：</strong></p><p><a href="http://www.qianmu.org/redirect?code=IrnDV7gWLs_unDt6______B3ipJ5W8rmzqzqk1P5njErRv4pEaToRIhXuB-JuIzc2j96RIhNRBhp20hZdz_adoyGceC" target="_blank">Graduate Program List</a> University of San Francisco</p><h2>护理与卫生学院</h2><p>旧金山大学护理与卫生学院（School of Nursing and Health）研究生开设有以下学位项目，分别是：</p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:26.36%">			<p><strong>项目名称</strong></p>			</td>			<td style="width:56.42%">			<p><strong>项目英文名</strong></p>			</td>			<td style="width:17.22%">			<p><strong>开设学位</strong></p>			</td>		</tr>		<tr>			<td style="width:26.36%">			<p>行为卫生</p>			</td>			<td style="width:56.42%">			<p>Behavioral Health</p>			</td>			<td style="width:17.22%">			<p>MS PhD</p>			</td>		</tr>		<tr>			<td style="width:26.36%">			<p>临床护理</p>			</td>			<td style="width:56.42%">			<p>Clinical Nurse Leader for RN with ADN*</p>			</td>			<td style="width:17.22%">			<p>MSN</p>			</td>		</tr>		<tr>			<td style="width:26.36%">			<p>卫生信息</p>			</td>			<td style="width:56.42%">			<p>Health Informatics</p>			</td>			<td style="width:17.22%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:26.36%">			<p>医疗仿真</p>			</td>			<td style="width:56.42%">			<p>Healthcare Simulation</p>			</td>			<td style="width:17.22%">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:26.36%">			<p><a href="http://www.qianmu.org/公共卫生" target="_blank">公共卫生</a></p>			</td>			<td style="width:56.42%">			<p><a href="http://www.qianmu.org/公共卫生" target="_blank">Public Health</a></p>			</td>			<td style="width:17.22%">			<p>MPH</p>			</td>		</tr>		<tr>			<td style="width:26.36%">			<p>高级领导</p>			</td>			<td style="width:56.42%">			<p>Executive Leadership</p>			</td>			<td style="width:17.22%">			<p>DNP</p>			</td>		</tr>		<tr>			<td style="width:26.36%">			<p>家庭执业<a href="http://www.qianmu.org/注册护士" target="_blank">注册护士</a></p>			</td>			<td style="width:56.42%">			<p>Family Nurse Practitioner for RN with BSN</p>			</td>			<td style="width:17.22%">			<p>DNP</p>			</td>		</tr>		<tr>			<td style="width:26.36%">			<p>卫生系统领导</p>			</td>			<td style="width:56.42%">			<p>Healthcare Systems Leadership for RN with BSN</p>			</td>			<td style="width:17.22%">			<p>DNP</p>			</td>		</tr>		<tr>			<td style="width:26.36%">			<p>精神病学执业注册护士</p>			</td>			<td style="width:56.42%">			<p>Psychiatric-Mental Health Nurse Practitioner for RN with BSN</p>			</td>			<td style="width:17.22%">			<p>DNP</p>			</td>		</tr>	</tbody></table><p>*</p><p><strong>参考资料：</strong></p><p><a href="http://www.qianmu.org/redirect?code=IrnDV7pDw-IwEDrfYYYYYYJGEi7zKg_8rMrMPBbz9jWRxBqjEN_RliUG2GJmuXd56TjC9X489G4O61RCyTjC9X8m6l" target="_blank">Graduate Program List</a> University of San Francisco</p></div>
+					
+	           </div>
+	           <div id="authorTrueName" style="float: right;"></div><br>
+				
+	           <div class="col-md-12">
+	           		<div id="cmt" style="position: relative;"><a name="comments" style="margin-top:150px;"></a>
+		           			<div id="lastEditTime" style="position: absolute;top: 18px;right: 10px;">2019-09-10</div>
+		           			<div style="position: absolute;top: 18px;right: 100px;">最后修改时间：</div>
+	           		</div>
+	           </div>
+			  </div>
+              </div>
+            </div>
+            <!-- /.row -->
+          </div>
+        </div>
+      </div>
+      <!-- /.row -->
+    </div>
+  </div>
+</div>
+
+
+<script type="text/javascript">
+	var ctx= '',uId='',vl='', wsip = 'ws://www.qianmu.org:8080/',ve='';
+	var vipendtime="";
+	var et='';
+	var b_name = navigator.appName; 
+	var b_version = navigator.appVersion; 
+	var version = b_version.split(";"); 
+	var trim_Version=version[1].replace(/[ ]/g,"");
+	if (b_name == "Microsoft Internet Explorer") { 
+
+	if (trim_Version == "MSIE7.0" || trim_Version == "MSIE6.0" ||trim_Version == "MSIE8.0") { 
+		alert("IE浏览器版本过低，请到指定网站去下载相关版本"); 
+	 		window.location.href="http://jiaoxueyun.com/download.jsp"; 
+		} 
+	} 
+</script>
+<script src="/r/plugins/bower_components/jquery/dist/jquery.min.js"></script>
+<script src="/r/release/js/all.js?v=1.2"></script>
+<script type='text/javascript'>
+    (function(m, ei, q, i, a, j, s) {
+        m[i] = m[i] || function() {
+            (m[i].a = m[i].a || []).push(arguments)
+        };
+        j = ei.createElement(q),
+            s = ei.getElementsByTagName(q)[0];
+        j.async = true;
+        j.charset = 'UTF-8';
+        j.src = 'https://static.meiqia.com/dist/meiqia.js?_=t';
+        s.parentNode.insertBefore(j, s);
+    })(window, document, 'script', '_MEIQIA');
+    _MEIQIA('entId', 99735);
+</script>
+ 
+ 
+<script type="text/javascript">
+function inadd(){
+	 var incontent = $("#intext").val();
+	 var inpid = $("#inpid").val();
+	 var itemId=1591;
+	 
+	 $.ajax({
+			url:ctx+"/addComment",
+			data:{itemId:itemId,content:incontent,type:'item',pid:inpid},
+			dataType:"json",
+			type:"post",
+			success:function(resp){
+				if(resp.success){
+					$("#pl").val(resp.msg);
+					location.reload();
+				}else{
+					if("needlogin"==resp.status){
+						$.fn.loginShow();
+					}else{
+						$.fn.notify("温馨提示",resp.msg);
+					}
+				}
+			}
+		});
+}
+
+var itemId = '1591' ;
+var editLevel  = '';
+if(itemId==''){
+	itemId=2006;
+}
+var needlogin = '1';
+	var needFill = '0';
+ 	var ads = '';  
+var needpay = '0';
+var vipnotice = '' ;
+if(vl=='0'){
+	
+}
+$(document).ready(function(){
+	if(needlogin=='1'){
+		location.href = "/loginView";
+	}
+	console.log(vipnotice);
+	if(uId!=''&&vipnotice>0&&vipnotice<3){
+		 swal({   
+	           title: "您的VIP即将到期",   
+	           text: "到期时间"+vipendtime,   
+	           type: "warning",   
+	           showCancelButton: true,   
+	           confirmButtonColor: "#DD6B55",   
+	           confirmButtonText: "购买VIP", 
+	           cancelButtonText:'我知道了',
+	           closeOnConfirm: true 
+	       }, function(){   
+	           location.href=ctx+"/zone/vippay2?vipRange=12";
+	       });
+	}
+	  
+	  /* if(ads=='0'){
+			var fillContent = new Ads({
+				closeClick:true,
+				render : function() {
+					return $.ajax({
+						url : ctx + "/getAds",
+						async : false,
+						dataType : 'text'
+					}).responseText;
+				}
+			});
+			fillContent.show();
+			$(document).scroll(function() {
+				fillContent.reposition();
+			});
+		}  */
+});
+</script>
+<script type="text/javascript">
+//反馈纠错
+$(document).ready(function(){
+	//$.fn.addCmt();
+	var itemId=1591;
+  	$("#cmt").comments({
+  		url:ctx+'/listComment',
+  		param:{itemId:itemId,type:'item'},
+  		total:"commentCount",
+  		submit:function(opts){
+  			var content = opts.content;
+  			var pid = opts.pid;
+  			if(content==""&&content.trim()==""){
+  				$.fn.notify("温馨提示","请输入评论内容");
+  				return ;
+  			}
+  			$.ajax({
+  				url:ctx+"/addComment",
+  				data:{itemId:itemId,content:content,type:'item',pid:pid},
+  				dataType:"json",
+  				type:"post",
+  				success:function(resp){
+  					if(resp.success){
+  						location.reload();
+  					}else{
+  						if("needlogin"==resp.status){
+  							$.fn.loginShow();
+  						}else{
+  							$.fn.notify("温馨提示",resp.msg);
+  						}
+  					}
+  				}
+  			});
+  		}
+  	});
+});
+
+</script>
+<script type="text/javascript" src="/static/standard/ckeditor/ckeditor.js"></script>
+<script src="/static/standard/ckeditor/adapters/jquery.js"></script> 
+<script src="/r/plugins/bower_components/bootstrap-treeview-master/dist/bootstrap-treeview.min.js"></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/js/wiki.js?v=1.2"></script>
+</body>
+</html>

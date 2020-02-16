@@ -1,0 +1,433 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>杜伊斯堡-埃森大学-迁木网</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="keywords"  content="杜伊斯堡-埃森大学" />
+<meta name="description"  id="description"  content="杜伊斯堡-埃森大学:杜伊斯堡-埃森大学（Universität Duisburg-Essen，英文：University of Duisburg-Essen）位于德国北莱茵-威斯特法伦州的杜伊斯堡和埃森市，2003年由原杜伊斯堡大学和埃森大学合并而成，是德国一所公立研究型大学，，在2014年QS的排名上位列世界第481-490位，德国第38位，曾有一位教授获得诺贝尔生理医学奖。" />
+
+<link rel="stylesheet" type="text/css" href="/r/release/css/all.min.css?v=1.2">
+<!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+<link rel="icon" type="image/png" sizes="16x16" href="/r/plugins/images/logo.ico"> 
+
+
+<style>
+#tree>ul>li{font-size:15px;}
+.container-fluid{padding-left:0px;}
+</style>
+</head>
+<body class="fix-header fix-sidebar"> 
+<script type="text/javascript">
+document.body.oncopy = function () { 
+ setTimeout( function () { 
+	 if(document.all){ 
+		 var text = clipboardData.getData("text");
+		  if (text) { 
+		   text = text + "\r\n文章来自: 迁木网(http://www.qianmu.org)  详文参考："+location.href; 
+		   clipboardData.setData("text", text);
+		  } 
+		}else{ 
+		 }
+    }, 100 ) 
+}
+
+</script>
+	 <div class="preloader">
+  	<div class="cssload-speeding-wheel"></div>
+    </div>
+<div id="wrapper">
+   
+<nav class="navbar navbar-default navbar-static-top m-b-0">
+	<div class="navbar-header">
+		<a class="navbar-toggle hidden-sm hidden-md hidden-lg "
+			href="javascript:void(0)" data-toggle="collapse"
+			data-target=".navbar-collapse"><i class="ti-menu"></i></a>
+		<div class="top-left-part">
+			<a class="logo" href="/"><b> <img
+					src="/r/plugins/images/lo.png" alt="迁木网" title="迁木网"
+					class="dark-logo" style="padding:10px;" /><img
+					src="/r/plugins/images/lo.png" title="迁木网" alt="迁木网"
+					class="light-logo" style="padding:10px;" /></b> <span class="hidden-xs"><img
+					src="/r/plugins/images/logo22.png" title="迁木网" alt="迁木网"
+					class="dark-logo" /><img src="/r/plugins/images/logo22.png"
+					title="迁木网" alt="迁木网" class="light-logo" /></span></a>
+		</div>
+		<ul class="nav navbar-top-links navbar-left hidden-xs">
+			<li><a href="javascript:void(0)"
+				class="open-close hidden-xs waves-effect waves-light"><i
+					class="icon-arrow-left-circle ti-menu"></i></a></li>
+			<li  >
+				<form role="search" class="app-search hidden-xs" action="/q"
+					method="get">
+					<input type="text" placeholder="学校、问题搜一下..." q class="form-control"
+						name="title" style="min-width:300px;"> <a href="#"><i
+						class="fa fa-search search"></i></a>
+				</form>
+			</li>
+			<li >
+				<a   href="/mall" ><i class="fa fa-shopping-cart"></i>&nbsp;留学商城</a>
+			</li>
+		</ul>
+		<ul class="nav navbar-top-links navbar-right pull-right">
+			<li pub>
+				<a id="navfb" href="javascript:void(0)" >发帖</a>
+			</li>
+			
+			
+			
+			<li class="dropdown" chat><a  href="/chat?tid=38"><i class="ti-email"></i></a>
+			</li>
+			<li class="dropdown hide" msg><a
+				class="dropdown-toggle waves-effect waves-light"
+				data-toggle="dropdown" href="#"><i class="icon-volume-2"></i>
+					<div class="notify"></div> </a>
+				<ul
+					class="dropdown-menu dropdown-cart dropdown-tasks animated bounceInDown">
+					<li><a class="text-center" href="/forum"><strong>查看全部</strong>
+							<i class="fa fa-angle-right"></i> </a></li>
+				</ul></li>
+			<li class="dropdown" userArea></li>
+			<li class="right-side-toggle"><a
+				class="waves-effect waves-light" href="javascript:void(0)"><i
+					class="ti-settings"></i></a></li>
+		</ul>
+	</div>
+</nav>
+
+<div id="myModalnav" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+		<div class="modal-dialog" style="width: 700px">
+			<div class="modal-content" style="margin-top: 100px;">
+				<div class="modal-body modal-body-alert" >
+						<div class="row" >
+			        		<div class="row"  style="text-align: center;margin-left: 5%;width: 89%;height: 60px;" >
+			        			<div style="text-align: center;"><h1 class="news-title"><a href="/addForumView" class="btn btn-block btn-info" style="font-size: 25px;" target="_blank">发表主题</a></h1></div>
+			        		</div>
+							<div class="row" style="text-align: center;margin-left: 5%;width: 89%;margin-top:10px;">
+									<ul class="bs-glyphicons">
+										<li style="width: 33%">
+										<a href="/estimate" target="_blank"><span class="glyphicon glyphicon-paperclip " aria-hidden="true"></span>
+											<span class="glyphicon-class">求定位</span></a></li>
+										<li style="width: 33%"><a href="/addOffer" target="_blank"><span class="glyphicon glyphicon-leaf" aria-hidden="true"></span> <span class="glyphicon-class">报Offer</span>
+										</a>
+										</li>
+										<li style="width: 33%"><a href="/chat?tid=38" target="_blank"><span class="glyphicon glyphicon-font" aria-hidden="true"></span> <span class="glyphicon-class">咨询版主</span>
+										</a>
+										</li>
+									</ul>
+							</div>
+			        	</div>
+				</div>
+			</div>
+		</div>
+</div> 
+   
+<div class="navbar-default sidebar" role="navigation">
+    <div class="sidebar-nav navbar-collapse slimscrollsidebar">
+      <ul class="nav" id="side-menu">
+        <li class="m-t-10"><a href="/forum" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="-"></i> <span class="hide-menu">互动 <span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+            <li><a href="/forum" class="">在线论坛</a></li>
+            <li><a href="/forum?type=2" class="">Offer榜</a></li>
+            <li><a href="/askshow" class="">小秘回复墙</a></li>
+            
+          </ul>
+        </li>
+        <li><a href="/ranking/1528.htm" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="+"></i> <span class="hide-menu">排名 <span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+            <li><a href="/ranking/1528.htm">QS世界排名</a></li>
+            <li><a href="/ranking/905.htm">USNEWS排名</a></li>
+            <li><a href="/ranking/1209.htm">PayScale工资排名</a></li>
+            <li><a href="/ranking/904.htm">上交大排名</a></li>
+          </ul>
+        </li>
+        <li><a href="/美国本科研究生选校" class="waves-effect"><i class="linea-icon linea-basic fa-fw" data-icon=">"></i> <span class="hide-menu">选校<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level collapse in">
+            <li><a href="/美国本科研究生选校">选校</a></li>
+            <li><a href="/offer">案例库</a></li>
+          </ul>
+        </li>
+        <li><a href="/分类索引" class="waves-effect active"><i class="linea-icon linea-basic fa-fw" data-icon="m"></i> <span class="hide-menu">词条<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level collapse in">
+            <li><a href="/分类索引">百科</a></li>
+            <li><a href="http://www.qianmu.org/%E7%B2%BE%E5%8D%8E%E6%94%BB%E7%95%A5%E7%B4%A2%E5%BC%95">精华索引</a></li>
+            <li><a href="/留学中介机构列表">中介</a></li>
+            <li><a href="/下载中心">下载中心</a></li>
+          </ul>
+        </li>
+        <li><a href="/mall" class="waves-effect" ><i class="linea-icon linea-basic fa-fw" data-icon="V"></i> <span class="hide-menu">商城<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+          	 <li><a href="/mall?c=1">美国申请</a></li>
+          	 <li><a href="/mall?c=2">英国留学</a></li>
+             <li><a href="/mall?c=8">文书服务</a></li>
+          </ul>
+        </li>
+		 <li style="display:none;"><a href="/article" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="a"></i><span class="hide-menu">新闻<span class="fa arrow"></span></span></a>
+				<ul class="nav nav-second-level   ">
+					<li><a href="/article">资讯</a></li>
+				</ul></li>
+			<li class="nav-small-cap m-t-10" style="text-align:center;border-bottom: 1px solid #ddd;"></li>
+			
+      </ul>
+    </div>
+  </div> 
+   <div class="right-sidebar">
+        <div class="slimscrollright">
+          <div class="rpanel-title">个性化设置<span><i class="ti-close right-side-toggle"></i></span> </div>
+          <div class="r-panel-body">
+            <ul>
+              <li><b>显示设置</b></li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkbox1" type="checkbox" class="fxhdr">
+                  <label for="checkbox1">固定头部导航</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-warning">
+                  <input id="checkbox2" type="checkbox" checked="" class="fxsdr">
+                  <label for="checkbox2" >固定左侧导航</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-success">
+                  <input id="checkbox4" type="checkbox" class="open-close">
+                  <label for="checkbox4" >切换工具栏目</label>
+                </div>
+              </li>
+            </ul>
+            <ul>
+              <li><b>消息设置</b></li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkboxmsg" type="checkbox" class="fxhdr">
+                  <label for="checkboxmsg">不接受网页通知</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkboxmail" type="checkbox" class="fxhdr">
+                  <label for="checkboxmail">不接受邮件通知</label>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="share-tools" >
+         <ul>
+         	<li style="font-size: 14px;" id="fk"><a  href="#comments">评论反馈</a></li>
+         	<li id="sharebtn" style="font-size: 14px;padding-left: 12px;" ><a href="javascript:" >我要分享</a></a>
+	         	<ul style="display:none; height:50px;position: absolute;width:180px;right:50px;margin-top:-45px;" id="sharelist" >
+	               <li style="padding-left: 15px;" class="inli"><a href="javascript:shareToWB();" title="分享至微博" >微博</a></li>
+	               <li style="padding-left: 15px;" class="weixin-icon inli"><a href="javascript:" title="分享至微信" >微信</a></li>
+	               <li class="inli" ><a href="javascript:shareToQQ();"  title="分享至QQ空间">QQ空间</a></li>
+	            </ul>
+         	</li>
+         	<li class="back_top" id="back-to-top" style="display: none;" ></li>
+         </ul>
+	 </div>
+ 
+   <div id="page-wrapper">
+   <div class="container-fluid">
+      <!-- row -->
+      <div class="row">
+        <!-- Left sidebar -->
+        <div class="col-md-12">
+          <div class="white-box" style="padding-left:0px;">
+            <!-- row -->
+            <div class="row">
+              <div class="col-lg-2 col-md-3  col-sm-12 col-xs-12 " style="overflow:auto;min-height:30px;display:block;" >
+                <div class='treeDiv'>
+                <div id="treeDiv" ><ul id="tree" class="ztree"></ul></div>
+                </div>
+              </div>
+              
+              <div style="" class="col-lg-10 col-md-9 col-sm-12 col-xs-12 mail_listing">
+               <div class="row" >
+		     <input type="hidden" id="type"/>
+			   <div class="wikiContent" id="wikiContent"  >
+			        <h1 class="wikiTitle">杜伊斯堡-埃森大学 </h1> 
+					<div class="infobox"><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:130px">			<p>QS世界排名</p>			</td>			<td style="width:277px">			<p>481-490，德国第38*(4)</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>国家</p>			</td>			<td style="width:277px">			<p>德国</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>城市</p>			</td>			<td style="width:277px">			<p>杜伊斯堡、埃森</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>校训</p>			</td>			<td style="width:277px">			<p>Offen im Denken(open-minded)</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>汉译</p>			</td>			<td style="width:277px">			<p>开明</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>性质</p>			</td>			<td style="width:277px">			<p>公立，男女合校</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>成立年份</p>			</td>			<td style="width:277px">			<p>1654年*(1)</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>宗教信仰</p>			</td>			<td style="width:277px">			<p>无</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>校园</p>			</td>			<td style="width:277px">			<p>市区/郊区*(1)</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>学生人数</p>			</td>			<td style="width:277px">			<p>38,986(2013年)*(5)</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>国际学生比例</p>			</td>			<td style="width:277px">			<p>12.6%(2013年)*(5)</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>学校分类</p>			</td>			<td style="width:277px">			<p>综合性大学，可授予博士学位</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>学校集团</p>			</td>			<td style="width:277px">			<p>鲁尔工业区高校联盟（UAMR）</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>网址</p>			</td>			<td style="width:277px">			<p>www.uni-duisburg-essen.de</p>			</td>		</tr>	</tbody></table></div>
+					<div id="content"><p>杜伊斯堡-埃森大学（Universit&auml;t Duisburg-Essen，英文：University of Duisburg-Essen）位于德国北莱茵-威斯特法伦州的杜伊斯堡和埃森市，2003年由原杜伊斯堡大学和埃森大学合并而成，是德国一所公立研究型大学。杜伊斯堡-埃森大学的<a  href='http://www.qianmu.org/历史' target='_blank'>历史</a>可以追溯至1654年成立的杜伊斯堡大学，19世纪被内阁弗里德里希&middot;威廉三世下令关闭，随后<a  href='http://www.qianmu.org/波恩大学' target='_blank'>波恩大学</a>建立，原杜伊斯堡大学的大量资源&mdash;&mdash;包括图书馆等&mdash;&mdash;都悉数并入波恩大学。而一直到1968年，杜伊斯堡大学方才在原址获得重建，2003年与1972年成立的埃森大学合并，正式组建杜伊斯堡-埃森大学。*(1)</p><p>杜伊斯堡-埃森大学开设的专业种类繁多，开设有以下12个学院，分别是：人文学院。社会科学学院，教育科学学院，艺术与设计学院，工商管理与<a  href='http://www.qianmu.org/经济学' target='_blank'>经济学</a>院，商学院（隶属于工商管理与经济学院），<a  href='http://www.qianmu.org/数学' target='_blank'>数学</a>院，<a  href='http://www.qianmu.org/物理' target='_blank'>物理</a>学院，<a  href='http://www.qianmu.org/化学' target='_blank'>化学</a>院，生物与<a  href='http://www.qianmu.org/地理学' target='_blank'>地理学</a>院，工程学院，<a  href='http://www.qianmu.org/医学' target='_blank'>医学</a>院。*(1)</p><p>&nbsp;</p><h2>周边环境</h2><p>杜伊斯堡-埃森大学共有两个校区，其一位于杜伊斯堡市，另一位于埃森市。*(1)</p><p>杜伊斯堡位于丘陵地带的边上，莱茵河的鲁尔河的汇合口。市区范围覆盖河流的两岸。杜伊斯堡-鲁罗尔特港，其市中心坐落在鲁罗尔特区，是欧洲最大的内陆港。*(2)</p><p>埃森是德国北莱茵-威斯特法伦州里鲁尔区的一个非县辖城市，是杜塞尔多夫行政区的联邦州总中心之一。它是德国的一座大城市，大概有59万人口。按统计日期和数据来源来分，埃森位于第七，在多特蒙德之后，斯图加特之前。埃森还是莱茵兰风景区联盟和鲁尔区区域联盟成员。*(3)</p><p>&nbsp;</p><h2>申请点评</h2><ul>	<li>杜伊斯堡-埃森大学是德国88所有博士授予权的公立大学之一，在2014年QS的排名上位列世界第481-490位，德国第38位，曾有一位教授获得诺贝尔生理医学奖*(1)</li>	<li>在2014年的<a  href='http://www.qianmu.org/世界大学学术排名' target='_blank'>世界大学学术排名</a>榜上，综合排名方面，杜伊斯堡-埃森大学位列301-400区间，与隶属精英大学之列的<a  href='http://www.qianmu.org/康斯坦茨大学' target='_blank'>康斯坦茨大学</a>并列，高于<a  href='http://www.qianmu.org/不来梅大学' target='_blank'>不来梅大学</a>；专业排名方面，杜伊斯堡-埃森大学则只有医科榜上有名，位列世界第151-200区间，是德国仅有的17所上榜的学校之一</li>	<li>在2015年QS排名的30个专业中，杜伊斯堡-埃森大学仅有1个专业进入世界前200的名单：<a  href='http://www.qianmu.org/教育学' target='_blank'>教育学</a>，位居世界第151-200区间，是德国仅有的5所上榜的学校之一；在2014年QS的5个学科领域排名中，杜伊斯堡-埃森大学的自然科学、生命科学与医学均榜上有名*(3)</li></ul><p>参见：</p><p>2014年世界大学学术排名</p><p>参考资料：</p><p>(1) <a  href='http://www.qianmu.org/redirect?code=Nr20uKNgLIup4FTPxxxxxx5NAPQWw3sgvr8bGruJgNA6B0RzQ7sEJx1bMb1l7wHFEyLi6aPWNc9UQeKGrMrDvMzqsSXyXSupZsrQBs2bvrvbNY8bG' target='_blank'>University of Duisburg-Essen</a> Wikipedia</p><p>(2) <a  href='http://www.qianmu.org/redirect?code=xrVOpgSJwaAvyPeszL88LQdWssQLcZpBh3kvtZFkBuYN-TBqEBhDIgcxIE1kOokrxhJFiDJW_4dIOP0kIeXT11vqn5vi7IF7bU1YNrIfkRkJ8tep11qz5viVIhTl8y1R3' target='_blank'>杜伊斯堡</a> 维基百科</p><p>(3) <a  href='http://www.qianmu.org/redirect?code=3rHk7m1RLuKMyYt6______r3ipJ5W8rmzy8mOqy3edM7ousZgiy3pCp3PdMzKiJMsO8M18gM1BvMsOgMrOvMr82I' target='_blank'>埃森</a> 维基百科</p><p>(4)&nbsp;<a  href='http://www.qianmu.org/redirect?code=OrMxo-DZLDXYcyDQnnnnnQ2covmOHfTUqfxtxt8UQs8kCB8MTsDj5_e15bxTIjWRzi-2x0q_9dOBAcHSz4YvA_nmGxcujpclKT467wL36aA0dFREI0rB4KXQmHRVwY9n6jtdxVLkUhIhnZweJt0-o0X_2GpBX8FJ1Hz9IOIfO5_TrgxWzLZcPoNBXUdGSVs3tNWC1Fes0BfdjBG7vbcuteoUCxiAVQfCZP18b5HaD0' target='_blank'><a href='http://www.qianmu.org/QS世界大学排名' target='_blank'  >QS World University Rankings</a> 2013/14</a>&nbsp;QS排名</p><p>(5) <a  href='http://www.qianmu.org/redirect?code=rrcuJRYBLpMoTcTpGA8i2XayxRqHVxS-ZTMm72xehSpK9NUo-SNC8QSD0fhPehIIVGQS_s_x2LzphSTCIODd9aFmt32XMBrV60v4v6naFmt3pvr5wErlrC7SftsOt0BHBL-AtMiOiDRtFYDR4PejSzCEDPDd3ro6OL' target='_blank'>Daten und Fakten | Facts and Figures</a>|<a  href='http://www.qianmu.org/redirect?code=orDtO5aELAtGuV21bbbbbvSAN1MDV1jL61nxMFMfsWsH-bYHqDxBmsoBm6DGNe_3on3cV-Vv3-VoCbHpD_Hp3KXQ4qYCvf-txOpVmGpCJvQmkv1XKdJTqWHSRQGItucmHzvcW81n6DRa_qac-vayKzxUSQ' target='_blank'>Daten und Fakten | Facts and Figures</a>|<a  href='http://www.qianmu.org/redirect?code=ErbpefwZLDXYcycKsssssIWAN1MDV1jLPCL_DeDyVRu6ji_6HYlKyvzKyLa6a9zWfPWkbJ1U8J1TKT_mJs_mouw2VZCMO_k2AL0znH05VQwHPQd_3c6aDLYu1nsgse_WZ26spk26iRIM9S-yBz-LxQ9JNz' target='_blank'>Daten und Fakten | Facts and Figures</a>|<a  href='http://www.qianmu.org/redirect?code=grPZ_x3kwhmWQBj8xxxxxujSigqt7gEFnPXzdmdpkHSF8QMFCcCYyXnYysCY-u9GWOGziB7QYB7IOfFgGiFgltcLU301yHP89FkIrBkyBCAx_CNr4ZTzx_9XjaGwtfOxT_bXTzryvhxRlSrQjnrF-3IEov' target='_blank'>Daten und Fakten | Facts and Figures</a>|<a  href='http://www.qianmu.org/redirect?code=YrwF0v4QkrW5Uk8WVVVVVCAus4OgsUept5xWhW-Vh9fbr97n2zfT2sGDwlm7Yt9YrIgChIg-_lkAYlk5_eaDSLyCYlkAYKiQ6KgmJ-gr40tE3-RSNvKGFezSNvKxpvKi68H0bn_ibIK5NeH' target='_blank'>Daten und Fakten | Facts and Figures</a>|<a  href='http://www.qianmu.org/redirect?code=orDtO5cVwAbLSevu44444oEQ6BZBVYfcigykCkV_CNr0iNZKU5bWe5bGyJ1qkegpeCbRT8bRGAd_Ked_LAM0iLRoI9p4A6pTDRTcyJUFyf_R-XnLyJUFD1TcyJUFNEUFfACuKaR1zARsjQMGK' target='_blank'>Daten und Fakten | Facts and Figures</a>|<a  href='http://www.qianmu.org/redirect?code=grPZ_xIYLclZ6IXt-Vsx0KqYde_O8COtdWBz5fmrqx0qzUEb9rUdxDxglP-UC_YBZ2V-x11TzBapqxkftVV7Gtt_B-xs41SQKT6Wj3aSFOxtg527rUw29rgJttBB1YqkH6w-s-jL4wAtOn33U5UMhEjDvQoIPrDweJ' target='_blank'>Daten und Fakten | Facts and Figures</a>|<a  href='http://www.qianmu.org/redirect?code=frh1ZEi_wWuxTyTCAAAATT4s5DMklDXghUj8V8lYVG93hGM-fv9ofvj3Cs4Hl0HIhZ-oKYEmGWnwJdnwaz3PFe_TqdnwJdOpJQ_PbC_TUG34ge_PbCOpJQ_PbCZmbC3gM_MFZKX1Z2U9fAM' target='_blank'>Daten und Fakten | Facts and Figures</a>|<a  href='http://www.qianmu.org/redirect?code=mrtw23KoLzABI5zr555556yj2L3YrLAfmt1YrGrno24QhJnQ0CeoiyLoiAZIQucy4Kyq16bH46bas4KE7uKEVMv_h1iJXVqZoKPE9zPAn9Yyc9I4F-Yw5bUkaAPCqZEeb7Vtazw0UXg4-F9J_Y9IAECgfq' target='_blank'>Daten und Fakten | Facts and Figures</a>|<a  href='http://www.qianmu.org/redirect?code=KruBHNmWLs_unRqep7fneDtqXnGXRnltu4bQpMkjhq6APt-eOt9uDohC4X-oV9GEiEoaLqYnibpfhqjkufdrLwwNhMLyryhOYAqtuj1hrHsFfdtKt9qXMPC9GajE2klMylt2dbIPWPywowyljdA_hZImA0uvOtmqbE' target='_blank'>Daten und Fakten | Facts and Figures</a>|<a  href='http://www.qianmu.org/redirect?code=WrSJLFKjk78yswUzPPPPPKoshiU3h8nA4ClRl3_RqpWT4fSHRXK84Ut7oqCcVdstdwzvdJP3CYEcibtci2EqpaWf_Jtcibt3CbMfpn1f_gPqGrWfpn13CbAAaQjX8BjXMH4qFYh6MY_XkQsq' target='_blank'>Daten und Fakten | Facts and Figures</a>|<a  href='http://www.qianmu.org/redirect?code=kr53aGRywRjyJF_N99999iHTaHR0cHM6AhUj8V8lYlvrtiXrxlrjxB6jx4FR6N2ajXacCvuFnvujU6RJLSRJ3uV_jJpA9e4R6HTaD1Tcc1U-S1yp5TZmFrdGVuFtjwpXDsRLeYm0csKxjJd6lrdYfcTU_j' target='_blank'>Daten und Fakten | Facts and Figures</a>|<a  href='http://www.qianmu.org/redirect?code=_r75g1X-wDMZuJt9XXXXXqoqLySZFyva26Cd1j1w5vl0i2C0zPlnDtanDpiGI2PYuBYOuzCgwzCr6nWTg3WT-9ZTXY_9M3w6RJLS2QLZW_PbC_TUG5UH1-fYJ2y35Q8RlMXq1M76qiI2H-FO9IFU1NH4Xk' target='_blank'>Daten und Fakten | Facts and Figures</a>|<a  href='http://www.qianmu.org/redirect?code=trmo1nT2kFr4DfYnbMDdY8mXVC7LahSUugBw6Mvu33N-akc6O3fAX-h-G9RrI6PklZDC3S5nVj3dm9rF3bZvEYpxbs5_JYRrvsWmcF8C3i1n9VddY4Vn3yAsx3q7Rxk4uO33T46k4uOUAadEAZa7mfc0Lr3p1RKvLG' target='_blank'>Daten und Fakten | Facts and Figures</a>|<a  href='http://www.qianmu.org/redirect?code=hrfXwiv2L4yTxYm4gggggW_iXtru7tgCqf8XxtxZMj5xRzox3p3gEuVgEOYQI8OP9zP-ojr-xjrVnIQiCyQiL8is2ivOD5Y0p_2mxQ2j24isr4QhEdJTqWHSRQyN-kFxDnfNN_uDR4SkQ12rqX2sdnmYhG' target='_blank'>Daten und Fakten | Facts and Figures</a>|<a  href='http://www.qianmu.org/redirect?code=2rNMmQnxLyQ825FdoNgslWwLmchISM7tyZqsUuY8rjctk71JQasrLqyKer-JoIRiyfwhOpP6JTCUrj67YDReDhO-X6XkTg-JRSAWqDD-9aQSgwqyhIZi46VK5-JY4AWIFzwyfeBsNRmqf1WQe4tMrhzpFKHPQrGF_M' target='_blank'>Daten und Fakten | Facts and Figures</a>|<a  href='http://www.qianmu.org/redirect?code=XrChP9QokEmsA9Fu66666a3BCKnDLK7VOoiKeteSDi0ECzKEU4V190F19RUPwMRBxWBLFg-YVg-xPFz4jRz48PBT12t6Z_P4-F8QWk8m8yYEhycX9nujvEkzd4NaXJRG-_FrLgoHbdvIgeOqPQOgJaTsPC' target='_blank'>Daten und Fakten | Facts and Figures</a>|<a  href='http://www.qianmu.org/redirect?code=OrMxo-DSL1wLXK0YJJJJJkwVfsFeAsmugsrtFIFMbbkYZWJYDUZH0bjH0wel5fPH_WHBDlpWulpIdxtR-AtRaG5CBrUjficK4ZBawkB7Peb7Ve0km0qBVTr74t0xQ2jr74tvL4bG_U1RMPGRbaGZqRSoHv' target='_blank'>Daten und Fakten | Facts and Figures</a>|<a  href='http://www.qianmu.org/redirect?code=0rRNYshHwSnOKioiqqqqqvtpDhm-nh0xHMmtiSiN1PY4atn4svCYyXnYysCw0yxZ2dZBOWgwVWgLiQoByJoBTQ5UYP-fuhsbTvDm1YD-f5M9j5RVqCYhfJBw4Wmamp5n-LhcCO-SLm3jPu48m24BVCkwHh' target='_blank'>Daten und Fakten | Facts and Figures</a>|<a  href='http://www.qianmu.org/redirect?code=WrSJLFTww36DmlV1UUUUUadu24ViG4umJgxV-a-O90Iv6BjvtMy9CG79CBU89mEIhSIygJOuFJOcVzHVvyHVxWBtAy6CNKuQoByJ46yWRyJUFyf_RkoNHDhvIntFG0rQziwCcx4WYfshez75yO7eK6-eLU' target='_blank'>Daten und Fakten | Facts and Figures</a>|<a  href='http://www.qianmu.org/redirect?code=crr9MjJhk5gArib9LLLLLkZyImrY_mJFP0EykVkxZ4MaKcWa8iYkHvjkHZ-bfZk3Ke3HRc9GAc9To1oMY1oMiz4CbA9MaiQslkAYIgAr0i9sQiSVKC4aSy3wkCsIgArLa02F3deNcfETC1jeh4jnC7do5Y' target='_blank'>Daten und Fakten | Facts and Figures</a>|<a  href='http://www.qianmu.org/redirect?code=nrIeztAbw4VCAYTt8-OMkZF6EJAXs0rFC_B0LnKXfWL6vdNhlBio-z9MRJdRQxTTSHNhrXqI6YjjFHk3kFBWiO5FE275HvF1vYrQzA21ieRhrsUDOQqc8rSukzZ-u5pfIaFHkBhQqc8frqIaZVDtOOzZd1SRuhiG0S' target='_blank'>Daten und Fakten | Facts and Figures</a>|<a  href='http://www.qianmu.org/redirect?code=3rHk7m9YkmG0lF0gHHHHHcED7xfl7rwPGzIiIlQiSVaPSx2omVKomzaAEcNlONFP52KP5vDfGumaGulfxMrieL7aGumaJtmgeM-ceLY2xhnieM-cJtmgeM-ckV-cxnrhULBIDTZmWL1nu' target='_blank'>Daten und Fakten | Facts and Figures</a>|<a  href='http://www.qianmu.org/redirect?code=srULj0-dwTChvnU2VVVVVliO1ZUdJZFXmaHeWnW_hb4wsx1wDrvXAitXAw2ikU_fZVf44Q3EBQ3Sqy2pQz2p0xKKpLQ6tBU6RJLS2QLZW_PbC_TUGHI5koSrv1KYE1d6pgejjeZfrSAcpwEA-GEqi4dN2W' target='_blank'>Daten und Fakten | Facts and Figures</a>|<a  href='http://www.qianmu.org/redirect?code=FrFYCWAakAlE5zdslllllHSwNbk7NvR3jaFfF71f_g63_bJqygPqya6cSHt7GtM3nV53hVZSHfB8HfJSuz6Ekm58HfB8hVBTkzd4kms3ujvEkAQjXUmsAaQjX8BjXMH4qFYh6MY_XkQsq' target='_blank'>Daten und Fakten | Facts and Figures</a>|<a  href='http://www.qianmu.org/redirect?code=WrSJLFKrkQ2Rh87YNy1hamRSSuwM_sB3Orv9VdJNmNkuaGQe8354He9lrfUatvzzw_0mIsssni1fRaBfsNAkb_JOr16BxHmmKuxGsfxUEG10qLpZPj8_wTFwq_k82p5s7MUuW1R8B1j3IY7MkxPUYp6Aca7MFmTK57' target='_blank'>Daten und Fakten | Facts and Figures</a>|<a  href='http://www.qianmu.org/redirect?code=Rr0CBrMpLBGgpUEeBBBBBRYg6y_xMyi8IGFsJgJ45iODcRUDr5NRqI5RqS7UWr8fd9fN0xQ3-xQ0EeS5sMS5r3TI9-0N76sNGfQBy6QUyxDnfxheimyHA7GaJoMzJADwfSq69MoscixPfZ5KkO5xySRdzh' target='_blank'>Daten und Fakten | Facts and Figures</a>|<a  href='http://www.qianmu.org/redirect?code=orDtO5ZOktZGdecOiiiii0t2HutMquOle_BlOvO1i7j7Se675vC4piM4pUxWyiOpjPpCOobU-obOCwPUkMPUGqlhqeH9NXf7gG5i6W5UsLa02LynhvxhnieM-cY9T16m8W3oU9rL0atchHFAClFo8DFVLJ' target='_blank'>Daten und Fakten | Facts and Figures</a>|<a  href='http://www.qianmu.org/redirect?code=Hr3vKzN2wjNSrTs_e4LN29dhQP2_8iLdU3XEM9lNhkIMjbYH5FuXAE-729d8ajKy0M9f4RRXan1ihk-yUQDT3f4h4Xg1tqfc4d1UOVV1y0P0f36n1juFBqPEmd8xybZ2GKzcdIio4aJfetaJS2mWBzPVoPVfBFHs9s' target='_blank'>Daten und Fakten | Facts and Figures</a>|<a  href='http://www.qianmu.org/redirect?code=ZrygfZigLIup4fLoG2yYJDSNwqbrCy5rS2kjFJwMqbBl5mYPSrmQe3bi5-hmkXukoGJSD7_zPoLMqbpqxIHvFwAqaLL2Txaj3JB4hRL-ZU0IWMb4aZ36v4hrKajiQB4D9kqbp59minShz2mNkQGOraQ9jdi9ma-3dn' target='_blank'>Daten und Fakten | Facts and Figures</a>|<a  href='http://www.qianmu.org/redirect?code=OrMxo-68kyji7MK2xxxxxUT9B6sbBhRdc2V7U7hmUuzgcufGWQzAW1wcHoaq1eU1yELfWEL2zoMY1oMizVBcpT6f1oMY1ELYyTBhdT6PWVUGpTBhdELYy-SNvKxpvKi68H0bn_ibIK5NeH' target='_blank'>Daten und Fakten | Facts and Figures</a>|<a  href='http://www.qianmu.org/redirect?code=3rHk7m9Bk6RIqAoT222224UyImrY_mJF3dWmfCfUYdf_g63_bJi-_CL-_pz-4x2V5HVzsIgChIg-_cdpgLdpWNMAvWL438wxkD0hBG0l8yYEhycX9amCoeAsUjE1lE5oh8bNHw_FPxq8UvqTUXqG_VYDHz' target='_blank'>Daten und Fakten | Facts and Figures</a>|<a  href='http://www.qianmu.org/redirect?code=kr53aGRAwVJpb-N_PPPPPWR9cXoHcseIFatutHduBj8IBXSSsTwpsTOZuKm6786_xXNpxX4PuCq6uCIPsoOaHkN6uCq6xXq_HoDcHkwps8LsRonm0TD6PoIhko6VkoHMqbmLYCHLno3heb' target='_blank'>Daten und Fakten | Facts and Figures</a>|<a  href='http://www.qianmu.org/redirect?code=lreSUw0pLBGgpDEUkvihZzrFkNl75RrakK1fYtJvwrpuyoVdJrbXcO9NfbSnuPQsDwj-W32YTg2PaM9bHrTY5rBur8oD8ca9gVpJDGE-Wd9YezSPhOvTFALPQqHQj5bhlUhU_PvAzIGayVEJ_6ug-J87u1m7ph7vPQ' target='_blank'>Daten und Fakten | Facts and Figures</a>|<a  href='http://www.qianmu.org/redirect?code=crr9Mj-9Ln0yNcDQnnnnn451JbA-J27lBEPZP-NZiDxlibWjhDujhExL54F-VFMlpWulpIdLzbFoZaTneRJOztpjn0btnADtXBWOEBCS94_zkBWOEADtXBWOEsUC8Z59BeWpqU5pSZE_Ie' target='_blank'>Daten und Fakten | Facts and Figures</a>|<a  href='http://www.qianmu.org/redirect?code=qrTydP_vLJD7tVOd-----QxBX8cSRm_E8ZNK1KRY1Bps8BzyHZS5kArdeQ24KxVyxZpCIcpCt92JMx2JY9r6egEyhSIuqkIN-kFbkPvgZDmbjHgr1DsTC9zPADsTCRyTCHrwgfmY6HmMCqsPg' target='_blank'>Daten und Fakten | Facts and Figures</a>|<a  href='http://www.qianmu.org/redirect?code=Gr-dDk5UL-Fj73QL6wyq2lwxrGbhUo9rgzkQ8ZtAwKHXY7COsrFOeonqNq-kKAi0XLAra0Jv8WP4hNPCz3aShw7qWz5YIlhmeKFVUTk-DC6IfHX-rFVnM4qgew2Adu7JfshNP0BV3o1S8Ro1mdKWS1UdPmldea_J5P' target='_blank'>Daten und Fakten | Facts and Figures</a>|<a  href='http://www.qianmu.org/redirect?code=brEVbykHkp6PZSfjv43_znC1mT7AXjzRWez-rtM3PLdr_C4r4UkWbvWMXaYCrlNuSkvY-F_XNmSg3eD5kZt4ICDY38bllpC7P0EdC7Q_ru8beDBh_7M3YZ2skPZnn9CPx4_Zt8kZndum4MVaxOmk3a2-0jLfYUNGFh' target='_blank'>Daten und Fakten | Facts and Figures</a>|<a  href='http://www.qianmu.org/redirect?code=UrsQlJ6-LUrJdoLNMMMMwo50Jz6PNzLBKXZfMfN1MOAFheynG1D2q1DuOzMZ8TS8He_GqJbMufzhDS2hDqP9UneoNu2hDS2MZSvoUGFoNBl9QpeoUGFM4F7L2X0WAv0WpNjtBsPov_XpGYh9R' target='_blank'>Daten und Fakten | Facts and Figures</a>|<a  href='http://www.qianmu.org/redirect?code=4rjT-BkFL6UOj4XEmAmXTlwUgexheR_qYZlyn1Vkrt7Y9NT0phGvCacccIqIyJ2ydYVtFjP-CHxmtcirIdXtQ-vTM0FmNjqIIqJG3d-h-8JHc9cZwEaDR7v6PtQdJYAaBotciXpAaBor_AJ3IJqq-sZ58Q7o3-CaMH' target='_blank'>Daten und Fakten | Facts and Figures</a>|<a  href='http://www.qianmu.org/redirect?code=XrChP9_Gwx30honGiiiiih7dfGYO4Gdkcsk3O1OTSK6tnXYt1BU5bWe5bGy89mEIhSIy1bRT8bRGA89FkI9F7JV_jJpA9e4uSKVBzCVqK6pge6tn29ylv1ZufJnPcgNmL0k8mAwO4uDSMFZKX1Z2ULtn6x' target='_blank'>Daten und Fakten | Facts and Figures</a>|<a  href='http://www.qianmu.org/redirect?code=nrIezt2bLk7hGbdOKKKKKMbHaHR0cHM65F4rojotIBpSz-uSKs2wXhEwXKJWUcm6Kl6gYWIRsWIhFVcgFtcg4CoeRJOzt-CnMHhp2jhd6FAosFREOg3ZhAIEjbmtXcmGaJoati-aMkdcHYWt0ZW4u28i0O' target='_blank'>Daten und Fakten | Facts and Figures</a>|<a  href='http://www.qianmu.org/redirect?code=VrxbId7ckzD3-ETozzzzzpKS6O4a6i_CMXs1sal1P-WCPOtBh-5BhXW9KpDaFDnCY8M9pr0B5m4n5mFBLY-boEx3C1WuCOIupE7rLExMy0cawE7rLOIupE7rLU943nCOh_vHFAClFo8REpv' target='_blank'>Daten und Fakten | Facts and Figures</a>|<a  href='http://www.qianmu.org/redirect?code=UrsQlJ0NkGpktXyFsWot_Sm7yS6NG4cPIwAuJnCrY4Ho4-QD2_2yt8zdWxPzFn107hF3CnmyD9pp3zcAoggaRPW4Ap1ybnm63PKLf3dPW4ApOvXJYq7SU-sqhPzTXdEZNx_ggSpOPtw_3TYLK5Iima0jJefhIRtIut' target='_blank'>Daten und Fakten | Facts and Figures</a>|<a  href='http://www.qianmu.org/redirect?code=dr1GqVpKLLRfq81233333V-DAUIkARG6mvWSWkwSJtL6JUMQa5Mra5k_nhdegseDzJQrzJU4nlAvqEuSH_h1iJXVqEu9qr89zJhbGJXlQ_RUiJhbGr89zJhbGL4a-aMkdcG_I3M_5aumYc' target='_blank'>Daten und Fakten | Facts and Figures</a>|<a  href='http://www.qianmu.org/redirect?code=-rGz4OfFk2CbM-RZ4Q1eUJUL35qeueoPnV8ve48HUv2Y_rm1_CTwpBcB8kUJQrXgwlVCoDKuhlQOPcMiEEPMj3uwNF2FfzPWtAzTwOuPKS84EPiSmRU6PMDPSCVbtGUt30YSL-7I5XnRzyhiXmVlU2udTg6K__CbZU' target='_blank'>Daten und Fakten | Facts and Figures</a>|<a  href='http://www.qianmu.org/redirect?code=1rdft_1Zk_OdHz9bvvvvvrJxg30RP3ts3dWmfCfUYB6ZGJxZn_esUhSsUl7Em0y9GK95KiQu0iQHM3D5zbD5-ItKZoBOHTdD3xLTlzL80i9sQiSVKcFoc7zeGvOobTQtkHD0EIsQoTzONKlkjPlvFvpMmh' target='_blank'>Daten und Fakten | Facts and Figures</a>|<a  href='http://www.qianmu.org/redirect?code=9rpcSXL7wzOaRijmYezruRz8zrcmYjNBJ-v7G59udfQ4hye_Af7lZq01dVBCYI6xmA4dX-DBjcbz1z1nNKwo_fH3Va3jRdBC6nTNfnbB-Zvqz155z2-NK7lZRFjQnvn5Egfu9Vc2-NKBuj6sxnATdz8Ui-dvAhjVpO' target='_blank'>Daten und Fakten | Facts and Figures</a>|<a  href='http://www.qianmu.org/redirect?code=8rL6TCPRLuKMyWCbaIGdygSH2PWqKJCrH3u7Py0nr7FGBxFEghmVevPYYAhVAeR54d6aOg9K4nrFSP1JXIevNquVI_6iDD-umsBHh7ot9q_oJLCctHDjZk_NftJAhwkmkvhIekWXP-5rtJzQmhBfqwKqMMnOQw4HoA' target='_blank'>Daten und Fakten | Facts and Figures</a>|<a  href='http://www.qianmu.org/redirect?code=lreSUwaTk1JUItAGfffffi85Ls6kLlCUu4BaBkXaYO2UYsSM-ORM-4208iKkqK1yELfWEL2zoMY1oMizVBcpT6f1oMY1ELYyTBhdT6PWVUGpTBhdELYyTBhdamhdVGu7BsRVWnRPf4HoB' target='_blank'>Daten und Fakten | Facts and Figures</a>|<a  href='http://www.qianmu.org/redirect?code=ZrygfZwAwVJpbZecXJU6madFVHzCcFTOtjWg-C5NOsnVUKWsKhJ7pKgDLXhFYpXNbk41O9gP5EKZhmwHXgalMzXXNQJJUhf5eeSqymQzXXNQpQp0hJ6-yaD0NdN6GlJ6-yfpQp0qUr9dBUzhF43RFE17yL2XMhs6_R' target='_blank'>Daten und Fakten | Facts and Figures</a>|<a  href='http://www.qianmu.org/redirect?code=Rr0CBrMdLH56-m3R1118VVUQ7BOm2BfgSq0c3c2L3kGdSkOKPWGbPW0dsQUh2jhiSvKbSCAjV36Io36JV5_BwXp2o36IoPAItX_8ZXpTd5e9wX_8ZPAItX_8ZgQ8Z59BeWpqU-Y9IADkxw' target='_blank'>Daten und Fakten | Facts and Figures</a>|<a  href='http://www.qianmu.org/redirect?code=PrgaXq8_LfWcHhA0v44Xl5wm9ehzHkLqE_MHYelkrr5j97oVtq7fwGrs7fr_bnIKMeGhKHPcVBqLrrFOIDxtEwKElHlJ6Hhp4LUEPVurEE7-DxMjSE7bW2vvNqKXmTJX03SpQ9L24iIwAvDeCm8Rqtf5H_sH3SV79t' target='_blank'>Daten und Fakten | Facts and Figures</a>|<a  href='http://www.qianmu.org/redirect?code=YrwF0v4skL3ojClmdddddn74iCp0iA2D-eU9U0T9N_QDNCXh8_6h8eQs7nf0ZfxDEX6DELlsjCfsjlvlhqeH9NXfsjCfDECx9qyT9N_6hZBH9qyTDECx9qyT7UyThBeZ3NKphNWT0qCZ' target='_blank'>Daten und Fakten | Facts and Figures</a>|<a  href='http://www.qianmu.org/redirect?code=wrYmhlZ7wzOaRiiHEyxA82fATs2n68wBnqlkhQyWzBmhFG8h5z8FLUSGk8FffYYIGBbfNsEOZ5F8FhB8YMKVyOzYQkCFDOz6rhAGG2OzkR-zSZkg1ist1gcMoOIJNfVqap1rTrXglBYfD8w56khgFdzSuIpD4dKiMS' target='_blank'>Daten und Fakten | Facts and Figures</a>|<a  href='http://www.qianmu.org/redirect?code=brEVbyeZw9P-F3X7tttttfTbjNM5jAOlnxzFz5yF2CKl2NmvkCXvkxKeTf95R9HlSmXlS8oecN9ecNw-J4aUuBSDxhXDIfXnu4YduBjmJkyUu4IkoNleA0hko6VkoHMqbmLYCHLno3heb' target='_blank'>Daten und Fakten | Facts and Figures</a>|<a  href='http://www.qianmu.org/redirect?code=0rRNYshIw0DYWaU2VVVVVli4Gdf4udJ2h6Cd1j1w5jXYv6X48PpYKPpdvyGROwqOg6T8K6TJ3y74Oy7D3PsdbjX88I9FkIrBkyiqwOizH14SuYiqwOrBkyiqwOm-JclRaQtHoZpRokl6mEt' target='_blank'>Daten und Fakten | Facts and Figures</a>|<a  href='http://www.qianmu.org/redirect?code=wrYmhljCk3Fezs9bvvvvvrJKWI7XWQPYnfoloXzl5xkY5IDGVx8GVfkTJrEXsEqYRD1WEL2zoMY1oMizVBcpT6f1oMY1ELYyTBhdT6PWVUGpTBhdELYyTBhdamhdVGcUC6GOt9VU6EfMd' target='_blank'>Daten und Fakten | Facts and Figures</a>|<a  href='http://www.qianmu.org/redirect?code=FrFYCWPywRjyJ55HUIvJ_mfuZ9zb6l6dK6WL_RxvhaStU0ZOB1W1TQpLztB59izVRPQdGEM0_HA3BplPz-m_DOzte7U1UL1V-PosLPQ1PjjAplzeflRGhfFWxFNnc-SckDOMaexaQL2FBbL2IPq3zZFrCXswhzXrOb' target='_blank'>Daten und Fakten | Facts and Figures</a>|<a  href='http://www.qianmu.org/redirect?code=dr1GqVdtkO9fNDSNyyyyymdzkv3HrvuLp8si-H-vpYmAv-9A1F1VwPWVwcH0AEcNlONFBxy_Uxyh8mE8vOE8xgSD3Is-0AjULwiIAji7S-3tx-07etKtUBOZSItzv2wOZSIvkV-cxnrhfYWt0ZW4uu4HoB' target='_blank'>Daten und Fakten | Facts and Figures</a>|<a  href='http://www.qianmu.org/redirect?code=Nr20uKHowLo4OGDz77777rxTaHR0cHM64Q6r0b0dxZ9MuS7MB3i6wvY6w1lACs4Hl0HIb1YrL1YaFVvzu4vzXgeO6mWq7V1IGPe8NleArMHXsMlB6uxQ8tN9ATPnJsLYWdVcCO-SLm3jez75yO7eKzrtvZ' target='_blank'>Daten und Fakten | Facts and Figures</a>|<a  href='http://www.qianmu.org/redirect?code=pr9ExTHxkwxMeyjBXXXXXv5PEFNWE13Zdkq7qWa7CbLZCFwjgbYjgkLr5vSWnn8ThV53hVZSHfB8HfJSuz6Ekm58HfB8hVBTkzd4kms3ujnvEkzd4hVBTkzd4_Md4uv6jqm-LumC4NzBj' target='_blank'>Daten und Fakten | Facts and Figures</a>|<a  href='http://www.qianmu.org/redirect?code=pr9ExTHskL3ojTfCAAAAABXVbZH3YZSBBxe2A6ALW2FzLAXzt0WRLt1RLMT1oaq1eU1y67apl7aXe85m4n5mFBNP-qAGlr0_SYXGecX2tOZSIOHWpDSJZqbVwOlDECx9qyT9JoBzGefs8kciOLcThiHjUy' target='_blank'>Daten und Fakten | Facts and Figures</a>|<a  href='http://www.qianmu.org/redirect?code=MrO2caimkYo9ibEtOOOOOy0rjEUU3h8nA4ClRl3_RqpVAqiOXepBXeEFMm0y9GK9511LfWEL2zoMY1oMizVBcpT6f1oMY1ELYyTBhdT6PWVUGpTBhdELYyTBhdamhdVGcUrxKR1bKtHzTyI' target='_blank'>Daten und Fakten | Facts and Figures</a> University of Duisburg-Essen</p><p>&nbsp;</p><h2>申请方法</h2><h3>基本要求</h3><p>德国曾采用Diploma学制，本硕连读一共五年，自参与博洛尼亚计划后，德国大多数的学校也开始采用<a  href='http://www.qianmu.org/英语' target='_blank'>英语</a>国家的Bachelor（本科）四年&mdash;&mdash;Master（硕士）两年学制。但部分专业仍然存在五年制本硕连读（Consecutive Master）的情况。德国每个学年分冬季学期（10月开始）和夏季学期（4月开始），两个学期都可以申请。</p><p>德国申请采用的是宽进严出的情况，但对大多数中国学生而言，只要<a  href='http://www.qianmu.org/德语' target='_blank'>德语</a>过关，基本不会存在问题。只看重以下两个硬性材料：</p><ul>	<li>一是在校成绩：主要是看本科平均分：一般70-75分即可</li>	<li>二是语言能力：英语授课的课程，一般托福80分，雅思6-6.5分即可；德语授课的课程要求德福单项都在4级以上，也有少数接受德福3级的学校。</li></ul><p><strong>关于申请时间</strong></p><p>德国综合性大学有统一的申请截止日期：</p><ul>	<li>冬季学期为7月15日申请截止*(1)</li>	<li>夏季学期为1月15日申请截止</li></ul><p>德国留学各学校各阶段的申请方法和要求基本一致，具体可见：<a  href='http://www.qianmu.org/德国留学申请' target='_blank'>德国留学申请</a>攻略</p><h3>本科申请</h3><p><strong>中小学共十二年的学生：</strong></p><p>小学至高中学习十二年，并通过高考的中国申请人有如下进入德国大学学习的机会：</p><p>直接入学：</p><ul>	<li>重点大学（国家211工程院校）四年制本科或五年制本科，至少修满一个学期；*(1)</li>	<li>国家承认的普通大学四年制本科或五年制本科，至少修满三个学期。</li></ul><p>通过预科入学：完成预科课程并通过预科的结业考试即&ldquo;大学入学资格鉴定考试&rdquo;（Feststellungspr&uuml;fung）取得德国大学入学资格，要求：</p><ul>	<li>国家承认的普通大学四年制本科或五年制本科，修满一个或两个学期；</li>	<li>三年制高等专科学校（即&ldquo;大专&rdquo;）毕业后。</li></ul><p><strong>中小学共十一年的学生：</strong></p><p>小学至高中学习十一年，并通过高考的中国申请人有如下进入德国大学学习的机会：</p><p>直接入学：</p><ul>	<li>重点大学（国家211工程院校）四年制本科或五年制本科，至少修满三个学期；*(1)</li>	<li>国家承认的普通大学四年制本科或五年制本科，至少修满五个学期。</li></ul><p>通过预科入学：完成一年的预科课程并通过预科的结业考试即&ldquo;大学入学资格鉴定考试&rdquo;（Feststellungspr&uuml;fung）取得德国大学入学资格，要求：</p><ul>	<li>重点大学（国家211工程院校）四年制本科或五年制本科，未修满三个学期；</li>	<li>国家承认的普通大学四年制本科或五年制本科，未修满五个学期。</li></ul><p>所有满足学历要求者通常都要通过德国使馆文化处留德人员审核部（APS）的审核才可以向德国大学递交申请。</p><h3>研究生申请</h3><p>德国硕士申请者只要本科毕业即可，无211、普通大学的限制。提供合格德福（或托福成绩&mdash;&mdash;如读的是<a  href='http://www.qianmu.org/英语' target='_blank'>英语</a>授课的专业的话），本科平均分正常在70-80分即可。德国的硕士申请跟本科一样，是向学校的提交申请的。</p><p>德国博士的申请是直接由导师决定的，不需要与学校联系。语言要求，录取不录取均由学生所联系的导师说了算。*(1)</p><p>德国博士的申请要求学生在<strong>国内的大学</strong>正式注册，一般要求有相同的专业的学士或硕士学位。要求申请者成绩优良，有较强的独立工作和科研能力。要求学生自选课题，自己联系导师，一切都由导师决定。</p><p><strong>申请步骤：</strong></p><ul>	<li>确定课题</li>	<li>找博士导师（Doktorvater）</li>	<li>写信联系</li>	<li>按导师要求递交个人材料</li>	<li>收到导师的接收函（邀请函）之后，即可办理其他手续</li></ul><p>参考资料：</p><p>(1) <a  href='http://www.qianmu.org/redirect?code=arBPkM5swUvq6oBI11111I9FYZBVdWEikCkCg4FB_PeBQWr686FyL9rDUhrMbuCBUfCoQPVxQP2VyRwQhs58OscG73598KwiySpMy3wVeRcQU9waz2k_U2k_79wMeK5V62lNX9_NMLVO0D-jvx4nGhsOR1WOR1VOwxV1Gf-Oc_wLcH2LC1PTjIHEjTi1yp5sy_PE2H2LC1PTjIHEj1dvyIxvC-j' target='_blank'>留学德国常见问题-申请条件与流程</a> DAAD</p><p>&nbsp;</p><h2>专业设置及排名</h2><h3>大学排名</h3><p>单独发行的德国大学的排名主要有德国高等教育中心（Center for Higher Education，缩写CHE）和德国经济周刊（Wirtschafts Woche两种。这两种排名都没有一个整体的大学排行榜。CHE排名的专业种类较多，经济周刊只有非常有限的几种专业的排名。下边的评分是以CHE为准。</p><p>CHE的排名共有45个专业，主要依据以下五条进行评分，分别是：</p><ul>	<li>整体学习环境（Overall Study Situation）：是学生对该校老师的整体印象评分*(1)</li>	<li>教师支持（Teacher support）：评估的是该校教师的教学态度，包括是否容易接触到教师，是否容易与教师互动，教师是否乐于帮助学生等</li>	<li>研究导向（Research orientation）：评估的是该校的课程是否便于学生参与研究，是否有大量的研究内容</li>	<li>工作与实习（Workstations）：评估的是该校的课程是否与实践接轨，是否有大量的设施或资源，方便学生直接参与实践或实习</li>	<li>教学声誉（Reputation for academic studies and teaching）：该项是基于同行调查给出的。主要是调查该校在同行中教学和学术声誉及影响力。德国的学校（CHE的排名不单只有德国的学校，还有部分奥地利、瑞士、罗马尼亚等国部分的<a  href='http://www.qianmu.org/德语' target='_blank'>德语</a>高校）会向2所综合性大学和3所应用科学学校&mdash;&mdash;共5所&mdash;&mdash;进行调查。</li></ul><p>除上述五条外，部分专业（如<a  href='http://www.qianmu.org/牙医' target='_blank'>牙医</a>、硕士课程、经济科学等）还会有第6个评估项，而部分专业则只有4个（如德语语言与文学、媒体科学等）甚至3个（如<a  href='http://www.qianmu.org/历史' target='_blank'>历史</a>）评估项，其评估指标也会略有不同。</p><p>关于上述专业排名指标，及杜伊斯堡-埃森大学在世界排名、德国经济周刊中的排名名表现，请见：<strong>德国大学排名</strong></p><h3>专业设置</h3><p>杜伊斯堡-埃森大学的专业设置及其评分：</p><table border="1" cellpadding="0" cellspacing="0" style="width:100.0%">	<tbody>		<tr>			<td style="width:20.74%">			<p><strong>专业名称</strong></p>			</td>			<td style="width:56.9%">			<p><strong>专业英文名</strong></p>			</td>			<td style="width:11.18%">			<p><strong>对应阶段</strong></p>			</td>			<td style="width:11.18%">			<p><strong>评分</strong></p>			</td>		</tr>		<tr>			<td style="width:20.74%">			<p><a  href='http://www.qianmu.org/工业工程' target='_blank'>工业工程</a></p>			</td>			<td style="width:56.9%">			<p><a  href='http://www.qianmu.org/工业工程' target='_blank'>Industrial Engineering</a></p>			</td>			<td style="width:11.18%">			<p>本科</p>			</td>			<td style="width:11.18%">			<p>4</p>			</td>		</tr>		<tr>			<td style="width:20.74%">			<p><a  href='http://www.qianmu.org/物理' target='_blank'>物理</a></p>			</td>			<td style="width:56.9%">			<p><a  href='http://www.qianmu.org/物理' target='_blank'>Physics</a></p>			</td>			<td style="width:11.18%">			<p>本科</p>			</td>			<td style="width:11.18%">			<p>3.2</p>			</td>		</tr>		<tr>			<td style="width:20.74%">			<p>生物学</p>			</td>			<td style="width:56.9%">			<p>Biology</p>			</td>			<td style="width:11.18%">			<p>本科</p>			</td>			<td style="width:11.18%">			<p>2.7</p>			</td>		</tr>		<tr>			<td style="width:20.74%">			<p><a  href='http://www.qianmu.org/电气工程' target='_blank'>电气工程</a>与信息工程</p>			</td>			<td style="width:56.9%">			<p><a  href='http://www.qianmu.org/电气工程' target='_blank'>Electrical Engineering</a> and Information Engineering</p>			</td>			<td style="width:11.18%">			<p>本科</p>			</td>			<td style="width:11.18%">			<p>2.7</p>			</td>		</tr>		<tr>			<td style="width:20.74%">			<p>工商管理</p>			</td>			<td style="width:56.9%">			<p>Business Administration</p>			</td>			<td style="width:11.18%">			<p>本科</p>			</td>			<td style="width:11.18%">			<p>2.5</p>			</td>		</tr>		<tr>			<td style="width:20.74%">			<p>商业计算</p>			</td>			<td style="width:56.9%">			<p>Business Computing</p>			</td>			<td style="width:11.18%">			<p>本科</p>			</td>			<td style="width:11.18%">			<p>2.5</p>			</td>		</tr>		<tr>			<td style="width:20.74%">			<p><a  href='http://www.qianmu.org/化学' target='_blank'>化学</a></p>			</td>			<td style="width:56.9%">			<p><a  href='http://www.qianmu.org/化学' target='_blank'>Chemistry</a></p>			</td>			<td style="width:11.18%">			<p>本科</p>			</td>			<td style="width:11.18%">			<p>2.4</p>			</td>		</tr>		<tr>			<td style="width:20.74%">			<p><a  href='http://www.qianmu.org/数学' target='_blank'>数学</a></p>			</td>			<td style="width:56.9%">			<p><a  href='http://www.qianmu.org/数学' target='_blank'>Mathematics</a></p>			</td>			<td style="width:11.18%">			<p>本科</p>			</td>			<td style="width:11.18%">			<p>2.4</p>			</td>		</tr>		<tr>			<td style="width:20.74%">			<p><a  href='http://www.qianmu.org/机械工程' target='_blank'>机械工程</a></p>			</td>			<td style="width:56.9%">			<p><a  href='http://www.qianmu.org/机械工程' target='_blank'>Mechanical Engineering</a></p>			</td>			<td style="width:11.18%">			<p>本硕连读</p>			</td>			<td style="width:11.18%">			<p>2.4</p>			</td>		</tr>		<tr>			<td style="width:20.74%">			<p><a  href='http://www.qianmu.org/计算机科学' target='_blank'>计算机科学</a></p>			</td>			<td style="width:56.9%">			<p>Computer science</p>			</td>			<td style="width:11.18%">			<p>硕士</p>			</td>			<td style="width:11.18%">			<p>2.2</p>			</td>		</tr>		<tr>			<td style="width:20.74%">			<p>工商管理</p>			</td>			<td style="width:56.9%">			<p>Business Administration</p>			</td>			<td style="width:11.18%">			<p>本科</p>			</td>			<td style="width:11.18%">			<p>2.1</p>			</td>		</tr>		<tr>			<td style="width:20.74%">			<p>人类<a  href='http://www.qianmu.org/医学' target='_blank'>医学</a></p>			</td>			<td style="width:56.9%">			<p>Human Medicine</p>			</td>			<td style="width:11.18%">			<p>本科</p>			</td>			<td style="width:11.18%">			<p>2.1</p>			</td>		</tr>		<tr>			<td style="width:20.74%">			<p>机械工程</p>			</td>			<td style="width:56.9%">			<p>Mechanical Engineering</p>			</td>			<td style="width:11.18%">			<p>本科</p>			</td>			<td style="width:11.18%">			<p>2</p>			</td>		</tr>		<tr>			<td style="width:20.74%">			<p>媒体科学</p>			</td>			<td style="width:56.9%">			<p>Media Science</p>			</td>			<td style="width:11.18%">			<p>本科</p>			</td>			<td style="width:11.18%">			<p>2</p>			</td>		</tr>		<tr>			<td style="width:20.74%">			<p><a  href='http://www.qianmu.org/经济学' target='_blank'>经济学</a></p>			</td>			<td style="width:56.9%">			<p><a  href='http://www.qianmu.org/经济学' target='_blank'>Economics</a></p>			</td>			<td style="width:11.18%">			<p>本科</p>			</td>			<td style="width:11.18%">			<p>1.9</p>			</td>		</tr>		<tr>			<td style="width:20.74%">			<p>电气工程与信息工程</p>			</td>			<td style="width:56.9%">			<p>Electrical Engineering and Information Engineering</p>			</td>			<td style="width:11.18%">			<p>本硕连读</p>			</td>			<td style="width:11.18%">			<p>1.9</p>			</td>		</tr>		<tr>			<td style="width:20.74%">			<p>计算机科学</p>			</td>			<td style="width:56.9%">			<p>Computer science</p>			</td>			<td style="width:11.18%">			<p>本科</p>			</td>			<td style="width:11.18%">			<p>1.6</p>			</td>		</tr>		<tr>			<td style="width:20.74%">			<p><a  href='http://www.qianmu.org/土木工程' target='_blank'>土木工程</a></p>			</td>			<td style="width:56.9%">			<p><a  href='http://www.qianmu.org/土木工程' target='_blank'>Civil Engineering</a></p>			</td>			<td style="width:11.18%">			<p>本科</p>			</td>			<td style="width:11.18%">			<p>1.6</p>			</td>		</tr>		<tr>			<td style="width:20.74%">			<p>教育科学</p>			</td>			<td style="width:56.9%">			<p>Education Science</p>			</td>			<td style="width:11.18%">			<p>本科</p>			</td>			<td style="width:11.18%">			<p>1.5</p>			</td>		</tr>		<tr>			<td style="width:20.74%">			<p><a  href='http://www.qianmu.org/德语' target='_blank'>德语</a>语言与文学</p>			</td>			<td style="width:56.9%">			<p>German Language and Literature</p>			</td>			<td style="width:11.18%">			<p>本科</p>			</td>			<td style="width:11.18%">			<p>1</p>			</td>		</tr>		<tr>			<td style="width:20.74%">			<p><a  href='http://www.qianmu.org/材料科学与工程' target='_blank'>材料工程</a></p>			</td>			<td style="width:56.9%">			<p>Material Engineering</p>			</td>			<td style="width:11.18%">			<p>本科</p>			</td>			<td style="width:11.18%">			<p>1</p>			</td>		</tr>		<tr>			<td style="width:20.74%">			<p>过程工程</p>			</td>			<td style="width:56.9%">			<p>Process Engineering</p>			</td>			<td style="width:11.18%">			<p>本科</p>			</td>			<td style="width:11.18%">			<p>1</p>			</td>		</tr>		<tr>			<td style="width:20.74%">			<p><a  href='http://www.qianmu.org/历史' target='_blank'>历史</a></p>			</td>			<td style="width:56.9%">			<p><a  href='http://www.qianmu.org/历史' target='_blank'>History</a></p>			</td>			<td style="width:11.18%">			<p>本科</p>			</td>			<td style="width:11.18%">			<p>0.5</p>			</td>		</tr>		<tr>			<td style="width:20.74%">			<p>社会政策与<a  href='http://www.qianmu.org/社会工作' target='_blank'>社会工作</a></p>			</td>			<td style="width:56.9%">			<p>Social Policy and Social Work</p>			</td>			<td style="width:11.18%">			<p>本科</p>			</td>			<td style="width:11.18%">			<p>0.5</p>			</td>		</tr>		<tr>			<td style="width:20.74%">			<p>英美研究</p>			</td>			<td style="width:56.9%">			<p>English/North American Studies</p>			</td>			<td style="width:11.18%">			<p>本科</p>			</td>			<td style="width:11.18%">			<p>0</p>			</td>		</tr>		<tr>			<td style="width:20.74%">			<p>浪漫语研究</p>			</td>			<td style="width:56.9%">			<p>Romance Studies</p>			</td>			<td style="width:11.18%">			<p>本科</p>			</td>			<td style="width:11.18%">			<p>0</p>			</td>		</tr>		<tr>			<td style="width:20.74%">			<p><a  href='http://www.qianmu.org/政治学' target='_blank'>政治学</a></p>			</td>			<td style="width:56.9%">			<p><a  href='http://www.qianmu.org/政治学' target='_blank'>Political Science</a></p>			</td>			<td style="width:11.18%">			<p>本科</p>			</td>			<td style="width:11.18%">			<p>-</p>			</td>		</tr>	</tbody></table><p>&nbsp;*(1)</p><p>注：</p><p>（1）这里的评分是按CHE的排名给出的。单项排名为&ldquo;top Group&rdquo;计为&ldquo;1分&rdquo;，单项排名为&ldquo;Middle Group&rdquo;计为&ldquo;0.5分&rdquo;，单项排名为&ldquo;Bottom Group&rdquo;计为&ldquo;0.2分&rdquo;，最后再整体相加得出评分。</p><p>（2）请注意，上述列表为CHE排名中包含的该大学的全部专业及其评分，并非该大学的完整<a  href='http://www.qianmu.org/专业列表' target='_blank'>专业列表</a>。</p><p>参考资料：</p><p>(1) <a  href='http://www.qianmu.org/redirect?code=wrYmhljukXSVbGpxrrrrrPSbVPdwKsXY0PICFAOYafbmcuemVpveZY2xPrTzknhguKJHTCYqlCsZnh6vAm6v5-586qG8FxB6ign8taR0tL-GDXtUfjWhyuGfNKK1E3lbzlYu4GoI4ZWu2mR5_ZpoQYJ8W7mwZ7Mfk2TfTAdEm0Opmh8KIJkSrLE555mF2E8jZuh6E1v5L_vsWRKR-bu9odx3qlIQC4CF8vCB0Am5PmkcfJ9kA6NgYXYd0E5-2hv_fv8hnwpSwfVYzH-YwgXrja9Ax3bsls7dk9N_QA0mOm5YjBX5f_VR3yzK1E3lbzljLsv4StvlZzYz' target='_blank'>CHE University Ranking 2014/15</a> CHE</p></div>
+					
+	           </div>
+	           <div id="authorTrueName" style="float: right;"></div><br>
+				
+	           <div class="col-md-12">
+	           		<div id="cmt" style="position: relative;"><a name="comments" style="margin-top:150px;"></a>
+		           			<div id="lastEditTime" style="position: absolute;top: 18px;right: 10px;">2014-09-02</div>
+		           			<div style="position: absolute;top: 18px;right: 100px;">最后修改时间：</div>
+	           		</div>
+	           </div>
+			  </div>
+              </div>
+            </div>
+            <!-- /.row -->
+          </div>
+        </div>
+      </div>
+      <!-- /.row -->
+    </div>
+  </div>
+</div>
+
+
+<script type="text/javascript">
+	var ctx= '',uId='',vl='', wsip = 'ws://www.qianmu.org:8080/',ve='';
+	var vipendtime="";
+	var et='';
+	var b_name = navigator.appName; 
+	var b_version = navigator.appVersion; 
+	var version = b_version.split(";"); 
+	var trim_Version=version[1].replace(/[ ]/g,"");
+	if (b_name == "Microsoft Internet Explorer") { 
+
+	if (trim_Version == "MSIE7.0" || trim_Version == "MSIE6.0" ||trim_Version == "MSIE8.0") { 
+		alert("IE浏览器版本过低，请到指定网站去下载相关版本"); 
+	 		window.location.href="http://jiaoxueyun.com/download.jsp"; 
+		} 
+	} 
+</script>
+<script src="/r/plugins/bower_components/jquery/dist/jquery.min.js"></script>
+<script src="/r/release/js/all.js?v=1.2"></script>
+<script type='text/javascript'>
+    (function(m, ei, q, i, a, j, s) {
+        m[i] = m[i] || function() {
+            (m[i].a = m[i].a || []).push(arguments)
+        };
+        j = ei.createElement(q),
+            s = ei.getElementsByTagName(q)[0];
+        j.async = true;
+        j.charset = 'UTF-8';
+        j.src = 'https://static.meiqia.com/dist/meiqia.js?_=t';
+        s.parentNode.insertBefore(j, s);
+    })(window, document, 'script', '_MEIQIA');
+    _MEIQIA('entId', 99735);
+</script>
+ 
+ 
+<script type="text/javascript">
+function inadd(){
+	 var incontent = $("#intext").val();
+	 var inpid = $("#inpid").val();
+	 var itemId=2469;
+	 
+	 $.ajax({
+			url:ctx+"/addComment",
+			data:{itemId:itemId,content:incontent,type:'item',pid:inpid},
+			dataType:"json",
+			type:"post",
+			success:function(resp){
+				if(resp.success){
+					$("#pl").val(resp.msg);
+					location.reload();
+				}else{
+					if("needlogin"==resp.status){
+						$.fn.loginShow();
+					}else{
+						$.fn.notify("温馨提示",resp.msg);
+					}
+				}
+			}
+		});
+}
+
+var itemId = '2469' ;
+var editLevel  = '';
+if(itemId==''){
+	itemId=2006;
+}
+var needlogin = '1';
+	var needFill = '0';
+ 	var ads = '';  
+var needpay = '0';
+var vipnotice = '' ;
+if(vl=='0'){
+	
+}
+$(document).ready(function(){
+	if(needlogin=='1'){
+		location.href = "/loginView";
+	}
+	console.log(vipnotice);
+	if(uId!=''&&vipnotice>0&&vipnotice<3){
+		 swal({   
+	           title: "您的VIP即将到期",   
+	           text: "到期时间"+vipendtime,   
+	           type: "warning",   
+	           showCancelButton: true,   
+	           confirmButtonColor: "#DD6B55",   
+	           confirmButtonText: "购买VIP", 
+	           cancelButtonText:'我知道了',
+	           closeOnConfirm: true 
+	       }, function(){   
+	           location.href=ctx+"/zone/vippay2?vipRange=12";
+	       });
+	}
+	  
+	  /* if(ads=='0'){
+			var fillContent = new Ads({
+				closeClick:true,
+				render : function() {
+					return $.ajax({
+						url : ctx + "/getAds",
+						async : false,
+						dataType : 'text'
+					}).responseText;
+				}
+			});
+			fillContent.show();
+			$(document).scroll(function() {
+				fillContent.reposition();
+			});
+		}  */
+});
+</script>
+<script type="text/javascript">
+//反馈纠错
+$(document).ready(function(){
+	//$.fn.addCmt();
+	var itemId=2469;
+  	$("#cmt").comments({
+  		url:ctx+'/listComment',
+  		param:{itemId:itemId,type:'item'},
+  		total:"commentCount",
+  		submit:function(opts){
+  			var content = opts.content;
+  			var pid = opts.pid;
+  			if(content==""&&content.trim()==""){
+  				$.fn.notify("温馨提示","请输入评论内容");
+  				return ;
+  			}
+  			$.ajax({
+  				url:ctx+"/addComment",
+  				data:{itemId:itemId,content:content,type:'item',pid:pid},
+  				dataType:"json",
+  				type:"post",
+  				success:function(resp){
+  					if(resp.success){
+  						location.reload();
+  					}else{
+  						if("needlogin"==resp.status){
+  							$.fn.loginShow();
+  						}else{
+  							$.fn.notify("温馨提示",resp.msg);
+  						}
+  					}
+  				}
+  			});
+  		}
+  	});
+});
+
+</script>
+<script type="text/javascript" src="/static/standard/ckeditor/ckeditor.js"></script>
+<script src="/static/standard/ckeditor/adapters/jquery.js"></script> 
+<script src="/r/plugins/bower_components/bootstrap-treeview-master/dist/bootstrap-treeview.min.js"></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/js/wiki.js?v=1.2"></script>
+</body>
+</html>

@@ -1,0 +1,433 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>慕尼黑工业大学-迁木网</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="keywords"  content="慕尼黑工业大学" />
+<meta name="description"  id="description"  content="慕尼黑工业大学:慕尼黑工业大学（Technische Universität München，英文：Technical University of Munich，缩写TUM）是德国最为知名的理工大学之一，是德国首批入选精英大学的三所学校之一，常年与慕尼黑大学、海德堡大学竞争德国前三的位置，共培养过18位诺贝尔奖得主。" />
+
+<link rel="stylesheet" type="text/css" href="/r/release/css/all.min.css?v=1.2">
+<!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+<link rel="icon" type="image/png" sizes="16x16" href="/r/plugins/images/logo.ico"> 
+
+
+<style>
+#tree>ul>li{font-size:15px;}
+.container-fluid{padding-left:0px;}
+</style>
+</head>
+<body class="fix-header fix-sidebar"> 
+<script type="text/javascript">
+document.body.oncopy = function () { 
+ setTimeout( function () { 
+	 if(document.all){ 
+		 var text = clipboardData.getData("text");
+		  if (text) { 
+		   text = text + "\r\n文章来自: 迁木网(http://www.qianmu.org)  详文参考："+location.href; 
+		   clipboardData.setData("text", text);
+		  } 
+		}else{ 
+		 }
+    }, 100 ) 
+}
+
+</script>
+	 <div class="preloader">
+  	<div class="cssload-speeding-wheel"></div>
+    </div>
+<div id="wrapper">
+   
+<nav class="navbar navbar-default navbar-static-top m-b-0">
+	<div class="navbar-header">
+		<a class="navbar-toggle hidden-sm hidden-md hidden-lg "
+			href="javascript:void(0)" data-toggle="collapse"
+			data-target=".navbar-collapse"><i class="ti-menu"></i></a>
+		<div class="top-left-part">
+			<a class="logo" href="/"><b> <img
+					src="/r/plugins/images/lo.png" alt="迁木网" title="迁木网"
+					class="dark-logo" style="padding:10px;" /><img
+					src="/r/plugins/images/lo.png" title="迁木网" alt="迁木网"
+					class="light-logo" style="padding:10px;" /></b> <span class="hidden-xs"><img
+					src="/r/plugins/images/logo22.png" title="迁木网" alt="迁木网"
+					class="dark-logo" /><img src="/r/plugins/images/logo22.png"
+					title="迁木网" alt="迁木网" class="light-logo" /></span></a>
+		</div>
+		<ul class="nav navbar-top-links navbar-left hidden-xs">
+			<li><a href="javascript:void(0)"
+				class="open-close hidden-xs waves-effect waves-light"><i
+					class="icon-arrow-left-circle ti-menu"></i></a></li>
+			<li  >
+				<form role="search" class="app-search hidden-xs" action="/q"
+					method="get">
+					<input type="text" placeholder="学校、问题搜一下..." q class="form-control"
+						name="title" style="min-width:300px;"> <a href="#"><i
+						class="fa fa-search search"></i></a>
+				</form>
+			</li>
+			<li >
+				<a   href="/mall" ><i class="fa fa-shopping-cart"></i>&nbsp;留学商城</a>
+			</li>
+		</ul>
+		<ul class="nav navbar-top-links navbar-right pull-right">
+			<li pub>
+				<a id="navfb" href="javascript:void(0)" >发帖</a>
+			</li>
+			
+			
+			
+			<li class="dropdown" chat><a  href="/chat?tid=38"><i class="ti-email"></i></a>
+			</li>
+			<li class="dropdown hide" msg><a
+				class="dropdown-toggle waves-effect waves-light"
+				data-toggle="dropdown" href="#"><i class="icon-volume-2"></i>
+					<div class="notify"></div> </a>
+				<ul
+					class="dropdown-menu dropdown-cart dropdown-tasks animated bounceInDown">
+					<li><a class="text-center" href="/forum"><strong>查看全部</strong>
+							<i class="fa fa-angle-right"></i> </a></li>
+				</ul></li>
+			<li class="dropdown" userArea></li>
+			<li class="right-side-toggle"><a
+				class="waves-effect waves-light" href="javascript:void(0)"><i
+					class="ti-settings"></i></a></li>
+		</ul>
+	</div>
+</nav>
+
+<div id="myModalnav" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+		<div class="modal-dialog" style="width: 700px">
+			<div class="modal-content" style="margin-top: 100px;">
+				<div class="modal-body modal-body-alert" >
+						<div class="row" >
+			        		<div class="row"  style="text-align: center;margin-left: 5%;width: 89%;height: 60px;" >
+			        			<div style="text-align: center;"><h1 class="news-title"><a href="/addForumView" class="btn btn-block btn-info" style="font-size: 25px;" target="_blank">发表主题</a></h1></div>
+			        		</div>
+							<div class="row" style="text-align: center;margin-left: 5%;width: 89%;margin-top:10px;">
+									<ul class="bs-glyphicons">
+										<li style="width: 33%">
+										<a href="/estimate" target="_blank"><span class="glyphicon glyphicon-paperclip " aria-hidden="true"></span>
+											<span class="glyphicon-class">求定位</span></a></li>
+										<li style="width: 33%"><a href="/addOffer" target="_blank"><span class="glyphicon glyphicon-leaf" aria-hidden="true"></span> <span class="glyphicon-class">报Offer</span>
+										</a>
+										</li>
+										<li style="width: 33%"><a href="/chat?tid=38" target="_blank"><span class="glyphicon glyphicon-font" aria-hidden="true"></span> <span class="glyphicon-class">咨询版主</span>
+										</a>
+										</li>
+									</ul>
+							</div>
+			        	</div>
+				</div>
+			</div>
+		</div>
+</div> 
+   
+<div class="navbar-default sidebar" role="navigation">
+    <div class="sidebar-nav navbar-collapse slimscrollsidebar">
+      <ul class="nav" id="side-menu">
+        <li class="m-t-10"><a href="/forum" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="-"></i> <span class="hide-menu">互动 <span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+            <li><a href="/forum" class="">在线论坛</a></li>
+            <li><a href="/forum?type=2" class="">Offer榜</a></li>
+            <li><a href="/askshow" class="">小秘回复墙</a></li>
+            
+          </ul>
+        </li>
+        <li><a href="/ranking/1528.htm" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="+"></i> <span class="hide-menu">排名 <span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+            <li><a href="/ranking/1528.htm">QS世界排名</a></li>
+            <li><a href="/ranking/905.htm">USNEWS排名</a></li>
+            <li><a href="/ranking/1209.htm">PayScale工资排名</a></li>
+            <li><a href="/ranking/904.htm">上交大排名</a></li>
+          </ul>
+        </li>
+        <li><a href="/美国本科研究生选校" class="waves-effect"><i class="linea-icon linea-basic fa-fw" data-icon=">"></i> <span class="hide-menu">选校<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level collapse in">
+            <li><a href="/美国本科研究生选校">选校</a></li>
+            <li><a href="/offer">案例库</a></li>
+          </ul>
+        </li>
+        <li><a href="/分类索引" class="waves-effect active"><i class="linea-icon linea-basic fa-fw" data-icon="m"></i> <span class="hide-menu">词条<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level collapse in">
+            <li><a href="/分类索引">百科</a></li>
+            <li><a href="http://www.qianmu.org/%E7%B2%BE%E5%8D%8E%E6%94%BB%E7%95%A5%E7%B4%A2%E5%BC%95">精华索引</a></li>
+            <li><a href="/留学中介机构列表">中介</a></li>
+            <li><a href="/下载中心">下载中心</a></li>
+          </ul>
+        </li>
+        <li><a href="/mall" class="waves-effect" ><i class="linea-icon linea-basic fa-fw" data-icon="V"></i> <span class="hide-menu">商城<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+          	 <li><a href="/mall?c=1">美国申请</a></li>
+          	 <li><a href="/mall?c=2">英国留学</a></li>
+             <li><a href="/mall?c=8">文书服务</a></li>
+          </ul>
+        </li>
+		 <li style="display:none;"><a href="/article" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="a"></i><span class="hide-menu">新闻<span class="fa arrow"></span></span></a>
+				<ul class="nav nav-second-level   ">
+					<li><a href="/article">资讯</a></li>
+				</ul></li>
+			<li class="nav-small-cap m-t-10" style="text-align:center;border-bottom: 1px solid #ddd;"></li>
+			
+      </ul>
+    </div>
+  </div> 
+   <div class="right-sidebar">
+        <div class="slimscrollright">
+          <div class="rpanel-title">个性化设置<span><i class="ti-close right-side-toggle"></i></span> </div>
+          <div class="r-panel-body">
+            <ul>
+              <li><b>显示设置</b></li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkbox1" type="checkbox" class="fxhdr">
+                  <label for="checkbox1">固定头部导航</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-warning">
+                  <input id="checkbox2" type="checkbox" checked="" class="fxsdr">
+                  <label for="checkbox2" >固定左侧导航</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-success">
+                  <input id="checkbox4" type="checkbox" class="open-close">
+                  <label for="checkbox4" >切换工具栏目</label>
+                </div>
+              </li>
+            </ul>
+            <ul>
+              <li><b>消息设置</b></li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkboxmsg" type="checkbox" class="fxhdr">
+                  <label for="checkboxmsg">不接受网页通知</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkboxmail" type="checkbox" class="fxhdr">
+                  <label for="checkboxmail">不接受邮件通知</label>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="share-tools" >
+         <ul>
+         	<li style="font-size: 14px;" id="fk"><a  href="#comments">评论反馈</a></li>
+         	<li id="sharebtn" style="font-size: 14px;padding-left: 12px;" ><a href="javascript:" >我要分享</a></a>
+	         	<ul style="display:none; height:50px;position: absolute;width:180px;right:50px;margin-top:-45px;" id="sharelist" >
+	               <li style="padding-left: 15px;" class="inli"><a href="javascript:shareToWB();" title="分享至微博" >微博</a></li>
+	               <li style="padding-left: 15px;" class="weixin-icon inli"><a href="javascript:" title="分享至微信" >微信</a></li>
+	               <li class="inli" ><a href="javascript:shareToQQ();"  title="分享至QQ空间">QQ空间</a></li>
+	            </ul>
+         	</li>
+         	<li class="back_top" id="back-to-top" style="display: none;" ></li>
+         </ul>
+	 </div>
+ 
+   <div id="page-wrapper">
+   <div class="container-fluid">
+      <!-- row -->
+      <div class="row">
+        <!-- Left sidebar -->
+        <div class="col-md-12">
+          <div class="white-box" style="padding-left:0px;">
+            <!-- row -->
+            <div class="row">
+              <div class="col-lg-2 col-md-3  col-sm-12 col-xs-12 " style="overflow:auto;min-height:30px;display:block;" >
+                <div class='treeDiv'>
+                <div id="treeDiv" ><ul id="tree" class="ztree"></ul></div>
+                </div>
+              </div>
+              
+              <div style="" class="col-lg-10 col-md-9 col-sm-12 col-xs-12 mail_listing">
+               <div class="row" >
+		     <input type="hidden" id="type"/>
+			   <div class="wikiContent" id="wikiContent"  >
+			        <h1 class="wikiTitle">慕尼黑工业大学 </h1> 
+					<div class="infobox"><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:130px">			<p>QS世界排名</p>			</td>			<td style="width:277px">			<p>53，德国第2*(3)</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>国家</p>			</td>			<td style="width:277px">			<p>德国</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>城市</p>			</td>			<td style="width:277px">			<p>慕尼黑</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>校训</p>			</td>			<td style="width:277px">			<p>探索型大学</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>汉译</p>			</td>			<td style="width:277px">			<p>知识之门永远打开&mdash;&mdash;未来源自1386</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>性质</p>			</td>			<td style="width:277px">			<p>公立，男女合校</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>成立年份</p>			</td>			<td style="width:277px">			<p>1868*(1)</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>宗教信仰</p>			</td>			<td style="width:277px">			<p>无</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>校园</p>			</td>			<td style="width:277px">			<p>市区*(4)</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>学生人数</p>			</td>			<td style="width:277px">			<p>35,979(2013年)*(5)</p>			</td>		</tr>		<tr>			<td style="width:130px">国际学生比例</td>			<td style="width:277px">20%(2013年)*(5)</td>		</tr>		<tr>			<td style="width:130px">			<p>学校分类</p>			</td>			<td style="width:277px">			<p>综合性大学，可授予博士学位</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>学校集团</p>			</td>			<td style="width:277px">			<p>精英大学</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>网址</p>			</td>			<td style="width:277px">			<p>www.tum.de</p>			</td>		</tr>	</tbody></table></div>
+					<div id="content"><p>慕尼黑工业大学（Technische Universit&auml;t M&uuml;nchen，英文：Technical University of Munich，缩写TUM）是德国的一所著名的理工大学，位于德国南部巴伐利亚州首府慕尼黑，于2006年10月被选为德国首批三所精英大学之一。</p><p>慕尼黑工业大学的前身由国王路德维希二世于1868年建立，其官方名称为&ldquo;慕尼黑皇家拜仁高等技术学校&rdquo;（K&ouml;niglich Bayerische Technische Hochschule M&uuml;nchen），当时是一所综合技术学校，并于1970年由&ldquo;技术学校&rdquo;改名为&ldquo;技术大学&rdquo;。</p><p>慕尼黑工业大学的系科设置主要基于工程科学和部分自然科学，另外还设有部分<a href='http://www.qianmu.org/医学' target='_blank'>医学</a>学科，体育科学，<a href='http://www.qianmu.org/经济学' target='_blank'>经济学</a>，营养科学中心，土地规划和<a href='http://www.qianmu.org/环境科学' target='_blank'>环境科学</a>。这些系科的结合使得慕尼黑工业大学享有在欧洲众多工业大学中的独特优势。</p><h2>周边环境</h2><p><a href='http://www.qianmu.org/慕尼黑大学' target='_blank'>慕尼黑大学</a>的所在地慕尼黑是德国巴伐利亚州的首府，也是德国南部最大的城市，德国第三大城市（次于柏林和汉堡）。位于德国南部阿尔卑斯山北麓的伊萨尔河畔，是德国主要的经济、文化、科技和交通中心之一，也是欧洲最繁荣的城市之一。慕尼黑同时又保留着原巴伐利亚王国都城的古朴风情，因此被人们称作&ldquo;百万人的村庄&rdquo;。宝马和西门子公司的总部便是位于这里。*(2)</p><h2>申请点评</h2><ul>	<li>慕尼黑工业大学是德国最为知名的理工大学之一，是德国首批入选精英大学的三所学校之一，常年与慕尼黑大学、<a href='http://www.qianmu.org/海德堡大学' target='_blank'>海德堡大学</a>竞争德国前三的位置，共培养过18位诺贝尔奖得主。</li>	<li>慕尼黑工业大学以理工最为著名，可以说是德国理工表现最好的学校：2015年QS排名五个工程专业&mdash;&mdash;计算机、<a href='http://www.qianmu.org/电气工程' target='_blank'>电气工程</a>、<a href='http://www.qianmu.org/化学工程' target='_blank'>化学工程</a>、<a href='http://www.qianmu.org/土木工程' target='_blank'>土木工程</a>、<a href='http://www.qianmu.org/机械工程' target='_blank'>机械工程</a>均排名德国前三，其中计算机和电气工程排名德国第一；而就工程领域来讲，慕尼黑大学在2014年QS、泰晤士高等教育、<a href='http://www.qianmu.org/世界大学学术排名' target='_blank'>世界大学学术排名</a>这三个主流大学排名榜中都居德国第一位。</li>	<li>慕尼黑工业大学所在的慕尼黑也是宝马和西门子公司的总部所在。*(2)</li></ul><p>参考资料：</p><p>(1) <a rel="nofollow" href='http://www.qianmu.org/redirect?code=BraKR4sCLXmqlApchE85CcriBVzYsfHtWbmTHp5ItFQ46XFAdaoD5CnkLnt7-iyHSCIaYD5IlWToam-c8Ny6ohab15txPZqJ7R5f2fcStxqZENC5-jAHhLNFnw8otok-F8StxfZEQu5ha645txPZ-kA8hyNHnStxPZE6J5w8_7' target='_blank'>慕尼黑工业大学</a> 维基百科</p><p>(2) <a rel="nofollow" href='http://www.qianmu.org/redirect?code=2rNMmQn-LUrJdymZ3ECRQ_qDtg71BYrrtKI29XU5-9HEy_Yf5wlAOSvZPYr23Tk9pn5wAAO44xNGtHuq0-NOoaJFiGfNAPqHdgEb20OtHu70OVmo--ZH' target='_blank'>慕尼黑</a> 维基百科</p><p>(3)&nbsp;<a rel="nofollow" href='http://www.qianmu.org/redirect?code=3rHk7m1cLYq_Z8EeBBBBBeoj2L3YrbBXsgkWkWjxFeS-YkSCMdNRNovANQ7KlPK_Xk2fPCD7V-K8QvYuygJcQ71kFKwDb7wRNL1kuWc9xt1a8yjsDTNdZEhisp5gMi47fHUJw1XAFGeGWTtvPa1wO82XOdsj20RSvsTU9M9NRzT7G6tS5ux3ZjfHnThmT-giI1HY3VsdHk9a4i13Gtz9NOzRUGPHBlnT8Htfjk5WJn' target='_blank'><a href='http://www.qianmu.org/QS世界大学排名' target='_blank'  >QS World University Rankings</a> 2013/14</a>&nbsp;QS排名</p><p>(4) <a rel="nofollow" href='http://www.qianmu.org/redirect?code=2rNMmQ1ww36Dme-5umDX7o1XqGbyzrhfpjhN6MOMOoCLvl2LffpSvyRuV4f1kkX6HGMdnL94gPP3Fvez8tQbVzHyqbxmqId6xvvbx_LFFXh7apLrhzej_qlr-OapLzVieizwYAh' target='_blank'>Technische Universit&auml;t M&uuml;nchen</a> Wikipedia</p><p>(5) <a rel="nofollow" href='http://www.qianmu.org/redirect?code=JrvWrUjMLwBRm6ogwwwwwLw1DAUIk0fs3QH8H8luayxhEfmD4prAFRtOFKtXCHBnCODnqfPXLZFLLMnseJahxFVfJF_-VGxijar3UD6Bz9ruQkNouB30Aqu_' target='_blank'>Facts &amp; figures</a> Technische Universit&auml;t M&uuml;nchen</p><p>&nbsp;</p><h2>申请方法</h2><h3>基本要求</h3><p>德国曾采用Diploma学制，本硕连读一共五年，自参与博洛尼亚计划后，德国大多数的学校也开始采用<a href='http://www.qianmu.org/英语' target='_blank'>英语</a>国家的Bachelor（本科）四年&mdash;&mdash;Master（硕士）两年学制。但部分专业仍然存在五年制本硕连读（Consecutive Master）的情况。德国每个学年分冬季学期（10月开始）和夏季学期（4月开始），两个学期都可以申请。</p><p>德国申请采用的是宽进严出的情况，但对大多数中国学生而言，只要<a href='http://www.qianmu.org/德语' target='_blank'>德语</a>过关，基本不会存在问题。只看重以下两个硬性材料：</p><ul>	<li>一是在校成绩：主要是看本科平均分：一般70-75分即可</li>	<li>二是语言能力：英语授课的课程，一般托福80分，雅思6-6.5分即可；德语授课的课程要求德福单项都在4级以上，也有少数接受德福3级的学校。</li></ul><p><strong>关于申请时间</strong></p><p>德国综合性大学有统一的申请截止日期：</p><ul>	<li>冬季学期为7月15日申请截止*(1)</li>	<li>夏季学期为1月15日申请截止</li></ul><p>德国留学各学校各阶段的申请方法和要求基本一致，具体可见：<a href='http://www.qianmu.org/德国留学申请' target='_blank'>德国留学申请</a>攻略</p><h3>本科申请</h3><p><strong>中小学共十二年的学生：</strong></p><p>小学至高中学习十二年，并通过高考的中国申请人有如下进入德国大学学习的机会：</p><p>直接入学：</p><ul>	<li>重点大学（国家211工程院校）四年制本科或五年制本科，至少修满一个学期；*(1)</li>	<li>国家承认的普通大学四年制本科或五年制本科，至少修满三个学期。</li></ul><p>通过预科入学：完成预科课程并通过预科的结业考试即&ldquo;大学入学资格鉴定考试&rdquo;（Feststellungspr&uuml;fung）取得德国大学入学资格，要求：</p><ul>	<li>国家承认的普通大学四年制本科或五年制本科，修满一个或两个学期；</li>	<li>三年制高等专科学校（即&ldquo;大专&rdquo;）毕业后。</li></ul><p><strong>中小学共十一年的学生：</strong></p><p>小学至高中学习十一年，并通过高考的中国申请人有如下进入德国大学学习的机会：</p><p>直接入学：</p><ul>	<li>重点大学（国家211工程院校）四年制本科或五年制本科，至少修满三个学期；*(1)</li>	<li>国家承认的普通大学四年制本科或五年制本科，至少修满五个学期。</li></ul><p>通过预科入学：完成一年的预科课程并通过预科的结业考试即&ldquo;大学入学资格鉴定考试&rdquo;（Feststellungspr&uuml;fung）取得德国大学入学资格，要求：</p><ul>	<li>重点大学（国家211工程院校）四年制本科或五年制本科，未修满三个学期；</li>	<li>国家承认的普通大学四年制本科或五年制本科，未修满五个学期。</li></ul><p>所有满足学历要求者通常都要通过德国使馆文化处留德人员审核部（APS）的审核才可以向德国大学递交申请。</p><h3>研究生申请</h3><p>德国硕士申请者只要本科毕业即可，无211、普通大学的限制。提供合格德福（或托福成绩&mdash;&mdash;如读的是<a href='http://www.qianmu.org/英语' target='_blank'>英语</a>授课的专业的话），本科平均分正常在70-80分即可。德国的硕士申请跟本科一样，是向学校的提交申请的。</p><p>德国博士的申请是直接由导师决定的，不需要与学校联系。语言要求，录取不录取均由学生所联系的导师说了算。*(1)</p><p>德国博士的申请要求学生在<strong>国内的大学</strong>正式注册，一般要求有相同的专业的学士或硕士学位。要求申请者成绩优良，有较强的独立工作和科研能力。要求学生自选课题，自己联系导师，一切都由导师决定。</p><p><strong>申请步骤：</strong></p><ul>	<li>确定课题</li>	<li>找博士导师（Doktorvater）</li>	<li>写信联系</li>	<li>按导师要求递交个人材料，</li>	<li>收到导师的接收函（邀请函）之后，即可办理其他手续</li></ul><p>参考资料：</p><p>(1) <a rel="nofollow" href='http://www.qianmu.org/redirect?code=urKrNAmGwx30hoElkkkkklb07btTxCNRy3FRFRTG78Qzu1rSDdxuJMsNqXpeksm_q-EU5A5Jeous2pUEmLOkm3uPCqdP5ZwCvuY1kcDbrv3XU8Ou7c1y_wLCIP2yc8vyc8K7wnqrSiHU3jEYQWac1NJBDMINL3jJcZHPdNm8izHF4zKPgQfKBJ6nj7wudtwnzv0xAkMwAxG1cmQ8bmKe_PzyzVHW00xAkMwAIJ0hvk8h3nA' target='_blank'>留学德国常见问题-申请条件与流程</a> DAAD</p><p>&nbsp;</p><h2>专业设置及排名</h2><h3>大学排名</h3><p>单独发行的德国大学的排名主要有德国高等教育中心（Center for Higher Education，缩写CHE）和德国经济周刊（Wirtschafts Woche两种。这两种排名都没有一个整体的大学排行榜。CHE排名的专业种类较多，经济周刊只有非常有限的几种专业的排名。下边的评分是以CHE为准。</p><p>CHE的排名共有45个专业，主要依据以下五条进行评分，分别是：</p><ul>	<li>整体学习环境（Overall Study Situation）：是学生对该校老师的整体印象评分*(1)</li>	<li>教师支持（Teacher support）：评估的是该校教师的教学态度，包括是否容易接触到教师，是否容易与教师互动，教师是否乐于帮助学生等</li>	<li>研究导向（Research orientation）：评估的是该校的课程是否便于学生参与研究，是否有大量的研究内容</li>	<li>工作与实习（Workstations）：评估的是该校的课程是否与实践接轨，是否有大量的设施或资源，方便学生直接参与实践或实习</li>	<li>教学声誉（Reputation for academic studies and teaching）：该项是基于同行调查给出的。主要是调查该校在同行中教学和学术声誉及影响力。德国的学校（CHE的排名不单只有德国的学校，还有部分奥地利、瑞士、罗马尼亚等国部分的<a href='http://www.qianmu.org/德语' target='_blank'>德语</a>高校）会向2所综合性大学和3所应用科学学校&mdash;&mdash;共5所&mdash;&mdash;进行调查。</li></ul><p>除上述五条外，部分专业（如<a href='http://www.qianmu.org/牙医' target='_blank'>牙医</a>、硕士课程、经济科学等）还会有第6个评估项，而部分专业则只有4个（如德语语言与文学、媒体科学等）甚至3个（如<a href='http://www.qianmu.org/历史' target='_blank'>历史</a>）评估项，其评估指标也会略有不同。</p><p>关于上述专业排名指标，及慕尼黑工业大学在世界排名、德国经济周刊中的排名名表现，请见：<strong>德国大学排名</strong></p><h3>专业设置</h3><p>慕尼黑工业大学的专业设置及其评分：</p><table border="1" cellpadding="0" cellspacing="0" style="width:100.0%">	<tbody>		<tr>			<td style="width:20.74%">			<p><strong>专业名称</strong></p>			</td>			<td style="width:56.9%">			<p><strong>专业英文名</strong></p>			</td>			<td style="width:11.18%">			<p><strong>对应阶段</strong></p>			</td>			<td style="width:11.18%">			<p><strong>评分</strong></p>			</td>		</tr>		<tr>			<td style="width:20.74%">			<p>商业计算</p>			</td>			<td style="width:56.9%">			<p>Business Computing</p>			</td>			<td style="width:11.18%">			<p>本科</p>			</td>			<td style="width:11.18%">			<p>4.5</p>			</td>		</tr>		<tr>			<td style="width:20.74%">			<p>生物学</p>			</td>			<td style="width:56.9%">			<p>Biology</p>			</td>			<td style="width:11.18%">			<p>本科</p>			</td>			<td style="width:11.18%">			<p>4</p>			</td>		</tr>		<tr>			<td style="width:20.74%">			<p>工商管理</p>			</td>			<td style="width:56.9%">			<p>Business Administration</p>			</td>			<td style="width:11.18%">			<p>本科</p>			</td>			<td style="width:11.18%">			<p>4</p>			</td>		</tr>		<tr>			<td style="width:20.74%">			<p><a href='http://www.qianmu.org/机械工程' target='_blank'>机械工程</a></p>			</td>			<td style="width:56.9%">			<p><a href='http://www.qianmu.org/机械工程' target='_blank'>Mechanical Engineering</a></p>			</td>			<td style="width:11.18%">			<p>本科</p>			</td>			<td style="width:11.18%">			<p>4</p>			</td>		</tr>		<tr>			<td style="width:20.74%">			<p>人类<a href='http://www.qianmu.org/医学' target='_blank'>医学</a></p>			</td>			<td style="width:56.9%">			<p>Human Medicine</p>			</td>			<td style="width:11.18%">			<p>本科</p>			</td>			<td style="width:11.18%">			<p>3.7</p>			</td>		</tr>		<tr>			<td style="width:20.74%">			<p><a href='http://www.qianmu.org/物理' target='_blank'>物理</a></p>			</td>			<td style="width:56.9%">			<p><a href='http://www.qianmu.org/物理' target='_blank'>Physics</a></p>			</td>			<td style="width:11.18%">			<p>本科</p>			</td>			<td style="width:11.18%">			<p>3.7</p>			</td>		</tr>		<tr>			<td style="width:20.74%">			<p><a href='http://www.qianmu.org/建筑学' target='_blank'>建筑学</a></p>			</td>			<td style="width:56.9%">			<p>Architecture</p>			</td>			<td style="width:11.18%">			<p>本科</p>			</td>			<td style="width:11.18%">			<p>3.5</p>			</td>		</tr>		<tr>			<td style="width:20.74%">			<p><a href='http://www.qianmu.org/计算机科学' target='_blank'>计算机科学</a></p>			</td>			<td style="width:56.9%">			<p>Computer science</p>			</td>			<td style="width:11.18%">			<p>本科</p>			</td>			<td style="width:11.18%">			<p>3.2</p>			</td>		</tr>		<tr>			<td style="width:20.74%">			<p><a href='http://www.qianmu.org/电气工程' target='_blank'>电气工程</a>与信息工程</p>			</td>			<td style="width:56.9%">			<p><a href='http://www.qianmu.org/电气工程' target='_blank'>Electrical Engineering</a> and Information Engineering</p>			</td>			<td style="width:11.18%">			<p>本科</p>			</td>			<td style="width:11.18%">			<p>3</p>			</td>		</tr>		<tr>			<td style="width:20.74%">			<p>电气工程与信息工程</p>			</td>			<td style="width:56.9%">			<p>Electrical Engineering and Information Engineering</p>			</td>			<td style="width:11.18%">			<p>本硕连读</p>			</td>			<td style="width:11.18%">			<p>3</p>			</td>		</tr>		<tr>			<td style="width:20.74%">			<p><a href='http://www.qianmu.org/环境工程' target='_blank'>环境工程</a></p>			</td>			<td style="width:56.9%">			<p><a href='http://www.qianmu.org/环境工程' target='_blank'>Environmental Engineering</a></p>			</td>			<td style="width:11.18%">			<p>本科</p>			</td>			<td style="width:11.18%">			<p>3</p>			</td>		</tr>		<tr>			<td style="width:20.74%">			<p><a href='http://www.qianmu.org/化学' target='_blank'>化学</a></p>			</td>			<td style="width:56.9%">			<p><a href='http://www.qianmu.org/化学' target='_blank'>Chemistry</a></p>			</td>			<td style="width:11.18%">			<p>本科</p>			</td>			<td style="width:11.18%">			<p>2.7</p>			</td>		</tr>		<tr>			<td style="width:20.74%">			<p><a href='http://www.qianmu.org/土木工程' target='_blank'>土木工程</a></p>			</td>			<td style="width:56.9%">			<p><a href='http://www.qianmu.org/土木工程' target='_blank'>Civil Engineering</a></p>			</td>			<td style="width:11.18%">			<p>本科</p>			</td>			<td style="width:11.18%">			<p>2.7</p>			</td>		</tr>		<tr>			<td style="width:20.74%">			<p>机械工程</p>			</td>			<td style="width:56.9%">			<p>Mechanical Engineering</p>			</td>			<td style="width:11.18%">			<p>本硕连读</p>			</td>			<td style="width:11.18%">			<p>2.6</p>			</td>		</tr>		<tr>			<td style="width:20.74%">			<p><a href='http://www.qianmu.org/数学' target='_blank'>数学</a></p>			</td>			<td style="width:56.9%">			<p><a href='http://www.qianmu.org/数学' target='_blank'>Mathematics</a></p>			</td>			<td style="width:11.18%">			<p>本科</p>			</td>			<td style="width:11.18%">			<p>2.5</p>			</td>		</tr>		<tr>			<td style="width:20.74%">			<p><a href='http://www.qianmu.org/材料科学与工程' target='_blank'>材料工程</a></p>			</td>			<td style="width:56.9%">			<p>Material Engineering</p>			</td>			<td style="width:11.18%">			<p>本科</p>			</td>			<td style="width:11.18%">			<p>2</p>			</td>		</tr>		<tr>			<td style="width:20.74%">			<p>计算机科学</p>			</td>			<td style="width:56.9%">			<p>Computer science</p>			</td>			<td style="width:11.18%">			<p>硕士</p>			</td>			<td style="width:11.18%">			<p>1.7</p>			</td>		</tr>		<tr>			<td style="width:20.74%">			<p>体育科学</p>			</td>			<td style="width:56.9%">			<p>Sports Sciences</p>			</td>			<td style="width:11.18%">			<p>本科</p>			</td>			<td style="width:11.18%">			<p>1.7</p>			</td>		</tr>		<tr>			<td style="width:20.74%">			<p><a href='http://www.qianmu.org/地球科学' target='_blank'>地球科学</a></p>			</td>			<td style="width:56.9%">			<p>Geoscience</p>			</td>			<td style="width:11.18%">			<p>本科</p>			</td>			<td style="width:11.18%">			<p>0.6</p>			</td>		</tr>		<tr>			<td style="width:20.74%">			<p><a href='http://www.qianmu.org/生物工程' target='_blank'>生物工程</a></p>			</td>			<td style="width:56.9%">			<p>Bioengineering</p>			</td>			<td style="width:11.18%">			<p>本科</p>			</td>			<td style="width:11.18%">			<p>0</p>			</td>		</tr>	</tbody></table><p>&nbsp;*(1)</p><p>注：</p><p>（1）这里的评分是按CHE的排名给出的。单项排名为&ldquo;top Group&rdquo;计为&ldquo;1分&rdquo;，单项排名为&ldquo;Middle Group&rdquo;计为&ldquo;0.5分&rdquo;，单项排名为&ldquo;Bottom Group&rdquo;计为&ldquo;0.2分&rdquo;，最后再整体相加得出评分。</p><p>（2）请注意，上述列表为CHE排名中包含的该大学的全部专业及其评分，并非该大学的完整<a href='http://www.qianmu.org/专业列表' target='_blank'>专业列表</a>。</p><p>参考资料：</p><p>(1) <a rel="nofollow" href='http://www.qianmu.org/redirect?code=KruBHNmFL6UOj4LyMKael2wcPXhbM8USrgAvuBbBthTp4usflaAiPqCcQawLpyzwBQ1rCtQU4MFEh7dirHZx7aAi9_4cPrrnIK35GlUtKIKRjJ39-w1viwWeSwWAmB3uEFtwWeSP2fvhu-XhO8bNrY0Mf5SM1rnt-C7elAtvVRPcvlRSDzLD6qiOrw1dC4ahEwKOoBAvr9rnt-C7elA-cFv9Fd3ia3USjULjHSkqARM9NKaDuPvrc2s-P2fgoqwhqfH0S7yZVapi3RWAm6SOAAau9r5SDgdMGiK5q5SM1wg0ZaAaeJe_QThfGX50AOa-Ts1IpdTpq7QCAPg10qRW' target='_blank'>CHE University Ranking 2014/15</a> CHE</p><h2>英语授课项目</h2><h3>本科项目</h3><ul>	<li>工商管理学士-技术管理方向（Betriebswirtschaftslehre, Technologie- und Managementorientierte TUM-BWL Bachelor）</li>	<li>生物信息学学士（Bioinformatik Bachelor）</li>	<li>土地利用与土地开发学士（Bodenordnung und Landentwicklung Bachelorteilstudiengang Sonstige）</li>	<li>健康科学学士（Gesundheitswissenschaft Bachelor）</li>	<li>工程理学学士（Ingenieurwissenschaften Bachelor）</li>	<li>运动科学学士（Sportwissenschaft Bachelor）</li>	<li>经济信息学学士（Wirtschaftsinformatik Bachelor）*(1)</li></ul><p>参考资料：</p><p>(1)&nbsp;<a rel="nofollow" href='http://www.qianmu.org/redirect?code=urKrNAS1kTXJRLnieLlpFYCmr6C7cQemmgBi1aF438d5SHrDxCsxq02W-eRuW_tcH6aRvAytmBd8YfUSJmmU7Y8NU4fmgimcTAXsv_cmz88ag1O' target='_blank'>International Programs</a>&nbsp;TUM</p><h3>亚洲校区</h3><ul>	<li>航天工程硕士（Aerospace Engineering TUM Asia Master）</li>	<li>绿色电子硕士（Green Electronics TUM Asia Master）</li>	<li>工业化学硕士（Industrial Chemistry TUM Asia Master）</li>	<li>集成电路设计硕士（Integrated Circuit Design TUM Asia Master）</li>	<li>运输与物流硕士（Transport and Logistics GIST-TUM Asia Master）*(1)</li></ul><p>参考资料：</p><p>(1)&nbsp;<a rel="nofollow" href='http://www.qianmu.org/redirect?code=urKrNAS1kTXJRLnieLlpFYCmr6C7cQemmgBi1aF438d5SHrDxCsxq02W-eRuW_tcH6aRvAytmBd8YfUSJmmU7Y8NU4fmgimcTAXsv_cmz88ag1O' target='_blank'>International Programs</a>&nbsp;TUM</p><h3>英语授课硕士</h3><ul>	<li>生物医学计算硕士（Biomedical Computing BMC Master）</li>	<li>制图学硕士（Cartography Master）</li>	<li>气候设计硕士（ClimaDesign Weiterbildender Masterstudiengang Master）</li>	<li>通信工程硕士（Communications Engineering Master）</li>	<li>计算力学精英硕士（Computational Mechanics mit Elitestudiengang Master）</li>	<li>计算科学与工程精英硕士（Computational Science and Engineering mit Elitestudiengang Master）</li>	<li>消费者事务硕士（Consumer Affairs Master）</li>	<li>数据工程与分析硕士（Data Engineering and Analytics Master）</li>	<li>诊断与培训硕士（Diagnostics and Training Master）</li>	<li>营养与生物医学硕士（Ern&auml;hrungswissenschaft Nutrition and Biomedicine Master）</li>	<li>地球定向空间科学技术硕士（ESPACE - Earth Oriented Space Science and Technology Master）</li>	<li>健康科学-预防与健康促进硕士（Health Science &ndash; Prevention and Health Promotion Master）</li>	<li>园艺学硕士（Horticultural Science - Gartenbauwissenschaften Master）</li>	<li>信息学硕士（Informatik Master）</li>	<li>游戏工程硕士（Informatik: Games Engineering Master）</li>	<li>高级知识产权与竞争法硕士（Intellectual Property and Competition Law Executive, Weiterbildender Masterstudiengang Master）</li>	<li>高级土地管理与土地权行政硕士（Land Management and Land Tenure Executive, Weiterbildender Masterstudiengang Master）</li>	<li>生命科学经济与政策硕士（Life Science Economics and Policy Master）</li>	<li>管理硕士（Management Master）</li>	<li>数学科学数学硕士（Mathematics in Data Science Master）</li>	<li>EMBA-商业与IT方向（MBA Executive - Studienrichtung: Business &amp; IT, Weiterbildender Masterstudiengang Master）</li>	<li>EMBA-创新与商业创新方向（MBA Executive - Studienrichtung: Innovation and Business Creation, Weiterbildender Masterstudiengang Master）</li>	<li>EMBA-一般管理方向（MBA Executive &ndash; Studienrichtung: General Management, Weiterbildender Masterstudiengang Master）</li>	<li>医学生命科学与技术博士（Medical Life Science and Technology PhD-Programm PhD）</li>	<li>神经工程精英硕士（Neuroengineering Elitestudiengang Master）</li>	<li>应用物理与工程物理硕士（Physics Applied and Engineering Physics Master）</li>	<li>电力工程硕士（Power Engineering Master）</li>	<li>辐射生物学硕士（Radiation Biology Master）</li>	<li>教学研究硕士（Research on Teaching and Learning Master）</li>	<li>科学技术研究硕士（Science and Technology Studies STS Master）</li>	<li>可持续资源管理硕士（Sustainable Resource Management Master）</li>	<li>技术管理精英研究生课程（Technology Management Elite graduate program Honours Degree）</li>	<li>运输系统硕士（Transportation Systems Master）</li>	<li>环境工程硕士（Umweltingenieurwesen Environmental Engineering Master）*(1)</li></ul><p>参考资料：</p><p>(1)&nbsp;<a rel="nofollow" href='http://www.qianmu.org/redirect?code=kr53aGRlwvLQzIVVLwXiblO1QItn5ge1XPuwtJsOBTlfOoMuEFkPtLoeFmd0kvLn6JUhvWTb-TtCBTl8u4ruhz_9EWUCW-hnx8572vvd0ZfgSxk' target='_blank'>International Programs</a>&nbsp;TUM</p><h3>英德双语项目</h3><ul>	<li>农业管理硕士（Agrarmanagement Master）</li>	<li>农业科学硕士（Agrarwissenschaften Master）</li>	<li>汽车软件工程硕士（Automotive Software Engineering Master）</li>	<li>工商管理硕士-技术管理方向（Betriebswirtschaftslehre, Technologie- und Managementorientierte TUM-BWL Master）</li>	<li>工商管理硕士-商业技术方向（Betriebswirtschaftslehre, Wirtschaft mit Technologie TUM-WITEC Master）</li>	<li>生物信息学硕士（Bioinformatik Master）</li>	<li>电气与计算机工程硕士（Elektrotechnik und Informationstechnik Master）</li>	<li>金融与信息管理精英硕士（Finanz- und Informationsmanagement - FIM Elitestudiengang Master）</li>	<li>大地测量学与地理信息硕士（Geod&auml;sie und Geoinformation Master）</li>	<li>工业生物技术硕士（Industrielle Biotechnologie Master）</li>	<li>计算机科学证书课程（Informatik Zertifikat Sonstige）</li>	<li>景观设计硕士（Landschaftsarchitektur Master）</li>	<li>数理金融与精算学硕士（Mathematical Finance and Actuarial Science Master）</li>	<li>数学与生物科学硕士（Mathematics in Bioscience Master）</li>	<li>数学与运筹学硕士（Mathematics in Operations Research OR Master）</li>	<li>数学与科学及工程硕士（Mathematics in Science and Engineering Master）</li>	<li>数学硕士（Mathematik Master）</li>	<li>纳米科学与催化硕士（Nanowissenschaften und Katalyse Master）</li>	<li>核工程硕士（Nukleartechnik Master）</li>	<li>恢复与保护科学硕士（Restaurierung, Kunsttechnologie und Konservierungswissenschaft Master）</li>	<li>机器人、认知与人工智能硕士（Robotics, Cognition, Intelligence Master）</li>	<li>软件工程精英硕士（Software Engineering Elitestudiengang Master）</li>	<li>经济信息学硕士（Wirtschaftsinformatik Master）*(1)</li></ul><p>参考资料：</p><p>(1)&nbsp;<a rel="nofollow" href='http://www.qianmu.org/redirect?code=brEVbyeDw-IwEQCTaaaaaaF5ARjDXMlLpUPzZnymFmOQgBd8pXw0iSu7iv90IbnP73nGYKLFQPadn48PFO_PCxTZ2UvZW5nUJcKLXa1' target='_blank'>International Programs</a>&nbsp;TUM</p></div>
+					
+	           </div>
+	           <div id="authorTrueName" style="float: right;"></div><br>
+				
+	           <div class="col-md-12">
+	           		<div id="cmt" style="position: relative;"><a name="comments" style="margin-top:150px;"></a>
+		           			<div id="lastEditTime" style="position: absolute;top: 18px;right: 10px;">2016-11-17</div>
+		           			<div style="position: absolute;top: 18px;right: 100px;">最后修改时间：</div>
+	           		</div>
+	           </div>
+			  </div>
+              </div>
+            </div>
+            <!-- /.row -->
+          </div>
+        </div>
+      </div>
+      <!-- /.row -->
+    </div>
+  </div>
+</div>
+
+
+<script type="text/javascript">
+	var ctx= '',uId='',vl='', wsip = 'ws://www.qianmu.org:8080/',ve='';
+	var vipendtime="";
+	var et='';
+	var b_name = navigator.appName; 
+	var b_version = navigator.appVersion; 
+	var version = b_version.split(";"); 
+	var trim_Version=version[1].replace(/[ ]/g,"");
+	if (b_name == "Microsoft Internet Explorer") { 
+
+	if (trim_Version == "MSIE7.0" || trim_Version == "MSIE6.0" ||trim_Version == "MSIE8.0") { 
+		alert("IE浏览器版本过低，请到指定网站去下载相关版本"); 
+	 		window.location.href="http://jiaoxueyun.com/download.jsp"; 
+		} 
+	} 
+</script>
+<script src="/r/plugins/bower_components/jquery/dist/jquery.min.js"></script>
+<script src="/r/release/js/all.js?v=1.2"></script>
+<script type='text/javascript'>
+    (function(m, ei, q, i, a, j, s) {
+        m[i] = m[i] || function() {
+            (m[i].a = m[i].a || []).push(arguments)
+        };
+        j = ei.createElement(q),
+            s = ei.getElementsByTagName(q)[0];
+        j.async = true;
+        j.charset = 'UTF-8';
+        j.src = 'https://static.meiqia.com/dist/meiqia.js?_=t';
+        s.parentNode.insertBefore(j, s);
+    })(window, document, 'script', '_MEIQIA');
+    _MEIQIA('entId', 99735);
+</script>
+ 
+ 
+<script type="text/javascript">
+function inadd(){
+	 var incontent = $("#intext").val();
+	 var inpid = $("#inpid").val();
+	 var itemId=2409;
+	 
+	 $.ajax({
+			url:ctx+"/addComment",
+			data:{itemId:itemId,content:incontent,type:'item',pid:inpid},
+			dataType:"json",
+			type:"post",
+			success:function(resp){
+				if(resp.success){
+					$("#pl").val(resp.msg);
+					location.reload();
+				}else{
+					if("needlogin"==resp.status){
+						$.fn.loginShow();
+					}else{
+						$.fn.notify("温馨提示",resp.msg);
+					}
+				}
+			}
+		});
+}
+
+var itemId = '2409' ;
+var editLevel  = '';
+if(itemId==''){
+	itemId=2006;
+}
+var needlogin = '1';
+	var needFill = '0';
+ 	var ads = '';  
+var needpay = '0';
+var vipnotice = '' ;
+if(vl=='0'){
+	
+}
+$(document).ready(function(){
+	if(needlogin=='1'){
+		location.href = "/loginView";
+	}
+	console.log(vipnotice);
+	if(uId!=''&&vipnotice>0&&vipnotice<3){
+		 swal({   
+	           title: "您的VIP即将到期",   
+	           text: "到期时间"+vipendtime,   
+	           type: "warning",   
+	           showCancelButton: true,   
+	           confirmButtonColor: "#DD6B55",   
+	           confirmButtonText: "购买VIP", 
+	           cancelButtonText:'我知道了',
+	           closeOnConfirm: true 
+	       }, function(){   
+	           location.href=ctx+"/zone/vippay2?vipRange=12";
+	       });
+	}
+	  
+	  /* if(ads=='0'){
+			var fillContent = new Ads({
+				closeClick:true,
+				render : function() {
+					return $.ajax({
+						url : ctx + "/getAds",
+						async : false,
+						dataType : 'text'
+					}).responseText;
+				}
+			});
+			fillContent.show();
+			$(document).scroll(function() {
+				fillContent.reposition();
+			});
+		}  */
+});
+</script>
+<script type="text/javascript">
+//反馈纠错
+$(document).ready(function(){
+	//$.fn.addCmt();
+	var itemId=2409;
+  	$("#cmt").comments({
+  		url:ctx+'/listComment',
+  		param:{itemId:itemId,type:'item'},
+  		total:"commentCount",
+  		submit:function(opts){
+  			var content = opts.content;
+  			var pid = opts.pid;
+  			if(content==""&&content.trim()==""){
+  				$.fn.notify("温馨提示","请输入评论内容");
+  				return ;
+  			}
+  			$.ajax({
+  				url:ctx+"/addComment",
+  				data:{itemId:itemId,content:content,type:'item',pid:pid},
+  				dataType:"json",
+  				type:"post",
+  				success:function(resp){
+  					if(resp.success){
+  						location.reload();
+  					}else{
+  						if("needlogin"==resp.status){
+  							$.fn.loginShow();
+  						}else{
+  							$.fn.notify("温馨提示",resp.msg);
+  						}
+  					}
+  				}
+  			});
+  		}
+  	});
+});
+
+</script>
+<script type="text/javascript" src="/static/standard/ckeditor/ckeditor.js"></script>
+<script src="/static/standard/ckeditor/adapters/jquery.js"></script> 
+<script src="/r/plugins/bower_components/bootstrap-treeview-master/dist/bootstrap-treeview.min.js"></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/js/wiki.js?v=1.2"></script>
+</body>
+</html>

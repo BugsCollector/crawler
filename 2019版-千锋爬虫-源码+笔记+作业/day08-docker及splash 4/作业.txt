@@ -1,0 +1,8 @@
+基础作业：
+1. 使用scrapy_splash改造之前写的xpc爬虫
+2. 使用requests+splash爬取京东商品列表
+
+扩展作业：
+1. 使用docker运行xpc爬虫
+
+

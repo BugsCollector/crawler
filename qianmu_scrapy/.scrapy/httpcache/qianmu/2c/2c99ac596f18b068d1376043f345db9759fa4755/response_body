@@ -1,0 +1,684 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>纽约市-迁木网</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="keywords"  content="纽约市" />
+<meta name="description"  id="description"  content="纽约市:纽约（New York City）是美国人口最多的城市，也是全世界最大的都会区之一纽约都会区的核心。逾一个世纪以来，纽约在商业和金融的方面发挥巨大的全球影响力。" />
+
+<link rel="stylesheet" type="text/css" href="/r/release/css/all.min.css?v=1.2">
+<!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+<link rel="icon" type="image/png" sizes="16x16" href="/r/plugins/images/logo.ico"> 
+
+
+<style>
+#tree>ul>li{font-size:15px;}
+.container-fluid{padding-left:0px;}
+</style>
+</head>
+<body class="fix-header fix-sidebar"> 
+<script type="text/javascript">
+document.body.oncopy = function () { 
+ setTimeout( function () { 
+	 if(document.all){ 
+		 var text = clipboardData.getData("text");
+		  if (text) { 
+		   text = text + "\r\n文章来自: 迁木网(http://www.qianmu.org)  详文参考："+location.href; 
+		   clipboardData.setData("text", text);
+		  } 
+		}else{ 
+		 }
+    }, 100 ) 
+}
+
+</script>
+	 <div class="preloader">
+  	<div class="cssload-speeding-wheel"></div>
+    </div>
+<div id="wrapper">
+   
+<nav class="navbar navbar-default navbar-static-top m-b-0">
+	<div class="navbar-header">
+		<a class="navbar-toggle hidden-sm hidden-md hidden-lg "
+			href="javascript:void(0)" data-toggle="collapse"
+			data-target=".navbar-collapse"><i class="ti-menu"></i></a>
+		<div class="top-left-part">
+			<a class="logo" href="/"><b> <img
+					src="/r/plugins/images/lo.png" alt="迁木网" title="迁木网"
+					class="dark-logo" style="padding:10px;" /><img
+					src="/r/plugins/images/lo.png" title="迁木网" alt="迁木网"
+					class="light-logo" style="padding:10px;" /></b> <span class="hidden-xs"><img
+					src="/r/plugins/images/logo22.png" title="迁木网" alt="迁木网"
+					class="dark-logo" /><img src="/r/plugins/images/logo22.png"
+					title="迁木网" alt="迁木网" class="light-logo" /></span></a>
+		</div>
+		<ul class="nav navbar-top-links navbar-left hidden-xs">
+			<li><a href="javascript:void(0)"
+				class="open-close hidden-xs waves-effect waves-light"><i
+					class="icon-arrow-left-circle ti-menu"></i></a></li>
+			<li  >
+				<form role="search" class="app-search hidden-xs" action="/q"
+					method="get">
+					<input type="text" placeholder="学校、问题搜一下..." q class="form-control"
+						name="title" style="min-width:300px;"> <a href="#"><i
+						class="fa fa-search search"></i></a>
+				</form>
+			</li>
+			<li >
+				<a   href="/mall" ><i class="fa fa-shopping-cart"></i>&nbsp;留学商城</a>
+			</li>
+		</ul>
+		<ul class="nav navbar-top-links navbar-right pull-right">
+			<li pub>
+				<a id="navfb" href="javascript:void(0)" >发帖</a>
+			</li>
+			
+			
+			
+			<li class="dropdown" chat><a  href="/chat?tid=38"><i class="ti-email"></i></a>
+			</li>
+			<li class="dropdown hide" msg><a
+				class="dropdown-toggle waves-effect waves-light"
+				data-toggle="dropdown" href="#"><i class="icon-volume-2"></i>
+					<div class="notify"></div> </a>
+				<ul
+					class="dropdown-menu dropdown-cart dropdown-tasks animated bounceInDown">
+					<li><a class="text-center" href="/forum"><strong>查看全部</strong>
+							<i class="fa fa-angle-right"></i> </a></li>
+				</ul></li>
+			<li class="dropdown" userArea></li>
+			<li class="right-side-toggle"><a
+				class="waves-effect waves-light" href="javascript:void(0)"><i
+					class="ti-settings"></i></a></li>
+		</ul>
+	</div>
+</nav>
+
+<div id="myModalnav" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+		<div class="modal-dialog" style="width: 700px">
+			<div class="modal-content" style="margin-top: 100px;">
+				<div class="modal-body modal-body-alert" >
+						<div class="row" >
+			        		<div class="row"  style="text-align: center;margin-left: 5%;width: 89%;height: 60px;" >
+			        			<div style="text-align: center;"><h1 class="news-title"><a href="/addForumView" class="btn btn-block btn-info" style="font-size: 25px;" target="_blank">发表主题</a></h1></div>
+			        		</div>
+							<div class="row" style="text-align: center;margin-left: 5%;width: 89%;margin-top:10px;">
+									<ul class="bs-glyphicons">
+										<li style="width: 33%">
+										<a href="/estimate" target="_blank"><span class="glyphicon glyphicon-paperclip " aria-hidden="true"></span>
+											<span class="glyphicon-class">求定位</span></a></li>
+										<li style="width: 33%"><a href="/addOffer" target="_blank"><span class="glyphicon glyphicon-leaf" aria-hidden="true"></span> <span class="glyphicon-class">报Offer</span>
+										</a>
+										</li>
+										<li style="width: 33%"><a href="/chat?tid=38" target="_blank"><span class="glyphicon glyphicon-font" aria-hidden="true"></span> <span class="glyphicon-class">咨询版主</span>
+										</a>
+										</li>
+									</ul>
+							</div>
+			        	</div>
+				</div>
+			</div>
+		</div>
+</div> 
+   
+<div class="navbar-default sidebar" role="navigation">
+    <div class="sidebar-nav navbar-collapse slimscrollsidebar">
+      <ul class="nav" id="side-menu">
+        <li class="m-t-10"><a href="/forum" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="-"></i> <span class="hide-menu">互动 <span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+            <li><a href="/forum" class="">在线论坛</a></li>
+            <li><a href="/forum?type=2" class="">Offer榜</a></li>
+            <li><a href="/askshow" class="">小秘回复墙</a></li>
+            
+          </ul>
+        </li>
+        <li><a href="/ranking/1528.htm" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="+"></i> <span class="hide-menu">排名 <span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+            <li><a href="/ranking/1528.htm">QS世界排名</a></li>
+            <li><a href="/ranking/905.htm">USNEWS排名</a></li>
+            <li><a href="/ranking/1209.htm">PayScale工资排名</a></li>
+            <li><a href="/ranking/904.htm">上交大排名</a></li>
+          </ul>
+        </li>
+        <li><a href="/美国本科研究生选校" class="waves-effect"><i class="linea-icon linea-basic fa-fw" data-icon=">"></i> <span class="hide-menu">选校<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level collapse in">
+            <li><a href="/美国本科研究生选校">选校</a></li>
+            <li><a href="/offer">案例库</a></li>
+          </ul>
+        </li>
+        <li><a href="/分类索引" class="waves-effect active"><i class="linea-icon linea-basic fa-fw" data-icon="m"></i> <span class="hide-menu">词条<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level collapse in">
+            <li><a href="/分类索引">百科</a></li>
+            <li><a href="http://www.qianmu.org/%E7%B2%BE%E5%8D%8E%E6%94%BB%E7%95%A5%E7%B4%A2%E5%BC%95">精华索引</a></li>
+            <li><a href="/留学中介机构列表">中介</a></li>
+            <li><a href="/下载中心">下载中心</a></li>
+          </ul>
+        </li>
+        <li><a href="/mall" class="waves-effect" ><i class="linea-icon linea-basic fa-fw" data-icon="V"></i> <span class="hide-menu">商城<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+          	 <li><a href="/mall?c=1">美国申请</a></li>
+          	 <li><a href="/mall?c=2">英国留学</a></li>
+             <li><a href="/mall?c=8">文书服务</a></li>
+          </ul>
+        </li>
+		 <li style="display:none;"><a href="/article" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="a"></i><span class="hide-menu">新闻<span class="fa arrow"></span></span></a>
+				<ul class="nav nav-second-level   ">
+					<li><a href="/article">资讯</a></li>
+				</ul></li>
+			<li class="nav-small-cap m-t-10" style="text-align:center;border-bottom: 1px solid #ddd;"></li>
+			
+      </ul>
+    </div>
+  </div> 
+   <div class="right-sidebar">
+        <div class="slimscrollright">
+          <div class="rpanel-title">个性化设置<span><i class="ti-close right-side-toggle"></i></span> </div>
+          <div class="r-panel-body">
+            <ul>
+              <li><b>显示设置</b></li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkbox1" type="checkbox" class="fxhdr">
+                  <label for="checkbox1">固定头部导航</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-warning">
+                  <input id="checkbox2" type="checkbox" checked="" class="fxsdr">
+                  <label for="checkbox2" >固定左侧导航</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-success">
+                  <input id="checkbox4" type="checkbox" class="open-close">
+                  <label for="checkbox4" >切换工具栏目</label>
+                </div>
+              </li>
+            </ul>
+            <ul>
+              <li><b>消息设置</b></li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkboxmsg" type="checkbox" class="fxhdr">
+                  <label for="checkboxmsg">不接受网页通知</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkboxmail" type="checkbox" class="fxhdr">
+                  <label for="checkboxmail">不接受邮件通知</label>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="share-tools" >
+         <ul>
+         	<li style="font-size: 14px;" id="fk"><a  href="#comments">评论反馈</a></li>
+         	<li id="sharebtn" style="font-size: 14px;padding-left: 12px;" ><a href="javascript:" >我要分享</a></a>
+	         	<ul style="display:none; height:50px;position: absolute;width:180px;right:50px;margin-top:-45px;" id="sharelist" >
+	               <li style="padding-left: 15px;" class="inli"><a href="javascript:shareToWB();" title="分享至微博" >微博</a></li>
+	               <li style="padding-left: 15px;" class="weixin-icon inli"><a href="javascript:" title="分享至微信" >微信</a></li>
+	               <li class="inli" ><a href="javascript:shareToQQ();"  title="分享至QQ空间">QQ空间</a></li>
+	            </ul>
+         	</li>
+         	<li class="back_top" id="back-to-top" style="display: none;" ></li>
+         </ul>
+	 </div>
+ 
+   <div id="page-wrapper">
+   <div class="container-fluid">
+      <!-- row -->
+      <div class="row">
+        <!-- Left sidebar -->
+        <div class="col-md-12">
+          <div class="white-box" style="padding-left:0px;">
+            <!-- row -->
+            <div class="row">
+              <div class="col-lg-2 col-md-3  col-sm-12 col-xs-12 " style="overflow:auto;min-height:30px;display:block;" >
+                <div class='treeDiv'>
+                <div id="treeDiv" ><ul id="tree" class="ztree"></ul></div>
+                </div>
+              </div>
+              
+              <div style="" class="col-lg-10 col-md-9 col-sm-12 col-xs-12 mail_listing">
+               <div class="row" >
+		     <input type="hidden" id="type"/>
+			   <div class="wikiContent" id="wikiContent"  >
+			        <h1 class="wikiTitle">纽约市 </h1> 
+					<div class="infobox"><table border="1" cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td>
+			<p>坐标</p>
+			</td>
+			<td>
+			<p>40°42′46″N 74°00′21″W</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>国家</p>
+			</td>
+			<td>
+			<p>美国</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>语言</p>
+			</td>
+			<td>
+			<p><a href="http://www.qianmu.org/英语" target="_blank">英语</a>、<a href="http://www.qianmu.org/西班牙语" target="_blank">西班牙语</a></p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<p>人口</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>市区人口</p>
+			</td>
+			<td>
+			<p>8,405,837（2013）</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>人口密度</p>
+			</td>
+			<td>
+			<p>10,725.4/km<sup>2</sup></p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<p>面积</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>面积</p>
+			</td>
+			<td>
+			<p>1,214   km<sup>2</sup></p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<p>海拔</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>平均海拔</p>
+			</td>
+			<td>
+			<p>10m</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<p>著名学校</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<p><a href="http://www.qianmu.org/纽约大学" target="_blank">纽约大学</a></p>
+
+			<p><a href="http://www.qianmu.org/福坦莫大学" target="_blank">福坦莫大学</a></p>
+
+			<p><a href="http://www.qianmu.org/哥伦比亚大学" target="_blank">哥伦比亚大学</a></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+					<div id="content"><p><strong>纽约</strong>（New York City）是美国人口最多的城市，也是全世界最大的都会区之一纽约都会区的核心。逾一个世纪以来，纽约在商业和<a  href='http://www.qianmu.org/金融' target='_blank'>金融</a>的方面发挥巨大的全球影响力。纽约是一座世界级城市，直接影响着全球的经济、金融、媒体、政治、教育、娱乐与时尚界，其中联合国总部也位于该市，因此纽约也被公认为世界之都。它经常被称为纽约市（New York City，官方名称为The City of New York），位于<a  href='http://www.qianmu.org/纽约州' target='_blank'>纽约州</a>东南部。</p>
+
+<p>纽约是美国最大城市及第一大港，同时大纽约也是世界第四大都会区，仅次于东京、首尔、墨西哥城，位于美国大西洋海岸的东北部。该市有<a  href='http://www.qianmu.org/曼哈顿（堪萨斯州）' target='_blank'>曼哈顿</a>区、<a  href='http://www.qianmu.org/皇后区（纽约州）' target='_blank'>皇后区</a>、<a  href='http://www.qianmu.org/布鲁克林（纽约州）' target='_blank'>布鲁克林</a>区、布朗克斯区、斯塔滕岛区五个行政区。在人口方面，纽约也是全美国人口最密集的重要城市，估计约有8,244,910人[1]居住在790平方公里的土地上。</p>
+
+<p>纽约在众多美国城市中，有着独特的大众运输系统，并在人口族群上有着其多样性及高密度。在2005年，该市有将近170种不同的语言及36%的人口是非美国当地出生的。因为该市广大、24小时营业的地下铁路系统，和繁华的建筑物、交通及人们，所以纽约也常被称为不夜城（The City that Never Sleeps），纽约地铁(包含邻近长岛及新泽西等郊区铁路)平均日流量，也位居世界各都会区地铁系统第八位，仅次于大东京首都圈、京阪神、首尔、<a  href='http://www.qianmu.org/莫斯科（爱达荷州）' target='_blank'>莫斯科</a>、北京、上海以及大巴黎七大铁道运输系统。纽约市其它昵称包括高谭和大苹果。纽约由<a  href='http://www.qianmu.org/荷兰' target='_blank'>荷兰</a>人于1624年建立，作为商业的交易站，当时该地被称为新阿姆斯特丹。纽约曾经是美国首都，1790年<a  href='http://www.qianmu.org/费城' target='_blank'>费城</a>成为首都后，成为美国最大的都市。</p>
+
+<p>如今，该市有非常多的地标、社区是世界知名的。自由女神像欢迎数百万移民在19世纪到20世纪初的到来；位于曼哈顿下城的华尔街，则是自第二次世界大战后主导全球的国际金融，纽约证券交易所也位于此地。</p>
+
+<h2>市名</h2>
+
+<p>虽然一般写作“New York City”，“NYC”的简称也在市区随处可见，但“City of New York”才是官方名称。纽约（New York）意为“新<a  href='http://www.qianmu.org/约克' target='_blank'>约克</a>”—约克则是英国一处地名。纽约，亦是为了纪念时任约克公爵的英国国王詹姆斯二世。</p>
+
+<p>另外由于在20世纪初，纽约对外来移民来说是个崭新天地，机会处处，因此纽约常被昵称为“大苹果”（the Big Apple），便是取“好看、好吃，人人都想咬一口”之意。此外，据传纽约市的“大苹果”昵称，是由于20世纪时一个名叫“大苹果”的纽约乐团名扬国际，造成许多来纽约的观光客都指名观看大苹果的表演，因此得名。</p>
+
+<p>纽约市有官方拉丁语名称“Novum Eboracum”用于市徽上，意为“新艾伯拉肯”。其中艾伯拉肯就是前述约克在罗马帝国时期的拉丁语旧名。</p>
+
+<h2>地理</h2>
+
+<p>纽约市地处美国东北纽约州东南部，大约在<a  href='http://www.qianmu.org/华盛顿' target='_blank'>华盛顿</a>特区和<a  href='http://www.qianmu.org/波士顿' target='_blank'>波士顿</a>中间位置[13]，紧邻的哈德逊河让纽约市享有运航之便，使其快速发展成为一个贸易重镇。纽约城区大多落在曼哈顿、斯塔滕岛和长岛，因为土地狭小所以人口密度很高。</p>
+
+<p>哈德逊河流经哈德逊河谷，进入纽约湾，为纽约市和<a  href='http://www.qianmu.org/新泽西州' target='_blank'>新泽西州</a>的分界线。一样位在纽约市的东河流经长岛海湾，将布朗克斯和曼哈顿与长岛隔开。哈莱姆河位于东河与哈德逊河之间，分隔曼哈顿和布朗克斯两行政区。布朗克斯河流经布朗克斯和威斯特彻斯特郡，是纽约市唯一皆为淡水的河流。</p>
+
+<p>纽约市大部分的土地遭人为变动过，从荷兰统治时期开始就有大量的填海造地工程，特别是在曼哈顿下城，如1970至1980年代的炮台公园城市计划。</p>
+
+<p>纽约市土地面积约 304.8 平方英里，整体面积约 468.9 平方英里，其中 164.1 平方英里为水域，304.8 平方英里为陆地。城内最高海拔位在斯塔滕岛的托德山，约 409.8 英尺，是<a  href='http://www.qianmu.org/缅因州' target='_blank'>缅因州</a>以南的东部沿岸的最高地。</p>
+
+<h2>气候</h2>
+
+<p>纽约属于副热带湿润气候，四季分明，夏季闷热，冬季湿冷，春秋两季温和干燥。冬天时离岸的风平时极小。受海洋影响，一月时纽约比<a  href='http://www.qianmu.org/辛辛那提' target='_blank'>辛辛那提</a>和圣路易（位于更低纬度）暖。1月平均气温为 0.1 °C，但气温有时降到 −10 °C 以下或超过10 °C。7月平均气温为 24.7 °C，但每年有18 天高温超过 32.2 °C，每四到六年高温超 37.8 °C。另外，夏天时市区的热岛现象常常提升高温。年平均降雪为 71 厘米，但积雪不会长时间留在地表。</p>
+
+<h2>环境</h2>
+
+<p>纽约的大众运输使用率为全美最高，石油的消耗量跟1920年代全美的平均差不多。[19]据2006年统计，其极高的大众运输使用率在当年就省下了 18 亿加仑的石油消耗量，光是纽约市省下的油量就达到是全美大众运输省油量的一半。纽约市人口密度高，公共运输使用率高，汽车使用率很低，使得纽约成为美国境内最节能的城市之一，每人平均温室气体排放量只有 7.1 公吨，与全美平均 24.5 公吨相较起来低很多，全市人口数虽然占了全国人口 2.7 %，但温室气体的排放量只占了全国排放量的百分之一，纽约居民所耗费的电量比<a  href='http://www.qianmu.org/旧金山' target='_blank'>旧金山</a>居民的耗费量一半还少，甚至是<a  href='http://www.qianmu.org/达拉斯' target='_blank'>达拉斯</a>居民的四分之一而已。</p>
+
+<p>近年来，由于空气的污染提高了气喘和其他呼吸道疾病的发生率，纽约市开始实施计划欲减低环境冲击，[24]市政府只采买最节能的设备，供市政府办公室和社会住宅使用，[25]此外也使用柴油混合动力车辆和压缩天然气公车。至2010年中，纽约市已有 3,715 辆混和动力出租车和柴油车辆，占全市出租车辆总数的28%，位居北美第一</p>
+
+<p>纽约市政府曾发起诉愿，要求美国国家环境保护局将温室气体归类成污染物，此外市政府也主导绿建筑的兴建，如赫斯特大楼。</p>
+
+<p>纽约市内的饮用水是从卡兹奇山供应，由于该地区水源密集，不受污染，不须经过水处理即可配送。</p>
+
+<h2>人口</h2>
+
+<p>纽约市全美人口最多的城市，据美国人口调查局于2009年7月的统计，纽约人口为 8,391,881 人，约纽约州 40% 的人口。过去十年来，人口快速成长，人口调查学家估计在2030年时，人口大约会在 920 至 950 万之间</p>
+
+<p>纽约市的人口密度非常高，据2000年统计，一平方英里就有 26,403 人（一平方公里约 10,194 人），比密度第二高的旧金山足足多出一万人。曼哈顿的密度更是高达一平方英里 66,940 人（一平方公里 25,846 人），为全美之最。</p>
+
+<p>由于纽约一直以来都是外来移民的入境点，有相当多外来种族就在此落地生根，光是在1892至1924年间，就有超过 1200 万的欧洲移民经由埃利斯岛入境美国。当初，“大熔炉”一词就是来形容下东城许多族群人种居住的街区。</p>
+
+<p>纽约市约有36%的人口是在国外出生的，虽然比例上较<a  href='http://www.qianmu.org/洛杉矶' target='_blank'>洛杉矶</a>和<a  href='http://www.qianmu.org/迈阿密' target='_blank'>迈阿密</a>低，但是这两城市的外来人口的国籍较少，而纽约市外来人口的国籍非常多，各国籍的比例较为平均，主要移民来源国家有多米尼加、中国、牙买加、圭亚那、墨西哥、厄瓜多尔、海地、特立尼达和多巴哥、<a  href='http://www.qianmu.org/哥伦比亚（南卡罗来纳州）' target='_blank'>哥伦比亚</a>和俄罗斯。纽约市最多的人种为非洲裔美国人、意大利人、犹太人和爱尔兰人。至今，纽约依然是合法移民的主要入境城市。</p>
+
+<p>纽约市都会区是除了以色列外犹太人最多的地区，有全球最大的犹太社区。此外，居住在纽约的印度人占了全美印度人约四分之一，非洲裔美国人的比例也是全美最多，据 2008 年统计，有 659,596 华人居住在此，为亚洲外最多华人之区域。意大利裔的人口也相当多，大多是在 20 世纪早期时从西西里岛和南意大利来的移民。爱尔兰、波多黎各和多米尼加等国的移民也相当庞大。</p>
+
+<h2>行政区划</h2>
+
+<p>纽约市面积广大，分为五个行政区，与纽约州下辖的郡重叠。每一行政区还可细分为街区，许多的街区有不同的<a  href='http://www.qianmu.org/历史' target='_blank'>历史</a>发展和特色。如果将这些行政区划分为独立的城市，其中四个街区（布鲁克林、皇后区、曼哈顿岛和布朗克斯）将会是全美前十最多人居住的城市。</p>
+
+<p><strong>布朗克斯：最北的行政区</strong>，有著名的洋基体育场和布朗克斯动物园。除了曼哈顿的大理石丘外，布朗克斯是纽约市唯一与美国本土相接的区域。</p>
+
+<p><strong>曼哈顿：人口最稠密的行政区</strong>，有许多商业摩天大楼和中央公园，此外也是纽约金融的中心，有许多大企业的总部和联合国总部。此区有许多文化景点，包含许多知名博物馆、百老汇区、格林威治村和<a  href='http://www.qianmu.org/麦迪逊（威斯康辛州）' target='_blank'>麦迪逊</a>广场花园。曼哈顿可粗略区分为下城、中城和上城，上城以中央公园为界可分为上西城和上东城，公园以北就是哈林区。</p>
+
+<p><strong>布鲁克林：人口最多的行政区</strong>，在1898年以前仍是独立的城市。此区的文化、社会和种族富有多元性，带有艺术情调以及建筑传统。除了曼哈顿外，布鲁克林是唯一有商业区的行政区。此外，此区还有两个特色：长海岸线和设有游乐园的科尼岛。</p>
+
+<p><strong>皇后区：面积最大的行政区</strong>，也是全美种族最多元的郡，其人口成长的速度将会使该区打破布鲁克林成为人口最多的行政区。过去，居住在此区的只有一些荷兰籍的移民，今日则有许多中产阶级。这里也是全美唯一一个非裔美国人收入大于白人的地区（年收入约$52,000）。皇后区有纽约大都会的花旗球场和美国网球公开赛举办地，交通方面有肯尼迪国际机场和拉瓜地亚机场，服务整个纽约都会区。</p>
+
+<p><strong>斯塔滕岛：最郊区的行政区</strong>，分别借由韦拉札诺海峡大桥和斯塔滕岛渡轮与布鲁克林和曼哈顿连接。斯塔滕岛渡轮是纽约的相当热门的景点，因为它能提供欣赏自由女神、埃利斯岛和曼哈顿下城的最佳视野。斯塔滕岛内有25平方公里的林带，是纽约市内最后一片无人破坏的森林。</p>
+
+<h2>经济</h2>
+
+<p>纽约市是全球商业经贸的重心，是全世界最重要的金融中心，此外也是全美的保险、<a  href='http://www.qianmu.org/房地产' target='_blank'>房地产</a>、媒体和艺术的重镇。</p>
+
+<p>许多大型企业都在纽约市设立总部，财富500强中就有45家公司总部位于该市。]纽约与其它美国大城市相比，拥有较高比例的外国公司，平均每十个工作之中就会有一个是外国公司的工作。</p>
+
+<p>根据2001年的资料，曼哈顿拥有 3286 万平方米的办公室楼板面积。曼哈顿中城是全美最大的中心商业区，曼哈顿下城则位居第三，纽约证券交易所就位于此地。金融服务的收入占了全市市民收入 35%。</p>
+
+<p>由于纽约市是跨大西洋光纤缆线的主要支点，促进了该市生物科技、软件开发、游戏设计和网络服务等高科技产业的成长，其他重要经济领域还有医疗研究与科技、非营利组织和大学。</p>
+
+<h2>教育</h2>
+
+<p>纽约市的公立学校体系是由纽约市教育局管理，为全美最大的学校体系，约有 110 万名学生在超过 1,200 间中小学校就读。，而纽约州教育机构（University of the State of New York）则掌管整个纽约州的公立中小学校。</p>
+
+<p>至于高等教育，纽约市立大学是该市的公立大学体系，除此之外还有许多知名的私立大学，如历史最悠久的<a  href='http://www.qianmu.org/纽约大学' target='_blank'>纽约大学</a>（NYU），天主教学校<a  href='http://www.qianmu.org/福坦莫大学' target='_blank'>福坦莫大学</a>和长春藤联盟的<a  href='http://www.qianmu.org/哥伦比亚大学' target='_blank'>哥伦比亚大学</a>。美国陆军创立的西点军校位在纽约市北方，哈德逊河旁。</p>
+
+<p>纽约公共图书馆为全美藏书量最多的公立图书馆，主要对曼哈顿、布朗克斯和斯塔滕岛的居民开放，图书馆下辖许多研究型分馆。皇后图书馆服务皇后区的民众，布鲁克林公共图书馆则服务布鲁克林地区。</p>
+
+<h2>交通</h2>
+
+<p>纽约市为美国最大、最拥挤的城市，亦为世界上人口第四位（仅次于东京、首尔、墨西哥城）的大型都会区所在，因此该市的交通流量十分庞大。每逢尖峰时段或假日，经常会有大量人潮、车潮流动于市中心曼哈顿内或五大区之间，经常导致市区内各重要干道及重要的连外桥梁，出现交通阻塞的情形。</p>
+
+<p>纽约市与其周边地区的交通流量庞大，因此以纽约市为中心的纽约都会区也有着由各州政府独自或互相合作成立的单位负责提供大纽约地区的交通需求。纽约州、新泽西州、与康乃狄克州有着大量的通勤上班族，每天对大纽约地区有着非常大的运输需要，这更使得大纽约地区拥有全美国最发达的大众运输系统。而相较于美国其他大部分都市（尤其是洛杉矶）以车代步的交通方式，纽约人主要是搭乘公车、地铁及渡轮上下班，而其中，纽约地铁是世界上最大的公共运输系统之一。此外，目前亦有可以共通使用于纽约地铁与公车之间的磁卡票证系统—MetroCard，系纽约市政府为了推广大众捷运交通而实施的乘客优惠制度。由于这项改革使纽约地铁与公车间的转乘更为方便，因此广受市民及游客欢迎。在1997年该卡当发行不久时，纽约大众运输系统的乘客人数就已经达到了2700万人次。</p>
+
+<p>此外，由于纽约市境内河流港湾错综复杂，因此桥梁及隧道数量众多，是其一大特色。这些桥梁及隧道对纽约的发展贡献甚巨，尤对四面环水的曼哈顿岛来说更是如此，因为桥梁是民众往来市中心（即曼哈顿）及郊区间的必经通道，隧道亦然。但每逢上下班尖峰时刻，桥梁和隧道反而变成了交通瓶颈。</p>
+
+<p>除了都会区内交通发达之外，纽约市与全美各地的往来亦十分频繁，透过发达、复杂的铁公路网，纽约居民得以更快速、方便的往返全国各座都市。此外纽约也由于地处美国东北部，距离欧洲也较近，又接近全球最繁忙的北大西洋航线，故不论是与欧洲各地间的空运及海运交通，均十分繁忙。</p>
+
+<h2>城市景观</h2>
+
+<p>观光业是纽约相当重要的经济来源，每年大约有4700万美国与外国观光客造访。</p>
+
+<p>自由女神像不仅是纽约的一大景点，也是美国的象征和世界著名的地标[37]。</p>
+
+<p>帝国大厦与埃利斯岛、百老汇、博物馆（如大都会艺术博物馆）、中央公园、华盛顿广场公园、洛克菲勒中心、时代广场、布朗克斯动物园、纽约植物园都是著名的观光景点，麦迪逊大道与第五大道两旁的精品店则是游客购物的中心。</p>
+
+<p>特别的庆典有格林尼治村的纽约万圣节游行、特里贝卡电影节和中央公园免费的夏日舞台。</p>
+
+<p><strong>建筑</strong></p>
+
+<p>建筑技术的发展让纽约市里的低矮欧式传统建筑逐渐变成垂直攀升的摩天大楼，特别是在商业区里，形成了纽约市特别的城市景观。据2009年统计，纽约有5,794座高楼，居全美第一，世界第二，仅次香港[38]，其中有35座高度超过200米，是拥有最多摩天大楼的城市。</p>
+
+<p>纽约住宅区的建筑特色就是褐石建造的排房和老旧的公寓大厦，这些建筑约在1870年至1930年间急速增加。在1835年纽约大火灾后，石头和砖头成了都市建筑的主要材质。纽约跟巴黎的建筑材质很不同，巴黎用的是当地产的石灰石，纽约则是使用远方采石场运来的石头，有不同的质地和颜色，因此市容较多变化。</p>
+
+<p><strong>公园</strong></p>
+
+<p>纽约市有超过28,000英亩（110平方千米）的市立公园和超过14英里（23千米）的公共海滩[46]，此外，也有几千亩的国立公园坐落在城市的边界。牙买加湾野生动物保护区是国家公园系统中唯一的野生动物区，面积达9,000英亩（36平方千米），涵盖大部分的牙买加湾（Jamaica Bay）。曼哈顿的中央公园是全美最多人造访的公园，每年约有三千万的游客，比<a  href='http://www.qianmu.org/芝加哥' target='_blank'>芝加哥</a>的<a  href='http://www.qianmu.org/林肯（内布拉斯加州）' target='_blank'>林肯</a>公园还多出一千万。布鲁克林区的远景公园有90-英亩 (360,000-平方米)的草原。皇后区的法拉盛草原可乐娜公园是纽约市第三大的公园，1939年和1964年世界博览会曾在此举办。布朗克斯区其中五分之一的面积—7,000英亩（28平方千米）属于公共场地和公园，包含范可兰公园、培罕湾公园、布朗克斯动物园和纽约植物园。</p>
+
+<p><strong>文艺与博物馆</strong></p>
+
+<p>百老汇、时代广场、卡内基<a  href='http://www.qianmu.org/音乐' target='_blank'>音乐</a>厅、林肯中心、大都会艺术博物馆、美国自然历史博物馆、纽约科学馆、现代艺术博物馆、古根海姆<a  href='http://www.qianmu.org/美术' target='_blank'>美术</a>馆</p>
+
+<p><strong>其他景点</strong></p>
+
+<p>华尔街、中央公园、哥伦比亚大学、纽约大学区和华盛顿广场公园、纽约公共图书馆、纽约世界贸易中心遗址、纽约证券交易所。</p>
+
+<h2>社会生活与文化</h2>
+
+<p><strong>媒体</strong></p>
+
+<p>纽约为全球电视、广告、音乐、报纸和图书出版业的重镇，亦是北美最大的媒体市场（其次为洛杉矶和<a  href='http://www.qianmu.org/多伦多' target='_blank'>多伦多</a>）[50]。知名的媒体企业包括时代华纳、新闻集团、赫斯特国际集团和维亚康姆，全球前八大的广告媒体就有七个在纽约市设立总部[51]。此外，全球的前四大音乐唱片公司（EMI、新力博德曼、华纳、环球）之中有三间同时在纽约市和洛杉矶设立据点。</p>
+
+<p>在纽约出版的《纽约时报》和《华尔街日报》是美国两大全国性的报纸，其他小报则包括《每日新闻》和《纽约邮报》。当地的《乡村之音》报纸也相当有名，专门报道时事评论以及特色主题。</p>
+
+<p>1/3的美国独立电影在纽约制作，超过200种报纸和350种杂志也在此地设立办公室[52]，光是图书出版业就带动了25,000名就业人潮。</p>
+
+<p>电视产业对于纽约来说是相当重要的经济命脉，四大广播公司，包括美国广播公司、哥伦比亚广播公司、福克斯广播公司和国家广播公司，都在纽约设立总部。此外，一些如音乐电视网、HBO、福克斯新闻频道等的有线电视频道也在此设点。2005年的资料统计，有超过100个电视节目在纽约拍摄。</p>
+
+<p>除了商业媒体之外，纽约也是非商业媒体的的中心。1971年创立曼哈顿公共电视网是美国历史最悠久的公共频道[55]。纽约最大的公共电视台WNET是全国公共电视网的主要节目提供者。WNYC是全美最多听众收听的电台。</p>
+
+<p>纽约市政府也经营了一个公共广播频道nyctv，制作出许多艾美奖得奖的节目，节目内容大多涵盖纽约市内的音乐、文化，以及政府相关活动。</p>
+
+<p><strong>治安</strong></p>
+
+<p>自2005年开始，纽约市的犯罪率一直是全美前25大城里最低的，与1980和1990年代比较起来相对的安全很多，2002年的犯罪率甚至与<a  href='http://www.qianmu.org/犹他州' target='_blank'>犹他州</a>普若佛相同，犯罪率在全美 216 个人口超过十万的城市里排行 197 名。1993至2005年间，暴力犯罪率下降约75%，目前仍持续下降。此外，杀人案件也降得很低[66]，2007年所记录的杀人案少于 500 件，是1963纪录以来最低。95.1% 谋杀受害者与 95.9% 的枪击受害者都是黑人与拉丁美洲裔。</p>
+
+<p><a  href='http://www.qianmu.org/社会学家' target='_blank'>社会学家</a>和<a  href='http://www.qianmu.org/犯罪学' target='_blank'>犯罪学</a>家目前对于犯罪率大幅下降的原因还未有共识，有些人认为原因是纽约市警察局所采取的新措施，如电脑科计辅助的CompStat犯罪处理系统以及破窗效应的防堵[70]。其他人则认为是因为霹雳可卡因的退烧以及人口结构的改变。</p>
+
+<p>有组织犯罪长期以来都是纽约市的重要问题，1820年代时已有出现帮派的分别，20世纪时美国黑手党的崛起，至今仍是当地最大且最有权的犯罪组织。</p>
+
+<p><strong>娱乐与表演艺术</strong></p>
+
+<p>纽约市也是美国电影工业的重地，早期的前卫电影《Manhatta》（1920年）就是于此地拍摄。今日，纽约市是美国第二大的电影中心，有2,000个以上的艺术文化组织以及500个以上艺廊，市政府对艺术的资助远超过美国艺术基金会（National Endowment for the Arts）。19世纪富有的企业家曾建立一个文化组织的沟通网络，如卡内基大厅和大都会博物馆。之后，电子照明的使用让戏院蓬勃发展，1880年代，百老汇和42街的戏院开始演出一种新的舞台表演，也就是音乐剧。</p>
+
+<p>由于移民者的影响，舞台剧经常会使用叙事性的歌曲，反映希望与抱负，而今日这些<a  href='http://www.qianmu.org/戏剧' target='_blank'>戏剧</a>仍然是纽约剧院的主要表演。纽约有名的百老汇是由市内最大的30间戏院（500个座位以上）组成。</p>
+
+<p>林肯中心是全美最大的表演艺术中心，有12个不同的艺术表演组织，如大都会歌剧院、纽约爱乐、纽约芭蕾等。另一个表演景点中央公园夏日舞台提供免费的戏剧和音乐演出，和1,200个免费演唱会和舞会，在全纽约市各个的行政区举办。</p>
+
+<p><strong>饮食</strong></p>
+
+<p>纽约的饮食文化受到许多外来移民的影响，因此非常多元，东欧和意大利的移民带来了纽约市最负盛名的贝果、起司蛋糕和纽约式披萨。市内约有4,000个领有执照的小吃摊贩，许多都是由外来移民经营，因此街上可看到许多中东食物，如炸豆丸子和羊肉串，但是热狗和椒盐卷饼仍然是主流摊贩小吃。除了摊贩外，纽约市也是高级餐厅的聚集地。纽约市常见的异国料理有意大利、法国、西班牙、德国、俄罗斯、英国、希腊、摩洛哥、中国、印度和日本等料理。</p>
+
+<p><strong>注：</strong>2001年9月11日，纽约市发生九一一事件，恐怖分子劫持四架飞机，两架分别撞向两座世界贸易中心，一架撞向五角大楼，另一架坠毁。事件造成超过三千人死亡，包括大量民众，消防员。*(1)</p>
+
+<p>参考资料：</p>
+
+<p>(1)<a  href='http://www.qianmu.org/redirect?code=Hr3vKzpmkYo9iAdcj7gEeU_OXntOQPQUsNgNdBU6Y6s8iAizLRPWZWsqb4Cekh-7oWHPf_Scxkl2msofDC7wP_JwuBrDig' target='_blank'>New York City</a> Wikipedia</p></div>
+					
+	           </div>
+	           <div id="authorTrueName" style="float: right;"></div><br>
+				
+	           <div class="col-md-12">
+	           		<div id="cmt" style="position: relative;"><a name="comments" style="margin-top:150px;"></a>
+		           			<div id="lastEditTime" style="position: absolute;top: 18px;right: 10px;">2014-06-19</div>
+		           			<div style="position: absolute;top: 18px;right: 100px;">最后修改时间：</div>
+	           		</div>
+	           </div>
+			  </div>
+              </div>
+            </div>
+            <!-- /.row -->
+          </div>
+        </div>
+      </div>
+      <!-- /.row -->
+    </div>
+  </div>
+</div>
+
+
+<script type="text/javascript">
+	var ctx= '',uId='',vl='', wsip = 'ws://www.qianmu.org:8080/',ve='';
+	var vipendtime="";
+	var et='';
+	var b_name = navigator.appName; 
+	var b_version = navigator.appVersion; 
+	var version = b_version.split(";"); 
+	var trim_Version=version[1].replace(/[ ]/g,"");
+	if (b_name == "Microsoft Internet Explorer") { 
+
+	if (trim_Version == "MSIE7.0" || trim_Version == "MSIE6.0" ||trim_Version == "MSIE8.0") { 
+		alert("IE浏览器版本过低，请到指定网站去下载相关版本"); 
+	 		window.location.href="http://jiaoxueyun.com/download.jsp"; 
+		} 
+	} 
+</script>
+<script src="/r/plugins/bower_components/jquery/dist/jquery.min.js"></script>
+<script src="/r/release/js/all.js?v=1.2"></script>
+<script type='text/javascript'>
+    (function(m, ei, q, i, a, j, s) {
+        m[i] = m[i] || function() {
+            (m[i].a = m[i].a || []).push(arguments)
+        };
+        j = ei.createElement(q),
+            s = ei.getElementsByTagName(q)[0];
+        j.async = true;
+        j.charset = 'UTF-8';
+        j.src = 'https://static.meiqia.com/dist/meiqia.js?_=t';
+        s.parentNode.insertBefore(j, s);
+    })(window, document, 'script', '_MEIQIA');
+    _MEIQIA('entId', 99735);
+</script>
+ 
+ 
+<script type="text/javascript">
+function inadd(){
+	 var incontent = $("#intext").val();
+	 var inpid = $("#inpid").val();
+	 var itemId=1165;
+	 
+	 $.ajax({
+			url:ctx+"/addComment",
+			data:{itemId:itemId,content:incontent,type:'item',pid:inpid},
+			dataType:"json",
+			type:"post",
+			success:function(resp){
+				if(resp.success){
+					$("#pl").val(resp.msg);
+					location.reload();
+				}else{
+					if("needlogin"==resp.status){
+						$.fn.loginShow();
+					}else{
+						$.fn.notify("温馨提示",resp.msg);
+					}
+				}
+			}
+		});
+}
+
+var itemId = '1165' ;
+var editLevel  = '';
+if(itemId==''){
+	itemId=2006;
+}
+var needlogin = '1';
+	var needFill = '0';
+ 	var ads = '';  
+var needpay = '0';
+var vipnotice = '' ;
+if(vl=='0'){
+	
+}
+$(document).ready(function(){
+	if(needlogin=='1'){
+		location.href = "/loginView";
+	}
+	console.log(vipnotice);
+	if(uId!=''&&vipnotice>0&&vipnotice<3){
+		 swal({   
+	           title: "您的VIP即将到期",   
+	           text: "到期时间"+vipendtime,   
+	           type: "warning",   
+	           showCancelButton: true,   
+	           confirmButtonColor: "#DD6B55",   
+	           confirmButtonText: "购买VIP", 
+	           cancelButtonText:'我知道了',
+	           closeOnConfirm: true 
+	       }, function(){   
+	           location.href=ctx+"/zone/vippay2?vipRange=12";
+	       });
+	}
+	  
+	  /* if(ads=='0'){
+			var fillContent = new Ads({
+				closeClick:true,
+				render : function() {
+					return $.ajax({
+						url : ctx + "/getAds",
+						async : false,
+						dataType : 'text'
+					}).responseText;
+				}
+			});
+			fillContent.show();
+			$(document).scroll(function() {
+				fillContent.reposition();
+			});
+		}  */
+});
+</script>
+<script type="text/javascript">
+//反馈纠错
+$(document).ready(function(){
+	//$.fn.addCmt();
+	var itemId=1165;
+  	$("#cmt").comments({
+  		url:ctx+'/listComment',
+  		param:{itemId:itemId,type:'item'},
+  		total:"commentCount",
+  		submit:function(opts){
+  			var content = opts.content;
+  			var pid = opts.pid;
+  			if(content==""&&content.trim()==""){
+  				$.fn.notify("温馨提示","请输入评论内容");
+  				return ;
+  			}
+  			$.ajax({
+  				url:ctx+"/addComment",
+  				data:{itemId:itemId,content:content,type:'item',pid:pid},
+  				dataType:"json",
+  				type:"post",
+  				success:function(resp){
+  					if(resp.success){
+  						location.reload();
+  					}else{
+  						if("needlogin"==resp.status){
+  							$.fn.loginShow();
+  						}else{
+  							$.fn.notify("温馨提示",resp.msg);
+  						}
+  					}
+  				}
+  			});
+  		}
+  	});
+});
+
+</script>
+<script type="text/javascript" src="/static/standard/ckeditor/ckeditor.js"></script>
+<script src="/static/standard/ckeditor/adapters/jquery.js"></script> 
+<script src="/r/plugins/bower_components/bootstrap-treeview-master/dist/bootstrap-treeview.min.js"></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/js/wiki.js?v=1.2"></script>
+</body>
+</html>

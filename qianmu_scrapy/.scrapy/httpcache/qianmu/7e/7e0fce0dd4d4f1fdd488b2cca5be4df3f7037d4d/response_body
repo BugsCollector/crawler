@@ -1,0 +1,433 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>西安大略大学-迁木网</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="keywords"  content="西安大略大学" />
+<meta name="description"  id="description"  content="西安大略大学:西安大略大学 （University of Western Ontario or Western University，简称为UWO、Western或者Western Ontario），位于加拿大安大略省伦敦市。" />
+
+<link rel="stylesheet" type="text/css" href="/r/release/css/all.min.css?v=1.2">
+<!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+<link rel="icon" type="image/png" sizes="16x16" href="/r/plugins/images/logo.ico"> 
+
+
+<style>
+#tree>ul>li{font-size:15px;}
+.container-fluid{padding-left:0px;}
+</style>
+</head>
+<body class="fix-header fix-sidebar"> 
+<script type="text/javascript">
+document.body.oncopy = function () { 
+ setTimeout( function () { 
+	 if(document.all){ 
+		 var text = clipboardData.getData("text");
+		  if (text) { 
+		   text = text + "\r\n文章来自: 迁木网(http://www.qianmu.org)  详文参考："+location.href; 
+		   clipboardData.setData("text", text);
+		  } 
+		}else{ 
+		 }
+    }, 100 ) 
+}
+
+</script>
+	 <div class="preloader">
+  	<div class="cssload-speeding-wheel"></div>
+    </div>
+<div id="wrapper">
+   
+<nav class="navbar navbar-default navbar-static-top m-b-0">
+	<div class="navbar-header">
+		<a class="navbar-toggle hidden-sm hidden-md hidden-lg "
+			href="javascript:void(0)" data-toggle="collapse"
+			data-target=".navbar-collapse"><i class="ti-menu"></i></a>
+		<div class="top-left-part">
+			<a class="logo" href="/"><b> <img
+					src="/r/plugins/images/lo.png" alt="迁木网" title="迁木网"
+					class="dark-logo" style="padding:10px;" /><img
+					src="/r/plugins/images/lo.png" title="迁木网" alt="迁木网"
+					class="light-logo" style="padding:10px;" /></b> <span class="hidden-xs"><img
+					src="/r/plugins/images/logo22.png" title="迁木网" alt="迁木网"
+					class="dark-logo" /><img src="/r/plugins/images/logo22.png"
+					title="迁木网" alt="迁木网" class="light-logo" /></span></a>
+		</div>
+		<ul class="nav navbar-top-links navbar-left hidden-xs">
+			<li><a href="javascript:void(0)"
+				class="open-close hidden-xs waves-effect waves-light"><i
+					class="icon-arrow-left-circle ti-menu"></i></a></li>
+			<li  >
+				<form role="search" class="app-search hidden-xs" action="/q"
+					method="get">
+					<input type="text" placeholder="学校、问题搜一下..." q class="form-control"
+						name="title" style="min-width:300px;"> <a href="#"><i
+						class="fa fa-search search"></i></a>
+				</form>
+			</li>
+			<li >
+				<a   href="/mall" ><i class="fa fa-shopping-cart"></i>&nbsp;留学商城</a>
+			</li>
+		</ul>
+		<ul class="nav navbar-top-links navbar-right pull-right">
+			<li pub>
+				<a id="navfb" href="javascript:void(0)" >发帖</a>
+			</li>
+			
+			
+			
+			<li class="dropdown" chat><a  href="/chat?tid=38"><i class="ti-email"></i></a>
+			</li>
+			<li class="dropdown hide" msg><a
+				class="dropdown-toggle waves-effect waves-light"
+				data-toggle="dropdown" href="#"><i class="icon-volume-2"></i>
+					<div class="notify"></div> </a>
+				<ul
+					class="dropdown-menu dropdown-cart dropdown-tasks animated bounceInDown">
+					<li><a class="text-center" href="/forum"><strong>查看全部</strong>
+							<i class="fa fa-angle-right"></i> </a></li>
+				</ul></li>
+			<li class="dropdown" userArea></li>
+			<li class="right-side-toggle"><a
+				class="waves-effect waves-light" href="javascript:void(0)"><i
+					class="ti-settings"></i></a></li>
+		</ul>
+	</div>
+</nav>
+
+<div id="myModalnav" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+		<div class="modal-dialog" style="width: 700px">
+			<div class="modal-content" style="margin-top: 100px;">
+				<div class="modal-body modal-body-alert" >
+						<div class="row" >
+			        		<div class="row"  style="text-align: center;margin-left: 5%;width: 89%;height: 60px;" >
+			        			<div style="text-align: center;"><h1 class="news-title"><a href="/addForumView" class="btn btn-block btn-info" style="font-size: 25px;" target="_blank">发表主题</a></h1></div>
+			        		</div>
+							<div class="row" style="text-align: center;margin-left: 5%;width: 89%;margin-top:10px;">
+									<ul class="bs-glyphicons">
+										<li style="width: 33%">
+										<a href="/estimate" target="_blank"><span class="glyphicon glyphicon-paperclip " aria-hidden="true"></span>
+											<span class="glyphicon-class">求定位</span></a></li>
+										<li style="width: 33%"><a href="/addOffer" target="_blank"><span class="glyphicon glyphicon-leaf" aria-hidden="true"></span> <span class="glyphicon-class">报Offer</span>
+										</a>
+										</li>
+										<li style="width: 33%"><a href="/chat?tid=38" target="_blank"><span class="glyphicon glyphicon-font" aria-hidden="true"></span> <span class="glyphicon-class">咨询版主</span>
+										</a>
+										</li>
+									</ul>
+							</div>
+			        	</div>
+				</div>
+			</div>
+		</div>
+</div> 
+   
+<div class="navbar-default sidebar" role="navigation">
+    <div class="sidebar-nav navbar-collapse slimscrollsidebar">
+      <ul class="nav" id="side-menu">
+        <li class="m-t-10"><a href="/forum" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="-"></i> <span class="hide-menu">互动 <span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+            <li><a href="/forum" class="">在线论坛</a></li>
+            <li><a href="/forum?type=2" class="">Offer榜</a></li>
+            <li><a href="/askshow" class="">小秘回复墙</a></li>
+            
+          </ul>
+        </li>
+        <li><a href="/ranking/1528.htm" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="+"></i> <span class="hide-menu">排名 <span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+            <li><a href="/ranking/1528.htm">QS世界排名</a></li>
+            <li><a href="/ranking/905.htm">USNEWS排名</a></li>
+            <li><a href="/ranking/1209.htm">PayScale工资排名</a></li>
+            <li><a href="/ranking/904.htm">上交大排名</a></li>
+          </ul>
+        </li>
+        <li><a href="/美国本科研究生选校" class="waves-effect"><i class="linea-icon linea-basic fa-fw" data-icon=">"></i> <span class="hide-menu">选校<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level collapse in">
+            <li><a href="/美国本科研究生选校">选校</a></li>
+            <li><a href="/offer">案例库</a></li>
+          </ul>
+        </li>
+        <li><a href="/分类索引" class="waves-effect active"><i class="linea-icon linea-basic fa-fw" data-icon="m"></i> <span class="hide-menu">词条<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level collapse in">
+            <li><a href="/分类索引">百科</a></li>
+            <li><a href="http://www.qianmu.org/%E7%B2%BE%E5%8D%8E%E6%94%BB%E7%95%A5%E7%B4%A2%E5%BC%95">精华索引</a></li>
+            <li><a href="/留学中介机构列表">中介</a></li>
+            <li><a href="/下载中心">下载中心</a></li>
+          </ul>
+        </li>
+        <li><a href="/mall" class="waves-effect" ><i class="linea-icon linea-basic fa-fw" data-icon="V"></i> <span class="hide-menu">商城<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+          	 <li><a href="/mall?c=1">美国申请</a></li>
+          	 <li><a href="/mall?c=2">英国留学</a></li>
+             <li><a href="/mall?c=8">文书服务</a></li>
+          </ul>
+        </li>
+		 <li style="display:none;"><a href="/article" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="a"></i><span class="hide-menu">新闻<span class="fa arrow"></span></span></a>
+				<ul class="nav nav-second-level   ">
+					<li><a href="/article">资讯</a></li>
+				</ul></li>
+			<li class="nav-small-cap m-t-10" style="text-align:center;border-bottom: 1px solid #ddd;"></li>
+			
+      </ul>
+    </div>
+  </div> 
+   <div class="right-sidebar">
+        <div class="slimscrollright">
+          <div class="rpanel-title">个性化设置<span><i class="ti-close right-side-toggle"></i></span> </div>
+          <div class="r-panel-body">
+            <ul>
+              <li><b>显示设置</b></li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkbox1" type="checkbox" class="fxhdr">
+                  <label for="checkbox1">固定头部导航</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-warning">
+                  <input id="checkbox2" type="checkbox" checked="" class="fxsdr">
+                  <label for="checkbox2" >固定左侧导航</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-success">
+                  <input id="checkbox4" type="checkbox" class="open-close">
+                  <label for="checkbox4" >切换工具栏目</label>
+                </div>
+              </li>
+            </ul>
+            <ul>
+              <li><b>消息设置</b></li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkboxmsg" type="checkbox" class="fxhdr">
+                  <label for="checkboxmsg">不接受网页通知</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkboxmail" type="checkbox" class="fxhdr">
+                  <label for="checkboxmail">不接受邮件通知</label>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="share-tools" >
+         <ul>
+         	<li style="font-size: 14px;" id="fk"><a  href="#comments">评论反馈</a></li>
+         	<li id="sharebtn" style="font-size: 14px;padding-left: 12px;" ><a href="javascript:" >我要分享</a></a>
+	         	<ul style="display:none; height:50px;position: absolute;width:180px;right:50px;margin-top:-45px;" id="sharelist" >
+	               <li style="padding-left: 15px;" class="inli"><a href="javascript:shareToWB();" title="分享至微博" >微博</a></li>
+	               <li style="padding-left: 15px;" class="weixin-icon inli"><a href="javascript:" title="分享至微信" >微信</a></li>
+	               <li class="inli" ><a href="javascript:shareToQQ();"  title="分享至QQ空间">QQ空间</a></li>
+	            </ul>
+         	</li>
+         	<li class="back_top" id="back-to-top" style="display: none;" ></li>
+         </ul>
+	 </div>
+ 
+   <div id="page-wrapper">
+   <div class="container-fluid">
+      <!-- row -->
+      <div class="row">
+        <!-- Left sidebar -->
+        <div class="col-md-12">
+          <div class="white-box" style="padding-left:0px;">
+            <!-- row -->
+            <div class="row">
+              <div class="col-lg-2 col-md-3  col-sm-12 col-xs-12 " style="overflow:auto;min-height:30px;display:block;" >
+                <div class='treeDiv'>
+                <div id="treeDiv" ><ul id="tree" class="ztree"></ul></div>
+                </div>
+              </div>
+              
+              <div style="" class="col-lg-10 col-md-9 col-sm-12 col-xs-12 mail_listing">
+               <div class="row" >
+		     <input type="hidden" id="type"/>
+			   <div class="wikiContent" id="wikiContent"  >
+			        <h1 class="wikiTitle">西安大略大学 </h1> 
+					<div class="infobox"><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td>			<p>排名</p>			</td>			<td>			<p>8</p>			</td>		</tr>		<tr>			<td>			<p>国家</p>			</td>			<td>			<p>加拿大</p>			</td>		</tr>		<tr>			<td>			<p>州省</p>			</td>			<td>			<p><a href="http://www.qianmu.org/安大略省" target="_blank">安大略省</a></p>			</td>		</tr>		<tr>			<td>			<p>城市</p>			</td>			<td>			<p><a href="http://www.qianmu.org/伦敦" target="_blank">伦敦</a>市</p>			</td>		</tr>		<tr>			<td>			<p>性质</p>			</td>			<td>			<p>公立，男女合校</p>			</td>		</tr>		<tr>			<td>			<p>成立年份</p>			</td>			<td>			<p>1878年</p>			</td>		</tr>		<tr>			<td>			<p>宗教信仰</p>			</td>			<td>			<p>无</p>			</td>		</tr>		<tr>			<td>			<p>学生人数</p>			</td>			<td>			<p>27,525</p>			</td>		</tr>		<tr>			<td>			<p>学校分类</p>			</td>			<td>			<p>医博类大学</p>			</td>		</tr>		<tr>			<td>			<p>网址</p>			</td>			<td>			<p>www.uwo.ca</p>			</td>		</tr>	</tbody></table></div>
+					<div id="content"><p>西安大略大学 （University of Western Ontario or Western University，简称为UWO、Western或者Western Ontario），位于加拿大<a href="http://www.qianmu.org/安大略省" target="_blank">安大略省</a><a href="http://www.qianmu.org/伦敦" target="_blank">伦敦</a>市。西安大略大学建立于1878年，建校初为宗教大学，由英国国教会建立，当时取名为&ldquo;Western University of London Ontario&rdquo;。至1908年完全世俗化并改为现名。它是加拿大U15及加拿大老四校成员之一。</p><p>西安大略大学占地1120亩，泰晤士河从主校区穿过。西安大略大学共有12个学院，提供从学士到博士以及非学位项目的各种学科的课程，除此之外还有3个附属的大学学院。该校的理察&middot;艾菲商学院 (Richard Ivey School of Business) 享有很高的国际声誉，是北美案例法教育的两大发源地之一。</p><h1>本科申请</h1><p><strong>基本信息：</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td>			<p>麦考林排名</p>			</td>			<td style="width:85px">			<p>8</p>			</td>			<td style="width:133px">			<p>学费（/年）</p>			</td>			<td style="width:75px">			<p>$19,930</p>			</td>			<td style="width:114px">			<p>申请截止日期</p>			</td>			<td style="width:95px">			<p>6月1日</p>			</td>		</tr>		<tr>			<td>			<p><a href="http://www.qianmu.org/TOEFL" target="_blank">TOEFL</a>要求</p>			</td>			<td style="width:85px">			<p>83</p>			</td>			<td style="width:133px">			<p>申请费</p>			</td>			<td style="width:75px">			<p>$223</p>			</td>			<td style="width:114px">			<p>开学时间</p>			</td>			<td style="width:95px">			<p>每年8-9月</p>			</td>		</tr>		<tr>			<td>			<p><a href="http://www.qianmu.org/IELTS" target="_blank">IELTS</a>要求</p>			</td>			<td style="width:85px">			<p>6.5</p>			</td>			<td style="width:133px">			<p>是否认可高考成绩</p>			</td>			<td style="width:75px">			<p>Yes</p>			</td>			<td style="width:114px">			<p>可申请学期</p>			</td>			<td style="width:95px">			<p>秋季</p>			</td>		</tr>		<tr>			<td>			<p><a href="http://www.qianmu.org/IB" target="_blank">IB</a>分数要求</p>			</td>			<td style="width:85px">			<p>28</p>			</td>			<td style="width:133px">			<p>是否提供<a href="http://www.qianmu.org/语言课程" target="_blank">语言课程</a></p>			</td>			<td style="width:75px">			<p>Yes</p>			</td>			<td style="width:114px">			<p>是否提供<a href="http://www.qianmu.org/双录取" target="_blank">双录取</a></p>			</td>			<td style="width:95px">			<p>Yes</p>			</td>		</tr>		<tr>			<td>			<p>国际学生比例</p>			</td>			<td style="width:85px">			<p>-</p>			</td>			<td style="width:133px">			<p>录取率</p>			</td>			<td style="width:75px">			<p>-</p>			</td>			<td style="width:114px">			<p>是否要求<a href="http://www.qianmu.org/面试" target="_blank">面试</a></p>			</td>			<td style="width:95px">			<p>No</p>			</td>		</tr>	</tbody></table><p>注：</p><p>（1）TOEFL单项要求不低于20分，IELTS单项要求不低于6.0； <a href="http://www.qianmu.org/MELAB" target="_blank">MELAB</a>要求不低于78分，无单项要求</p><p>（2）录取信自一月份以滚动录取形式发放，建议18年秋季或19年初申请。如欲申请<a href="http://www.qianmu.org/奖学金" target="_blank">奖学金</a>，需在3月15日前递交入学申请；艺术类、<a href="http://www.qianmu.org/护理" target="_blank">护理</a>类专业申请截止时间较早</p><p>（3）Business HBA，Dentistry，EducationLaw，Medicine，Social Work五个专业大二方可入读，其余专业均只需高考和会考成绩即可直接入读</p><h2>教学质量</h2><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td>			<p>本科生人数</p>			</td>			<td>			<p>22,755</p>			</td>			<td>			<p>国际学生比例</p>			</td>			<td>			<p>-</p>			</td>			<td>			<p><a href="http://www.qianmu.org/学期制度" target="_blank">学期制度</a></p>			</td>			<td>			<p>trimester</p>			</td>		</tr>		<tr>			<td>			<p>研究生人数</p>			</td>			<td>			<p>4,770</p>			</td>			<td>			<p>师生比</p>			</td>			<td>			<p>1:20</p>			</td>			<td>			<p>就业率</p>			</td>			<td>			<p>-</p>			</td>		</tr>	</tbody></table><h2>申请说明</h2><p>西安大略大学通过OUAC在线或纸质申请，必需的<a href="http://www.qianmu.org/申请材料" target="_blank">申请材料</a>包括：</p><p>（1）OUAC105F国际学生申请表；</p><p>（2）托福/雅思；</p><p>（3）高考/IB成绩（非必需）；</p><p>（4）高中<a href="http://www.qianmu.org/成绩单" target="_blank">成绩单</a>；</p><p>（5）高中毕业证；</p><p>（6）<a href="http://www.qianmu.org/资金证明" target="_blank">资金证明</a></p><p>注：西安大略大学无需面试</p><p><strong>费用与奖学金</strong></p><p>西安大略大学2013-2014学年学费平均约19,930加元，算上一年住宿费及其它书本费、生活费等，国内学生约需担保金23万人民币。</p><p>注：学费按专业大致分布在16771-27939之间；其中人文科学和科学类最低，为16771加元/年，工程、护理类为19930加元/年；商科为27039加元/年，牙科为47898加元/年</p><p><strong>奖学金：</strong></p><p>西安大略大学为国际学生提供Western Admission Scholarships，无需额外申请，9月份入学时自动发放，金额依入学成绩从1000-10000加元不等。</p><h2>专业设置</h2><table border="0" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:379px">会计</td>			<td style="width:519px">Accounting</td>		</tr>		<tr>			<td>精算学</td>			<td style="width:519px">Actuarial Science</td>		</tr>		<tr>			<td>高级化学</td>			<td style="width:519px">Advanced Chemistry*</td>		</tr>		<tr>			<td>高级物理</td>			<td style="width:519px">Advanced Physics*</td>		</tr>		<tr>			<td>美国文化研究</td>			<td style="width:519px">American Cultural Studies</td>		</tr>		<tr>			<td>美国研究</td>			<td style="width:519px">American Studies</td>		</tr>		<tr>			<td>动物行为学</td>			<td style="width:519px">Animal Behaviour</td>		</tr>		<tr>			<td>人类学</td>			<td style="width:519px">Anthropology</td>		</tr>		<tr>			<td>计算机科学应用</td>			<td style="width:519px">Applications of Computer Science*</td>		</tr>		<tr>			<td>应用数学</td>			<td style="width:519px">Applied Mathematics</td>		</tr>		<tr>			<td>应用数学方法</td>			<td style="width:519px">Applied Mathematics Methods</td>		</tr>		<tr>			<td>应用统计学</td>			<td style="width:519px">Applied Statistics</td>		</tr>		<tr>			<td>考古与生物人类学</td>			<td style="width:519px">Archaeology and Biological Anthropology</td>		</tr>		<tr>			<td>艺术史</td>			<td style="width:519px">Art History</td>		</tr>		<tr>			<td>艺术史与博物馆研究</td>			<td style="width:519px">Art History and Museum Studies</td>		</tr>		<tr>			<td>艺术史与艺术课</td>			<td style="width:519px">Art History and Studio Arts</td>		</tr>		<tr>			<td>艺术与人文学科</td>			<td style="width:519px">Arts &amp; Humanities (SASAH)</td>		</tr>		<tr>			<td>天体物理学</td>			<td style="width:519px">Astrophysics</td>		</tr>		<tr>			<td>生物化学</td>			<td style="width:519px">Biochemistry</td>		</tr>		<tr>			<td>生物化学与癌症生物学</td>			<td style="width:519px">Biochemistry and Cancer Biology</td>		</tr>		<tr>			<td>生物化学与细胞生物学</td>			<td style="width:519px">Biochemistry and Cell Biology</td>		</tr>		<tr>			<td>生物化学与化学</td>			<td style="width:519px">Biochemistry and Chemistry</td>		</tr>		<tr>			<td>生物化学与人类疾病病理学</td>			<td style="width:519px">Biochemistry and Pathology of Human Disease</td>		</tr>		<tr>			<td>感染与免疫生物化学</td>			<td style="width:519px">Biochemistry of Infection and Immunity</td>		</tr>		<tr>			<td>生物多样性与保护</td>			<td style="width:519px">Biodiversity and Conservation</td>		</tr>		<tr>			<td>生物信息学</td>			<td style="width:519px">Bioinformatics</td>		</tr>		<tr>			<td>生物学</td>			<td style="width:519px">Biology</td>		</tr>		<tr>			<td>化学生物学</td>			<td style="width:519px">Chemical Biology</td>		</tr>		<tr>			<td>化学工程</td>			<td style="width:519px">Chemical Engineering</td>		</tr>		<tr>			<td>化学</td>			<td style="width:519px">Chemistry</td>		</tr>		<tr>			<td>土木工程</td>			<td style="width:519px">Civil Engineering</td>		</tr>		<tr>			<td>古典文学研究</td>			<td style="width:519px">Classical Studies</td>		</tr>		<tr>			<td>商业航空管理</td>			<td style="width:519px">Commercial Aviation Management (CAM)</td>		</tr>		<tr>			<td>比较文学与文化</td>			<td style="width:519px">Comparative Literatures and Cultures*</td>		</tr>		<tr>			<td>压缩时间框架项目</td>			<td style="width:519px">Compressed Time Frame Program (19 months &ndash; minimum two years of university study required for entry)</td>		</tr>		<tr>			<td>计算生物化学</td>			<td style="width:519px">Computational Biochemistry</td>		</tr>		<tr>			<td>计算机代数</td>			<td style="width:519px">Computer Algebra*</td>		</tr>		<tr>			<td>计算机工程</td>			<td style="width:519px">Computer Engineering</td>		</tr>		<tr>			<td>计算机科学</td>			<td style="width:519px">Computer Science</td>		</tr>		<tr>			<td>概念天文学</td>			<td style="width:519px">Conceptual Astronomy*</td>		</tr>		<tr>			<td>消费者行为学</td>			<td style="width:519px">Consumer Behavior</td>		</tr>		<tr>			<td>创造性写作与英语语言及文学</td>			<td style="width:519px">Creative Writing and English Language &amp; Literature</td>		</tr>		<tr>			<td>创造性写作</td>			<td style="width:519px">Creative Writing*</td>		</tr>		<tr>			<td>犯罪学</td>			<td style="width:519px">Criminology</td>		</tr>		<tr>			<td>舞蹈</td>			<td style="width:519px">Dance*</td>		</tr>		<tr>			<td>数据科学</td>			<td style="width:519px">Data Science</td>		</tr>		<tr>			<td>发展认知神经科学</td>			<td style="width:519px">Developmental Cognitive Neuroscience</td>		</tr>		<tr>			<td>数据人文学</td>			<td style="width:519px">Digital Humanities*</td>		</tr>		<tr>			<td>数据西班牙语</td>			<td style="width:519px">Digital Spanish*</td>		</tr>		<tr>			<td>经济学</td>			<td style="width:519px">Economics</td>		</tr>		<tr>			<td>生态系统健康</td>			<td style="width:519px">Ecosystem Health</td>		</tr>		<tr>			<td>电机工程</td>			<td style="width:519px">Electrical Engineering</td>		</tr>		<tr>			<td>英语授课</td>			<td style="width:519px">English for Teachers*</td>		</tr>		<tr>			<td>英语语言与文学</td>			<td style="width:519px">English Language and Literature</td>		</tr>		<tr>			<td>环境与文化</td>			<td style="width:519px">Environment and Culture*</td>		</tr>		<tr>			<td>环境与健康</td>			<td style="width:519px">Environment and Health</td>		</tr>		<tr>			<td>环境地球科学</td>			<td style="width:519px">Environmental Geoscience</td>		</tr>		<tr>			<td>环境科学</td>			<td style="width:519px">Environmental Science</td>		</tr>		<tr>			<td>流行病学与生物信息学</td>			<td style="width:519px">Epidemiology and Biostatistics</td>		</tr>		<tr>			<td>伦理学</td>			<td style="width:519px">Ethics*</td>		</tr>		<tr>			<td>女权主义，同性恋与批判种族理论</td>			<td style="width:519px">Feminist, Queer &amp; Critical Race Theory*</td>		</tr>		<tr>			<td>电影研究</td>			<td style="width:519px">Film Studies</td>		</tr>		<tr>			<td>金融</td>			<td style="width:519px">Finance</td>		</tr>		<tr>			<td>金融经济学</td>			<td style="width:519px">Financial Economics</td>		</tr>		<tr>			<td>金融建模</td>			<td style="width:519px">Financial Modelling</td>		</tr>		<tr>			<td>第一国研究</td>			<td style="width:519px">First Nations Studies</td>		</tr>		<tr>			<td>健身与锻炼处方</td>			<td style="width:519px">Fitness and Exercise Prescription</td>		</tr>		<tr>			<td>法国研究</td>			<td style="width:519px">French Studies</td>		</tr>		<tr>			<td>游戏开发</td>			<td style="width:519px">Game Development*</td>		</tr>		<tr>			<td>性别，性取向与文化</td>			<td style="width:519px">Gender, Sexuality and Culture*</td>		</tr>		<tr>			<td>一般电影研究</td>			<td style="width:519px">General Cinema Studies*</td>		</tr>		<tr>			<td>普通英语</td>			<td style="width:519px">General English*</td>		</tr>		<tr>			<td>遗传学</td>			<td style="width:519px">Genetics</td>		</tr>		<tr>			<td>遗传学与生物医学</td>			<td style="width:519px">Genetics and Biochemistry</td>		</tr>		<tr>			<td>地理信息科学</td>			<td style="width:519px">Geographic Information Science</td>		</tr>		<tr>			<td>地理</td>			<td style="width:519px">Geography</td>		</tr>		<tr>			<td>地理与商业航空管理</td>			<td style="width:519px">Geography and Commercial Aviation Management</td>		</tr>		<tr>			<td>地质学</td>			<td style="width:519px">Geology</td>		</tr>		<tr>			<td>地质学与生物学</td>			<td style="width:519px">Geology and Biology</td>		</tr>		<tr>			<td>地球物理学</td>			<td style="width:519px">Geophysics</td>		</tr>		<tr>			<td>德国语言与文化</td>			<td style="width:519px">German Language and Culture</td>		</tr>		<tr>			<td>全球经济</td>			<td style="width:519px">Global Economics</td>		</tr>		<tr>			<td>全球性别研究</td>			<td style="width:519px">Global Gender Studies</td>		</tr>		<tr>			<td>希腊与拉丁文学</td>			<td style="width:519px">Greek and Latin Literature*</td>		</tr>		<tr>			<td>希腊与拉丁</td>			<td style="width:519px">Greek and Latin*</td>		</tr>		<tr>			<td>希腊与罗马考古学</td>			<td style="width:519px">Greek and Roman Archaeology*</td>		</tr>		<tr>			<td>希腊与罗马历史</td>			<td style="width:519px">Greek and Roman History*</td>		</tr>		<tr>			<td>希腊</td>			<td style="width:519px">Greek*</td>		</tr>		<tr>			<td>绿色工艺工程</td>			<td style="width:519px">Green Process Engineering</td>		</tr>		<tr>			<td>健康与衰老</td>			<td style="width:519px">Health and Aging</td>		</tr>		<tr>			<td>健康促进</td>			<td style="width:519px">Health Promotion</td>		</tr>		<tr>			<td>健康科学</td>			<td style="width:519px">Health Sciences</td>		</tr>		<tr>			<td>健康科学与生物学</td>			<td style="width:519px">Health Sciences with Biology</td>		</tr>		<tr>			<td>高性能计算</td>			<td style="width:519px">High Performance Computing*</td>		</tr>		<tr>			<td>历史</td>			<td style="width:519px">History</td>		</tr>		<tr>			<td>荣誉环境地球科学项目-专业注册</td>			<td style="width:519px">Honors Environmental Geoscience Program &ndash; For Professional Registration</td>		</tr>		<tr>			<td>荣誉地质学项目-专业注册</td>			<td style="width:519px">Honors Geology Program &ndash; For Professional Registration</td>		</tr>		<tr>			<td>荣誉地球物理项目-专业注册</td>			<td style="width:519px">Honors Geophysics Program &ndash; For Professional Registration</td>		</tr>		<tr>			<td>人力资源管理</td>			<td style="width:519px">Human Resource Management</td>		</tr>		<tr>			<td>信息系统</td>			<td style="width:519px">Information Systems</td>		</tr>		<tr>			<td>集成工程</td>			<td style="width:519px">Integrated Engineering</td>		</tr>		<tr>			<td>综合科学</td>			<td style="width:519px">Integrated Science (WISc)</td>		</tr>		<tr>			<td>阿拉伯跨文化沟通</td>			<td style="width:519px">Intercultural Communications for Arabic*</td>		</tr>		<tr>			<td>日本跨文化沟通</td>			<td style="width:519px">Intercultural Communications for Japanese*</td>		</tr>		<tr>			<td>跨学科医学科学</td>			<td style="width:519px">Interdisciplinary Medical Sciences (IMS)</td>		</tr>		<tr>			<td>国际关系</td>			<td style="width:519px">International Relations</td>		</tr>		<tr>			<td>意大利语言与文化</td>			<td style="width:519px">Italian Language and Culture</td>		</tr>		<tr>			<td>犹太研究</td>			<td style="width:519px">Jewish Studies</td>		</tr>		<tr>			<td>运动机能学</td>			<td style="width:519px">Kinesiology</td>		</tr>		<tr>			<td>拉丁</td>			<td style="width:519px">Latin*</td>		</tr>		<tr>			<td>语言人类学</td>			<td style="width:519px">Linguistic Anthropology</td>		</tr>		<tr>			<td>语言学</td>			<td style="width:519px">Linguistics</td>		</tr>		<tr>			<td>材料科学</td>			<td style="width:519px">Materials Science</td>		</tr>		<tr>			<td>数学</td>			<td style="width:519px">Mathematics</td>		</tr>		<tr>			<td>社会数学</td>			<td style="width:519px">Mathematics in Society</td>		</tr>		<tr>			<td>机械工程学</td>			<td style="width:519px">Mechanical Engineering</td>		</tr>		<tr>			<td>机电一体系统工程</td>			<td style="width:519px">Mechatronic Systems Engineering</td>		</tr>		<tr>			<td>媒体与公共利益</td>			<td style="width:519px">Media &amp; the Public Interest</td>		</tr>		<tr>			<td>媒体，信息与科技文化</td>			<td style="width:519px">Media, Information &amp; Technoculture</td>		</tr>		<tr>			<td>医学生物物理学（生物科学专攻）</td>			<td style="width:519px">Medical Biophysics (Biological Science concentration)</td>		</tr>		<tr>			<td>医学生物物理学（临床物理专攻）</td>			<td style="width:519px">Medical Biophysics (Clinical Physics concentration)</td>		</tr>		<tr>			<td>医学生物物理学（医学科学专攻）</td>			<td style="width:519px">Medical Biophysics (Medical Science concentration)</td>		</tr>		<tr>			<td>医学生物物理学（物理科学专攻）</td>			<td style="width:519px">Medical Biophysics (Physical Science concentration)</td>		</tr>		<tr>			<td>医学生物物理学与生物化学</td>			<td style="width:519px">Medical Biophysics and Biochemistry</td>		</tr>		<tr>			<td>医学细胞生物学</td>			<td style="width:519px">Medical Cell Biology</td>		</tr>		<tr>			<td>医疗卫生信息学</td>			<td style="width:519px">Medical Health Informatics</td>		</tr>		<tr>			<td>医学物理学</td>			<td style="width:519px">Medical Physics</td>		</tr>		<tr>			<td>医学科学</td>			<td style="width:519px">Medical Sciences</td>		</tr>		<tr>			<td>中世纪研究</td>			<td style="width:519px">Medieval Studies</td>		</tr>		<tr>			<td>微生物学与免疫学</td>			<td style="width:519px">Microbiology and Immunology</td>		</tr>		<tr>			<td>微生物学与免疫学及病理学</td>			<td style="width:519px">Microbiology and Immunology with Pathology</td>		</tr>		<tr>			<td>中东研究</td>			<td style="width:519px">Middle East Studies</td>		</tr>		<tr>			<td>博物馆与馆长研究</td>			<td style="width:519px">Museum and Curatorial Studies</td>		</tr>		<tr>			<td>音乐</td>			<td style="width:519px">Music</td>		</tr>		<tr>			<td>音乐管理研究</td>			<td style="width:519px">Music Administrative Studies</td>		</tr>		<tr>			<td>音乐写作</td>			<td style="width:519px">Music Composition</td>		</tr>		<tr>			<td>音乐教育</td>			<td style="width:519px">Music Education</td>		</tr>		<tr>			<td>音乐历史</td>			<td style="width:519px">Music History</td>		</tr>		<tr>			<td>音乐表演</td>			<td style="width:519px">Music Performance</td>		</tr>		<tr>			<td>音乐录音艺术</td>			<td style="width:519px">Music Recording Arts (see Degrees section)</td>		</tr>		<tr>			<td>音乐理论</td>			<td style="width:519px">Music Theory</td>		</tr>		<tr>			<td>神经系统科学</td>			<td style="width:519px">Neuroscience</td>		</tr>		<tr>			<td>唯一健康</td>			<td style="width:519px">One Health</td>		</tr>		<tr>			<td>病理学</td>			<td style="width:519px">Pathology</td>		</tr>		<tr>			<td>药物学</td>			<td style="width:519px">Pharmacology</td>		</tr>		<tr>			<td>哲学</td>			<td style="width:519px">Philosophy</td>		</tr>		<tr>			<td>科学哲学</td>			<td style="width:519px">Philosophy of Science*</td>		</tr>		<tr>			<td>自然地理学</td>			<td style="width:519px">Physical Geography</td>		</tr>		<tr>			<td>物理</td>			<td style="width:519px">Physics</td>		</tr>		<tr>			<td>材料物理学</td>			<td style="width:519px">Physics of Materials*</td>		</tr>		<tr>			<td>生理学</td>			<td style="width:519px">Physiology</td>		</tr>		<tr>			<td>生理学与药理学</td>			<td style="width:519px">Physiology and Pharmacology</td>		</tr>		<tr>			<td>行星科学与太空探索</td>			<td style="width:519px">Planetary Science &amp; Space Exploration*</td>		</tr>		<tr>			<td>政治科学</td>			<td style="width:519px">Political Science</td>		</tr>		<tr>			<td>政治，哲学与经济学-经济学专攻</td>			<td style="width:519px">Politics, Philosophy and Economics - Economics concentration (PPE-E)</td>		</tr>		<tr>			<td>政治，哲学与经济学-政治与哲学专攻</td>			<td style="width:519px">Politics, Philosophy and Economics - Politics and Philosophy concentration (PPE-P)</td>		</tr>		<tr>			<td>通俗文学与文化研究</td>			<td style="width:519px">Popular Literature and Cultural Studies*</td>		</tr>		<tr>			<td>流行音乐研究</td>			<td style="width:519px">Popular Music Studies</td>		</tr>		<tr>			<td>专业运动机能学</td>			<td style="width:519px">Professional Kinesiology</td>		</tr>		<tr>			<td>心理学</td>			<td style="width:519px">Psychology</td>		</tr>		<tr>			<td>公共行政</td>			<td style="width:519px">Public Administration</td>		</tr>		<tr>			<td>大众史学</td>			<td style="width:519px">Public History</td>		</tr>		<tr>			<td>难民与移民研究</td>			<td style="width:519px">Refugee and Migrant Studies*</td>		</tr>		<tr>			<td>康复科学</td>			<td style="width:519px">Rehabilitation Sciences</td>		</tr>		<tr>			<td>科学计算与数值方法</td>			<td style="width:519px">Scientific Computing and Numerical Methods</td>		</tr>		<tr>			<td>性取向研究</td>			<td style="width:519px">Sexuality Studies</td>		</tr>		<tr>			<td>社会文化人类学</td>			<td style="width:519px">Sociocultural Anthropology</td>		</tr>		<tr>			<td>社会学</td>			<td style="width:519px">Sociology</td>		</tr>		<tr>			<td>人口，衰老与健康社会学</td>			<td style="width:519px">Sociology of Population, Aging and Health</td>		</tr>		<tr>			<td>软件工程</td>			<td style="width:519px">Software Engineering</td>		</tr>		<tr>			<td>西班牙语与西班牙文化</td>			<td style="width:519px">Spanish Language and Hispanic Cultures</td>		</tr>		<tr>			<td>体育管理学</td>			<td style="width:519px">Sport Management</td>		</tr>		<tr>			<td>统计学</td>			<td style="width:519px">Statistics</td>		</tr>		<tr>			<td>工作室艺术</td>			<td style="width:519px">Studio Arts</td>		</tr>		<tr>			<td>戏剧研究</td>			<td style="width:519px">Theatre Studies</td>		</tr>		<tr>			<td>理论计算机科学</td>			<td style="width:519px">Theoretical Computer Science*</td>		</tr>		<tr>			<td>过渡时期司法与冲突后重建</td>			<td style="width:519px">Transitional Justice and Post-Conflict Reconstruction*</td>		</tr>		<tr>			<td>城市开发</td>			<td style="width:519px">Urban Development</td>		</tr>		<tr>			<td>视觉艺术</td>			<td style="width:519px">Visual Arts (Specialization)</td>		</tr>		<tr>			<td>护理学理科学士-西安大略大学与范莎学院合作项目</td>			<td style="width:519px">Western-Fanshawe Collaborative BScN Program (4 years)</td>		</tr>		<tr>			<td>妇女研究</td>			<td style="width:519px">Women&rsquo;s Studies</td>		</tr>		<tr>			<td>写作研究</td>			<td style="width:519px">Writing Studies*</td>		</tr>	</tbody></table><p>&nbsp;</p><h1>研究生申请</h1><h2>艺术与人文学院</h2><p>西安大略大学艺术与人文学院（Faculty of Arts and Humanities）开设的研究生会项目有：</p><table border="0" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:188px">古典哲学</td>			<td style="width:333px">Ancient Philosophy</td>			<td style="width:93px">MA</td>			<td style="width:271px">Faculty of Arts and Humanities</td>		</tr>		<tr>			<td>古典文学</td>			<td>Classics</td>			<td>MA,PhD</td>			<td>Faculty of Arts and Humanities</td>		</tr>		<tr>			<td>比较文学</td>			<td>Comparative Literature</td>			<td>MA,PhD</td>			<td>Faculty of Arts and Humanities</td>		</tr>		<tr>			<td>英语</td>			<td>English</td>			<td>MA,PhD</td>			<td>Faculty of Arts and Humanities</td>		</tr>		<tr>			<td>法语研究</td>			<td>French Studies</td>			<td>MA,PhD</td>			<td>Faculty of Arts and Humanities</td>		</tr>		<tr>			<td>西班牙研究</td>			<td>Hispanic Studies</td>			<td>MA,PhD</td>			<td>Faculty of Arts and Humanities</td>		</tr>		<tr>			<td>语言学</td>			<td>Linguistics&nbsp;</td>			<td>MA</td>			<td>Faculty of Arts and Humanities</td>		</tr>		<tr>			<td>哲学</td>			<td>Philosophy&nbsp;</td>			<td>MA,PhD</td>			<td>Faculty of Arts and Humanities</td>		</tr>		<tr>			<td>理论与批判</td>			<td>Theory and Criticism</td>			<td>MA,PhD</td>			<td>Faculty of Arts and Humanities</td>		</tr>		<tr>			<td>视觉艺术</td>			<td>Visual Arts</td>			<td>MA,MFA,PhD</td>			<td>Faculty of Arts and Humanities</td>		</tr>		<tr>			<td>妇女研究与女权主义研究</td>			<td>Women&#39;s Studies and Feminist Research</td>			<td>MA,PhD</td>			<td>Faculty of Arts and Humanities</td>		</tr>	</tbody></table><p>&nbsp;</p><h2>音乐学院</h2><p>西安大略大学音乐学院（Don Wright Faculty of Music）开设的研究生会项目有：</p><table border="0" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:104px">音乐</td>			<td style="width:227px">Music</td>			<td style="width:377px">DMA,MA Music Theory,MA Musicology,MMus,PhD</td>			<td style="width:244px">Don Wright Faculty of Music</td>		</tr>		<tr>			<td>流行乐与文化</td>			<td>Popular Music and Culture</td>			<td>MA</td>			<td>Don Wright Faculty of Music</td>		</tr>	</tbody></table><p>&nbsp;</p><h2>教育学院</h2><p>西安大略大学教育学院（Faculty of Education）开设的研究生会项目有：</p><table border="0" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:97px">教育学</td>			<td style="width:219px">Education&nbsp;</td>			<td style="width:76px">MA,PhD</td>			<td style="width:183px">Faculty of Education</td>		</tr>		<tr>			<td>教育学-职业</td>			<td>Education - Professional</td>			<td>EdD,MPEd</td>			<td>Faculty of Education</td>		</tr>	</tbody></table><p>&nbsp;</p><h2>工程院</h2><p>西安大略大学工程院（Faculty of Engineering）开设的研究生会项目有：</p><table border="0" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:116pt">生物医学工程</td>			<td style="width:243pt">Biomedical Engineering</td>			<td style="width:90pt">MESc,PhD</td>			<td style="width:150pt">Faculty of Engineering</td>		</tr>		<tr>			<td>化学与生物医学工程</td>			<td>Chemical and Biochemical Engineering</td>			<td>MESC,MEng,PhD</td>			<td>Faculty of Engineering</td>		</tr>		<tr>			<td>土木与环境工程</td>			<td>Civil and Environmental Engineering</td>			<td>MESC,MEng,PhD</td>			<td>Faculty of Engineering</td>		</tr>		<tr>			<td>设计与制造工艺</td>			<td>Design and Manufacturing Engineering</td>			<td>MEng</td>			<td>Faculty of Engineering</td>		</tr>		<tr>			<td>电子与计算机工程</td>			<td>Electrical and Computer Engineering</td>			<td>MESC,MEng,PhD</td>			<td>Faculty of Engineering</td>		</tr>		<tr>			<td>机械与材料工程</td>			<td>Mechanical and Materials Engineering</td>			<td>MESC,MEng,PhD</td>			<td>Faculty of Engineering</td>		</tr>		<tr>			<td>核子工程</td>			<td>Nuclear Engineering</td>			<td>MEng</td>			<td>Faculty of Engineering</td>		</tr>	</tbody></table><p>&nbsp;</p><h2>健康科学院</h2><p>西安大略大学健康科学院（Faculty of Health Sciences）开设的研究生会项目有：</p><table border="0" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:91pt">高级护理实践</td>			<td style="width:243pt">Advanced Health Care Practice</td>			<td style="width:250pt">MCISc</td>			<td style="width:176pt">Faculty of Health Sciences</td>		</tr>		<tr>			<td>交流科学与障碍</td>			<td>Communication Sciences and Disorders</td>			<td>MCISc</td>			<td>Faculty of Health Sciences</td>		</tr>		<tr>			<td>驾驶康复治疗</td>			<td>Driving Rehabilitation Therapy</td>			<td>MCISc</td>			<td>Faculty of Health Sciences</td>		</tr>		<tr>			<td>健康康复科学</td>			<td>Health and Rehabilitation Sciences</td>			<td>MPT/PhD,MSc,MSc(OT)/PhD,MCISc/PhD,PhD</td>			<td>Faculty of Health Sciences</td>		</tr>		<tr>			<td>运动机能学</td>			<td>Kinesiology&nbsp;</td>			<td>MA,MSc,PhD</td>			<td>Faculty of Health Sciences</td>		</tr>		<tr>			<td>护理学</td>			<td>Nursing&nbsp;</td>			<td>MN,MScN,PhD</td>			<td>Faculty of Health Sciences</td>		</tr>		<tr>			<td>职业疗法</td>			<td>Occupational Therapy</td>			<td>MSc(OT)</td>			<td>Faculty of Health Sciences</td>		</tr>		<tr>			<td>理疗</td>			<td>Physical Therapy</td>			<td>MPT</td>			<td>Faculty of Health Sciences</td>		</tr>	</tbody></table><p>&nbsp;</p><h2>信息与媒体研究学院</h2><p>西安大略大学信息与媒体研究学院（Faculty of Information &amp; Media Studies）开设的研究生会项目有：</p><table border="0" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:104pt">卫生信息科学</td>			<td style="width:197pt">Health Information Science</td>			<td style="width:57pt">MHIS,PhD</td>			<td style="width:257pt">Faculty of Information &amp; Media Studies</td>		</tr>		<tr>			<td>新闻与传播学</td>			<td>Journalism and Communication</td>			<td>MMJC</td>			<td>Faculty of Information &amp; Media Studies</td>		</tr>		<tr>			<td>博物馆与信息科学</td>			<td>Library &amp; Information Science</td>			<td>MLIS,PhD</td>			<td>Faculty of Information &amp; Media Studies</td>		</tr>		<tr>			<td>媒体研究</td>			<td>Media Studies</td>			<td>MA,PhD</td>			<td>Faculty of Information &amp; Media Studies</td>		</tr>	</tbody></table><p>&nbsp;</p><h2>法学院</h2><p>西安大略大学法学院（Faculty of Law）开设的研究生会项目有：</p><table border="0" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:141pt">法学</td>			<td style="width:263pt">Law&nbsp;</td>			<td style="width:122pt">LLM,PhD</td>			<td style="width:97pt">Faculty of Law</td>		</tr>		<tr>			<td>法学研究</td>			<td>Law, Studies in</td>			<td>MSL</td>			<td>Faculty of Law</td>		</tr>		<tr>			<td>矿业法，金融与可持续性</td>			<td>Mining Law, Finance, and Sustainability</td>			<td>Graduate Diploma&nbsp;</td>			<td>Faculty of Law</td>		</tr>	</tbody></table><p>&nbsp;</p><p>&nbsp;</p><h2>商学院</h2><p>西安大略大学商学院（Ivey Business School）开设的研究生会项目有：</p><table border="0" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:32pt">会计</td>			<td style="width:83pt">Accounting</td>			<td style="width:83pt">GDip</td>			<td style="width:137pt">Ivey Business School</td>		</tr>		<tr>			<td>商科</td>			<td>Business</td>			<td>EMBA,MBA,PhD</td>			<td>Ivey Business School</td>		</tr>		<tr>			<td>管理</td>			<td>Management&nbsp;</td>			<td>MSc</td>			<td>Ivey Business School</td>		</tr>	</tbody></table><p>&nbsp;</p><h2>医学与牙医院</h2><p>西安大略大学医学与牙医院（Schulich School of Medicine &amp; Dentistry）开设的研究生会项目有：</p><table border="0" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:128pt">解刨与细胞生物学</td>			<td style="width:190pt">Anatomy and Cell Biology</td>			<td style="width:223pt">MSc (Clinical),MSc (Research),PhD</td>			<td style="width:263pt">Schulich School of Medicine &amp; Dentistry</td>		</tr>		<tr>			<td>生物化学</td>			<td>Biochemistry&nbsp;</td>			<td>MSC,PhD</td>			<td>Schulich School of Medicine &amp; Dentistry</td>		</tr>		<tr>			<td>临床医学生物物理学</td>			<td>Clinical Medical Biophysics</td>			<td>MSc</td>			<td>Schulich School of Medicine &amp; Dentistry</td>		</tr>		<tr>			<td>流行病学与生物统计学</td>			<td>Epidemiology &amp; Biostatistics</td>			<td>MSC,PhD</td>			<td>Schulich School of Medicine &amp; Dentistry</td>		</tr>		<tr>			<td>家庭医学</td>			<td>Family Medicine</td>			<td>MCISc,PhD</td>			<td>Schulich School of Medicine &amp; Dentistry</td>		</tr>		<tr>			<td>医学生物物理学</td>			<td>Medical Biophysics</td>			<td>MSc,MSc/PhD,PhD</td>			<td>Schulich School of Medicine &amp; Dentistry</td>		</tr>		<tr>			<td>微生物学与免疫学</td>			<td>Microbiology and Immunology</td>			<td>MSc,MSc(Accelerated),PhD</td>			<td>Schulich School of Medicine &amp; Dentistry</td>		</tr>		<tr>			<td>神经系统科学</td>			<td>Neuroscience</td>			<td>MSC,PhD</td>			<td>Schulich School of Medicine &amp; Dentistry</td>		</tr>		<tr>			<td>畸齿校正学</td>			<td>Orthodontics&nbsp;</td>			<td>MCID</td>			<td>Schulich School of Medicine &amp; Dentistry</td>		</tr>		<tr>			<td>病理学家助理</td>			<td>Pathologists&rsquo; Assistant</td>			<td>MCISc</td>			<td>Schulich School of Medicine &amp; Dentistry</td>		</tr>		<tr>			<td>病理学</td>			<td>Pathology</td>			<td>MSc,PhD</td>			<td>Schulich School of Medicine &amp; Dentistry</td>		</tr>		<tr>			<td>生理学与药理学</td>			<td>Physiology and Pharmacology</td>			<td>MSC,PhD</td>			<td>Schulich School of Medicine &amp; Dentistry</td>		</tr>		<tr>			<td>公共健康</td>			<td>Public Health</td>			<td>MPH</td>			<td>Schulich School of Medicine &amp; Dentistry</td>		</tr>		<tr>			<td>外科</td>			<td>Surgery&nbsp;</td>			<td>MSc</td>			<td>Schulich School of Medicine &amp; Dentistry</td>		</tr>	</tbody></table><p>&nbsp;</p><h2>理学院</h2><p>西安大略大学理学院（Faculty of Science）开设的研究生会项目有：</p><table border="0" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:104pt">应用数学</td>			<td style="width:275pt">Applied Mathematics</td>			<td style="width:170pt">MSc,PhD</td>			<td style="width:123pt">Faculty of Science</td>		</tr>		<tr>			<td>天文学</td>			<td>Astronomy</td>			<td>MSc,PhD</td>			<td>Faculty of Science</td>		</tr>		<tr>			<td>生物学</td>			<td>Biology</td>			<td>MSc,PhD</td>			<td>Faculty of Science</td>		</tr>		<tr>			<td>化学</td>			<td>Chemistry</td>			<td>MSc,PhD</td>			<td>Faculty of Science</td>		</tr>		<tr>			<td>计算机科学</td>			<td>Computer Science</td>			<td>MSc,PhD</td>			<td>Faculty of Science</td>		</tr>		<tr>			<td>数据分析</td>			<td>Data Analytics</td>			<td>MDA</td>			<td>Faculty of Science</td>		</tr>		<tr>			<td>环境与可持续发展</td>			<td>Environment and Sustainability</td>			<td>Collaborative Program,MES</td>			<td>Faculty of Science</td>		</tr>		<tr>			<td>地质学</td>			<td>Geology</td>			<td>MSc,MSc(course-based),PhD</td>			<td>Faculty of Science</td>		</tr>		<tr>			<td>地球物理</td>			<td>Geophysics</td>			<td>MSc,MSc(course-based),PhD</td>			<td>Faculty of Science</td>		</tr>		<tr>			<td>应用科学管理</td>			<td>Management of Applied Science</td>			<td>MMASc</td>			<td>Faculty of Science</td>		</tr>		<tr>			<td>数学</td>			<td>Mathematics&nbsp;</td>			<td>MSc,PhD</td>			<td>Faculty of Science</td>		</tr>		<tr>			<td>物理</td>			<td>Physics&nbsp;</td>			<td>MSc,PhD</td>			<td>Faculty of Science</td>		</tr>		<tr>			<td>专业沟通与管理</td>			<td>Professional Communication &amp; Management&nbsp;</td>			<td>GDip</td>			<td>Faculty of Science</td>		</tr>		<tr>			<td>统计学</td>			<td>Statistics&nbsp;</td>			<td>MSc,PhD</td>			<td>Faculty of Science</td>		</tr>	</tbody></table><p>&nbsp;</p><h2>社会科学院</h2><p>西安大略大学社会科学院（Faculty of Social Science）开设的研究生会项目有：</p><table border="0" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:88px">美国研究</td>			<td style="width:191px">American Studies</td>			<td style="width:93px">MA</td>			<td style="width:227px">Faculty of Social Science</td>		</tr>		<tr>			<td>人类学</td>			<td>Anthropology&nbsp;</td>			<td>MA,PhD</td>			<td>Faculty of Social Science</td>		</tr>		<tr>			<td>经济学</td>			<td>Economics&nbsp;</td>			<td>MA,PhD</td>			<td>Faculty of Social Science</td>		</tr>		<tr>			<td>金融经济学</td>			<td>Financial Economics</td>			<td>MFE</td>			<td>Faculty of Social Science</td>		</tr>		<tr>			<td>地理</td>			<td>Geography&nbsp;</td>			<td>MA,MSc,PhD</td>			<td>Faculty of Social Science</td>		</tr>		<tr>			<td>历史</td>			<td>History&nbsp;</td>			<td>MA,PhD</td>			<td>Faculty of Social Science</td>		</tr>		<tr>			<td>政治科学</td>			<td>Political Science</td>			<td>MA,PhD</td>			<td>Faculty of Social Science</td>		</tr>		<tr>			<td>心理学</td>			<td>Psychology&nbsp;</td>			<td>MSc,PhD</td>			<td>Faculty of Social Science</td>		</tr>		<tr>			<td>公共行政</td>			<td>Public Administration</td>			<td>MPA,GDip</td>			<td>Faculty of Social Science</td>		</tr>		<tr>			<td>社会学</td>			<td>Sociology&nbsp;</td>			<td>MA,PhD</td>			<td>Faculty of Social Science</td>		</tr>	</tbody></table><p>&nbsp;</p><h2>布雷舍尔大学学院</h2><p>布雷舍尔大学学院（Brescia University College）开设的研究生会项目有：</p><table border="0" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:66pt">食品与营养</td>			<td style="width:130pt">Foods and Nutrition</td>			<td style="width:39pt">MScFN</td>			<td style="width:176pt">Brescia University College</td>		</tr>	</tbody></table><p>&nbsp;</p><h2>休伦大学学院</h2><p>休伦大学学院（Huron University College）开设的研究生会项目有：</p><table border="0" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:32pt">神学</td>			<td style="width:57pt">Theology</td>			<td style="width:21pt">MA</td>			<td style="width:164pt">Huron University College</td>		</tr>	</tbody></table><p>&nbsp;</p><h2>国王大学学院</h2><p>国王大学学院（King&#39;s University College）开设的研究生会项目有：</p><table border="0" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:54pt">社会工作</td>			<td style="width:77pt">Social Work</td>			<td style="width:27pt">MSW</td>			<td style="width:170pt">King&#39;s University College</td>		</tr>	</tbody></table><p>参考资料：</p><p>本文数据主要采自西安大略大学官网</p></div>
+					
+	           </div>
+	           <div id="authorTrueName" style="float: right;"></div><br>
+				
+	           <div class="col-md-12">
+	           		<div id="cmt" style="position: relative;"><a name="comments" style="margin-top:150px;"></a>
+		           			<div id="lastEditTime" style="position: absolute;top: 18px;right: 10px;">2019-07-16</div>
+		           			<div style="position: absolute;top: 18px;right: 100px;">最后修改时间：</div>
+	           		</div>
+	           </div>
+			  </div>
+              </div>
+            </div>
+            <!-- /.row -->
+          </div>
+        </div>
+      </div>
+      <!-- /.row -->
+    </div>
+  </div>
+</div>
+
+
+<script type="text/javascript">
+	var ctx= '',uId='',vl='', wsip = 'ws://www.qianmu.org:8080/',ve='';
+	var vipendtime="";
+	var et='';
+	var b_name = navigator.appName; 
+	var b_version = navigator.appVersion; 
+	var version = b_version.split(";"); 
+	var trim_Version=version[1].replace(/[ ]/g,"");
+	if (b_name == "Microsoft Internet Explorer") { 
+
+	if (trim_Version == "MSIE7.0" || trim_Version == "MSIE6.0" ||trim_Version == "MSIE8.0") { 
+		alert("IE浏览器版本过低，请到指定网站去下载相关版本"); 
+	 		window.location.href="http://jiaoxueyun.com/download.jsp"; 
+		} 
+	} 
+</script>
+<script src="/r/plugins/bower_components/jquery/dist/jquery.min.js"></script>
+<script src="/r/release/js/all.js?v=1.2"></script>
+<script type='text/javascript'>
+    (function(m, ei, q, i, a, j, s) {
+        m[i] = m[i] || function() {
+            (m[i].a = m[i].a || []).push(arguments)
+        };
+        j = ei.createElement(q),
+            s = ei.getElementsByTagName(q)[0];
+        j.async = true;
+        j.charset = 'UTF-8';
+        j.src = 'https://static.meiqia.com/dist/meiqia.js?_=t';
+        s.parentNode.insertBefore(j, s);
+    })(window, document, 'script', '_MEIQIA');
+    _MEIQIA('entId', 99735);
+</script>
+ 
+ 
+<script type="text/javascript">
+function inadd(){
+	 var incontent = $("#intext").val();
+	 var inpid = $("#inpid").val();
+	 var itemId=1202;
+	 
+	 $.ajax({
+			url:ctx+"/addComment",
+			data:{itemId:itemId,content:incontent,type:'item',pid:inpid},
+			dataType:"json",
+			type:"post",
+			success:function(resp){
+				if(resp.success){
+					$("#pl").val(resp.msg);
+					location.reload();
+				}else{
+					if("needlogin"==resp.status){
+						$.fn.loginShow();
+					}else{
+						$.fn.notify("温馨提示",resp.msg);
+					}
+				}
+			}
+		});
+}
+
+var itemId = '1202' ;
+var editLevel  = '';
+if(itemId==''){
+	itemId=2006;
+}
+var needlogin = '1';
+	var needFill = '0';
+ 	var ads = '';  
+var needpay = '0';
+var vipnotice = '' ;
+if(vl=='0'){
+	
+}
+$(document).ready(function(){
+	if(needlogin=='1'){
+		location.href = "/loginView";
+	}
+	console.log(vipnotice);
+	if(uId!=''&&vipnotice>0&&vipnotice<3){
+		 swal({   
+	           title: "您的VIP即将到期",   
+	           text: "到期时间"+vipendtime,   
+	           type: "warning",   
+	           showCancelButton: true,   
+	           confirmButtonColor: "#DD6B55",   
+	           confirmButtonText: "购买VIP", 
+	           cancelButtonText:'我知道了',
+	           closeOnConfirm: true 
+	       }, function(){   
+	           location.href=ctx+"/zone/vippay2?vipRange=12";
+	       });
+	}
+	  
+	  /* if(ads=='0'){
+			var fillContent = new Ads({
+				closeClick:true,
+				render : function() {
+					return $.ajax({
+						url : ctx + "/getAds",
+						async : false,
+						dataType : 'text'
+					}).responseText;
+				}
+			});
+			fillContent.show();
+			$(document).scroll(function() {
+				fillContent.reposition();
+			});
+		}  */
+});
+</script>
+<script type="text/javascript">
+//反馈纠错
+$(document).ready(function(){
+	//$.fn.addCmt();
+	var itemId=1202;
+  	$("#cmt").comments({
+  		url:ctx+'/listComment',
+  		param:{itemId:itemId,type:'item'},
+  		total:"commentCount",
+  		submit:function(opts){
+  			var content = opts.content;
+  			var pid = opts.pid;
+  			if(content==""&&content.trim()==""){
+  				$.fn.notify("温馨提示","请输入评论内容");
+  				return ;
+  			}
+  			$.ajax({
+  				url:ctx+"/addComment",
+  				data:{itemId:itemId,content:content,type:'item',pid:pid},
+  				dataType:"json",
+  				type:"post",
+  				success:function(resp){
+  					if(resp.success){
+  						location.reload();
+  					}else{
+  						if("needlogin"==resp.status){
+  							$.fn.loginShow();
+  						}else{
+  							$.fn.notify("温馨提示",resp.msg);
+  						}
+  					}
+  				}
+  			});
+  		}
+  	});
+});
+
+</script>
+<script type="text/javascript" src="/static/standard/ckeditor/ckeditor.js"></script>
+<script src="/static/standard/ckeditor/adapters/jquery.js"></script> 
+<script src="/r/plugins/bower_components/bootstrap-treeview-master/dist/bootstrap-treeview.min.js"></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/js/wiki.js?v=1.2"></script>
+</body>
+</html>

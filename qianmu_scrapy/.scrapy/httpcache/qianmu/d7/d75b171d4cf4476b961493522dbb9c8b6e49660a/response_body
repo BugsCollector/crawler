@@ -1,0 +1,433 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>新学校大学-迁木网</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="keywords"  content="新学校大学" />
+<meta name="description"  id="description"  content="新学校大学:新学校大学（The New School）是一所中等大小的私立综合全国性大学，成立于1919年，位于纽约市，提供本科、硕士、博士，三种学位类型。新学校大学最为优越的便是她的地理位置，校园十分多样化，不同民族不同文化背景的学生随处可见，国际学生比例达25%，按比例几乎是美国国际学生最多的学校。" />
+
+<link rel="stylesheet" type="text/css" href="/r/release/css/all.min.css?v=1.2">
+<!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+<link rel="icon" type="image/png" sizes="16x16" href="/r/plugins/images/logo.ico"> 
+
+
+<style>
+#tree>ul>li{font-size:15px;}
+.container-fluid{padding-left:0px;}
+</style>
+</head>
+<body class="fix-header fix-sidebar"> 
+<script type="text/javascript">
+document.body.oncopy = function () { 
+ setTimeout( function () { 
+	 if(document.all){ 
+		 var text = clipboardData.getData("text");
+		  if (text) { 
+		   text = text + "\r\n文章来自: 迁木网(http://www.qianmu.org)  详文参考："+location.href; 
+		   clipboardData.setData("text", text);
+		  } 
+		}else{ 
+		 }
+    }, 100 ) 
+}
+
+</script>
+	 <div class="preloader">
+  	<div class="cssload-speeding-wheel"></div>
+    </div>
+<div id="wrapper">
+   
+<nav class="navbar navbar-default navbar-static-top m-b-0">
+	<div class="navbar-header">
+		<a class="navbar-toggle hidden-sm hidden-md hidden-lg "
+			href="javascript:void(0)" data-toggle="collapse"
+			data-target=".navbar-collapse"><i class="ti-menu"></i></a>
+		<div class="top-left-part">
+			<a class="logo" href="/"><b> <img
+					src="/r/plugins/images/lo.png" alt="迁木网" title="迁木网"
+					class="dark-logo" style="padding:10px;" /><img
+					src="/r/plugins/images/lo.png" title="迁木网" alt="迁木网"
+					class="light-logo" style="padding:10px;" /></b> <span class="hidden-xs"><img
+					src="/r/plugins/images/logo22.png" title="迁木网" alt="迁木网"
+					class="dark-logo" /><img src="/r/plugins/images/logo22.png"
+					title="迁木网" alt="迁木网" class="light-logo" /></span></a>
+		</div>
+		<ul class="nav navbar-top-links navbar-left hidden-xs">
+			<li><a href="javascript:void(0)"
+				class="open-close hidden-xs waves-effect waves-light"><i
+					class="icon-arrow-left-circle ti-menu"></i></a></li>
+			<li  >
+				<form role="search" class="app-search hidden-xs" action="/q"
+					method="get">
+					<input type="text" placeholder="学校、问题搜一下..." q class="form-control"
+						name="title" style="min-width:300px;"> <a href="#"><i
+						class="fa fa-search search"></i></a>
+				</form>
+			</li>
+			<li >
+				<a   href="/mall" ><i class="fa fa-shopping-cart"></i>&nbsp;留学商城</a>
+			</li>
+		</ul>
+		<ul class="nav navbar-top-links navbar-right pull-right">
+			<li pub>
+				<a id="navfb" href="javascript:void(0)" >发帖</a>
+			</li>
+			
+			
+			
+			<li class="dropdown" chat><a  href="/chat?tid=38"><i class="ti-email"></i></a>
+			</li>
+			<li class="dropdown hide" msg><a
+				class="dropdown-toggle waves-effect waves-light"
+				data-toggle="dropdown" href="#"><i class="icon-volume-2"></i>
+					<div class="notify"></div> </a>
+				<ul
+					class="dropdown-menu dropdown-cart dropdown-tasks animated bounceInDown">
+					<li><a class="text-center" href="/forum"><strong>查看全部</strong>
+							<i class="fa fa-angle-right"></i> </a></li>
+				</ul></li>
+			<li class="dropdown" userArea></li>
+			<li class="right-side-toggle"><a
+				class="waves-effect waves-light" href="javascript:void(0)"><i
+					class="ti-settings"></i></a></li>
+		</ul>
+	</div>
+</nav>
+
+<div id="myModalnav" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+		<div class="modal-dialog" style="width: 700px">
+			<div class="modal-content" style="margin-top: 100px;">
+				<div class="modal-body modal-body-alert" >
+						<div class="row" >
+			        		<div class="row"  style="text-align: center;margin-left: 5%;width: 89%;height: 60px;" >
+			        			<div style="text-align: center;"><h1 class="news-title"><a href="/addForumView" class="btn btn-block btn-info" style="font-size: 25px;" target="_blank">发表主题</a></h1></div>
+			        		</div>
+							<div class="row" style="text-align: center;margin-left: 5%;width: 89%;margin-top:10px;">
+									<ul class="bs-glyphicons">
+										<li style="width: 33%">
+										<a href="/estimate" target="_blank"><span class="glyphicon glyphicon-paperclip " aria-hidden="true"></span>
+											<span class="glyphicon-class">求定位</span></a></li>
+										<li style="width: 33%"><a href="/addOffer" target="_blank"><span class="glyphicon glyphicon-leaf" aria-hidden="true"></span> <span class="glyphicon-class">报Offer</span>
+										</a>
+										</li>
+										<li style="width: 33%"><a href="/chat?tid=38" target="_blank"><span class="glyphicon glyphicon-font" aria-hidden="true"></span> <span class="glyphicon-class">咨询版主</span>
+										</a>
+										</li>
+									</ul>
+							</div>
+			        	</div>
+				</div>
+			</div>
+		</div>
+</div> 
+   
+<div class="navbar-default sidebar" role="navigation">
+    <div class="sidebar-nav navbar-collapse slimscrollsidebar">
+      <ul class="nav" id="side-menu">
+        <li class="m-t-10"><a href="/forum" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="-"></i> <span class="hide-menu">互动 <span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+            <li><a href="/forum" class="">在线论坛</a></li>
+            <li><a href="/forum?type=2" class="">Offer榜</a></li>
+            <li><a href="/askshow" class="">小秘回复墙</a></li>
+            
+          </ul>
+        </li>
+        <li><a href="/ranking/1528.htm" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="+"></i> <span class="hide-menu">排名 <span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+            <li><a href="/ranking/1528.htm">QS世界排名</a></li>
+            <li><a href="/ranking/905.htm">USNEWS排名</a></li>
+            <li><a href="/ranking/1209.htm">PayScale工资排名</a></li>
+            <li><a href="/ranking/904.htm">上交大排名</a></li>
+          </ul>
+        </li>
+        <li><a href="/美国本科研究生选校" class="waves-effect"><i class="linea-icon linea-basic fa-fw" data-icon=">"></i> <span class="hide-menu">选校<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level collapse in">
+            <li><a href="/美国本科研究生选校">选校</a></li>
+            <li><a href="/offer">案例库</a></li>
+          </ul>
+        </li>
+        <li><a href="/分类索引" class="waves-effect active"><i class="linea-icon linea-basic fa-fw" data-icon="m"></i> <span class="hide-menu">词条<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level collapse in">
+            <li><a href="/分类索引">百科</a></li>
+            <li><a href="http://www.qianmu.org/%E7%B2%BE%E5%8D%8E%E6%94%BB%E7%95%A5%E7%B4%A2%E5%BC%95">精华索引</a></li>
+            <li><a href="/留学中介机构列表">中介</a></li>
+            <li><a href="/下载中心">下载中心</a></li>
+          </ul>
+        </li>
+        <li><a href="/mall" class="waves-effect" ><i class="linea-icon linea-basic fa-fw" data-icon="V"></i> <span class="hide-menu">商城<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+          	 <li><a href="/mall?c=1">美国申请</a></li>
+          	 <li><a href="/mall?c=2">英国留学</a></li>
+             <li><a href="/mall?c=8">文书服务</a></li>
+          </ul>
+        </li>
+		 <li style="display:none;"><a href="/article" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="a"></i><span class="hide-menu">新闻<span class="fa arrow"></span></span></a>
+				<ul class="nav nav-second-level   ">
+					<li><a href="/article">资讯</a></li>
+				</ul></li>
+			<li class="nav-small-cap m-t-10" style="text-align:center;border-bottom: 1px solid #ddd;"></li>
+			
+      </ul>
+    </div>
+  </div> 
+   <div class="right-sidebar">
+        <div class="slimscrollright">
+          <div class="rpanel-title">个性化设置<span><i class="ti-close right-side-toggle"></i></span> </div>
+          <div class="r-panel-body">
+            <ul>
+              <li><b>显示设置</b></li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkbox1" type="checkbox" class="fxhdr">
+                  <label for="checkbox1">固定头部导航</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-warning">
+                  <input id="checkbox2" type="checkbox" checked="" class="fxsdr">
+                  <label for="checkbox2" >固定左侧导航</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-success">
+                  <input id="checkbox4" type="checkbox" class="open-close">
+                  <label for="checkbox4" >切换工具栏目</label>
+                </div>
+              </li>
+            </ul>
+            <ul>
+              <li><b>消息设置</b></li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkboxmsg" type="checkbox" class="fxhdr">
+                  <label for="checkboxmsg">不接受网页通知</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkboxmail" type="checkbox" class="fxhdr">
+                  <label for="checkboxmail">不接受邮件通知</label>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="share-tools" >
+         <ul>
+         	<li style="font-size: 14px;" id="fk"><a  href="#comments">评论反馈</a></li>
+         	<li id="sharebtn" style="font-size: 14px;padding-left: 12px;" ><a href="javascript:" >我要分享</a></a>
+	         	<ul style="display:none; height:50px;position: absolute;width:180px;right:50px;margin-top:-45px;" id="sharelist" >
+	               <li style="padding-left: 15px;" class="inli"><a href="javascript:shareToWB();" title="分享至微博" >微博</a></li>
+	               <li style="padding-left: 15px;" class="weixin-icon inli"><a href="javascript:" title="分享至微信" >微信</a></li>
+	               <li class="inli" ><a href="javascript:shareToQQ();"  title="分享至QQ空间">QQ空间</a></li>
+	            </ul>
+         	</li>
+         	<li class="back_top" id="back-to-top" style="display: none;" ></li>
+         </ul>
+	 </div>
+ 
+   <div id="page-wrapper">
+   <div class="container-fluid">
+      <!-- row -->
+      <div class="row">
+        <!-- Left sidebar -->
+        <div class="col-md-12">
+          <div class="white-box" style="padding-left:0px;">
+            <!-- row -->
+            <div class="row">
+              <div class="col-lg-2 col-md-3  col-sm-12 col-xs-12 " style="overflow:auto;min-height:30px;display:block;" >
+                <div class='treeDiv'>
+                <div id="treeDiv" ><ul id="tree" class="ztree"></ul></div>
+                </div>
+              </div>
+              
+              <div style="" class="col-lg-10 col-md-9 col-sm-12 col-xs-12 mail_listing">
+               <div class="row" >
+		     <input type="hidden" id="type"/>
+			   <div class="wikiContent" id="wikiContent"  >
+			        <h1 class="wikiTitle">新学校大学 </h1> 
+					<div class="infobox"><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td>			<p>排名</p>			</td>			<td>			<p>147</p>			</td>		</tr>		<tr>			<td>			<p>国家</p>			</td>			<td>			<p>美国</p>			</td>		</tr>		<tr>			<td>			<p>州省</p>			</td>			<td>			<p><a href="http://www.qianmu.org/纽约州" target="_blank">纽约州</a></p>			</td>		</tr>		<tr>			<td>			<p>城市</p>			</td>			<td>			<p><a href="http://www.qianmu.org/纽约市" target="_blank">纽约市</a></p>			</td>		</tr>		<tr>			<td>			<p>性质</p>			</td>			<td>			<p>私立，男女合校</p>			</td>		</tr>		<tr>			<td>			<p>成立年份</p>			</td>			<td>			<p>1919</p>			</td>		</tr>		<tr>			<td>			<p>宗教信仰</p>			</td>			<td>			<p>无</p>			</td>		</tr>		<tr>			<td>			<p>学生人数</p>			</td>			<td>			<p>10,547</p>			</td>		</tr>		<tr>			<td>			<p>学校分类</p>			</td>			<td>			<p>综合性大学</p>			</td>		</tr>		<tr>			<td>			<p>网址</p>			</td>			<td>			<p>www.newschool.edu</p>			</td>		</tr>	</tbody></table></div>
+					<div id="content"><p><strong>新学校大学</strong>（The New School）是一所中等大小的私立综合<a href='http://www.qianmu.org/全国性大学' target='_blank'>全国性大学</a>，成立于1919年，位于<a href='http://www.qianmu.org/纽约市' target='_blank'>纽约市</a>，提供本科、硕士、博士，三种学位类型。新学校大学最为优越的便是她的地理位置，校园十分多样化，不同民族不同文化背景的学生随处可见，国际学生比例达25%，按比例几乎是美国国际学生最多的学校。</p><p>新学校大学以艺术与设计专业最为知名，艺术相关的专业门类亦非常齐全，包括<a href='http://www.qianmu.org/时装设计' target='_blank'>时装设计</a>、<a href='http://www.qianmu.org/室内设计' target='_blank'>室内设计</a>、<a href='http://www.qianmu.org/美术' target='_blank'>美术</a>等，除常规艺术设计类专业外，还专门开设有一个战略设计与管理的专业，这在艺术类院校中是并不多见的。</p><p>新学校大学的美术（<a href='http://www.qianmu.org/美术' target='_blank'>Fine Arts</a>）专业在<a href='http://www.qianmu.org/USNEWS排名' target='_blank'>USNEWS排名</a>上名列全美第36位，而在2015-16PayScale艺术与设计专业本科薪水排行上，新学校大学以职业早期薪水$44,800和职业中期薪水$99,200排名全美第一位！超过纽约<a href='http://www.qianmu.org/视觉艺术' target='_blank'>视觉艺术</a>学院、罗德岛设计学院、<a href='http://www.qianmu.org/普拉特学院' target='_blank'>普拉特学院</a>等著名艺术专门学校。*(1)</p><p><strong>申请点评</strong></p><ul>	<li>NYC! The city that never sleeps. There&#39;s always something to do within a few blocks of where you are.</li>	<li>You&#39;re in NYC, with some of the best public transportation in the world.</li>	<li>The New School is one of the most diverse schools in the United States. You always see someone from a different background or place in life.</li>	<li>A creative school in the middle of New York City! I would do it again for sure! So many opportunities at you feet.</li>	<li>I am a Music Technology major, which is on track with the major at Eugene Lang College for Contemporary Music. The music production classes are in audio classrooms, comprised of Macs and keyboards and M-boxes for recording. Software is up to date and the professors are helpful. Many of the music teachers are musicians or DJs on the side that have a creative style of teaching. The workload is definitely</li></ul><p>参考资料：</p><p>(1)&nbsp;<a rel="nofollow" href='http://www.qianmu.org/redirect?code=8rL6TCdnwmHu4d3aRRRRRKXDpAb5PTjHb1_4_4Zszze-yTeqwSaFLPApUchLkDK74nmArjxbIRlJtM9lsK9MydnWdDbPcD3UEUmrEad7Tb29scy1iuk7gnP5L65XkaLZ5rDhiunTDHME9G_' target='_blank'>2015-16 PayScale Best Schools by Salary Potential for Art&nbsp;Majors (Full List)</a>&nbsp;PayScale</p><h1>本科申请</h1><p><strong>基本信息：</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:111px">			<p>USNEWS排名</p>			</td>			<td style="width:75px">			<p>147</p>			</td>			<td style="width:95px">			<p>学费</p>			</td>			<td style="width:94px">			<p>$37,846/年</p>			</td>			<td style="width:123px">			<p>申请截止日期</p>			</td>			<td style="width:113px">			<p>1月15日</p>			</td>		</tr>		<tr>			<td style="width:111px">			<p><a href='http://www.qianmu.org/TOEFL' target='_blank'>TOEFL</a>要求</p>			</td>			<td style="width:75px">			<p>92</p>			</td>			<td style="width:95px">			<p>住宿费</p>			</td>			<td style="width:94px">			<p>$13,150/年</p>			</td>			<td style="width:123px">			<p>开学时间</p>			</td>			<td style="width:113px">			<p>每年8月-9月</p>			</td>		</tr>		<tr>			<td style="width:111px">			<p><a href='http://www.qianmu.org/IELTS' target='_blank'>IELTS</a>要求</p>			</td>			<td style="width:75px">			<p>7.0</p>			</td>			<td style="width:95px">			<p>申请费</p>			</td>			<td style="width:94px">			<p>$50</p>			</td>			<td style="width:123px">			<p>国际学生比例</p>			</td>			<td style="width:113px">			<p>25%</p>			</td>		</tr>		<tr>			<td style="width:111px">			<p><a href='http://www.qianmu.org/SAT' target='_blank'>SAT</a>平均分</p>			</td>			<td style="width:75px">			<p>1130-1340(1600)</p>			</td>			<td style="width:95px">			<p>申请人数</p>			</td>			<td style="width:94px">			<p>4,882</p>			</td>			<td style="width:123px">			<p>可申请入学学期</p>			</td>			<td style="width:113px">			<p>秋、夏、春</p>			</td>		</tr>		<tr>			<td style="width:111px">			<p><a href='http://www.qianmu.org/GPA' target='_blank'>GPA</a>要求</p>			</td>			<td style="width:75px">			<p>-</p>			</td>			<td style="width:95px">			<p>录取率</p>			</td>			<td style="width:94px">			<p>69.3%</p>			</td>			<td style="width:123px">			<p>是否提供<a href='http://www.qianmu.org/双录取' target='_blank'>双录取</a></p>			</td>			<td style="width:113px">			<p>No</p>			</td>		</tr>	</tbody></table><p>注：</p><p>(1) TOEFL与IELTS均无单项要求</p><p>(2) SAT阅读均分：500-620；SAT<a href='http://www.qianmu.org/数学' target='_blank'>数学</a>均分：500-630；SAT写作均分：510-620；编号2521</p><p>(3) <a href='http://www.qianmu.org/ACT' target='_blank'>ACT</a>综合均分：22-27；编号：2828</p><p>(4) 新学校大学另有EA申请方式，截止日期为11月1日；春季学期10月15日申请截止；此外，如不能在申请截止日期前递交合格的语言成绩，可向学校申请延期递交</p><p><strong>教学质量</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td>			<p>本科生人数</p>			</td>			<td>			<p>6835</p>			</td>			<td>			<p>小班比例(&lt;20)</p>			</td>			<td>			<p>90.9%</p>			</td>			<td>			<p><a href='http://www.qianmu.org/学期制度' target='_blank'>学期制度</a></p>			</td>			<td>			<p>semester</p>			</td>		</tr>		<tr>			<td>			<p>研究生人数</p>			</td>			<td>			<p>3712</p>			</td>			<td>			<p>中班比例(20-49)</p>			</td>			<td>			<p>7.9%</p>			</td>			<td>			<p>教授水平满意度</p>			</td>			<td>			<p>90%</p>			</td>		</tr>		<tr>			<td>			<p>国际学生比例</p>			</td>			<td>			<p>25%</p>			</td>			<td>			<p>大班比例(&gt;50)</p>			</td>			<td>			<p>1.2%</p>			</td>			<td>			<p>就业实习满意度</p>			</td>			<td>			<p>58%</p>			</td>		</tr>		<tr>			<td>			<p>师生比</p>			</td>			<td>			<p>1:10</p>			</td>			<td>			<p>六年毕业率</p>			</td>			<td>			<p>61%</p>			</td>			<td>			<p>学生满意度</p>			</td>			<td>			<p>-</p>			</td>		</tr>		<tr>			<td>			<p>四年毕业率</p>			</td>			<td>			<p>49%</p>			</td>			<td>			<p>新生保持率</p>			</td>			<td>			<p>81%</p>			</td>			<td>			<p>教授博士学位比率</p>			</td>			<td>			<p>-</p>			</td>		</tr>		<tr>			<td>毕业2年平均薪水</td>			<td>$34,600</td>			<td>就业率</td>			<td>68%</td>			<td>校友网络认可度</td>			<td>95%</td>		</tr>	</tbody></table><p><strong>校园安全</strong></p><table border="0" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:143px">校园安全事件</td>			<td style="width:403px">Criminal Offenses -- On-Campus&nbsp;</td>			<td style="width:103px">2012</td>			<td style="width:100px">2013</td>			<td style="width:97px">2014</td>		</tr>		<tr>			<td>谋杀</td>			<td>Murder/Non-negligent manslaughter</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>过失杀人</td>			<td>Negligent manslaughter</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>强奸</td>			<td>Rape</td>			<td>			<p>N/A</p>			</td>			<td>			<p>N/A</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>乱伦</td>			<td>Incest</td>			<td>			<p>N/A</p>			</td>			<td>			<p>N/A</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>强奸幼童罪</td>			<td>Statutory Rape</td>			<td>			<p>N/A</p>			</td>			<td>			<p>N/A</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>猥亵</td>			<td>Fondling</td>			<td>			<p>N/A</p>			</td>			<td>			<p>N/A</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>性侵犯-强迫</td>			<td>Sex offenses - Forcible</td>			<td>			<p>3</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>N/A</p>			</td>		</tr>		<tr>			<td>性侵犯-非强迫</td>			<td>Sex offenses - non-forcible (incest and statutory rape only)</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>N/A</p>			</td>		</tr>		<tr>			<td>抢劫</td>			<td>Robbery</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>2</p>			</td>		</tr>		<tr>			<td>暴力袭击</td>			<td>Aggravated assault</td>			<td>			<p>1</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>盗窃</td>			<td>Burglary</td>			<td>			<p>0</p>			</td>			<td>			<p>2</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>汽车盗窃</td>			<td>Motor vehicle theft</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>纵火</td>			<td>Arson</td>			<td>			<p>0</p>			</td>			<td>			<p>1</p>			</td>			<td>			<p>0</p>			</td>		</tr>	</tbody></table><h2>申请说明</h2><p>新学校大学通过学校官网在线申请，必需的<a href='http://www.qianmu.org/申请材料' target='_blank'>申请材料</a>包括：</p><ul>	<li>普通申请表、学校补充申请表</li>	<li>托福/雅思<a href='http://www.qianmu.org/成绩单' target='_blank'>成绩单</a></li>	<li>SAT或ACT成绩，非必需</li>	<li><a href='http://www.qianmu.org/推荐信' target='_blank'>推荐信</a>以及<a href='http://www.qianmu.org/Essay' target='_blank'>Essay</a></li>	<li>高中<a href='http://www.qianmu.org/在读证明' target='_blank'>在读证明</a>或高中毕业证</li>	<li>高中成绩单，需<a href='http://www.qianmu.org/翻译' target='_blank'>翻译</a>，建议公证</li>	<li><a href='http://www.qianmu.org/资金证明' target='_blank'>资金证明</a></li></ul><p>注：</p><p>(1) 注意：以上材料及申请日期均仅针对新学院大学下属学院Eugene Lang College，该college包含新学院大学开设的绝大部分专业（<a href='http://www.qianmu.org/戏剧' target='_blank'>戏剧</a>、<a href='http://www.qianmu.org/音乐' target='_blank'>音乐</a>、艺术等专业除外）。</p><p>(2) 新学校大学无需<a href='http://www.qianmu.org/面试' target='_blank'>面试</a></p><p><strong>费用与奖学金</strong></p><p>新学校大学2013-2014学年学费为37,846美元，一年食宿约13,150美元，外加医疗保险费、交通费、书本费等费用，一年整体花费约55532美元。</p><p>新学校大学向国际学生提供Need-aware<a href='http://www.qianmu.org/奖学金' target='_blank'>奖学金</a>，具体金额及覆盖率不详。</p><h2>转学申请</h2><p><strong>基本信息：</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:92px">			<p>TOEFL要求</p>			</td>			<td style="width:76px">			<p>100</p>			</td>			<td style="width:104px">			<p>GPA要求</p>			</td>			<td style="width:104px">			<p>-</p>			</td>			<td style="width:123px">			<p>申请截止日期</p>			</td>			<td style="width:76px">			<p>4月1日</p>			</td>		</tr>		<tr>			<td style="width:92px">			<p>IELTS要求</p>			</td>			<td style="width:76px">			<p>7.0</p>			</td>			<td style="width:104px">			<p>最低转学学分</p>			</td>			<td style="width:104px">			<p>-</p>			</td>			<td style="width:123px">			<p>最高转学学分</p>			</td>			<td style="width:76px">			<p>-</p>			</td>		</tr>	</tbody></table><p>注：新学校大学转学申请语言单项要求与本科申请相同，具体请见本科申请的说明</p><p>参考资料：</p><p>本文数据主要采自College Board、College Prowler、Princeton Review、USNEWS以及新学校大学官网等网站。</p><h2>专业设置</h2><table border="0" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:168px"><strong>专业名称</strong></td>			<td style="width:365px"><strong>专业英文名</strong></td>			<td style="width:72px"><strong>开设学位</strong></td>		</tr>		<tr>			<td><a href='http://www.qianmu.org/人类学' target='_blank'>人类学</a></td>			<td>Anthropology</td>			<td>BA</td>		</tr>		<tr>			<td>建筑设计</td>			<td>Architectural Design</td>			<td>BFA</td>		</tr>		<tr>			<td>艺术，媒体和科技</td>			<td>Art, Media, And Technology</td>			<td>BFA</td>		</tr>		<tr>			<td>艺术</td>			<td>The Arts</td>			<td>BA</td>		</tr>		<tr>			<td>当代音乐</td>			<td>Contemporary Music</td>			<td>BA</td>		</tr>		<tr>			<td>文化传媒</td>			<td>Culture And Media</td>			<td>BA</td>		</tr>		<tr>			<td>设计与科技</td>			<td>Design And Technology</td>			<td>BFA</td>		</tr>		<tr>			<td>话剧艺术</td>			<td>Dramatic Arts</td>			<td>BFA</td>		</tr>		<tr>			<td><a href='http://www.qianmu.org/经济学' target='_blank'>经济学</a></td>			<td><a href='http://www.qianmu.org/经济学' target='_blank'>Economics</a></td>			<td>BA</td>		</tr>		<tr>			<td>环境研究</td>			<td>Environmental Studies</td>			<td>BA/BS</td>		</tr>		<tr>			<td>时装设计</td>			<td>Fashion Design</td>			<td>BFA</td>		</tr>		<tr>			<td>美术</td>			<td>Fine Arts</td>			<td>BFA</td>		</tr>		<tr>			<td>食品研究</td>			<td>Food Studies</td>			<td>BA/BS</td>		</tr>		<tr>			<td>全球研究</td>			<td>Global Studies</td>			<td>BA</td>		</tr>		<tr>			<td><a href='http://www.qianmu.org/历史' target='_blank'>历史</a></td>			<td><a href='http://www.qianmu.org/历史' target='_blank'>History</a></td>			<td>BA</td>		</tr>		<tr>			<td>插图</td>			<td>Illustration</td>			<td>BFA</td>		</tr>		<tr>			<td>集成设计</td>			<td>Integrated Design</td>			<td>BFA</td>		</tr>		<tr>			<td>跨学科的科学</td>			<td>Interdisciplinary Science</td>			<td>BA</td>		</tr>		<tr>			<td>室内设计</td>			<td>Interior Design</td>			<td>BFA</td>		</tr>		<tr>			<td>爵士乐和现代音乐</td>			<td>Jazz And Contemporary Music</td>			<td>BFA</td>		</tr>		<tr>			<td>新闻+设计</td>			<td>Journalism + Design</td>			<td>BA</td>		</tr>		<tr>			<td>文科</td>			<td>Liberal Arts</td>			<td>BA/BS</td>		</tr>		<tr>			<td>文学研究</td>			<td>Literary Studies</td>			<td>BA</td>		</tr>		<tr>			<td>音乐剧</td>			<td>Musical Theater</td>			<td>BFA</td>		</tr>		<tr>			<td><a href='http://www.qianmu.org/哲学' target='_blank'>哲学</a></td>			<td>Philosophy</td>			<td>BA</td>		</tr>		<tr>			<td>摄影</td>			<td>Photography</td>			<td>BFA</td>		</tr>		<tr>			<td>政治</td>			<td>Politics</td>			<td>BA</td>		</tr>		<tr>			<td>产品设计</td>			<td>Product Design</td>			<td>BFA</td>		</tr>		<tr>			<td><a href='http://www.qianmu.org/心理学' target='_blank'>心理学</a></td>			<td><a href='http://www.qianmu.org/心理学' target='_blank'>Psychology</a></td>			<td>BA</td>		</tr>		<tr>			<td><a href='http://www.qianmu.org/社会学' target='_blank'>社会学</a></td>			<td><a href='http://www.qianmu.org/社会学' target='_blank'>Sociology</a></td>			<td>BA</td>		</tr>		<tr>			<td>战略设计与管理</td>			<td>Strategic Design And <a href='http://www.qianmu.org/管理学' target='_blank'>Management</a></td>			<td>BBA</td>		</tr>		<tr>			<td>剧院</td>			<td>Theater</td>			<td>BA</td>		</tr>		<tr>			<td>城市设计</td>			<td>Urban Design</td>			<td>BS</td>		</tr>		<tr>			<td>城市发展研究</td>			<td>Urban Studies</td>			<td>BA</td>		</tr>	</tbody></table><p>*(1)</p><p>参考资料：</p><p>(1)&nbsp;<a rel="nofollow" href='http://www.qianmu.org/redirect?code=vrJH6Yy8wiWP5A0OKKKKKKezhUvfrF2WfeS5S5_Vj3W0wpi4U2R61VF-fTkfeNCYaRGit5KhDLYA' target='_blank'>Academics</a>&nbsp;The New School</p><p>(2)<a href='https://bigfuture.collegeboard.org/college-university-search/the-new-school-college-performing-arts' target='_blank'>The new school college performing arts</a> &nbsp;College Board</p><h1>研究生申请&nbsp;</h1><p><strong>院系设置：</strong></p><ul>	<li>设计学院(Parsons School of Design)</li>	<li>社会研究学院(The New School for Social Research)</li>	<li>公众参与学院(Schools of Public Engagement)</li>	<li>人文学院(Eugene Lang College of Liberal Arts)</li>	<li>表演艺术学院(College of Performing Arts)</li>	<li>帕森巴黎学院(Parsons Paris)*(1)</li></ul><p>注：</p><p>（1）人文学院暂无开设研究生项目</p><p><strong>基本要求：</strong></p><p>学位要求：正规大学本科毕业并取得学士学位</p><p>GPA要求：GPA建议不低于3.0</p><p>语言要求：要求IELTS总分不低于7，TOEFL总分不低于92，均无单项分数要求</p><p>GRE要求：国际生需要递交GRE或GMAT成绩，均无设定最低分数要求</p><p>申请时间：新学校大学研究生院接受秋季、春季入学申请，具体申请截止时间视专业而定*(2)</p><p><strong>申请说明：</strong></p><p>新学校大学研究生项目申请要求的具体申请材料如下：</p><ul>	<li>完成在线申请</li>	<li>申请费：$50</li>	<li>大学成绩单</li>	<li>TOEFL/IELTS成绩</li>	<li>GRE或GMAT成绩</li>	<li>推荐信</li>	<li>个人陈述</li>	<li>简历</li>	<li>作品集（仅限艺术项目）*(3)(4)(5)</li></ul><p><strong>专业设置</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:151px">			<p>专业名称</p>			</td>			<td style="width:248px">			<p>专业英文名</p>			</td>			<td style="width:58px">			<p>所属学院</p>			</td>			<td style="width:98px">			<p>开设学位</p>			</td>		</tr>		<tr>			<td style="width:151px">			<p>人类学</p>			</td>			<td style="width:248px">			<p>Anthropology</p>			</td>			<td style="width:58px">			<p>社会研究学院</p>			</td>			<td style="width:98px">			<p>MA/PhD</p>			</td>		</tr>		<tr>			<td style="width:151px">			<p>建筑</p>			</td>			<td style="width:248px">			<p>Architecture</p>			</td>			<td style="width:58px">			<p>设计学院</p>			</td>			<td style="width:98px">			<p>M.Arch</p>			</td>		</tr>		<tr>			<td style="width:151px">			<p>创意出版与创意新闻</p>			</td>			<td style="width:248px">			<p>Creative Publishing and Critical Journalism</p>			</td>			<td style="width:58px">			<p>社会研究学院</p>			</td>			<td style="width:98px">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:151px">			<p>创意写作</p>			</td>			<td style="width:248px">			<p>Creative Writing</p>			</td>			<td style="width:58px">			<p>公众参与学院</p>			</td>			<td style="width:98px">			<p>MFA</p>			</td>		</tr>		<tr>			<td style="width:151px">			<p>数据可视化</p>			</td>			<td style="width:248px">			<p>Data Visualization</p>			</td>			<td style="width:58px">			<p>设计学院</p>			</td>			<td style="width:98px">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:151px">			<p>设计与技术</p>			</td>			<td style="width:248px">			<p>Design and Technology</p>			</td>			<td style="width:58px">			<p>设计学院</p>			</td>			<td style="width:98px">			<p>MFA</p>			</td>		</tr>		<tr>			<td style="width:151px">			<p>设计与城市<a href='http://www.qianmu.org/%E7%94%9F%E6%80%81%E5%AD%A6' target='_blank'>生态学</a></p>			</td>			<td style="width:248px">			<p>Design and Urban Ecologies</p>			</td>			<td style="width:58px">			<p>设计学院</p>			</td>			<td style="width:98px">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:151px">			<p>设计研究</p>			</td>			<td style="width:248px">			<p>Design Studies</p>			</td>			<td style="width:58px">			<p>设计学院</p>			</td>			<td style="width:98px">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:151px">			<p>经济学</p>			</td>			<td style="width:248px">			<p>Economics</p>			</td>			<td style="width:58px">			<p>社会研究学院</p>			</td>			<td style="width:98px">			<p>MA/MS/PhD</p>			</td>		</tr>		<tr>			<td style="width:151px">			<p>环境政策与可持续管理</p>			</td>			<td style="width:248px">			<p>Environmental Policy and Sustainability Management</p>			</td>			<td style="width:58px">			<p>公众参与学院</p>			</td>			<td style="width:98px">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:151px">			<p>时尚设计与社会学</p>			</td>			<td style="width:248px">			<p>Fashion Design and Society</p>			</td>			<td style="width:58px">			<p>设计学院</p>			</td>			<td style="width:98px">			<p>MFA</p>			</td>		</tr>		<tr>			<td style="width:151px">			<p>时尚研究</p>			</td>			<td style="width:248px">			<p>Fashion Studies</p>			</td>			<td style="width:58px">			<p>设计学院</p>			</td>			<td style="width:98px">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:151px">			<p>美术</p>			</td>			<td style="width:248px">			<p>Fine Arts</p>			</td>			<td style="width:58px">			<p>设计学院</p>			</td>			<td style="width:98px">			<p>MFA</p>			</td>		</tr>		<tr>			<td style="width:151px">			<p>全球政治经济与<a href='http://www.qianmu.org/%E9%87%91%E8%9E%8D' target='_blank'>金融</a></p>			</td>			<td style="width:248px">			<p>Global Political Economy and&nbsp;<a href='http://www.qianmu.org/%E9%87%91%E8%9E%8D' target='_blank'>Finance</a></p>			</td>			<td style="width:58px">			<p>社会研究学院</p>			</td>			<td style="width:98px">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:151px">			<p>历史研究</p>			</td>			<td style="width:248px">			<p>Historical Studies</p>			</td>			<td style="width:58px">			<p>社会研究学院</p>			</td>			<td style="width:98px">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:151px">			<p>设计与策展历史</p>			</td>			<td style="width:248px">			<p>History of Design and Curatorial Studies</p>			</td>			<td style="width:58px">			<p>设计学院</p>			</td>			<td style="width:98px">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:151px">			<p><a href='http://www.qianmu.org/%E5%B7%A5%E4%B8%9A%E8%AE%BE%E8%AE%A1' target='_blank'>工业设计</a></p>			</td>			<td style="width:248px">			<p>Industrial Design</p>			</td>			<td style="width:58px">			<p>设计学院</p>			</td>			<td style="width:98px">			<p>MFA</p>			</td>		</tr>		<tr>			<td style="width:151px">			<p>室内设计</p>			</td>			<td style="width:248px">			<p>Interior Design</p>			</td>			<td style="width:58px">			<p>设计学院</p>			</td>			<td style="width:98px">			<p>MFA</p>			</td>		</tr>		<tr>			<td style="width:151px">			<p>国际事务</p>			</td>			<td style="width:248px">			<p>International Affairs</p>			</td>			<td style="width:58px">			<p>公众参与学院</p>			</td>			<td style="width:98px">			<p>MA/MS</p>			</td>		</tr>		<tr>			<td style="width:151px">			<p>文学研究</p>			</td>			<td style="width:248px">			<p>Liberal Studies</p>			</td>			<td style="width:58px">			<p>社会研究学院</p>			</td>			<td style="width:98px">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:151px">			<p>灯光设计</p>			</td>			<td style="width:248px">			<p>Lighting Design</p>			</td>			<td style="width:58px">			<p>设计学院</p>			</td>			<td style="width:98px">			<p>MFA</p>			</td>		</tr>		<tr>			<td style="width:151px">			<p>媒体管理</p>			</td>			<td style="width:248px">			<p>Media Management</p>			</td>			<td style="width:58px">			<p>公众参与学院</p>			</td>			<td style="width:98px">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:151px">			<p>媒体研究</p>			</td>			<td style="width:248px">			<p>Media Studies</p>			</td>			<td style="width:58px">			<p>公众参与学院</p>			</td>			<td style="width:98px">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:151px">			<p>非营利管理</p>			</td>			<td style="width:248px">			<p>Nonprofit Management</p>			</td>			<td style="width:58px">			<p>公众参与学院</p>			</td>			<td style="width:98px">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:151px">			<p>组织变更管理</p>			</td>			<td style="width:248px">			<p>Organizational Change Management</p>			</td>			<td style="width:58px">			<p>公众参与学院</p>			</td>			<td style="width:98px">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:151px">			<p>哲学</p>			</td>			<td style="width:248px">			<p>Philosophy</p>			</td>			<td style="width:58px">			<p>社会研究学院</p>			</td>			<td style="width:98px">			<p>MA/PhD</p>			</td>		</tr>		<tr>			<td style="width:151px">			<p>摄影</p>			</td>			<td style="width:248px">			<p>Photography</p>			</td>			<td style="width:58px">			<p>设计学院</p>			</td>			<td style="width:98px">			<p>MFA</p>			</td>		</tr>		<tr>			<td style="width:151px">			<p>政治</p>			</td>			<td style="width:248px">			<p>Politics</p>			</td>			<td style="width:58px">			<p>社会研究学院</p>			</td>			<td style="width:98px">			<p>MA/PhD</p>			</td>		</tr>		<tr>			<td style="width:151px">			<p>心理学</p>			</td>			<td style="width:248px">			<p>Psychology</p>			</td>			<td style="width:58px">			<p>社会研究学院</p>			</td>			<td style="width:98px">			<p>MA/PhD</p>			</td>		</tr>		<tr>			<td style="width:151px">			<p>社会学</p>			</td>			<td style="width:248px">			<p>Sociology</p>			</td>			<td style="width:58px">			<p>社会研究学院</p>			</td>			<td style="width:98px">			<p>MA/PhD</p>			</td>		</tr>		<tr>			<td style="width:151px">			<p>战略设计与管理</p>			</td>			<td style="width:248px">			<p>Strategic Design and Management</p>			</td>			<td style="width:58px">			<p>设计学院</p>			</td>			<td style="width:98px">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:151px">			<p><a href='http://www.qianmu.org/%E8%8B%B1%E8%AF%AD' target='_blank'>英语</a>对外教学</p>			</td>			<td style="width:248px">			<p>Teaching English to Speakers of Other Languages</p>			</td>			<td style="width:58px">			<p>社会研究学院</p>			</td>			<td style="width:98px">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:151px">			<p><a href='http://www.qianmu.org/%E5%9F%8E%E5%B8%82%E8%A7%84%E5%88%92' target='_blank'>城市规划</a>与实践理论</p>			</td>			<td style="width:248px">			<p>Theories of Urban Practice</p>			</td>			<td style="width:58px">			<p>设计学院</p>			</td>			<td style="width:98px">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:151px">			<p>跨学科设计</p>			</td>			<td style="width:248px">			<p>Transdisciplinary Design</p>			</td>			<td style="width:58px">			<p>设计学院</p>			</td>			<td style="width:98px">			<p>MFA</p>			</td>		</tr>		<tr>			<td style="width:151px">			<p>城市政策分析与管理</p>			</td>			<td style="width:248px">			<p>Urban Policy Analysis and Management</p>			</td>			<td style="width:58px">			<p>社会研究学院</p>			</td>			<td style="width:98px">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:151px">			<p>公共与城市政策</p>			</td>			<td style="width:248px">			<p>Public and Urban Policy</p>			</td>			<td style="width:58px">			<p>社会研究学院</p>			</td>			<td style="width:98px">			<p>PhD</p>			</td>		</tr>		<tr>			<td style="width:151px">			<p>乐器演奏硕士</p>			</td>			<td style="width:248px">			<p>Master of Music in Instrumental Performance</p>			</td>			<td style="width:58px">			<p>表演艺术学院</p>			</td>			<td style="width:98px">			<p>MM</p>			</td>		</tr>		<tr>			<td style="width:151px">			<p>协作钢琴硕士</p>			</td>			<td style="width:248px">			<p>Master of Music in Collaborative Piano</p>			</td>			<td style="width:58px">			<p>表演艺术学院</p>			</td>			<td style="width:98px">			<p>MM</p>			</td>		</tr>		<tr>			<td style="width:151px">			<p>作曲硕士</p>			</td>			<td style="width:248px">			<p>Master of Music in Composition</p>			</td>			<td style="width:58px">			<p>表演艺术学院</p>			</td>			<td style="width:98px">			<p>MM</p>			</td>		</tr>		<tr>			<td style="width:151px">			<p>演奏指挥硕士</p>			</td>			<td style="width:248px">			<p>Masters of Music in Conducting</p>			</td>			<td style="width:58px">			<p>表演艺术学院</p>			</td>			<td style="width:98px">			<p>MM</p>			</td>		</tr>		<tr>			<td style="width:151px">			<p>吉他硕士</p>			</td>			<td style="width:248px">			<p>Master of Music in Guitar</p>			</td>			<td style="width:58px">			<p>表演艺术学院</p>			</td>			<td style="width:98px">			<p>MM</p>			</td>		</tr>		<tr>			<td style="width:151px">			<p>管弦乐器硕士</p>			</td>			<td style="width:248px">			<p>Master of Music in Orchestral Instruments</p>			</td>			<td style="width:58px">			<p>表演艺术学院</p>			</td>			<td style="width:98px">			<p>MM</p>			</td>		</tr>		<tr>			<td style="width:151px">			<p>钢琴硕士</p>			</td>			<td style="width:248px">			<p>Master of Music in Piano</p>			</td>			<td style="width:58px">			<p>表演艺术学院</p>			</td>			<td style="width:98px">			<p>MM</p>			</td>		</tr>		<tr>			<td style="width:151px">			<p>羽管键琴硕士</p>			</td>			<td style="width:248px">			<p>Master of Music in Harpsichord</p>			</td>			<td style="width:58px">			<p>表演艺术学院</p>			</td>			<td style="width:98px">			<p>MM</p>			</td>		</tr>		<tr>			<td style="width:151px">			<p>音乐理论硕士</p>			</td>			<td style="width:248px">			<p>Master of Music in Theory</p>			</td>			<td style="width:58px">			<p>表演艺术学院</p>			</td>			<td style="width:98px">			<p>MM</p>			</td>		</tr>		<tr>			<td style="width:151px">			<p>声乐硕士</p>			</td>			<td style="width:248px">			<p>Master of Music in Voice</p>			</td>			<td style="width:58px">			<p>表演艺术学院</p>			</td>			<td style="width:98px">			<p>MM</p>			</td>		</tr>		<tr>			<td style="width:151px">			<p>美术学士-艺术管理与创业硕士（双学位项目）</p>			</td>			<td style="width:248px">			<p>BFA/MA in Arts Management and Entrepreneurship</p>			</td>			<td style="width:58px">			<p>表演艺术学院</p>			</td>			<td style="width:98px">			<p>BFA/MA</p>			</td>		</tr>		<tr>			<td style="width:151px">			<p>乐器演奏硕士</p>			</td>			<td style="width:248px">			<p>Master of Music in Instrumental Performance</p>			</td>			<td style="width:58px">			<p>表演艺术学院</p>			</td>			<td style="width:98px">			<p>MM</p>			</td>		</tr>		<tr>			<td style="width:151px">			<p>协作钢琴硕士</p>			</td>			<td style="width:248px">			<p>Master of Music in Collaborative Piano</p>			</td>			<td style="width:58px">			<p>表演艺术学院</p>			</td>			<td style="width:98px">			<p>MM</p>			</td>		</tr>		<tr>			<td style="width:151px">			<p>作曲硕士</p>			</td>			<td style="width:248px">			<p>Master of Music in Composition</p>			</td>			<td style="width:58px">			<p>表演艺术学院</p>			</td>			<td style="width:98px">			<p>MM</p>			</td>		</tr>		<tr>			<td style="width:151px">			<p>演奏指挥硕士</p>			</td>			<td style="width:248px">			<p>Masters of Music in Conducting</p>			</td>			<td style="width:58px">			<p>表演艺术学院</p>			</td>			<td style="width:98px">			<p>MM</p>			</td>		</tr>		<tr>			<td style="width:151px">			<p>吉他硕士</p>			</td>			<td style="width:248px">			<p>Master of Music in Guitar</p>			</td>			<td style="width:58px">			<p>表演艺术学院</p>			</td>			<td style="width:98px">			<p>MM</p>			</td>		</tr>	</tbody></table><p>*(6)(7)</p><p>参考资料：</p><p>(1) <a href='https://www.newschool.edu/academics/' target='_blank'>Academic</a></p><p>(2) <a href='https://www.newschool.edu/admission/prospective-graduate-students/dates-deadlines/' target='_blank'>Graduate Admission Deadlines</a></p><p>(3) <a href='https://www.newschool.edu/admission/prospective-graduate-students/apply-graduate/' target='_blank'>How to Apply</a></p><p>(4) <a href='https://www.newschool.edu/admission/prospective-graduate-students/international-students/' target='_blank'>International Applicants</a></p><p>(5) <a href='https://www.newschool.edu/tuition-fees-billing/current-tuition/' target='_blank'>Tuition and Fees</a></p><p>(6) <a rel="nofollow" href='http://www.qianmu.org/redirect?code=vrJH6Yr7kjzL8WORY8xzY0_aCVKTCc23kgx8hePZR9rF1J9vF3yTs3c_EV3F7sehNX1Rfc9QqSARmV54mksjXRmNhXmI2mYkG00PbpsmVIRrfr5BUAk6_L-ub_K7EHtB8Lmq9KoJWRg_YekGuE' target='_blank'>New School</a>&nbsp;</p><p>(7) <a rel="nofollow" href='http://www.qianmu.org/redirect?code=5rk_5oEHkp6PZxLJbbbbbbePjbagxb39jZdkfrUTHjjC7SWdbanRmZQuOsawPpbqxCtMP0T1BVEqGsugr_lgB_2qSt_FxecHpukeio3' target='_blank'>The New School</a></p><p>&nbsp;</p><h2>设计学院</h2><h3>建筑学</h3><p><strong>基本信息：</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:18.9%">			<p>USNEWS排名</p>			</td>			<td style="width:15.1%">			<p>-</p>			</td>			<td style="width:13.82%">			<p>学费</p>			</td>			<td style="width:18.5%">			<p>$19, 203/学年</p>			</td>			<td style="width:18.68%">			<p>申请截止日期</p>			</td>			<td style="width:15.0%">			<p>1月2日</p>			</td>		</tr>		<tr>			<td style="width:18.9%">			<p>TOEFL要求</p>			</td>			<td style="width:15.1%">			<p>92</p>			</td>			<td style="width:13.82%">			<p>GPA要求</p>			</td>			<td style="width:18.5%">			<p>建议3.0以上</p>			</td>			<td style="width:18.68%">			<p>可申请学期</p>			</td>			<td style="width:15.0%">			<p>秋</p>			</td>		</tr>		<tr>			<td style="width:18.9%">			<p>IELTS要求</p>			</td>			<td style="width:15.1%">			<p>7</p>			</td>			<td style="width:13.82%">			<p>GRE要求</p>			</td>			<td style="width:18.5%">			<p>Required</p>			</td>			<td style="width:18.68%">			<p>工作经验要求</p>			</td>			<td style="width:15.0%">			<p>无</p>			</td>		</tr>	</tbody></table><p>*(1)(2)</p><p>注：</p><p>（1）2020USNEWS未有建筑学对应专业排名</p><p>（2）上表针对的是2019-2020学年费用。需注意的是，该费用每年会有小幅（一般不超过5%）上涨</p><p>（3）该项目接受秋季入学申请，秋季入学申请截止日期为1月2日</p><p><strong>申请说明：</strong></p><p>新学校大学建筑学硕士(Master of Architecture, M.Arch)，该项目为期3年，需要修读90个学分，要求申请人持有文学或建筑学学士学位，无工作经验要求，需要递交GRE或GMAT成绩，均未设定最低分数要求，设计学院除开设有建筑学硕士学位外，还开设有建筑学-灯光设计硕士双学位项目(Master of Architecture and the MFA Lighting Design)*(3)(4)(5)</p><p>参考资料：</p><p>(1) <a href='https://www.newschool.edu/tuition-fees-billing/current-tuition/' target='_blank'>Tuition and Fees</a></p><p>(2) <a href='https://www.newschool.edu/parsons/international-students/' target='_blank'>International Students</a></p><p>(3) <a href='https://www.newschool.edu/parsons/masters-architecture/?show=program-curriculum' target='_blank'>Master of Architecture (MArch) program</a></p><p>(4) <a href='https://www.newschool.edu/parsons/admission-faq/' target='_blank'>FAQ</a></p><p>(5) <a href='https://www.newschool.edu/parsons/march-architecture-mfa-lighting-design-dual-degree/' target='_blank'>Master of Architecture and the MFA Lighting Design</a></p><h3>通信设计</h3><p><strong>基本信息：</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:18.9%">			<p>USNEWS排名</p>			</td>			<td style="width:15.1%">			<p>-</p>			</td>			<td style="width:13.82%">			<p>学费</p>			</td>			<td style="width:18.5%">			<p>$19, 203/学年</p>			</td>			<td style="width:18.68%">			<p>申请截止日期</p>			</td>			<td style="width:15.0%">			<p>1月2日</p>			</td>		</tr>		<tr>			<td style="width:18.9%">			<p>TOEFL要求</p>			</td>			<td style="width:15.1%">			<p>92</p>			</td>			<td style="width:13.82%">			<p>GPA要求</p>			</td>			<td style="width:18.5%">			<p>建议3.0以上</p>			</td>			<td style="width:18.68%">			<p>可申请学期</p>			</td>			<td style="width:15.0%">			<p>秋</p>			</td>		</tr>		<tr>			<td style="width:18.9%">			<p>IELTS要求</p>			</td>			<td style="width:15.1%">			<p>7</p>			</td>			<td style="width:13.82%">			<p>GRE要求</p>			</td>			<td style="width:18.5%">			<p>Required</p>			</td>			<td style="width:18.68%">			<p>工作经验要求</p>			</td>			<td style="width:15.0%">			<p>无</p>			</td>		</tr>	</tbody></table><p>*(1)</p><p>注：</p><p>（1）2020USNEWS未有通信设计对应专业排名</p><p>（2）上表针对的是2019-2020学年费用。需注意的是，该费用每年会有小幅（一般不超过5%）上涨</p><p>（3）该项目接受秋季入学申请，秋季入学申请截止日期为1月2日</p><p><strong>申请说明：</strong></p><p>新学校大学通信设计硕士(Master of Professional Studies in Communication Design, MPSCD)，该项目为期1年，需要修读30个学分，要求申请人持有学士学位，无专业背景要求，无工作经验要求，需要递交GRE或GMAT成绩，均未设定最低分数要求*(2)(3)</p><p>参考资料：</p><p>(1) <a href='https://www.newschool.edu/tuition-fees-billing/current-tuition/' target='_blank'>Tuition and Fees</a></p><p>(2) <a href='https://www.newschool.edu/parsons/international-students/' target='_blank'>International Students</a></p><p>(3) <a href='https://www.newschool.edu/parsons/mps-communication-design/?show=program-curriculum' target='_blank'>Master of Professional Studies in Communication Design</a></p><p>(4) <a href='https://www.newschool.edu/parsons/admission-faq/' target='_blank'>FAQ</a></p><h3>数据可视化</h3><p><strong>基本信息：</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:18.9%">			<p>USNEWS排名</p>			</td>			<td style="width:15.1%">			<p>-</p>			</td>			<td style="width:13.82%">			<p>学费</p>			</td>			<td style="width:18.5%">			<p>$19, 203/学年</p>			</td>			<td style="width:18.68%">			<p>申请截止日期</p>			</td>			<td style="width:15.0%">			<p>1月2日</p>			</td>		</tr>		<tr>			<td style="width:18.9%">			<p>TOEFL要求</p>			</td>			<td style="width:15.1%">			<p>92</p>			</td>			<td style="width:13.82%">			<p>GPA要求</p>			</td>			<td style="width:18.5%">			<p>建议3.0以上</p>			</td>			<td style="width:18.68%">			<p>可申请学期</p>			</td>			<td style="width:15.0%">			<p>秋</p>			</td>		</tr>		<tr>			<td style="width:18.9%">			<p>IELTS要求</p>			</td>			<td style="width:15.1%">			<p>7</p>			</td>			<td style="width:13.82%">			<p>GRE要求</p>			</td>			<td style="width:18.5%">			<p>Required</p>			</td>			<td style="width:18.68%">			<p>工作经验要求</p>			</td>			<td style="width:15.0%">			<p>无</p>			</td>		</tr>	</tbody></table><p>*(1)(2)</p><p>注：</p><p>（1）2020USNEWS未有数据可视化对应专业排名</p><p>（2）上表针对的是2019-2020学年费用。需注意的是，该费用每年会有小幅（一般不超过5%）上涨</p><p>（3）该项目接受秋季入学申请，秋季入学申请截止日期为1月2日</p><p><strong>申请说明：</strong></p><p>新学校大学数据可视化硕士(Master of Science in Data Visualization)，该项目为期1-2年，需要修读30个学分，要求申请人持有学士学位，无专业背景要求，无工作经验要求，需要递交GRE或GMAT成绩，均未设定最低分数要求*(3)(4)</p><p>参考资料：</p><p>(1) <a href='https://www.newschool.edu/tuition-fees-billing/current-tuition/' target='_blank'>Tuition and Fees</a></p><p>(2) <a href='https://www.newschool.edu/parsons/international-students/' target='_blank'>International Students</a></p><p>(3) <a href='https://www.newschool.edu/parsons/ms-data-visualization/?show=program-admission-requirements' target='_blank'>Master of Science in Data Visualization</a></p><p>(4) <a href='https://www.newschool.edu/parsons/admission-faq/' target='_blank'>FAQ</a></p><h3>设计与技术</h3><p><strong>基本信息：</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:18.9%">			<p>USNEWS排名</p>			</td>			<td style="width:15.1%">			<p>-</p>			</td>			<td style="width:13.82%">			<p>学费</p>			</td>			<td style="width:18.5%">			<p>$19, 203/学年</p>			</td>			<td style="width:18.68%">			<p>申请截止日期</p>			</td>			<td style="width:15.0%">			<p>1月2日</p>			</td>		</tr>		<tr>			<td style="width:18.9%">			<p>TOEFL要求</p>			</td>			<td style="width:15.1%">			<p>92</p>			</td>			<td style="width:13.82%">			<p>GPA要求</p>			</td>			<td style="width:18.5%">			<p>建议3.0以上</p>			</td>			<td style="width:18.68%">			<p>可申请学期</p>			</td>			<td style="width:15.0%">			<p>秋</p>			</td>		</tr>		<tr>			<td style="width:18.9%">			<p>IELTS要求</p>			</td>			<td style="width:15.1%">			<p>7</p>			</td>			<td style="width:13.82%">			<p>GRE要求</p>			</td>			<td style="width:18.5%">			<p>Required</p>			</td>			<td style="width:18.68%">			<p>工作经验要求</p>			</td>			<td style="width:15.0%">			<p>无</p>			</td>		</tr>	</tbody></table><p>*(1)(2)</p><p>注：</p><p>（1）2020USNEWS未有设计与技术对应专业排名</p><p>（2）上表针对的是2019-2020学年费用。需注意的是，该费用每年会有小幅（一般不超过5%）上涨</p><p>（3）该项目接受秋季入学申请，秋季入学申请截止日期为1月2日</p><p><strong>申请说明：</strong></p><p>新学校大学设计与技术硕士(Master of Fine Arts in Design and Technology)，该项目为期2年，需要修读60个学分，要求申请人持有学士学位，无专业背景要求，无工作经验要求，需要递交GRE或GMAT成绩，均未设定最低分数要求*(3)(4)</p><p>参考资料：</p><p>(1) <a href='https://www.newschool.edu/tuition-fees-billing/current-tuition/' target='_blank'>Tuition and Fees</a></p><p>(2) <a href='https://www.newschool.edu/parsons/international-students/' target='_blank'>International Students</a></p><p>(3) <a href='https://www.newschool.edu/parsons/mfa-design-technology/?show=program-admission-requirements' target='_blank'>Master of Fine Arts in Design and Technology</a></p><p>(4) <a href='https://www.newschool.edu/parsons/admission-faq/' target='_blank'>FAQ</a></p><h3>设计与城市生态</h3><p><strong>基本信息：</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:18.9%">			<p>USNEWS排名</p>			</td>			<td style="width:15.1%">			<p>-</p>			</td>			<td style="width:13.82%">			<p>学费</p>			</td>			<td style="width:18.5%">			<p>$19, 203/学年</p>			</td>			<td style="width:18.68%">			<p>申请截止日期</p>			</td>			<td style="width:15.0%">			<p>1月2日</p>			</td>		</tr>		<tr>			<td style="width:18.9%">			<p>TOEFL要求</p>			</td>			<td style="width:15.1%">			<p>92</p>			</td>			<td style="width:13.82%">			<p>GPA要求</p>			</td>			<td style="width:18.5%">			<p>建议3.0以上</p>			</td>			<td style="width:18.68%">			<p>可申请学期</p>			</td>			<td style="width:15.0%">			<p>秋</p>			</td>		</tr>		<tr>			<td style="width:18.9%">			<p>IELTS要求</p>			</td>			<td style="width:15.1%">			<p>7</p>			</td>			<td style="width:13.82%">			<p>GRE要求</p>			</td>			<td style="width:18.5%">			<p>Required</p>			</td>			<td style="width:18.68%">			<p>工作经验要求</p>			</td>			<td style="width:15.0%">			<p>无</p>			</td>		</tr>	</tbody></table><p>*(1)(2)</p><p>注：</p><p>（1）2020USNEWS未有设计与城市生态对应专业排名</p><p>（2）上表针对的是2019-2020学年费用。需注意的是，该费用每年会有小幅（一般不超过5%）上涨</p><p>（3）该项目接受秋季入学申请，秋季入学申请截止日期为1月2日</p><p><strong>申请说明：</strong></p><p>新学校大学设计与城市生态硕士(Master of Science in Design and Urban Ecologies)，该项目为期2年，需要修读60个学分，要求申请人持有学士学位，无专业背景要求，无工作经验要求，需要递交GRE或GMAT成绩，均未设定最低分数要求*(3)(4)</p><p>参考资料：</p><p>(1) <a href='https://www.newschool.edu/tuition-fees-billing/current-tuition/' target='_blank'>Tuition and Fees</a></p><p>(2) <a href='https://www.newschool.edu/parsons/international-students/' target='_blank'>International Students</a></p><p>(3) <a href='https://www.newschool.edu/parsons/ms-design-urban-ecology/?show=program-admission-requirements' target='_blank'>Master of Science in Design and Urban Ecologies</a></p><p>(4) <a href='https://www.newschool.edu/parsons/admission-faq/' target='_blank'>FAQ</a></p><h3>时尚设计与社会</h3><p><strong>基本信息：</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:18.9%">			<p>USNEWS排名</p>			</td>			<td style="width:15.1%">			<p>-</p>			</td>			<td style="width:13.82%">			<p>学费</p>			</td>			<td style="width:18.5%">			<p>$19, 203/学年</p>			</td>			<td style="width:18.68%">			<p>申请截止日期</p>			</td>			<td style="width:15.0%">			<p>1月2日</p>			</td>		</tr>		<tr>			<td style="width:18.9%">			<p>TOEFL要求</p>			</td>			<td style="width:15.1%">			<p>92</p>			</td>			<td style="width:13.82%">			<p>GPA要求</p>			</td>			<td style="width:18.5%">			<p>建议3.0以上</p>			</td>			<td style="width:18.68%">			<p>可申请学期</p>			</td>			<td style="width:15.0%">			<p>秋</p>			</td>		</tr>		<tr>			<td style="width:18.9%">			<p>IELTS要求</p>			</td>			<td style="width:15.1%">			<p>7</p>			</td>			<td style="width:13.82%">			<p>GRE要求</p>			</td>			<td style="width:18.5%">			<p>Required</p>			</td>			<td style="width:18.68%">			<p>工作经验要求</p>			</td>			<td style="width:15.0%">			<p>无</p>			</td>		</tr>	</tbody></table><p>*(1)(2)</p><p>注：</p><p>（1）2020USNEWS未有时尚设计与社会对应专业排名</p><p>（2）上表针对的是2019-2020学年费用。需注意的是，该费用每年会有小幅（一般不超过5%）上涨</p><p>（3）该项目接受秋季入学申请，秋季入学申请截止日期为1月2日</p><p><strong>申请说明：</strong></p><p>新学校大学时尚设计与社会硕士(MFA Fashion Design and Society)，该项目为期2年，需要修读60个学分，要求申请人持有学士学位，无专业背景要求，无工作经验要求，需要递交GRE或GMAT成绩，均未设定最低分数要求*(3)(4)</p><p>参考资料：</p><p>(1) <a href='https://www.newschool.edu/tuition-fees-billing/current-tuition/' target='_blank'>Tuition and Fees</a></p><p>(2) <a href='https://www.newschool.edu/parsons/international-students/' target='_blank'>International Students</a></p><p>(3) <a href='https://www.newschool.edu/parsons/mfa-fashion-design-society/?show=program-curriculum' target='_blank'>MFA Fashion Design and Society</a></p><p>(4) <a href='https://www.newschool.edu/parsons/admission-faq/' target='_blank'>FAQ</a></p><h3>时尚管理</h3><p><strong>基本信息：</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:18.9%">			<p>USNEWS排名</p>			</td>			<td style="width:15.1%">			<p>-</p>			</td>			<td style="width:13.82%">			<p>学费</p>			</td>			<td style="width:18.5%">			<p>$19, 203/学年</p>			</td>			<td style="width:18.68%">			<p>申请截止日期</p>			</td>			<td style="width:15.0%">			<p>1月2日</p>			</td>		</tr>		<tr>			<td style="width:18.9%">			<p>TOEFL要求</p>			</td>			<td style="width:15.1%">			<p>92</p>			</td>			<td style="width:13.82%">			<p>GPA要求</p>			</td>			<td style="width:18.5%">			<p>建议3.0以上</p>			</td>			<td style="width:18.68%">			<p>可申请学期</p>			</td>			<td style="width:15.0%">			<p>秋</p>			</td>		</tr>		<tr>			<td style="width:18.9%">			<p>IELTS要求</p>			</td>			<td style="width:15.1%">			<p>7</p>			</td>			<td style="width:13.82%">			<p>GRE要求</p>			</td>			<td style="width:18.5%">			<p>Required</p>			</td>			<td style="width:18.68%">			<p>工作经验要求</p>			</td>			<td style="width:15.0%">			<p>无</p>			</td>		</tr>	</tbody></table><p>*(1)(2)</p><p>注：</p><p>（1）2020USNEWS未有时尚管理对应专业排名</p><p>（2）上表针对的是2019-2020学年费用。需注意的是，该费用每年会有小幅（一般不超过5%）上涨</p><p>（3）该项目接受秋季入学申请，秋季入学申请截止日期为1月2日</p><p><strong>申请说明：</strong></p><p>新学校大学时尚管理硕士(Master of Fashion Management)，该项目为期1年，需要修读30个学分，要求申请人持有学士学位，无专业背景要求，无工作经验要求，需要递交GRE或GMAT成绩，均未设定最低分数要求*(3)(4)</p><p>参考资料：</p><p>(1) <a href='https://www.newschool.edu/tuition-fees-billing/current-tuition/' target='_blank'>Tuition and Fees</a></p><p>(2) <a href='https://www.newschool.edu/parsons/international-students/' target='_blank'>International Students</a></p><p>(3) <a href='https://www.newschool.edu/parsons/mps-fashion-management/?show=program-news' target='_blank'>Master of Fashion Management</a></p><p>(4) <a href='https://www.newschool.edu/parsons/admission-faq/' target='_blank'>FAQ</a></p><h3>时尚研究</h3><p><strong>基本信息：</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:18.9%">			<p>USNEWS排名</p>			</td>			<td style="width:15.1%">			<p>-</p>			</td>			<td style="width:13.82%">			<p>学费</p>			</td>			<td style="width:18.5%">			<p>$19, 203/学年</p>			</td>			<td style="width:18.68%">			<p>申请截止日期</p>			</td>			<td style="width:15.0%">			<p>1月2日</p>			</td>		</tr>		<tr>			<td style="width:18.9%">			<p>TOEFL要求</p>			</td>			<td style="width:15.1%">			<p>92</p>			</td>			<td style="width:13.82%">			<p>GPA要求</p>			</td>			<td style="width:18.5%">			<p>建议3.0以上</p>			</td>			<td style="width:18.68%">			<p>可申请学期</p>			</td>			<td style="width:15.0%">			<p>秋</p>			</td>		</tr>		<tr>			<td style="width:18.9%">			<p>IELTS要求</p>			</td>			<td style="width:15.1%">			<p>7</p>			</td>			<td style="width:13.82%">			<p>GRE要求</p>			</td>			<td style="width:18.5%">			<p>Required</p>			</td>			<td style="width:18.68%">			<p>工作经验要求</p>			</td>			<td style="width:15.0%">			<p>无</p>			</td>		</tr>	</tbody></table><p>*(1)(2)</p><p>注：</p><p>（1）2020USNEWS未有时尚研究对应专业排名</p><p>（2）上表针对的是2019-2020学年费用。需注意的是，该费用每年会有小幅（一般不超过5%）上涨</p><p>（3）该项目接受秋季入学申请，秋季入学申请截止日期为1月2日</p><p><strong>申请说明：</strong></p><p>新学校大学时尚研究硕士(Master of Arts in Fashion Studies)，该项目为期2年，需要修读42个学分，要求申请人持有学士学位，无专业背景要求，无工作经验要求，需要递交GRE或GMAT成绩，均未设定最低分数要求*(3)(4)</p><p>参考资料：</p><p>(1) <a href='https://www.newschool.edu/tuition-fees-billing/current-tuition/' target='_blank'>Tuition and Fees</a></p><p>(2) <a href='https://www.newschool.edu/parsons/international-students/' target='_blank'>International Students</a></p><p>(3) <a href='https://www.newschool.edu/parsons/ma-fashion-studies/?show=program-admission-requirements' target='_blank'>Master of Arts in Fashion Studies</a></p><p>(4) <a href='https://www.newschool.edu/parsons/admission-faq/' target='_blank'>FAQ</a></p><h3>美术</h3><p><strong>基本信息：</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:18.9%">			<p>USNEWS排名</p>			</td>			<td style="width:15.1%">			<p>-</p>			</td>			<td style="width:13.82%">			<p>学费</p>			</td>			<td style="width:18.5%">			<p>$19, 203/学年</p>			</td>			<td style="width:18.68%">			<p>申请截止日期</p>			</td>			<td style="width:15.0%">			<p>1月2日</p>			</td>		</tr>		<tr>			<td style="width:18.9%">			<p>TOEFL要求</p>			</td>			<td style="width:15.1%">			<p>92</p>			</td>			<td style="width:13.82%">			<p>GPA要求</p>			</td>			<td style="width:18.5%">			<p>建议3.0以上</p>			</td>			<td style="width:18.68%">			<p>可申请学期</p>			</td>			<td style="width:15.0%">			<p>秋</p>			</td>		</tr>		<tr>			<td style="width:18.9%">			<p>IELTS要求</p>			</td>			<td style="width:15.1%">			<p>7</p>			</td>			<td style="width:13.82%">			<p>GRE要求</p>			</td>			<td style="width:18.5%">			<p>Required</p>			</td>			<td style="width:18.68%">			<p>工作经验要求</p>			</td>			<td style="width:15.0%">			<p>无</p>			</td>		</tr>	</tbody></table><p>*(1)(2)</p><p>注：</p><p>（1）2020USNEWS未有美术对应专业排名</p><p>（2）上表针对的是2019-2020学年费用。需注意的是，该费用每年会有小幅（一般不超过5%）上涨</p><p>（3）该项目接受秋季入学申请，秋季入学申请截止日期为1月2日</p><p><strong>申请说明：</strong></p><p>新学校大学美术硕士(MFA in Fine Arts)，该项目为期2年，需要修读60个学分，要求申请人持有学士学位，无专业背景要求，无工作经验要求，需要递交GRE或GMAT成绩，均未设定最低分数要求*(3)(4)</p><p>参考资料：</p><p>(1) <a href='https://www.newschool.edu/tuition-fees-billing/current-tuition/' target='_blank'>Tuition and Fees</a></p><p>(2) <a href='https://www.newschool.edu/parsons/international-students/' target='_blank'>International Students</a></p><p>(3) <a href='https://www.newschool.edu/parsons/mfa-fine-arts/?show=program-admission-requirements' target='_blank'>MFA in Fine Arts</a></p><p>(4) <a href='https://www.newschool.edu/parsons/admission-faq/' target='_blank'>FAQ</a></p><h3>设计与策展研究历史</h3><p><strong>基本信息：</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:18.9%">			<p>USNEWS排名</p>			</td>			<td style="width:15.1%">			<p>-</p>			</td>			<td style="width:13.82%">			<p>学费</p>			</td>			<td style="width:18.5%">			<p>$19, 203/学年</p>			</td>			<td style="width:18.68%">			<p>申请截止日期</p>			</td>			<td style="width:15.0%">			<p>1月2日</p>			</td>		</tr>		<tr>			<td style="width:18.9%">			<p>TOEFL要求</p>			</td>			<td style="width:15.1%">			<p>92</p>			</td>			<td style="width:13.82%">			<p>GPA要求</p>			</td>			<td style="width:18.5%">			<p>建议3.0以上</p>			</td>			<td style="width:18.68%">			<p>可申请学期</p>			</td>			<td style="width:15.0%">			<p>秋</p>			</td>		</tr>		<tr>			<td style="width:18.9%">			<p>IELTS要求</p>			</td>			<td style="width:15.1%">			<p>7</p>			</td>			<td style="width:13.82%">			<p>GRE要求</p>			</td>			<td style="width:18.5%">			<p>Required</p>			</td>			<td style="width:18.68%">			<p>工作经验要求</p>			</td>			<td style="width:15.0%">			<p>无</p>			</td>		</tr>	</tbody></table><p>*(1)(2)</p><p>注：</p><p>（1）2020USNEWS未有设计与策展研究历史对应专业排名</p><p>（2）上表针对的是2019-2020学年费用。需注意的是，该费用每年会有小幅（一般不超过5%）上涨</p><p>（3）该项目接受秋季入学申请，秋季入学申请截止日期为1月2日</p><p><strong>申请说明：</strong></p><p>新学校大学设计与策展研究历史硕士(MA History of Design and Curatorial Studies)，该项目为期2年，需要修读42个学分，要求申请人持有学士学位，无专业背景要求，无工作经验要求，需要递交GRE或GMAT成绩，均未设定最低分数要求*(3)(4)</p><p>参考资料：</p><p>(1) <a href='https://www.newschool.edu/tuition-fees-billing/current-tuition/' target='_blank'>Tuition and Fees</a></p><p>(2) <a href='https://www.newschool.edu/parsons/international-students/' target='_blank'>International Students</a></p><p>(3) <a href='https://www.newschool.edu/parsons/ma-history-design-curatorial-studies/?show=program-curriculum' target='_blank'>MA History of Design and Curatorial Studies</a></p><p>(4) <a href='https://www.newschool.edu/parsons/admission-faq/' target='_blank'>FAQ</a></p><h3>工业设计</h3><p><strong>基本信息：</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:18.9%">			<p>USNEWS排名</p>			</td>			<td style="width:15.1%">			<p>-</p>			</td>			<td style="width:13.82%">			<p>学费</p>			</td>			<td style="width:18.5%">			<p>$19, 203/学年</p>			</td>			<td style="width:18.68%">			<p>申请截止日期</p>			</td>			<td style="width:15.0%">			<p>1月2日</p>			</td>		</tr>		<tr>			<td style="width:18.9%">			<p>TOEFL要求</p>			</td>			<td style="width:15.1%">			<p>92</p>			</td>			<td style="width:13.82%">			<p>GPA要求</p>			</td>			<td style="width:18.5%">			<p>建议3.0以上</p>			</td>			<td style="width:18.68%">			<p>可申请学期</p>			</td>			<td style="width:15.0%">			<p>秋</p>			</td>		</tr>		<tr>			<td style="width:18.9%">			<p>IELTS要求</p>			</td>			<td style="width:15.1%">			<p>7</p>			</td>			<td style="width:13.82%">			<p>GRE要求</p>			</td>			<td style="width:18.5%">			<p>Required</p>			</td>			<td style="width:18.68%">			<p>工作经验要求</p>			</td>			<td style="width:15.0%">			<p>无</p>			</td>		</tr>	</tbody></table><p>*(1)(2)</p><p>注：</p><p>（1）此处排名为<a href='http://www.qianmu.org/ranking/1018.htm' target='_blank'>2014USNEWS工业设计排名</a>，新学校大学未入榜</p><p>（2）上表针对的是2019-2020学年费用。需注意的是，该费用每年会有小幅（一般不超过5%）上涨</p><p>（3）该项目接受秋季入学申请，秋季入学申请截止日期为1月2日</p><p><strong>申请说明：</strong></p><p>新学校大学工业设计硕士(Master of Fine Arts in Industrial Design)，该项目为期2年，需要修读60个学分，要求申请人持有学士学位，无专业背景要求，无工作经验要求，需要递交GRE或GMAT成绩，均未设定最低分数要求*(3)(4)</p><p>参考资料：</p><p>(1) <a href='https://www.newschool.edu/tuition-fees-billing/current-tuition/' target='_blank'>Tuition and Fees</a></p><p>(2) <a href='https://www.newschool.edu/parsons/international-students/' target='_blank'>International Students</a></p><p>(3) <a href='https://www.newschool.edu/parsons/mfa-industrial-design/' target='_blank'>Master of Fine Arts in Industrial Design</a></p><p>(4) <a href='https://www.newschool.edu/parsons/admission-faq/' target='_blank'>FAQ</a></p><h3>室内设计</h3><p><strong>基本信息：</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:18.9%">			<p>USNEWS排名</p>			</td>			<td style="width:15.1%">			<p>-</p>			</td>			<td style="width:13.82%">			<p>学费</p>			</td>			<td style="width:18.5%">			<p>$19, 203/学年</p>			</td>			<td style="width:18.68%">			<p>申请截止日期</p>			</td>			<td style="width:15.0%">			<p>1月2日</p>			</td>		</tr>		<tr>			<td style="width:18.9%">			<p>TOEFL要求</p>			</td>			<td style="width:15.1%">			<p>92</p>			</td>			<td style="width:13.82%">			<p>GPA要求</p>			</td>			<td style="width:18.5%">			<p>建议3.0以上</p>			</td>			<td style="width:18.68%">			<p>可申请学期</p>			</td>			<td style="width:15.0%">			<p>秋</p>			</td>		</tr>		<tr>			<td style="width:18.9%">			<p>IELTS要求</p>			</td>			<td style="width:15.1%">			<p>7</p>			</td>			<td style="width:13.82%">			<p>GRE要求</p>			</td>			<td style="width:18.5%">			<p>Required</p>			</td>			<td style="width:18.68%">			<p>工作经验要求</p>			</td>			<td style="width:15.0%">			<p>无</p>			</td>		</tr>	</tbody></table><p>*(1)(2)</p><p>注：</p><p>（1）此处排名为<a href='http://www.qianmu.org/ranking/1020.htm' target='_blank'>2014USNEWS室内设计排名</a>，新学校大学未入榜</p><p>（2）上表针对的是2019-2020学年费用。需注意的是，该费用每年会有小幅（一般不超过5%）上涨</p><p>（3）该项目接受秋季入学申请，秋季入学申请截止日期为1月2日</p><p><strong>申请说明：</strong></p><p>新学校大学室内设计硕士(Master of Fine Arts in Interior Design)，该项目为期2年，需要修读60个学分，要求申请人持有学士学位，无专业背景要求，无工作经验要求，需要递交GRE或GMAT成绩，均未设定最低分数要求*(3)(4)</p><p>参考资料：</p><p>(1) <a href='https://www.newschool.edu/tuition-fees-billing/current-tuition/' target='_blank'>Tuition and Fees</a></p><p>(2) <a href='https://www.newschool.edu/parsons/international-students/' target='_blank'>International Students</a></p><p>(3) <a href='https://www.newschool.edu/parsons/mfa-interior-design/' target='_blank'>Master of Fine Arts in Interior Design</a></p><p>(4) <a href='https://www.newschool.edu/parsons/admission-faq/' target='_blank'>FAQ</a></p><h3>灯光设计</h3><p><strong>基本信息：</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:18.9%">			<p>USNEWS排名</p>			</td>			<td style="width:15.1%">			<p>-</p>			</td>			<td style="width:13.82%">			<p>学费</p>			</td>			<td style="width:18.5%">			<p>$19, 203/学年</p>			</td>			<td style="width:18.68%">			<p>申请截止日期</p>			</td>			<td style="width:15.0%">			<p>1月2日</p>			</td>		</tr>		<tr>			<td style="width:18.9%">			<p>TOEFL要求</p>			</td>			<td style="width:15.1%">			<p>92</p>			</td>			<td style="width:13.82%">			<p>GPA要求</p>			</td>			<td style="width:18.5%">			<p>建议3.0以上</p>			</td>			<td style="width:18.68%">			<p>可申请学期</p>			</td>			<td style="width:15.0%">			<p>秋</p>			</td>		</tr>		<tr>			<td style="width:18.9%">			<p>IELTS要求</p>			</td>			<td style="width:15.1%">			<p>7</p>			</td>			<td style="width:13.82%">			<p>GRE要求</p>			</td>			<td style="width:18.5%">			<p>Required</p>			</td>			<td style="width:18.68%">			<p>工作经验要求</p>			</td>			<td style="width:15.0%">			<p>无</p>			</td>		</tr>	</tbody></table><p>*(1)(2)</p><p>注：</p><p>（1）2020USNEWS未有灯光设计专业排名</p><p>（2）上表针对的是2019-2020学年费用。需注意的是，该费用每年会有小幅（一般不超过5%）上涨</p><p>（3）该项目接受秋季入学申请，秋季入学申请截止日期为1月2日</p><p><strong>申请说明：</strong></p><p>新学校大学灯光设计硕士(Master of Fine Arts in Lighting Design)，该项目为期2年，需要修读60个学分，要求申请人持有学士学位，无专业背景要求，无工作经验要求，需要递交GRE或GMAT成绩，均未设定最低分数要求*(3)(4)</p><p>参考资料：</p><p>(1) <a href='https://www.newschool.edu/tuition-fees-billing/current-tuition/' target='_blank'>Tuition and Fees</a></p><p>(2) <a href='https://www.newschool.edu/parsons/international-students/' target='_blank'>International Students</a></p><p>(3) <a href='https://www.newschool.edu/parsons/lighting-design/' target='_blank'>Master of Fine Arts in Lighting Design</a></p><p>(4) <a href='https://www.newschool.edu/parsons/admission-faq/' target='_blank'>FAQ</a></p><h3>摄影</h3><p><strong>基本信息：</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:18.9%">			<p>USNEWS排名</p>			</td>			<td style="width:15.1%">			<p>-</p>			</td>			<td style="width:13.82%">			<p>学费</p>			</td>			<td style="width:18.5%">			<p>$19, 203/学年</p>			</td>			<td style="width:18.68%">			<p>申请截止日期</p>			</td>			<td style="width:15.0%">			<p>1月2日</p>			</td>		</tr>		<tr>			<td style="width:18.9%">			<p>TOEFL要求</p>			</td>			<td style="width:15.1%">			<p>92</p>			</td>			<td style="width:13.82%">			<p>GPA要求</p>			</td>			<td style="width:18.5%">			<p>建议3.0以上</p>			</td>			<td style="width:18.68%">			<p>可申请学期</p>			</td>			<td style="width:15.0%">			<p>秋</p>			</td>		</tr>		<tr>			<td style="width:18.9%">			<p>IELTS要求</p>			</td>			<td style="width:15.1%">			<p>7</p>			</td>			<td style="width:13.82%">			<p>GRE要求</p>			</td>			<td style="width:18.5%">			<p>Required</p>			</td>			<td style="width:18.68%">			<p>工作经验要求</p>			</td>			<td style="width:15.0%">			<p>无</p>			</td>		</tr>	</tbody></table><p>*(1)(2)</p><p>注：</p><p>（1）此处排名为<a href='http://www.qianmu.org/2017USNEWS%E7%BE%8E%E5%9B%BD%E6%91%84%E5%BD%B1%E8%89%BA%E6%9C%AF%E6%8E%92%E5%90%8D' target='_blank'>2017USNEWS美国摄影艺术排名</a>，新学校大学未入榜</p><p>（2）上表针对的是2019-2020学年费用。需注意的是，该费用每年会有小幅（一般不超过5%）上涨</p><p>（3）该项目接受秋季入学申请，秋季入学申请截止日期为1月2日</p><p><strong>申请说明：</strong></p><p>新学校大学摄影硕士(MFA in Photography)，该项目为期2.5年，国际生需要修读68个学分，要求申请人持有学士学位，无专业背景要求，无工作经验要求，需要递交GRE或GMAT成绩，均未设定最低分数要求*(3)(4)</p><p>参考资料：</p><p>(1) <a href='https://www.newschool.edu/tuition-fees-billing/current-tuition/' target='_blank'>Tuition and Fees</a></p><p>(2) <a href='https://www.newschool.edu/parsons/international-students/' target='_blank'>International Students</a></p><p>(3) <a href='https://www.newschool.edu/parsons/mfa-photography/?show=program-admission-requirements' target='_blank'>MFA Photography</a></p><p>(4) <a href='https://www.newschool.edu/parsons/admission-faq/' target='_blank'>FAQ</a></p><h3>纺织品艺术</h3><p><strong>基本信息：</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:18.9%">			<p>USNEWS排名</p>			</td>			<td style="width:15.1%">			<p>-</p>			</td>			<td style="width:13.82%">			<p>学费</p>			</td>			<td style="width:18.5%">			<p>$19, 203/学年</p>			</td>			<td style="width:18.68%">			<p>申请截止日期</p>			</td>			<td style="width:15.0%">			<p>1月2日</p>			</td>		</tr>		<tr>			<td style="width:18.9%">			<p>TOEFL要求</p>			</td>			<td style="width:15.1%">			<p>92</p>			</td>			<td style="width:13.82%">			<p>GPA要求</p>			</td>			<td style="width:18.5%">			<p>建议3.0以上</p>			</td>			<td style="width:18.68%">			<p>可申请学期</p>			</td>			<td style="width:15.0%">			<p>秋</p>			</td>		</tr>		<tr>			<td style="width:18.9%">			<p>IELTS要求</p>			</td>			<td style="width:15.1%">			<p>7</p>			</td>			<td style="width:13.82%">			<p>GRE要求</p>			</td>			<td style="width:18.5%">			<p>Required</p>			</td>			<td style="width:18.68%">			<p>工作经验要求</p>			</td>			<td style="width:15.0%">			<p>无</p>			</td>		</tr>	</tbody></table><p>*(1)(2)</p><p>注：</p><p>（1）2020USNEWS未有纺织品艺术对应专业排名</p><p>（2）上表针对的是2019-2020学年费用。需注意的是，该费用每年会有小幅（一般不超过5%）上涨</p><p>（3）该项目接受秋季入学申请，秋季入学申请截止日期为1月2日</p><p><strong>申请说明：</strong></p><p>新学校大学纺织品艺术硕士(MFA in Textile)，该项目为期2年，需要修读60个学分，要求申请人持有学士学位，无专业背景要求，无工作经验要求，需要递交GRE或GMAT成绩，均未设定最低分数要求*(3)(4)</p><p>参考资料：</p><p>(1) <a href='https://www.newschool.edu/tuition-fees-billing/current-tuition/' target='_blank'>Tuition and Fees</a></p><p>(2) <a href='https://www.newschool.edu/parsons/international-students/' target='_blank'>International Students</a></p><p>(3) <a href='https://www.newschool.edu/parsons/mfa-textiles/?show=program-admission-requirements' target='_blank'>MFA in Textile</a></p><p>(4) <a href='https://www.newschool.edu/parsons/admission-faq/' target='_blank'>FAQ</a></p><h3>城市实践理论</h3><p><strong>基本信息：</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:18.9%">			<p>USNEWS排名</p>			</td>			<td style="width:15.1%">			<p>-</p>			</td>			<td style="width:13.82%">			<p>学费</p>			</td>			<td style="width:18.5%">			<p>$19, 203/学年</p>			</td>			<td style="width:18.68%">			<p>申请截止日期</p>			</td>			<td style="width:15.0%">			<p>1月2日</p>			</td>		</tr>		<tr>			<td style="width:18.9%">			<p>TOEFL要求</p>			</td>			<td style="width:15.1%">			<p>92</p>			</td>			<td style="width:13.82%">			<p>GPA要求</p>			</td>			<td style="width:18.5%">			<p>建议3.0以上</p>			</td>			<td style="width:18.68%">			<p>可申请学期</p>			</td>			<td style="width:15.0%">			<p>秋</p>			</td>		</tr>		<tr>			<td style="width:18.9%">			<p>IELTS要求</p>			</td>			<td style="width:15.1%">			<p>7</p>			</td>			<td style="width:13.82%">			<p>GRE要求</p>			</td>			<td style="width:18.5%">			<p>Required</p>			</td>			<td style="width:18.68%">			<p>工作经验要求</p>			</td>			<td style="width:15.0%">			<p>有</p>			</td>		</tr>	</tbody></table><p>*(1)(2)</p><p>注：</p><p>（1）2020USNEWS未有城市实践理论对应专业排名</p><p>（2）上表针对的是2019-2020学年费用。需注意的是，该费用每年会有小幅（一般不超过5%）上涨</p><p>（3）该项目接受秋季入学申请，秋季入学申请截止日期为1月2日</p><p><strong>申请说明：</strong></p><p>新学校大学城市实践理论硕士(Master of Arts in Theories of Urban Practice)，该项目为期2年，需要修读36个学分，要求申请人持有学士学位，无专业背景要求，需要具有一定的工作经验，需要递交GRE或GMAT成绩，均未设定最低分数要求*(3)(4)</p><p>参考资料：</p><p>(1) <a href='https://www.newschool.edu/tuition-fees-billing/current-tuition/' target='_blank'>Tuition and Fees</a></p><p>(2) <a href='https://www.newschool.edu/parsons/international-students/' target='_blank'>International Students</a></p><p>(3) <a href='https://www.newschool.edu/parsons/ma-theories-urban-research/?show=program-admission-requirements' target='_blank'>Master of Arts in Theories of Urban Practice</a></p><p>(4) <a href='https://www.newschool.edu/parsons/admission-faq/' target='_blank'>FAQ</a></p><h3>战略设计与管理</h3><p><strong>基本信息：</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:18.9%">			<p>USNEWS排名</p>			</td>			<td style="width:15.1%">			<p>-</p>			</td>			<td style="width:13.82%">			<p>学费</p>			</td>			<td style="width:18.5%">			<p>$19, 203/学年</p>			</td>			<td style="width:18.68%">			<p>申请截止日期</p>			</td>			<td style="width:15.0%">			<p>1月2日</p>			</td>		</tr>		<tr>			<td style="width:18.9%">			<p>TOEFL要求</p>			</td>			<td style="width:15.1%">			<p>92</p>			</td>			<td style="width:13.82%">			<p>GPA要求</p>			</td>			<td style="width:18.5%">			<p>建议3.0以上</p>			</td>			<td style="width:18.68%">			<p>可申请学期</p>			</td>			<td style="width:15.0%">			<p>秋</p>			</td>		</tr>		<tr>			<td style="width:18.9%">			<p>IELTS要求</p>			</td>			<td style="width:15.1%">			<p>7</p>			</td>			<td style="width:13.82%">			<p>GRE要求</p>			</td>			<td style="width:18.5%">			<p>Required</p>			</td>			<td style="width:18.68%">			<p>工作经验要求</p>			</td>			<td style="width:15.0%">			<p>3-5年</p>			</td>		</tr>	</tbody></table><p>*(1)(2)</p><p>注：</p><p>（1）2020USNEWS未有战略设计与管理对应专业排名</p><p>（2）上表针对的是2019-2020学年费用。需注意的是，该费用每年会有小幅（一般不超过5%）上涨</p><p>（3）该项目接受秋季入学申请，秋季入学申请截止日期为1月2日</p><p><strong>申请说明：</strong></p><p>新学校大学战略设计与管理硕士(Global Executive Master of Science in Strategic Design and Management)，该项目为期18个月，需要修读36个学分，要求申请人持有学士学位，无专业背景要求，需要具有3-5年的工作经验，需要递交GRE或GMAT成绩，均未设定最低分数要求*(3)(4)</p><p>参考资料：</p><p>(1) <a href='https://www.newschool.edu/tuition-fees-billing/current-tuition/' target='_blank'>Tuition and Fees</a></p><p>(2) <a href='https://www.newschool.edu/parsons/international-students/' target='_blank'>International Students</a></p><p>(3) <a href='https://www.newschool.edu/parsons/masters-design-management-global-executive/' target='_blank'>Global Executive Master of Science in Strategic Design and Management</a></p><p>(4) <a href='https://www.newschool.edu/parsons/admission-faq/' target='_blank'>FAQ</a></p><h2>社会研究学院</h2><p><strong>专业设置</strong>：</p><p>社会研究学院研究生阶段开设有以下专业，分别是：</p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:190px">			<p><strong>专业名称</strong></p>			</td>			<td style="width:281px">			<p><strong>专业英文名</strong></p>			</td>			<td style="width:98px">			<p><strong>开设学位</strong></p>			</td>		</tr>		<tr>			<td style="width:190px">			<p>人类学</p>			</td>			<td style="width:281px">			<p>Anthropology</p>			</td>			<td style="width:98px">			<p>MA, PhD</p>			</td>		</tr>		<tr>			<td style="width:190px">			<p>创意出版与批判性新闻学</p>			</td>			<td style="width:281px">			<p>Creative Publishing and Critical Journalism</p>			</td>			<td style="width:98px">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:190px">			<p>经济学</p>			</td>			<td style="width:281px">			<p>Economics</p>			</td>			<td style="width:98px">			<p>MA, MS, PhD</p>			</td>		</tr>		<tr>			<td style="width:190px">			<p>全球政治经济与金融</p>			</td>			<td style="width:281px">			<p>Global Political Economy and Finance</p>			</td>			<td style="width:98px">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:190px">			<p>历史研究</p>			</td>			<td style="width:281px">			<p>Historical Studies</p>			</td>			<td style="width:98px">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:190px">			<p>人文研究</p>			</td>			<td style="width:281px">			<p>Liberal Studies</p>			</td>			<td style="width:98px">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:190px">			<p>哲学</p>			</td>			<td style="width:281px">			<p>Philosophy</p>			</td>			<td style="width:98px">			<p>MA, PhD</p>			</td>		</tr>		<tr>			<td style="width:190px">			<p>精神分析学</p>			</td>			<td style="width:281px">			<p>Psychoanalytic Studies</p>			</td>			<td style="width:98px">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:190px">			<p>政治学</p>			</td>			<td style="width:281px">			<p>Politics</p>			</td>			<td style="width:98px">			<p>MA, PhD</p>			</td>		</tr>		<tr>			<td style="width:190px">			<p>一般心理学</p>			</td>			<td style="width:281px">			<p>General Psychology</p>			</td>			<td style="width:98px">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:190px">			<p>物质滥用咨询</p>			</td>			<td style="width:281px">			<p>Substance Abuse Counseling</p>			</td>			<td style="width:98px">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:190px">			<p>临床心理学</p>			</td>			<td style="width:281px">			<p>Clinical Psychology</p>			</td>			<td style="width:98px">			<p>PhD</p>			</td>		</tr>		<tr>			<td style="width:190px">			<p>认知、社会与发展心理学</p>			</td>			<td style="width:281px">			<p>Cognitive, Social, and Developmental Psychology</p>			</td>			<td style="width:98px">			<p>PhD</p>			</td>		</tr>		<tr>			<td style="width:190px">			<p>社会学</p>			</td>			<td style="width:281px">			<p>Sociology</p>			</td>			<td style="width:98px">			<p>MA, PhD</p>			</td>		</tr>	</tbody></table><p>*(1)</p><p>参考资料：</p><p>(1) <a href='https://www.newschool.edu/nssr/' target='_blank'>The New School for Social Research</a></p><h2>公众参与学院</h2><p><strong>专业设置：</strong></p><p>新学校大学公众参与学院研究生阶段开设有以下专业，分别是：</p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:150px">			<p><strong>专业名称</strong></p>			</td>			<td style="width:302px">			<p><strong>专业英文名</strong></p>			</td>			<td style="width:117px">			<p><strong>开设学位</strong></p>			</td>		</tr>		<tr>			<td style="width:150px">			<p>创意写作</p>			</td>			<td style="width:302px">			<p>Creative Writing</p>			</td>			<td style="width:117px">			<p>MFA</p>			</td>		</tr>		<tr>			<td style="width:150px">			<p>外语教学</p>			</td>			<td style="width:302px">			<p>Teaching English to Speakers of Other Languages</p>			</td>			<td style="width:117px">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:150px">			<p>国际事务</p>			</td>			<td style="width:302px">			<p>International Affairs</p>			</td>			<td style="width:117px">			<p>MA, MS</p>			</td>		</tr>		<tr>			<td style="width:150px">			<p>环境政策与持续管理</p>			</td>			<td style="width:302px">			<p>Environmental Policy and Sustainability Management</p>			</td>			<td style="width:117px">			<p>MS</p>			</td>		</tr>		<tr>			<td style="width:150px">			<p>公共与城市政策</p>			</td>			<td style="width:302px">			<p>Public and Urban Policy</p>			</td>			<td style="width:117px">			<p>MS, PhD</p>			</td>		</tr>		<tr>			<td style="width:150px">			<p>媒体研究</p>			</td>			<td style="width:302px">			<p>Media Studies</p>			</td>			<td style="width:117px">			<p>MA</p>			</td>		</tr>		<tr>			<td style="width:150px">			<p>媒体管理</p>			</td>			<td style="width:302px">			<p>Media Management</p>			</td>			<td style="width:117px">			<p>MS</p>			</td>		</tr>	</tbody></table><p>*(1)(2)</p><p>参考资料：</p><p>(1) <a href='https://www.newschool.edu/public-engagement/' target='_blank'>Schools of Public Engagement</a></p><p>(2) <a href='https://www.newschool.edu/admission/prospective-graduate-students/apply-graduate/' target='_blank'>Graduate Programs</a></p><h2>表演艺术学院</h2><p><strong>专业设置：</strong></p><p>新学校大学表演艺术学院开设有以下研究生项目，分别是：</p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:284px">			<p><strong>专业名称</strong></p>			</td>			<td style="width:284px">			<p><strong>专业英文名</strong></p>			</td>		</tr>		<tr>			<td style="width:284px">			<p>乐器演奏硕士</p>			</td>			<td style="width:284px">			<p>Master of Music in Instrumental Performance</p>			</td>		</tr>		<tr>			<td style="width:284px">			<p>协作钢琴硕士</p>			</td>			<td style="width:284px">			<p>Master of Music in Collaborative Piano</p>			</td>		</tr>		<tr>			<td style="width:284px">			<p>作曲硕士</p>			</td>			<td style="width:284px">			<p>Master of Music in Composition</p>			</td>		</tr>		<tr>			<td style="width:284px">			<p>演奏指挥硕士</p>			</td>			<td style="width:284px">			<p>Masters of Music in Conducting</p>			</td>		</tr>		<tr>			<td style="width:284px">			<p>吉他硕士</p>			</td>			<td style="width:284px">			<p>Master of Music in Guitar</p>			</td>		</tr>		<tr>			<td style="width:284px">			<p>管弦乐器硕士</p>			</td>			<td style="width:284px">			<p>Master of Music in Orchestral Instruments</p>			</td>		</tr>		<tr>			<td style="width:284px">			<p>钢琴硕士</p>			</td>			<td style="width:284px">			<p>Master of Music in Piano</p>			</td>		</tr>		<tr>			<td style="width:284px">			<p>羽管键琴硕士</p>			</td>			<td style="width:284px">			<p>Master of Music in Harpsichord</p>			</td>		</tr>		<tr>			<td style="width:284px">			<p>音乐理论硕士</p>			</td>			<td style="width:284px">			<p>Master of Music in Theory</p>			</td>		</tr>		<tr>			<td style="width:284px">			<p>声乐硕士</p>			</td>			<td style="width:284px">			<p>Master of Music in Voice</p>			</td>		</tr>		<tr>			<td style="width:284px">			<p>美术学士-艺术管理与创业硕士（双学位项目）</p>			</td>			<td style="width:284px">			<p>BFA/MA in Arts Management and Entrepreneurship</p>			</td>		</tr>	</tbody></table><p>*(1)(2)</p><p>参考资料：</p><p>(1) <a href='https://www.newschool.edu/mannes/' target='_blank'>Mannes School of Music</a></p><p>(2) <a href='https://www.newschool.edu/jazz/bama/' target='_blank'>BFA/MA in Arts Management and Entrepreneurship</a></p><h2>帕森巴黎学院</h2><p><strong>专业设置：</strong></p><p>新学校大学帕森巴黎学院研究生阶段开设有以下专业，分别是：</p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:284px">			<p><strong>专业名称</strong></p>			</td>			<td style="width:284px">			<p><strong>专业英文名</strong></p>			</td>		</tr>		<tr>			<td style="width:284px">			<p>时尚研究硕士</p>			</td>			<td style="width:284px">			<p>Master of Arts in Fashion Studies&nbsp;</p>			</td>		</tr>		<tr>			<td style="width:284px">			<p>全球高级战略设计与管理硕士</p>			</td>			<td style="width:284px">			<p>Global Executive Master of Science in Strategic Design and Management</p>			</td>		</tr>	</tbody></table><p>*(1)</p><p>参考资料：</p><p>(1) <a href='https://www.newschool.edu/parsons-paris/academics/' target='_blank'>Academic of Parsons Paris</a></p></div>
+					
+	           </div>
+	           <div id="authorTrueName" style="float: right;"></div><br>
+				
+	           <div class="col-md-12">
+	           		<div id="cmt" style="position: relative;"><a name="comments" style="margin-top:150px;"></a>
+		           			<div id="lastEditTime" style="position: absolute;top: 18px;right: 10px;">2020-01-17</div>
+		           			<div style="position: absolute;top: 18px;right: 100px;">最后修改时间：</div>
+	           		</div>
+	           </div>
+			  </div>
+              </div>
+            </div>
+            <!-- /.row -->
+          </div>
+        </div>
+      </div>
+      <!-- /.row -->
+    </div>
+  </div>
+</div>
+
+
+<script type="text/javascript">
+	var ctx= '',uId='',vl='', wsip = 'ws://www.qianmu.org:8080/',ve='';
+	var vipendtime="";
+	var et='';
+	var b_name = navigator.appName; 
+	var b_version = navigator.appVersion; 
+	var version = b_version.split(";"); 
+	var trim_Version=version[1].replace(/[ ]/g,"");
+	if (b_name == "Microsoft Internet Explorer") { 
+
+	if (trim_Version == "MSIE7.0" || trim_Version == "MSIE6.0" ||trim_Version == "MSIE8.0") { 
+		alert("IE浏览器版本过低，请到指定网站去下载相关版本"); 
+	 		window.location.href="http://jiaoxueyun.com/download.jsp"; 
+		} 
+	} 
+</script>
+<script src="/r/plugins/bower_components/jquery/dist/jquery.min.js"></script>
+<script src="/r/release/js/all.js?v=1.2"></script>
+<script type='text/javascript'>
+    (function(m, ei, q, i, a, j, s) {
+        m[i] = m[i] || function() {
+            (m[i].a = m[i].a || []).push(arguments)
+        };
+        j = ei.createElement(q),
+            s = ei.getElementsByTagName(q)[0];
+        j.async = true;
+        j.charset = 'UTF-8';
+        j.src = 'https://static.meiqia.com/dist/meiqia.js?_=t';
+        s.parentNode.insertBefore(j, s);
+    })(window, document, 'script', '_MEIQIA');
+    _MEIQIA('entId', 99735);
+</script>
+ 
+ 
+<script type="text/javascript">
+function inadd(){
+	 var incontent = $("#intext").val();
+	 var inpid = $("#inpid").val();
+	 var itemId=1416;
+	 
+	 $.ajax({
+			url:ctx+"/addComment",
+			data:{itemId:itemId,content:incontent,type:'item',pid:inpid},
+			dataType:"json",
+			type:"post",
+			success:function(resp){
+				if(resp.success){
+					$("#pl").val(resp.msg);
+					location.reload();
+				}else{
+					if("needlogin"==resp.status){
+						$.fn.loginShow();
+					}else{
+						$.fn.notify("温馨提示",resp.msg);
+					}
+				}
+			}
+		});
+}
+
+var itemId = '1416' ;
+var editLevel  = '';
+if(itemId==''){
+	itemId=2006;
+}
+var needlogin = '1';
+	var needFill = '0';
+ 	var ads = '';  
+var needpay = '0';
+var vipnotice = '' ;
+if(vl=='0'){
+	
+}
+$(document).ready(function(){
+	if(needlogin=='1'){
+		location.href = "/loginView";
+	}
+	console.log(vipnotice);
+	if(uId!=''&&vipnotice>0&&vipnotice<3){
+		 swal({   
+	           title: "您的VIP即将到期",   
+	           text: "到期时间"+vipendtime,   
+	           type: "warning",   
+	           showCancelButton: true,   
+	           confirmButtonColor: "#DD6B55",   
+	           confirmButtonText: "购买VIP", 
+	           cancelButtonText:'我知道了',
+	           closeOnConfirm: true 
+	       }, function(){   
+	           location.href=ctx+"/zone/vippay2?vipRange=12";
+	       });
+	}
+	  
+	  /* if(ads=='0'){
+			var fillContent = new Ads({
+				closeClick:true,
+				render : function() {
+					return $.ajax({
+						url : ctx + "/getAds",
+						async : false,
+						dataType : 'text'
+					}).responseText;
+				}
+			});
+			fillContent.show();
+			$(document).scroll(function() {
+				fillContent.reposition();
+			});
+		}  */
+});
+</script>
+<script type="text/javascript">
+//反馈纠错
+$(document).ready(function(){
+	//$.fn.addCmt();
+	var itemId=1416;
+  	$("#cmt").comments({
+  		url:ctx+'/listComment',
+  		param:{itemId:itemId,type:'item'},
+  		total:"commentCount",
+  		submit:function(opts){
+  			var content = opts.content;
+  			var pid = opts.pid;
+  			if(content==""&&content.trim()==""){
+  				$.fn.notify("温馨提示","请输入评论内容");
+  				return ;
+  			}
+  			$.ajax({
+  				url:ctx+"/addComment",
+  				data:{itemId:itemId,content:content,type:'item',pid:pid},
+  				dataType:"json",
+  				type:"post",
+  				success:function(resp){
+  					if(resp.success){
+  						location.reload();
+  					}else{
+  						if("needlogin"==resp.status){
+  							$.fn.loginShow();
+  						}else{
+  							$.fn.notify("温馨提示",resp.msg);
+  						}
+  					}
+  				}
+  			});
+  		}
+  	});
+});
+
+</script>
+<script type="text/javascript" src="/static/standard/ckeditor/ckeditor.js"></script>
+<script src="/static/standard/ckeditor/adapters/jquery.js"></script> 
+<script src="/r/plugins/bower_components/bootstrap-treeview-master/dist/bootstrap-treeview.min.js"></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/js/wiki.js?v=1.2"></script>
+</body>
+</html>

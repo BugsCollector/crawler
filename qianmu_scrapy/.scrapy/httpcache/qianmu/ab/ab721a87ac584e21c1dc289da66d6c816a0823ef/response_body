@@ -1,0 +1,433 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>太平洋大学（加利福尼亚）-迁木网</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="keywords"  content="太平洋大学（加利福尼亚）" />
+<meta name="description"  id="description"  content="太平洋大学（加利福尼亚）:太平洋大学（University of the Pacific，缩写UOP）是一所位于美国加利福尼亚州斯托克顿市的私立研究型大学，1857年7月10日成立于圣克拉拉市（Santa Clara），名为加州卫斯理学院（California Wesleyan College），随后迁至圣乔瑟市（San Jose），再迁至斯托克顿市。" />
+
+<link rel="stylesheet" type="text/css" href="/r/release/css/all.min.css?v=1.2">
+<!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+<link rel="icon" type="image/png" sizes="16x16" href="/r/plugins/images/logo.ico"> 
+
+
+<style>
+#tree>ul>li{font-size:15px;}
+.container-fluid{padding-left:0px;}
+</style>
+</head>
+<body class="fix-header fix-sidebar"> 
+<script type="text/javascript">
+document.body.oncopy = function () { 
+ setTimeout( function () { 
+	 if(document.all){ 
+		 var text = clipboardData.getData("text");
+		  if (text) { 
+		   text = text + "\r\n文章来自: 迁木网(http://www.qianmu.org)  详文参考："+location.href; 
+		   clipboardData.setData("text", text);
+		  } 
+		}else{ 
+		 }
+    }, 100 ) 
+}
+
+</script>
+	 <div class="preloader">
+  	<div class="cssload-speeding-wheel"></div>
+    </div>
+<div id="wrapper">
+   
+<nav class="navbar navbar-default navbar-static-top m-b-0">
+	<div class="navbar-header">
+		<a class="navbar-toggle hidden-sm hidden-md hidden-lg "
+			href="javascript:void(0)" data-toggle="collapse"
+			data-target=".navbar-collapse"><i class="ti-menu"></i></a>
+		<div class="top-left-part">
+			<a class="logo" href="/"><b> <img
+					src="/r/plugins/images/lo.png" alt="迁木网" title="迁木网"
+					class="dark-logo" style="padding:10px;" /><img
+					src="/r/plugins/images/lo.png" title="迁木网" alt="迁木网"
+					class="light-logo" style="padding:10px;" /></b> <span class="hidden-xs"><img
+					src="/r/plugins/images/logo22.png" title="迁木网" alt="迁木网"
+					class="dark-logo" /><img src="/r/plugins/images/logo22.png"
+					title="迁木网" alt="迁木网" class="light-logo" /></span></a>
+		</div>
+		<ul class="nav navbar-top-links navbar-left hidden-xs">
+			<li><a href="javascript:void(0)"
+				class="open-close hidden-xs waves-effect waves-light"><i
+					class="icon-arrow-left-circle ti-menu"></i></a></li>
+			<li  >
+				<form role="search" class="app-search hidden-xs" action="/q"
+					method="get">
+					<input type="text" placeholder="学校、问题搜一下..." q class="form-control"
+						name="title" style="min-width:300px;"> <a href="#"><i
+						class="fa fa-search search"></i></a>
+				</form>
+			</li>
+			<li >
+				<a   href="/mall" ><i class="fa fa-shopping-cart"></i>&nbsp;留学商城</a>
+			</li>
+		</ul>
+		<ul class="nav navbar-top-links navbar-right pull-right">
+			<li pub>
+				<a id="navfb" href="javascript:void(0)" >发帖</a>
+			</li>
+			
+			
+			
+			<li class="dropdown" chat><a  href="/chat?tid=38"><i class="ti-email"></i></a>
+			</li>
+			<li class="dropdown hide" msg><a
+				class="dropdown-toggle waves-effect waves-light"
+				data-toggle="dropdown" href="#"><i class="icon-volume-2"></i>
+					<div class="notify"></div> </a>
+				<ul
+					class="dropdown-menu dropdown-cart dropdown-tasks animated bounceInDown">
+					<li><a class="text-center" href="/forum"><strong>查看全部</strong>
+							<i class="fa fa-angle-right"></i> </a></li>
+				</ul></li>
+			<li class="dropdown" userArea></li>
+			<li class="right-side-toggle"><a
+				class="waves-effect waves-light" href="javascript:void(0)"><i
+					class="ti-settings"></i></a></li>
+		</ul>
+	</div>
+</nav>
+
+<div id="myModalnav" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+		<div class="modal-dialog" style="width: 700px">
+			<div class="modal-content" style="margin-top: 100px;">
+				<div class="modal-body modal-body-alert" >
+						<div class="row" >
+			        		<div class="row"  style="text-align: center;margin-left: 5%;width: 89%;height: 60px;" >
+			        			<div style="text-align: center;"><h1 class="news-title"><a href="/addForumView" class="btn btn-block btn-info" style="font-size: 25px;" target="_blank">发表主题</a></h1></div>
+			        		</div>
+							<div class="row" style="text-align: center;margin-left: 5%;width: 89%;margin-top:10px;">
+									<ul class="bs-glyphicons">
+										<li style="width: 33%">
+										<a href="/estimate" target="_blank"><span class="glyphicon glyphicon-paperclip " aria-hidden="true"></span>
+											<span class="glyphicon-class">求定位</span></a></li>
+										<li style="width: 33%"><a href="/addOffer" target="_blank"><span class="glyphicon glyphicon-leaf" aria-hidden="true"></span> <span class="glyphicon-class">报Offer</span>
+										</a>
+										</li>
+										<li style="width: 33%"><a href="/chat?tid=38" target="_blank"><span class="glyphicon glyphicon-font" aria-hidden="true"></span> <span class="glyphicon-class">咨询版主</span>
+										</a>
+										</li>
+									</ul>
+							</div>
+			        	</div>
+				</div>
+			</div>
+		</div>
+</div> 
+   
+<div class="navbar-default sidebar" role="navigation">
+    <div class="sidebar-nav navbar-collapse slimscrollsidebar">
+      <ul class="nav" id="side-menu">
+        <li class="m-t-10"><a href="/forum" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="-"></i> <span class="hide-menu">互动 <span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+            <li><a href="/forum" class="">在线论坛</a></li>
+            <li><a href="/forum?type=2" class="">Offer榜</a></li>
+            <li><a href="/askshow" class="">小秘回复墙</a></li>
+            
+          </ul>
+        </li>
+        <li><a href="/ranking/1528.htm" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="+"></i> <span class="hide-menu">排名 <span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+            <li><a href="/ranking/1528.htm">QS世界排名</a></li>
+            <li><a href="/ranking/905.htm">USNEWS排名</a></li>
+            <li><a href="/ranking/1209.htm">PayScale工资排名</a></li>
+            <li><a href="/ranking/904.htm">上交大排名</a></li>
+          </ul>
+        </li>
+        <li><a href="/美国本科研究生选校" class="waves-effect"><i class="linea-icon linea-basic fa-fw" data-icon=">"></i> <span class="hide-menu">选校<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level collapse in">
+            <li><a href="/美国本科研究生选校">选校</a></li>
+            <li><a href="/offer">案例库</a></li>
+          </ul>
+        </li>
+        <li><a href="/分类索引" class="waves-effect active"><i class="linea-icon linea-basic fa-fw" data-icon="m"></i> <span class="hide-menu">词条<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level collapse in">
+            <li><a href="/分类索引">百科</a></li>
+            <li><a href="http://www.qianmu.org/%E7%B2%BE%E5%8D%8E%E6%94%BB%E7%95%A5%E7%B4%A2%E5%BC%95">精华索引</a></li>
+            <li><a href="/留学中介机构列表">中介</a></li>
+            <li><a href="/下载中心">下载中心</a></li>
+          </ul>
+        </li>
+        <li><a href="/mall" class="waves-effect" ><i class="linea-icon linea-basic fa-fw" data-icon="V"></i> <span class="hide-menu">商城<span class="fa arrow"></span></span></a>
+          <ul class="nav nav-second-level ">
+          	 <li><a href="/mall?c=1">美国申请</a></li>
+          	 <li><a href="/mall?c=2">英国留学</a></li>
+             <li><a href="/mall?c=8">文书服务</a></li>
+          </ul>
+        </li>
+		 <li style="display:none;"><a href="/article" class="waves-effect "><i class="linea-icon linea-basic fa-fw" data-icon="a"></i><span class="hide-menu">新闻<span class="fa arrow"></span></span></a>
+				<ul class="nav nav-second-level   ">
+					<li><a href="/article">资讯</a></li>
+				</ul></li>
+			<li class="nav-small-cap m-t-10" style="text-align:center;border-bottom: 1px solid #ddd;"></li>
+			
+      </ul>
+    </div>
+  </div> 
+   <div class="right-sidebar">
+        <div class="slimscrollright">
+          <div class="rpanel-title">个性化设置<span><i class="ti-close right-side-toggle"></i></span> </div>
+          <div class="r-panel-body">
+            <ul>
+              <li><b>显示设置</b></li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkbox1" type="checkbox" class="fxhdr">
+                  <label for="checkbox1">固定头部导航</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-warning">
+                  <input id="checkbox2" type="checkbox" checked="" class="fxsdr">
+                  <label for="checkbox2" >固定左侧导航</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-success">
+                  <input id="checkbox4" type="checkbox" class="open-close">
+                  <label for="checkbox4" >切换工具栏目</label>
+                </div>
+              </li>
+            </ul>
+            <ul>
+              <li><b>消息设置</b></li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkboxmsg" type="checkbox" class="fxhdr">
+                  <label for="checkboxmsg">不接受网页通知</label>
+                </div>
+              </li>
+              <li>
+                <div class="checkbox checkbox-info">
+                  <input id="checkboxmail" type="checkbox" class="fxhdr">
+                  <label for="checkboxmail">不接受邮件通知</label>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="share-tools" >
+         <ul>
+         	<li style="font-size: 14px;" id="fk"><a  href="#comments">评论反馈</a></li>
+         	<li id="sharebtn" style="font-size: 14px;padding-left: 12px;" ><a href="javascript:" >我要分享</a></a>
+	         	<ul style="display:none; height:50px;position: absolute;width:180px;right:50px;margin-top:-45px;" id="sharelist" >
+	               <li style="padding-left: 15px;" class="inli"><a href="javascript:shareToWB();" title="分享至微博" >微博</a></li>
+	               <li style="padding-left: 15px;" class="weixin-icon inli"><a href="javascript:" title="分享至微信" >微信</a></li>
+	               <li class="inli" ><a href="javascript:shareToQQ();"  title="分享至QQ空间">QQ空间</a></li>
+	            </ul>
+         	</li>
+         	<li class="back_top" id="back-to-top" style="display: none;" ></li>
+         </ul>
+	 </div>
+ 
+   <div id="page-wrapper">
+   <div class="container-fluid">
+      <!-- row -->
+      <div class="row">
+        <!-- Left sidebar -->
+        <div class="col-md-12">
+          <div class="white-box" style="padding-left:0px;">
+            <!-- row -->
+            <div class="row">
+              <div class="col-lg-2 col-md-3  col-sm-12 col-xs-12 " style="overflow:auto;min-height:30px;display:block;" >
+                <div class='treeDiv'>
+                <div id="treeDiv" ><ul id="tree" class="ztree"></ul></div>
+                </div>
+              </div>
+              
+              <div style="" class="col-lg-10 col-md-9 col-sm-12 col-xs-12 mail_listing">
+               <div class="row" >
+		     <input type="hidden" id="type"/>
+			   <div class="wikiContent" id="wikiContent"  >
+			        <h1 class="wikiTitle">太平洋大学（加利福尼亚） </h1> 
+					<div class="infobox"><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:130px">			<p>排名</p>			</td>			<td style="width:293px">			<p>125*(4)</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>国家</p>			</td>			<td style="width:293px">			<p>美国</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>州省</p>			</td>			<td style="width:293px">			<p>加州</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>城市</p>			</td>			<td style="width:293px">			<p>斯托克顿</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>昵称</p>			</td>			<td style="width:293px">			<p>老虎*(2)</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>性质</p>			</td>			<td style="width:293px">			<p>私立，男女合校</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>成立年份</p>			</td>			<td style="width:293px">			<p>1851</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>宗教信仰</p>			</td>			<td style="width:293px">			<p>无</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>校园</p>			</td>			<td style="width:293px">			<p>0.71Km<sup>2</sup>，市区*(2)</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>学生人数</p>			</td>			<td style="width:293px">			<p>6,304</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>本科生人数</p>			</td>			<td style="width:293px">			<p>3,810*(3)</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>研究生人数</p>			</td>			<td style="width:293px">			<p>2,494*(3)</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>师生比</p>			</td>			<td style="width:293px">			<p>1:14*(5)</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>国际学生比例</p>			</td>			<td style="width:293px">			<p>6%*(5)</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>学校分类</p>			</td>			<td style="width:293px">			<p><a href="http://www.qianmu.org/全国性大学" target="_blank">全国性大学</a></p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>学校集团</p>			</td>			<td style="width:293px">			<p><a href="http://www.qianmu.org/美国大学生体育协会" target="_blank">美国大学生体育协会</a>（NCAA）*(2)</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>认证机构</p>			</td>			<td style="width:293px">			<p>西部院校协会（WASC）*(6)</p>			</td>		</tr>		<tr>			<td style="width:130px">			<p>网址</p>			</td>			<td style="width:293px">			<p>www.pacific.edu*(6)</p>			</td>		</tr>	</tbody></table></div>
+					<div id="content"><p><a href="http://www.qianmu.org/太平洋大学" target="_blank">太平洋大学</a>（University of the Pacific，缩写UOP）是一所位于美国<a href="http://www.qianmu.org/加利福尼亚州" target="_blank">加利福尼亚州</a>斯托克顿市的私立研究型大学，1857年7月10日成立于圣克拉拉市（Santa Clara），名为加州卫斯理学院（California Wesleyan College），随后迁至圣乔瑟市（San Jose），再迁至斯托克顿市。</p><p>注意与美国<a href="http://www.qianmu.org/俄勒冈州" target="_blank">俄勒冈州</a>的太平洋大学（Pacific University）区分，二者的英文名不同，但中文<a href="http://www.qianmu.org/翻译" target="_blank">翻译</a>完全相同。俄勒冈州的太平洋大学被USNEWS归类为西部<a href="http://www.qianmu.org/地方性大学" target="_blank">地方性大学</a>；而加州的太平洋大学则被归为综合性大学（<a href="http://www.qianmu.org/全国性大学" target="_blank">National University</a>）。</p><p>太平洋大学是加州最古老的大学。除<a href="http://www.qianmu.org/文理学院" target="_blank">文理学院</a>外，它包含的学院还有：<a href="http://www.qianmu.org/教育学" target="_blank">教育学</a>院、工程学院、商学院、国际研究学院及<a href="http://www.qianmu.org/音乐" target="_blank">音乐</a>学院。同时还设有三所专业学院，分别是位于<a href="http://www.qianmu.org/旧金山" target="_blank">旧金山</a>的<a href="http://www.qianmu.org/牙医学" target="_blank">牙医学</a>院、位于萨克拉门托的<a href="http://www.qianmu.org/法学" target="_blank">法学</a>院和位于斯托克顿的<a href="http://www.qianmu.org/药学" target="_blank">药学</a>与<a href="http://www.qianmu.org/健康科学" target="_blank">健康科学</a>学院。</p><p><strong>校园环境</strong></p><p>校园尖塔、玫瑰花园、满是雕文的廊柱、古老砖面覆盖的建筑、茂密的树林，这是太平洋大学斯托克顿主校园的典型的风景元素，充满着古老<a href="http://www.qianmu.org/常春藤盟校" target="_blank">常春藤盟校</a>的气息，经常被用作好莱坞电影拍摄的场景，如：夺宝奇兵、夺宝奇兵4：水晶头骨、犯贱情人、校园怪谭等。1973年迪斯尼动画&ldquo;全能运动员（The World&#39;s Greatest Athlete）&rdquo;也同样取景。</p><p>斯托克顿校园拥有三座学生宿舍大楼：格雷斯&middot;科维尔堂（Grace Covell Hall）、西南堂（Southwest Hall）、四合堂（Quad Buildings）。其中四合堂是由聚集在一块的小型宿舍楼群组成的，格雷斯&middot;科维尔堂则是其中可容纳最多学生的宿舍&mdash;&mdash;可容纳350名学生入住。太平洋大学大一、大二学生可以选择住校，高年级的学生可以选择在校内租房。</p><p>太平洋大学另有两个校区分别位于旧金山和萨克拉门托，前者是其法学院的所在地，后者是其<a href="http://www.qianmu.org/牙医" target="_blank">牙医</a>学院的所在地。*(1)(2)</p><h2><strong>申请点评</strong></h2><p>太平洋大学所在的斯托克顿市位于北加州，离加州首府萨克拉门托不远，是加州中部峡谷地区第四大城市，通讯业和制造业最为发达。</p><p>强势专业主要包括商学、<a href="http://www.qianmu.org/平面设计" target="_blank">平面设计</a>、工程学、音乐、自然科学，尤以音乐学为最强。</p><p>好评项：</p><p>1.The Drug scene at Pacific isn&#39;t very prevalent.</p><p>2.It&#39;s a great small community and there&#39;s a lot to do for such a small campus!</p><p>3.Nightlife is limited due to age (ex: 21) and only areas near the school campus are safe during the night.</p><p>4.There isn&#39;t a large amount of students at this school.</p><p>5.Pacific has a decent amount of diversity.</p><p>6.The local atmosphere is okay.</p><p>7.There is always police officers who are looking out for students.</p><p>8.There is a wide variety of professors.</p><p>9.Around the university there are a lot of restaurants and stores that can entertain students on the weekend.</p><p>10.Campus social life is pretty big.</p><p>差评项：</p><p>1.The dining hall don&#39;t change up the menu on a daily basis.</p><p>2.The weather is bipolar especially during the Fall and Winter seasons.</p><p>3.Parking.</p><p>4.The financial aid office is incredibly awful.</p><p>5.Nighty life.</p><p>6.Stockton is a bad area.*(3)</p><p>参考资料：</p><p>(1)&nbsp;<a href="http://www.qianmu.org/redirect?code=DroIGDONLT8196sg61hU4LqmMcmj3lqarV_ZkpmM-sNcUiEKSwD_fJk4_Ia0JQlkSdMSWfWZQujXaKZt-D71Mra_sFVaRargJ1cIixva0JLiQ_VW-ONH2" target="_blank">Stockton, California</a> Wikipedia</p><p>(2)&nbsp;<a href="http://www.qianmu.org/redirect?code=6ri8verIw0DYWljtxxaGYoO9jjC-rv3dRMfQbs1yFwbhfF-G6hgFhEuYfn1TMNf0LsKBGVRgJMAiz3-kVF2_Zhgj0MDUUOhte0nu2UR1T-CPuLRFBDJ0_-PMSBuQa3pG5rBGi2scMCDzPolk9t2X1PS-TRV2yFp5llBDH7f5H" target="_blank">University of the Pacific (United States)</a> Wikipedia</p><p>(3)&nbsp;<a href="http://www.qianmu.org/redirect?code=erlnE6yyLx29RS6tjjjjjjZgqwZfrpl1NSlaA3WcNoQ1PEIDNkW1PS6aeHNyehgOW2V-G2zp8BYmoWEax-kRgHbh3-oitWg" target="_blank">University of the Pacific Reviews</a> College Prowler</p><p>(4)&nbsp;<a href="http://www.qianmu.org/redirect?code=xrVOpgSIw0DYWlP_rKQW83dcLSsRNi_fvVk1DogGznduGoPanF3BOK-3gaFnSOpmPnzO4lnKyzDI1h4UBjF7dF_SncWr-3f8pDNnd5U1hTOxRE-ffoPwr2HwGhIo2sI6dOdKD2Jjo27OslL3xze8d6xUNwoGPffpI1jOXPB8EyQiEqrOmr3NtRBbBukLzhEU1hW-DI" target="_blank">National University Rankings</a> USNEWS</p><p>(5)&nbsp;<a href="http://www.qianmu.org/redirect?code=Trq48pSVLQjzhvnqDDDDD7auah5mwno2090964kRI-CEGpr2GyF9eiAYoqkZp-FZSd63QuyLoGw5pC2LPu2VoiArguFZoCM9h8V0e-KYzFV5xcDot-Dxecdi" target="_blank">Pacific At A Glance</a> University of the Pacific</p><p>(6)&nbsp;<a href="http://www.qianmu.org/redirect?code=UrsQlJ0ekvECxL13uuuuuq67QYreQjNExcv76TUTaYfeUZdCLcFoBhMV6KzCaKWEUcxVxcAoL-FV6TyyqglwIgzy_tG38moj_Bl1_iG6qQlwIgunJ4vCNX2_Ve3sVXHjJmwQjs3JB8Rz" target="_blank">University of the Pacific</a> College Board</p><p>&nbsp;</p><h1>本科申请</h1><p><strong>基本信息：</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:21.22%">			<p><a href="http://www.qianmu.org/USNEWS排名" target="_blank">USNEWS排名</a></p>			</td>			<td style="width:13.3%">			<p>125</p>			</td>			<td style="width:17.16%">			<p>学费(/年)</p>			</td>			<td style="width:12.96%">			<p>$42,934</p>			</td>			<td style="width:21.5%">			<p>申请截止日期</p>			</td>			<td style="width:13.82%">			<p>滚动录取</p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p><a href="http://www.qianmu.org/TOEFL" target="_blank">TOEFL</a>要求</p>			</td>			<td style="width:13.3%">			<p>61</p>			</td>			<td style="width:17.16%">			<p>食宿(/年)</p>			</td>			<td style="width:12.96%">			<p>$12,858</p>			</td>			<td style="width:21.5%">			<p>开学时间</p>			</td>			<td style="width:13.82%">			<p>8月-9月</p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p><a href="http://www.qianmu.org/IELTS" target="_blank">IELTS</a>要求</p>			</td>			<td style="width:13.3%">			<p>5.5</p>			</td>			<td style="width:17.16%">			<p>申请费</p>			</td>			<td style="width:12.96%">			<p>$60</p>			</td>			<td style="width:21.5%">			<p>可申请学期</p>			</td>			<td style="width:13.82%">			<p>秋季、春季</p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p><a href="http://www.qianmu.org/SAT" target="_blank">SAT</a>均分</p>			</td>			<td style="width:13.3%">			<p>1110-1380(1600)</p>			</td>			<td style="width:17.16%">			<p>录取率</p>			</td>			<td style="width:12.96%">			<p>54.9%</p>			</td>			<td style="width:21.5%">			<p>奖学金形式</p>			</td>			<td style="width:13.82%">			<p>Merit-based</p>			</td>		</tr>		<tr>			<td style="width:21.22%">			<p>平均<a href="http://www.qianmu.org/GPA" target="_blank">GPA</a></p>			</td>			<td style="width:13.3%">			<p>3.5</p>			</td>			<td style="width:17.16%">			<p>申请人数</p>			</td>			<td style="width:12.96%">			<p>15,183</p>			</td>			<td style="width:21.5%">			<p>是否提供<a href="http://www.qianmu.org/双录取" target="_blank">双录取</a></p>			</td>			<td style="width:13.82%">			<p>No</p>			</td>		</tr>	</tbody></table><p>*(1)(2)(3)(4)(5)(6)</p><p>注：</p><p>(1)太平洋大学在春季和秋季学期皆可申请并提供<a href="http://www.qianmu.org/Early Action" target="_blank">EA</a>申请方式，申请截止日期是11月15日。具体申请日期参照&ldquo;申请日期说明&rdquo;。</p><p>(2) 太平洋大学语言成绩要求分两种情况：一般录取和工程专业录取。一般录取要求TOEFL成绩最低61分，IELTS成绩最低5.5；工程专业要求申请者TOEFL最低需达到79分，IELTS最低6.0。College Board的说法为TOEFL均分不低于52分</p><p>(3)SAT综合成绩要求不低于1590，单项阅读成绩不低于510分，单项<a href="http://www.qianmu.org/数学" target="_blank">数学</a>成绩不低于550，单项写作成绩不低于520分；<a href="http://www.qianmu.org/ACT" target="_blank">ACT</a>综合成绩要求不低于22分，单项阅读不低于23分，单项数学不低于24分。</p><h2>教学质量</h2><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:19.68%">			<p>本科生人数</p>			</td>			<td style="width:9.28%">			<p>3,810</p>			</td>			<td style="width:22.32%">			<p>小班比例(&lt;20)</p>			</td>			<td style="width:9.86%">			<p>56.1%</p>			</td>			<td style="width:25.3%">			<p><a href="http://www.qianmu.org/学期制度" target="_blank">学期制度</a></p>			</td>			<td style="width:13.56%">			<p>Semseter</p>			</td>		</tr>		<tr>			<td style="width:19.68%">			<p>研究生人数</p>			</td>			<td style="width:9.28%">			<p>2,494</p>			</td>			<td style="width:22.32%">			<p>中班比例(20-49)</p>			</td>			<td style="width:9.86%">			<p>39.3%</p>			</td>			<td style="width:25.3%">			<p>教授水平满意度</p>			</td>			<td style="width:13.56%">			<p>97%</p>			</td>		</tr>		<tr>			<td style="width:19.68%">			<p>国际学生比例</p>			</td>			<td style="width:9.28%">			<p>6%</p>			</td>			<td style="width:22.32%">			<p>大班比例(&gt;50)</p>			</td>			<td style="width:9.86%">			<p>4.6%</p>			</td>			<td style="width:25.3%">			<p>就业实习满意度</p>			</td>			<td style="width:13.56%">			<p>69%</p>			</td>		</tr>		<tr>			<td style="width:19.68%">			<p>师生比</p>			</td>			<td style="width:9.28%">			<p>1:14</p>			</td>			<td style="width:22.32%">			<p>六年毕业率</p>			</td>			<td style="width:9.86%">			<p>67%</p>			</td>			<td style="width:25.3%">			<p>学生满意度</p>			</td>			<td style="width:13.56%">			<p>-</p>			</td>		</tr>		<tr>			<td style="width:19.68%">			<p>四年毕业率</p>			</td>			<td style="width:9.28%">			<p>44%</p>			</td>			<td style="width:22.32%">			<p>新生保持率</p>			</td>			<td style="width:9.86%">			<p>86%</p>			</td>			<td style="width:25.3%">			<p>教师博士学位比例</p>			</td>			<td style="width:13.56%">			<p>92%</p>			</td>		</tr>		<tr>			<td style="width:19.68%">毕业2年平均薪水</td>			<td style="width:9.28%">$52,300</td>			<td style="width:22.32%">就业率</td>			<td style="width:9.86%">61%</td>			<td style="width:25.3%">校友网络认可度</td>			<td style="width:13.56%">90%</td>		</tr>	</tbody></table><p>*(7)(8)(9)</p><p>注：太平洋大学平均班级大小20名学生。</p><p><strong>校园安全</strong></p><table border="0" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:143px">校园安全事件</td>			<td style="width:403px">Criminal Offenses -- On-Campus&nbsp;</td>			<td style="width:103px">2012</td>			<td style="width:100px">2013</td>			<td style="width:97px">2014</td>		</tr>		<tr>			<td>谋杀</td>			<td>Murder/Non-negligent manslaughter</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>过失杀人</td>			<td>Negligent manslaughter</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>强奸</td>			<td>Rape</td>			<td>			<p>N/A</p>			</td>			<td>			<p>N/A</p>			</td>			<td>			<p>5</p>			</td>		</tr>		<tr>			<td>乱伦</td>			<td>Incest</td>			<td>			<p>N/A</p>			</td>			<td>			<p>N/A</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>强奸幼童罪</td>			<td>Statutory Rape</td>			<td>			<p>N/A</p>			</td>			<td>			<p>N/A</p>			</td>			<td>			<p>0</p>			</td>		</tr>		<tr>			<td>猥亵</td>			<td>Fondling</td>			<td>			<p>N/A</p>			</td>			<td>			<p>N/A</p>			</td>			<td>			<p>2</p>			</td>		</tr>		<tr>			<td>性侵犯-强迫</td>			<td>Sex offenses - Forcible</td>			<td>			<p>4</p>			</td>			<td>			<p>7</p>			</td>			<td>			<p>N/A</p>			</td>		</tr>		<tr>			<td>性侵犯-非强迫</td>			<td>Sex offenses - non-forcible (incest and statutory rape only)</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>N/A</p>			</td>		</tr>		<tr>			<td>抢劫</td>			<td>Robbery</td>			<td>			<p>2</p>			</td>			<td>			<p>1</p>			</td>			<td>			<p>3</p>			</td>		</tr>		<tr>			<td>暴力袭击</td>			<td>Aggravated assault</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>1</p>			</td>		</tr>		<tr>			<td>盗窃</td>			<td>Burglary</td>			<td>			<p>26</p>			</td>			<td>			<p>10</p>			</td>			<td>			<p>10</p>			</td>		</tr>		<tr>			<td>汽车盗窃</td>			<td>Motor vehicle theft</td>			<td>			<p>10</p>			</td>			<td>			<p>2</p>			</td>			<td>			<p>3</p>			</td>		</tr>		<tr>			<td>纵火</td>			<td>Arson</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>			<td>			<p>0</p>			</td>		</tr>	</tbody></table><p>*(1)</p><h2>申请说明</h2><p>太平洋大学本科招生人数约3,800名学生。其中，平均GPA约3.54。国际学生占总录取人数的5%。男生录取比例大概53%，女生录取比例约47%。</p><p><strong>申请日期说明</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td colspan="2" style="width:100.0%">			<p><strong>2014</strong><strong>年春季学期申请日期</strong></p>			</td>		</tr>		<tr>			<td style="width:47.3%">			<p>9月1日</p>			</td>			<td style="width:52.7%">			<p>牙医专业转学申请截止日期</p>			</td>		</tr>		<tr>			<td style="width:47.3%">			<p>11月15日</p>			</td>			<td style="width:52.7%">			<p>新生与转学生申请截止日期</p>			</td>		</tr>		<tr>			<td style="width:47.3%">			<p>12月1日</p>			</td>			<td style="width:52.7%">			<p>重复申请（Re-admit）截止日期</p>			</td>		</tr>		<tr>			<td colspan="2" style="width:100.0%">			<p><strong>2014</strong><strong>年秋季学期申请日期</strong></p>			</td>		</tr>		<tr>			<td style="width:47.3%">			<p>8月1日</p>			</td>			<td style="width:52.7%">			<p>Common Application开放日期</p>			</td>		</tr>		<tr>			<td style="width:47.3%">			<p>9月9日</p>			</td>			<td style="width:52.7%">			<p>太平洋大学校内申请开放日期</p>			</td>		</tr>		<tr>			<td style="width:47.3%">			<p>9月16日</p>			</td>			<td style="width:52.7%">			<p><a href="http://www.qianmu.org/奖学金" target="_blank">奖学金</a>申请开始日期</p>			</td>		</tr>		<tr>			<td style="width:47.3%">			<p>11月15日</p>			</td>			<td style="width:52.7%">			<p>EA申请截止日期</p>			</td>		</tr>		<tr>			<td style="width:47.3%">			<p>11月15日</p>			</td>			<td style="width:52.7%">			<p>药学预科申请截止日期</p>			</td>		</tr>		<tr>			<td style="width:47.3%">			<p>11月15日</p>			</td>			<td style="width:52.7%">			<p>牙<a href="http://www.qianmu.org/医学" target="_blank">医学</a>预科申请截止日期</p>			</td>		</tr>		<tr>			<td style="width:47.3%">			<p>12月1日</p>			</td>			<td style="width:52.7%">			<p>奖学金申请截止日期</p>			</td>		</tr>		<tr>			<td style="width:47.3%">			<p>1月15日</p>			</td>			<td style="width:52.7%">			<p>本科申请申请截止日期</p>			</td>		</tr>		<tr>			<td style="width:47.3%">			<p>3月2日</p>			</td>			<td style="width:52.7%">			<p>奖学金申请截止日期</p>			</td>		</tr>		<tr>			<td style="width:47.3%">			<p>4月1日</p>			</td>			<td style="width:52.7%">			<p>申请录取通知截止日期</p>			</td>		</tr>		<tr>			<td style="width:47.3%">			<p>5月1日</p>			</td>			<td style="width:52.7%">			<p>学生答复截止日期</p>			</td>		</tr>		<tr>			<td style="width:47.3%">			<p>6月1日</p>			</td>			<td style="width:52.7%">			<p>转学生材料递交截止日期</p>			</td>		</tr>	</tbody></table><p>*(10)</p><p><strong>强化语言课程</strong></p><p>太平洋大学规定的最低语言成绩要求TOEFL60，ILETS5.5（工程专业TOEFL79，IELTS6.0）。学生达到该标准需参加一定阶段的语言强化课程。如申请者TOEFL达到80分，IELTS达到6.5分可直接攻读学士学位。</p><p><strong>申请材料：</strong></p><ul>	<li>申请表：学生可通过Common Application或太平洋大学校内申请系统在线申请</li>	<li>申请费：35美金</li>	<li>ESSAY：具体可参考Common Application。篇幅要求250-500字</li>	<li><a href="http://www.qianmu.org/成绩单" target="_blank">成绩单</a>：中学或大学成绩单原件或复印件、英文翻译件及<a href="http://www.qianmu.org/毕业证明" target="_blank">毕业证明</a>；成绩单需通过<a href="http://www.qianmu.org/WES" target="_blank">WES</a>公证</li>	<li>SAT/ACT：具体参照注释</li>	<li>TOEFL/IELTS：TOEFL最低60，IELTS最低5.5（基本要求）</li>	<li><a href="http://www.qianmu.org/推荐信" target="_blank">推荐信</a></li>	<li><a href="http://www.qianmu.org/资金证明" target="_blank">资金证明</a></li></ul><p>注：</p><p>关于SAT/ACT说明：所有申请药学预科、牙医预科、生物科学、<a href="http://www.qianmu.org/化学" target="_blank">化学</a>必须提交SAT/ACT成绩；申请生物科学、<a href="http://www.qianmu.org/生物化学" target="_blank">生物化学</a>、<a href="http://www.qianmu.org/生物工程" target="_blank">生物工程</a>、化学、化学生物学、<a href="http://www.qianmu.org/土木工程" target="_blank">土木工程</a>、牙医、<a href="http://www.qianmu.org/电气工程" target="_blank">电气工程</a>、工程管理、<a href="http://www.qianmu.org/工程物理" target="_blank">工程物理</a>、<a href="http://www.qianmu.org/机械工程" target="_blank">机械工程</a>、<a href="http://www.qianmu.org/物理" target="_blank">物理</a>和药学预科的学生还需提供SAT化学单科成绩。*(11)</p><p><strong>费用与奖学金</strong></p><p><strong>费用列表：</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:23.04%">			<p>支出项目</p>			</td>			<td style="width:55.76%">			<p>项目英文名</p>			</td>			<td style="width:21.18%">			<p>2015-2016学年费用</p>			</td>		</tr>		<tr>			<td style="width:23.04%">			<p>学费</p>			</td>			<td style="width:55.76%">			<p>Tuition and fees</p>			</td>			<td style="width:21.18%">			<p>$42,934</p>			</td>		</tr>		<tr>			<td style="width:23.04%">			<p>住宿费用</p>			</td>			<td style="width:55.76%">			<p>Room and board</p>			</td>			<td style="width:21.18%">			<p>$12,858</p>			</td>		</tr>		<tr>			<td style="width:23.04%">			<p>书本费</p>			</td>			<td style="width:55.76%">			<p>Books and supplies</p>			</td>			<td style="width:21.18%">			<p>$1,764</p>			</td>		</tr>		<tr>			<td style="width:23.04%">			<p>个人花费</p>			</td>			<td style="width:55.76%">			<p>Estimated personal expenses</p>			</td>			<td style="width:21.18%">			<p>$2,322</p>			</td>		</tr>		<tr>			<td style="width:23.04%">			<p>交通费</p>			</td>			<td style="width:55.76%">			<p>Transportation expenses</p>			</td>			<td style="width:21.18%">			<p>$855</p>			</td>		</tr>		<tr>			<td style="width:23.04%">			<p>合计</p>			</td>			<td style="width:55.76%">			<p>Estimated Total</p>			</td>			<td style="width:21.18%">			<p>$60,733</p>			</td>		</tr>	</tbody></table><p>*(12)</p><p>住宿：太平洋大学是一所寄宿制综合性大学。学校要求大一、二的学生需住宿校内。学校还配有单独的女生宿舍。</p><p>太平洋大学向国际学生开设多种奖学金项目申请。该校成功获得奖学金的比例高达80%，平均奖学金金额约22,000美金。<a href="http://www.qianmu.org/Merit-based" target="_blank">Merit-based</a>奖学金要求申请者GPA需达到3.5以上，学生无需单独申请；Powell奖学金项目要求申请者必须单独申请并提交SAT/ACT成绩，该项奖学金金额约15,000美金。*(13)</p><h2>转学申请</h2><p><strong>基本信息</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:17.7%">			<p>TOEFL要求</p>			</td>			<td style="width:13.1%">			<p>61</p>			</td>			<td style="width:20.28%">			<p>GPA要求</p>			</td>			<td style="width:12.76%">			<p>3.0</p>			</td>			<td style="width:21.3%">			<p>申请截止日期</p>			</td>			<td style="width:14.86%">			<p>2月15日</p>			</td>		</tr>		<tr>			<td style="width:17.7%">			<p>IELTS要求</p>			</td>			<td style="width:13.1%">			<p>5.5</p>			</td>			<td style="width:20.28%">			<p>SAT要求</p>			</td>			<td style="width:12.76%">			<p>Not Required</p>			</td>			<td style="width:21.3%">			<p>开学时间</p>			</td>			<td style="width:14.86%">			<p>8月-9月</p>			</td>		</tr>		<tr>			<td style="width:17.7%">			<p>最高可转学分</p>			</td>			<td style="width:13.1%">			<p>70</p>			</td>			<td style="width:20.28%">			<p>最低学分要求</p>			</td>			<td style="width:12.76%">			<p>30</p>			</td>			<td style="width:21.3%">			<p>可申请学期</p>			</td>			<td style="width:14.86%">			<p>秋季、春季</p>			</td>		</tr>		<tr>			<td style="width:17.7%">申请人数</td>			<td style="width:13.1%">1,217</td>			<td style="width:20.28%">录取人数</td>			<td style="width:12.76%">439</td>			<td style="width:21.3%">			<p>录取率</p>			</td>			<td style="width:14.86%">36%</td>		</tr>	</tbody></table><p>*(3)(14)(11)(15)(10)</p><p>注：</p><p>(1)春季学期申请截止日期是11月15日。</p><p>(2)国际学生成绩单需通过WES公证。</p><p><strong>申请说明</strong></p><p>太平洋大学分秋季和春季两个学期均可以转学，可入读大一、大二、大三其中任何一个学期。要求申请者至少修读过30个学分&mdash;&mdash;一般读完大一即可达到此要求，否则需提交SAT或ACT成绩。*(16)</p><p><strong>联系方式：</strong></p><p>Stockton Campus</p><p>University of the Pacific</p><p>3601 Pacific Avenue</p><p>Stockton, California 95211</p><p>phone: 209.946.2285*(17)</p><h2><strong>专业设置</strong></h2><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:37.28%">			<p>专业名称</p>			</td>			<td style="width:62.72%">			<p>专业英文名</p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p>艺术</p>			</td>			<td style="width:62.72%">			<p>Art</p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p>平面设计</p>			</td>			<td style="width:62.72%">			<p>Graphic Design</p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p><a href="http://www.qianmu.org/美术" target="_blank">工作室艺术</a></p>			</td>			<td style="width:62.72%">			<p>Studio Art</p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p>汉语</p>			</td>			<td style="width:62.72%">			<p>Chinese</p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p><a href="http://www.qianmu.org/日语" target="_blank">日语</a></p>			</td>			<td style="width:62.72%">			<p>Japanese</p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p>生物学</p>			</td>			<td style="width:62.72%">			<p>Biology</p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p>农场生物学</p>			</td>			<td style="width:62.72%">			<p>Field Biology</p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p><a href="http://www.qianmu.org/会计" target="_blank">会计</a></p>			</td>			<td style="width:62.72%">			<p><a href="http://www.qianmu.org/会计" target="_blank">Accounting</a></p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p>艺术与娱乐管理</p>			</td>			<td style="width:62.72%">			<p>Arts and Entertainment <a href="http://www.qianmu.org/管理学" target="_blank">Management</a></p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p>商法</p>			</td>			<td style="width:62.72%">			<p>Business <a href="http://www.qianmu.org/法学" target="_blank">Law</a></p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p><a href="http://www.qianmu.org/经济学" target="_blank">经济学</a></p>			</td>			<td style="width:62.72%">			<p><a href="http://www.qianmu.org/经济学" target="_blank">Economics</a></p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p>企业管理</p>			</td>			<td style="width:62.72%">			<p><a href="http://www.qianmu.org/创业管理" target="_blank">Entrepreneurship</a></p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p><a href="http://www.qianmu.org/金融" target="_blank">金融</a></p>			</td>			<td style="width:62.72%">			<p><a href="http://www.qianmu.org/金融" target="_blank">Finance</a></p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p>商学</p>			</td>			<td style="width:62.72%">			<p>General Business</p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p><a href="http://www.qianmu.org/国际贸易" target="_blank">国际贸易</a></p>			</td>			<td style="width:62.72%">			<p>International Business</p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p>管理信息系统</p>			</td>			<td style="width:62.72%">			<p>Management <a href="http://www.qianmu.org/信息系统管理" target="_blank">Information Systems</a></p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p><a href="http://www.qianmu.org/人力资源管理" target="_blank">人力资源管理</a></p>			</td>			<td style="width:62.72%">			<p>Management and Human Resources</p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p><a href="http://www.qianmu.org/市场营销" target="_blank">市场营销</a></p>			</td>			<td style="width:62.72%">			<p><a href="http://www.qianmu.org/市场营销" target="_blank">Marketing</a></p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p>化学</p>			</td>			<td style="width:62.72%">			<p><a href="http://www.qianmu.org/化学" target="_blank">Chemistry</a></p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p>化学与生物</p>			</td>			<td style="width:62.72%">			<p>Chemistry-Biology</p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p>亚洲语言及研究</p>			</td>			<td style="width:62.72%">			<p>Chinese (Asian Language &amp; Studies)</p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p><a href="http://www.qianmu.org/传播学" target="_blank">传播学</a></p>			</td>			<td style="width:62.72%">			<p>Communication</p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p><a href="http://www.qianmu.org/计算机科学" target="_blank">计算机科学</a></p>			</td>			<td style="width:62.72%">			<p><a href="http://www.qianmu.org/计算机科学" target="_blank">Computer Science</a></p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p>口腔卫生</p>			</td>			<td style="width:62.72%">			<p>Dental Hygiene</p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p>牙科</p>			</td>			<td style="width:62.72%">			<p>Dentistry</p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p>牙医预科</p>			</td>			<td style="width:62.72%">			<p>Pre-Dentistry</p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p>经济学</p>			</td>			<td style="width:62.72%">			<p>Economics</p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p>计算和应用经济学</p>			</td>			<td style="width:62.72%">			<p>Computing and Applied Economics</p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p>初等师范教育</p>			</td>			<td style="width:62.72%">			<p>Elementary Teacher Preparation</p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p>中等师范教育</p>			</td>			<td style="width:62.72%">			<p>Secondary Teacher Preparation*</p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p>特殊师范教育</p>			</td>			<td style="width:62.72%">			<p>Special Education Teacher Preparation</p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p>工程</p>			</td>			<td style="width:62.72%">			<p>Engineering</p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p>生物工程</p>			</td>			<td style="width:62.72%">			<p>Bioengineering</p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p>土木工程</p>			</td>			<td style="width:62.72%">			<p><a href="http://www.qianmu.org/土木工程" target="_blank">Civil Engineering</a></p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p><a href="http://www.qianmu.org/计算机工程" target="_blank">计算机工程</a></p>			</td>			<td style="width:62.72%">			<p><a href="http://www.qianmu.org/计算机工程" target="_blank">Computer Engineering</a></p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p>计算机科学</p>			</td>			<td style="width:62.72%">			<p>Computer Science</p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p>电气工程</p>			</td>			<td style="width:62.72%">			<p><a href="http://www.qianmu.org/电气工程" target="_blank">Electrical Engineering</a></p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p>工程管理</p>			</td>			<td style="width:62.72%">			<p>Engineering Management</p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p>工程物理</p>			</td>			<td style="width:62.72%">			<p>Engineering <a href="http://www.qianmu.org/物理" target="_blank">Physics</a></p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p>机械工程</p>			</td>			<td style="width:62.72%">			<p><a href="http://www.qianmu.org/机械工程" target="_blank">Mechanical Engineering</a></p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p><a href="http://www.qianmu.org/英语" target="_blank">英语</a></p>			</td>			<td style="width:62.72%">			<p>English</p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p><a href="http://www.qianmu.org/环境科学" target="_blank">环境科学</a></p>			</td>			<td style="width:62.72%">			<p>Environmental Science</p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p>环境研究</p>			</td>			<td style="width:62.72%">			<p>Environmental Studies</p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p>民族问题研究</p>			</td>			<td style="width:62.72%">			<p>Ethnic Studies</p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p><a href="http://www.qianmu.org/法语" target="_blank">法语</a></p>			</td>			<td style="width:62.72%">			<p>French</p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p>电影研究</p>			</td>			<td style="width:62.72%">			<p>Film Studies</p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p><a href="http://www.qianmu.org/地质学" target="_blank">地质学</a></p>			</td>			<td style="width:62.72%">			<p>Geology</p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p>性别研究</p>			</td>			<td style="width:62.72%">			<p>Gender Studies</p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p>平面设计</p>			</td>			<td style="width:62.72%">			<p>Graphic Design</p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p><a href="http://www.qianmu.org/历史" target="_blank">历史</a></p>			</td>			<td style="width:62.72%">			<p><a href="http://www.qianmu.org/历史" target="_blank">History</a></p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p>体育训练</p>			</td>			<td style="width:62.72%">			<p>&nbsp;Athletic Training</p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p>体育管理</p>			</td>			<td style="width:62.72%">			<p>Sport Management</p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p>体育教育学</p>			</td>			<td style="width:62.72%">			<p>Sport Pedagogy</p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p>运动医学</p>			</td>			<td style="width:62.72%">			<p>Sport Medicine</p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p>发展与文化变革</p>			</td>			<td style="width:62.72%">			<p>Development and Cultural Change</p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p>国际研究</p>			</td>			<td style="width:62.72%">			<p>Global Studies</p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p>国际事务与贸易</p>			</td>			<td style="width:62.72%">			<p>International Affairs and Commerce</p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p><a href="http://www.qianmu.org/国际关系学" target="_blank">国际关系</a></p>			</td>			<td style="width:62.72%">			<p>International Relations</p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p>日语（亚洲语言与研究）</p>			</td>			<td style="width:62.72%">			<p>Japanese (Asian Language &amp; Studies)</p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p><a href="http://www.qianmu.org/法学预科" target="_blank">法学预科</a></p>			</td>			<td style="width:62.72%">			<p>Pre-law</p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p>通识教育</p>			</td>			<td style="width:62.72%">			<p>Liberal Studies</p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p>数学</p>			</td>			<td style="width:62.72%">			<p><a href="http://www.qianmu.org/数学" target="_blank">Mathematics</a></p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p><a href="http://www.qianmu.org/应用数学" target="_blank">应用数学</a></p>			</td>			<td style="width:62.72%">			<p><a href="http://www.qianmu.org/应用数学" target="_blank">Applied Mathematics</a></p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p>医学预科</p>			</td>			<td style="width:62.72%">			<p>Pre-Medicine</p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p>音乐</p>			</td>			<td style="width:62.72%">			<p>Music (Bachelors of Arts)</p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p>爵士乐研究</p>			</td>			<td style="width:62.72%">			<p>Jazz Studies</p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p>音乐管理</p>			</td>			<td style="width:62.72%">			<p>Music Management</p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p>音乐编曲</p>			</td>			<td style="width:62.72%">			<p>Music Composition</p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p>音乐教育</p>			</td>			<td style="width:62.72%">			<p>Music Education</p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p>合唱乐</p>			</td>			<td style="width:62.72%">			<p>Choral</p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p>乐器演奏</p>			</td>			<td style="width:62.72%">			<p>Instrumental</p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p>音乐史</p>			</td>			<td style="width:62.72%">			<p>Music History</p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p>音乐表演</p>			</td>			<td style="width:62.72%">			<p>Music Performance</p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p><a href="http://www.qianmu.org/音乐疗法" target="_blank">音乐治疗</a></p>			</td>			<td style="width:62.72%">			<p>Music Therapy</p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p><a href="http://www.qianmu.org/组织行为学" target="_blank">组织行为学</a></p>			</td>			<td style="width:62.72%">			<p>Organizational Behavior</p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p>药学</p>			</td>			<td style="width:62.72%">			<p><a href="http://www.qianmu.org/药学" target="_blank">Pharmacy</a></p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p>药学预科</p>			</td>			<td style="width:62.72%">			<p>Pre-Pharmacy</p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p><a href="http://www.qianmu.org/哲学" target="_blank">哲学</a></p>			</td>			<td style="width:62.72%">			<p>Philosophy</p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p><a href="http://www.qianmu.org/物理疗法" target="_blank">物理疗法</a></p>			</td>			<td style="width:62.72%">			<p>Physical Therapy</p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p>物理</p>			</td>			<td style="width:62.72%">			<p>Physics</p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p><a href="http://www.qianmu.org/政治学" target="_blank">政治学</a></p>			</td>			<td style="width:62.72%">			<p><a href="http://www.qianmu.org/政治学" target="_blank">Political Science</a></p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p><a href="http://www.qianmu.org/心理学" target="_blank">心理学</a></p>			</td>			<td style="width:62.72%">			<p><a href="http://www.qianmu.org/心理学" target="_blank">Psychology</a></p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p>宗教和古典研究</p>			</td>			<td style="width:62.72%">			<p>Religious and Classical Studies</p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p>社会科学</p>			</td>			<td style="width:62.72%">			<p>Social Sciences</p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p><a href="http://www.qianmu.org/社会学" target="_blank">社会学</a></p>			</td>			<td style="width:62.72%">			<p><a href="http://www.qianmu.org/社会学" target="_blank">Sociology</a></p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p><a href="http://www.qianmu.org/西班牙语" target="_blank">西班牙语</a></p>			</td>			<td style="width:62.72%">			<p>Spanish</p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p>语音和<a href="http://www.qianmu.org/语言病理学" target="_blank">语言病理学</a></p>			</td>			<td style="width:62.72%">			<p>Speech and Language Pathology</p>			</td>		</tr>		<tr>			<td style="width:37.28%">			<p><a href="http://www.qianmu.org/戏剧" target="_blank">戏剧</a>艺术</p>			</td>			<td style="width:62.72%">			<p>Theatre Arts</p>			</td>		</tr>	</tbody></table><p>*(18)</p><p>参考资料：</p><p>(1)<a href="http://www.qianmu.org/redirect?code=-rGz4OfNkGpktrqM444441wYJqE2-iwyhVwQle5dhT8yXT8QATj2cFcnUFJGcpkhoimgJqfuI9sEEloQzORfmYRUEXo6mORfcT0BHGJQ2XsezKREzGoQ2Tse7K5fzwWefvxeasx2DJIpMbdweDnHpktxCQqIN3fz-i5VtrcXHjMd-_na" target="_blank">National University Rankings</a> USNEWS</p><p>(2)<a href="http://www.qianmu.org/redirect?code=ArAjQunxwGY_PUTCAAAK003togx3Nbx8Y5D7r70ezFUsiOxE6TMXqzI-l87dq3K4g1KfV2IOqOInlzD-q3erV176LDxhNPseO-A9wPLSMPaejRQSvpxhNPseO-A9wKL1w-FMNRxnhNoc3_Ene" target="_blank">Annual College Costs (Fall 2014)</a> College Board</p><p>(3)<a href="http://www.qianmu.org/redirect?code=srULj0-5wfFe8hAxTTTTTTq5DMklcm1h8V8VU9OdGA3f0Hah0uoVvj4fB-3l8A36RQ6uVg0FiIOqEILaRQ0rtZfBgMHbQ" target="_blank">English Language Proficiency</a> University of the Pacific</p><p>(4)<a href="http://www.qianmu.org/redirect?code=kr53aG4iLOJkATN6H-Ddc--tAOnKsNCSAqR_-lTqSyMdeZhi3h6VzBRPl6-1mauHQT-tJuo7f3nxhLe3qqR13rbe_7c9IZaVpwhUyRh-11aNJuacwYPcGYPohhZSFJlRRJ-gXnexETDSy5RQZS1SrLwM7V90" target="_blank">Undergraduate Admission Dates</a> University of the Pacific</p><p>(5)<a href="http://www.qianmu.org/redirect?code=UrsQlJELwolVBYN_PPPPPPCu24ViGWO69krxn8upXjrFZi0cNgzeqYyuZoW4LzrELWV3rjO5IGOiBamYNDm9aHlnDl2Sr6iM1MjbHqtXYTudnWLdnOtcFi" target="_blank">Standardized Tests Statistics</a> College Prowler</p><p>(6)<a href="http://www.qianmu.org/redirect?code=KruBHNmCLXmql2UAQQQQQ8MRY1CdUmcip-p-eqTJLMPt9npr2GyF9vz7EYNCm0-CMjKovI45EB1cRBhCMj4Ct3HBL36IoEeTtX_oV3e9cP8jUXpIo36JqId9IPetU3ph" target="_blank">Frequently Asked Questions (FAQ): International Students</a> University of the Pacific</p><p>(7)<a href="http://www.qianmu.org/redirect?code=ir67yhfywRjyJF_N99999isZVOBqiQKpqVzk4l8DrgQOKbJfKblq91wA0t0yscGAWcGpkCkHno_0xi8Vff8HypMFv_KHvSjDPQ2w1L8_FfDs8aQOblvrtiv9109MrXHqILnfAHpzdMb1w2Cz1-b7cOtqdkF5B-" target="_blank">University of the Pacific</a> USNEWS</p><p>(8)<a href="http://www.qianmu.org/redirect?code=6ri8vervwlsJdMy2Xwc5TvdkebA4uR2d-Nj0eqWOBlE3Wa0RqOjTFHXm5XFZ2wOyZ8XfLuJTsG-udGjPyXTd_Beez9Z0ROdGCJuQwP9FXnBUjjuihe5aH2j_oO6z8SAXXzd2X_plqKEfEyYJRsHZFoXo89SZjFAWq" target="_blank">Majors and Learning Environment</a> College Board</p><p>(9)<a href="http://www.qianmu.org/redirect?code=BraKR4eYkmG0laEtOOOOOy7UshiU3dE-cR_PNdenLV1nfxMz0UP7eLB0WcFBio2_iuPy37FeOGFzQNalq8aHJhTBhtybPRWjjnSfZqFpzy5aly4EHTChtn9FNUmusYgm8jZNa2" target="_blank">Facts &amp; Statistics: the Best and Worst</a> College Prowler</p><p>(10)<a href="http://www.qianmu.org/redirect?code=SrWl9LTfL_HK0gEIyMYbD5SeWrLC24_q1_f1P2xKhWbZoAFejq6fx6msiNwzovuj3sJtuyiE4ZU3ruJ8KXf6XSnuTlvfcNSAn3b-4Eyq6fx6msiNaFOBEzDc0ha1m2vKveqlXP1uGg" target="_blank">Pacific At A Glance</a> University of the Pacific</p><p>(11)<a href="http://www.qianmu.org/redirect?code=trmo1nTRkUBr1G_7mmmmmmFMOX-yrwse4Z4ZKS4aNrHGtEAyiEJ0F2FEacXYSDdxSz-ZPFhqJc3oNA3jSz-q0zuql2XY1" target="_blank">International Students at Pacific</a> University of the Pacific</p><p>(12)<a href="http://www.qianmu.org/redirect?code=pr9ExTIZw9P-F3cKeeeeeFatN_aTA9lsO1O1kpZvygwLjP8sj-51c3Fvj3H1KHJvygwLjP8sam5ESk6ciK4t78jtikOcGXs8ik4675OBs8sZlX92uXl2q86clkwQikjzx9jZsYOJbO-W1UsbKNscvcPV0aFt8NltMaiWQUEWeUE2QgEesRgJu" target="_blank">Estimated Cost of Attendance</a> University of the Pacific</p><p>(13)<a href="http://www.qianmu.org/redirect?code=erlnE6bIw0DYWl8cn3cObfzjeiRehQZzlNg1TfhtOsdwOpZVgBoqgDdKI811Kw5mJ3CfLbr-hOQAFmYsJcnDaz4CDQvrD-djn--Fj3DFmvGIT_DRO1LnlmIC0hewgbwyUmBWrJHDqu_heSRbjyA" target="_blank">Frequently Asked Questions (FAQ): International Students</a> University of the Pacific</p><p>(14)<a href="http://www.qianmu.org/redirect?code=qrTydP_FL6UOjgvskkkkk2vrL7iGj6XtEdVAVAT6L4BsicptuxrvrqM0I5TY-nR3v2h3l5wo6iqvz6c9UCfPiOf_5YkOzWpX0OaMTv-3Ar7eRVym-MgJaeglx_a6cuIxLdJKWZOaLk20dxhLwHSm0" target="_blank">Transferring Coursework to Pacific</a> University of the Pacific</p><p>(15)<a href="http://www.qianmu.org/redirect?code=erlnE6yqLtcCKxwxooooo5OD1JbA-J273QlOntA87GmeuhonwvEs9DIvgU40qPiELwi-vrR1M_M1OJRMpOd1vLKwP3_ePla28LqJ42ETJFMmSFxuPdEBRQxbJrxzREDyho80pQLDr7jm5FDw27xcXD1i2" target="_blank">Transfer Students</a> College Board</p><p>(16)<a href="http://www.qianmu.org/redirect?code=7r_i3IKjw2y6pnX7tttttfZbjNM5asolzFzFnCYU28KvR9_lRrXFkxfvZmK5z8KeSJor2CXvT-c5RloavrojnDpUAPUjazdMfr1A-RcSfRFrMRm9fPX563x" target="_blank">Transfer Applicants</a> University of the Pacific</p><p>(17)<a href="http://www.qianmu.org/redirect?code=VrxbIdtpLBGgpjhillllllSQxnLTpkwe7a7ad2CohtVqeYC8jYo6xzoJkZrK4ltq8SDii2DShJleBQ" target="_blank">Contact Us</a> University of the Pacific</p><p>(18)<a href="http://www.qianmu.org/redirect?code=-rGz4Os9wZUg37PbNNNNNG2FBKw6qzebr8rMrMPBmtOKMPB-hDSx8DpHTOmsy-LMSJoE7K9IYceB_fFSPkeRCjsSeodasCDiZVqcZK1tvV3z7e3laK7t1B7S1UGw7zOrBUeobDs9QPF4NNBDdxtZExSLvhNQE" target="_blank">Undergraduate Majors</a>&nbsp; University of the Pacific</p><h1>研究生申请</h1><p><strong>院系设置</strong></p><p>太平洋大学共设有以下9个学术学院，分别是：</p><ul>	<li>太平洋学院（College of the Pacific）：又称艺术与科学学院</li>	<li>音乐学院（Conservatory of Music）</li>	<li>教育学院（Gladys L. Benerd School of Education）</li>	<li>商学院（Eberhardt School of Business）</li>	<li>工程与计算机科学学院（School of Engineering and Computer Science）</li>	<li>国际研究学院（School of International Studies）</li>	<li>药学与健康科学学院（Thomas J. Long School of Pharmacy and Health Sciences）</li>	<li>法学院（Pacific McGeorge School of Law）</li>	<li>牙医学院（Arthur A. Dugoni School of Dentistry）*(1)</li></ul><p>其中，专业学位包括4种：药学博士（<a href="http://www.qianmu.org/Pharm.D" target="_blank">Pharm.D</a>.）、理疗博士（DPT）、牙医博士（DDS）、法学博士（<a href="http://www.qianmu.org/JD" target="_blank">JD</a>）。*(2)</p><p><strong>基本要求</strong></p><p>太平洋大学所有项目的招生均由研究生院（Graduate School）统一管理，基本申请条件如下：</p><ul>	<li>学位要求：要求正规大学本科毕业并取得学士学位</li>	<li>GPA要求：最低3.0</li>	<li>语言要求：TOEFL要求不低于80分，IELTS要求不低于6.5分均无单项要求。如申请<a href="http://www.qianmu.org/TA" target="_blank">TA</a>，TOEFL要求需达到100分</li>	<li><strong>G</strong>RE要求：大多数项目均要求有<a href="http://www.qianmu.org/GRE" target="_blank">GRE</a>成绩（教育学硕士项目除外），部分商科项目要求递交<a href="http://www.qianmu.org/GMAT" target="_blank">GMAT</a>成绩</li>	<li>申请时间：太平洋大学申请截止日期随项目不一。*(3)(4)</li></ul><p><strong>申请说明</strong></p><p>太平洋大学研究生有着统一的<a href="http://www.qianmu.org/申请材料" target="_blank">申请材料</a>规定，具体如下：</p><ul>	<li>在线申请表，通过太平洋大学官网申请</li>	<li>申请费</li>	<li>正式成绩单</li>	<li>GRE/GMAT成绩</li>	<li>TOEFL与IELTS成绩</li>	<li>资金证明：申请时必需递交，有效期12个月，要求必须由银行出具</li></ul><p>其它材料：推荐信、<a href="http://www.qianmu.org/个人陈述" target="_blank">个人陈述</a>、<a href="http://www.qianmu.org/个人作品" target="_blank">个人作品</a>、<a href="http://www.qianmu.org/个人简历" target="_blank">个人简历</a>、<a href="http://www.qianmu.org/写作样本" target="_blank">写作样本</a>、试镜、<a href="http://www.qianmu.org/面试" target="_blank">面试</a>等部分专业可能会需要。一般而言，人文类专业多会要求递交写作样本，艺术类专业可能会要求递交个人作品等。*(5)</p><p><strong>费用与奖学金</strong></p><p><strong>费用（2014-15</strong><strong>）</strong></p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:726px">			<p>All schools and colleges (16 &ndash; 18 units)</p>			</td>			<td style="width:158px">			<p>$20.411.00</p>			</td>		</tr>		<tr>			<td style="width:726px">			<p>Physical Therapy (12 &ndash; 18 units)</p>			</td>			<td style="width:158px">			<p>$20,411.00</p>			</td>		</tr>		<tr>			<td style="width:726px">			<p><a href="http://www.qianmu.org/MBA" target="_blank">MBA</a> Program (16 &ndash; 18 units)</p>			</td>			<td style="width:158px">			<p>$20,411.00</p>			</td>		</tr>		<tr>			<td style="width:726px">			<p>All schools and colleges 1 to 15&nbsp;&frac12; units (1 to 11 &frac12; units for Physical Therapy) and above 18 units</p>			</td>			<td style="width:158px">			<p>$1,276.00</p>			</td>		</tr>	</tbody></table><p>&nbsp;</p><p>*(6)</p><p>太平洋大学主要由学生所申请的系所或项目提供，其形式以TA、<a href="http://www.qianmu.org/RA" target="_blank">RA</a>为主。学生在申请时应主动与系里的导师或招生办联系，以期获得由导师或系里提供的RA、TA奖学金。该校奖学金形式包括Merit-based和<a href="http://www.qianmu.org/Need-based" target="_blank">Need-based</a>两种。其中Merit-based奖学金无需单独申请，自动随Offer发放，其形式主要以TA和RA为主，是太平洋大学研究生最主要的奖学金。一般而言，PhD学生的获奖几率要远远大于硕士学生获得的几率。*(7)(8)</p><p><strong>联系方式：</strong></p><p>Graduate Studies</p><p>Lynette Grippi</p><p>Records Coordinator</p><p>(209)946-3929</p><p>Clara Valencia</p><p>Records Coordinator</p><p>(209)946-3929</p><p>Postal address:</p><p>Research and Graduate Studies</p><p>Knoles Hall, 204</p><p>University of the Pacific</p><p>3601 Pacific Avenue</p><p>Stockton, CA 95211-0110*(9)</p><p><strong>参考资料：</strong></p><p>(1)<a href="http://www.qianmu.org/redirect?code=frh1ZE-3kCscvoJL------HcqNFol1szEmTmTxP8C62HVU1AEUhWTwcqCLGWV6fHCmjzZL2soLcFexfyoUiJiLcFoBhMVkvFqzcVHuN8" target="_blank">Schools and Colleges</a> University of the Pacific</p><p>(2)<a href="http://www.qianmu.org/redirect?code=KruBHNmhLa4bV_b0cHObIHSIJsA-2W7aaC2OcVl8tJJdbrN5yrcWKWTm_U-xaV6kr99Su79pLbDprV2GKC3QjqTHvjYGEhaUCiUZ2vf-XBlWHKFBaLfjObwr" target="_blank">Graduate and Professional Program at Pacific</a> University of the Pacific</p><p>(3)<a href="http://www.qianmu.org/redirect?code=KruBHNmhLa4bVG98444448tFkvBQKyCpNZxZxHeOwwOWF2-kpK-taMRZ5ylua2O_FzTtdPgZcAhZnixYuvhQqVqZnihUGD9ydPsZ9QkNc2Mjx48ogl9rng0r8CBoxEjDJpLr8EZ5xEYDtpI5LgZ2xgKoY5six3piT39ogSsa6LhVG_J97JXV6i1DM_13HtMK7-1bMkYDvqEu9NrKqGJhbMERUKmX1GdXx7SL2xEhqOdXlKYMlaJhVA" target="_blank">International Applicants</a> University of the Pacific</p><p>(4)<a href="http://www.qianmu.org/redirect?code=Nr20uKN5LjdAso7-ZZZZZndOBX8cLVIWZ9yDyDSb275TsNF31cWYlFBs8fmohrQxet-qL0Rw7tagLLDalyOPq4l5WNsNwLG3CLKWgkqeAhCryN3txEdcDqdUkZQ90e-9zZGiUD6Bsh5tHcmFkdWF0ArdIhE1BcqblrBfQt8wyO6_y06kvrb2ME8JMywhSUNAFEm-Zf" target="_blank">Graduate Degrees and Programs</a> University of the Pacific</p><p>(5)<a href="http://www.qianmu.org/redirect?code=trmo1nTakAlE56Vl0rdpn0Csr7H8dguUDZCfzUjSC3-kIP-VmU-GLabGWaRPIntkmRnmq5E6oKJfR-gv4A5qF_s5v0v92X_sO7ZaVzLYjpbfoOAWmW51ZDKYWUPGeO5nR8YzCbTlzLuC3JvQ1m2aRlIrtkSEp_hmNXHtsFYE_bwP39GR-Kb6qEHfPMycFcwkGYx_6wPgnGCc-ZU1N81mRE1fPoYlCfJBNNjxWRP1r3N97QPQET1wJ6QC3I8QYUxF_9SwkLmz5_0GNMMj4uRvTtpRIST_47yZM7" target="_blank">Graduate Application Instructions and Links</a> University of the Pacific</p><p>(6)<a href="http://www.qianmu.org/redirect?code=2rNMmQnpLBGgpDGdOLTVmiahqK-Mx1vwrGF87gwWaUjHuKE_fajMGhkdtBwHdHPOFaVrrU6iGF-6hHw0LVA3XwKGHPsMLchOH9Yokf1tkXlYE4gpSmV8J_gwkhod9SNBp8hNsV_zFp1tQaYx9aq1SNTZSJDJYSohmLNwdz" target="_blank">Tuition and Fees (Stockton)</a> University of the Pacific</p><p>(7)<a href="http://www.qianmu.org/redirect?code=VrxbId7fkdft_1lmdddddmO4iCp0JFlDU9U9-_53NLQhZfuDZy698en3EB6hNXQ3UAlVELFsEeG0-Ec5mKAaAlFZm8YEmLAUBxrLNuc0npc-X32Ztlf0Eyx0ZLFDNBThmXi0ZB69NBph8Xc9iy64Ny1Dp9-3NCX37CfDyn-sE9-3NX1DjwvdrqmIjCmNP5jSZAmN7CFSrlFKZN7dGCFwG5FSZMjLrnQHrhSkbnyWd2tXr2fVPn0" target="_blank">Financial Information</a> University of the Pacific</p><p>(8)<a href="http://www.qianmu.org/redirect?code=brEVbykdkfKZOJXYjjjGWWI73SMtEIz5-uNuN0BFjVyK9d_k-dcZNsLXjx1Z9NlruKwbc5XN6bOUjCD34O7L1yTyjCDLJawXo8-YjX1FmhxRghETgeoRD-e0DTxlghfNcuYwDTfV2hfJcFYLEoj8Qri8T1qooHdxu3dUuCOr4H1IEHdx3YO34H19gq0xgSZU0COdnYkf_btcibD3kfjo_bJoSbt3Bq6cGr1oCtMcsJHw_2EXFbeqSjeyFnSaGCbfPCQHZMQLjBwoWEvJWlFwrnSNPCAKZN7dGCFwXRf_zTCqODbPRcSP-QCP0lBothBKRDCKujREb8RhtU9o-c1rte" target="_blank">Graduate Teaching and Research Assistantships</a> University of the Pacific</p><p>(9)<a href="http://www.qianmu.org/redirect?code=4rjT-BYEkoeaLcJL-----Z1cqNFolRSoc7U7U2ziXuTgW4FCc46AbDqJkTO7xr-m5TcNY0OIXfOJaKQmHfe_F_OJaf90BHGJQ21RGsK5_EY5fsYBUEXRBqXs_9Y5ezGbDWXse8l5e7GVD18ysE9ucEqpO0B5m4Dk6lvKy7AT4iCKsd" target="_blank">Contact Us</a> &nbsp;University of the Pacific</p><h2>艺术与科学学院</h2><p>太平洋大学太平洋学院（College of the Pacific）也即该校的文理学院（Arts &amp; Sciences），研究生开设有以下学位项目，分别是：</p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:15.06%">			<p><strong>项目名称</strong></p>			</td>			<td style="width:21.54%">			<p><strong>项目英文名</strong></p>			</td>			<td style="width:15.06%">			<p><strong>开设学位</strong></p>			</td>			<td style="width:48.34%">			<p><strong>申请截止日期</strong></p>			</td>		</tr>		<tr>			<td style="width:15.06%">			<p>生物学</p>			</td>			<td style="width:21.54%">			<p>Biology</p>			</td>			<td style="width:15.06%">			<p>MS</p>			</td>			<td style="width:48.34%">			<p>3月1日（秋季）10月1日（春季）</p>			</td>		</tr>		<tr>			<td style="width:15.06%">			<p>化学</p>			</td>			<td style="width:21.54%">			<p>Chemistry</p>			</td>			<td style="width:15.06%">			<p>MS PhD</p>			</td>			<td style="width:48.34%">			<p>2月1日（秋季）10月1日（春季）</p>			</td>		</tr>		<tr>			<td style="width:15.06%">			<p><a href="http://www.qianmu.org/传播学" target="_blank">传播艺术</a></p>			</td>			<td style="width:21.54%">			<p>Communication</p>			</td>			<td style="width:15.06%">			<p>MA</p>			</td>			<td style="width:48.34%">			<p>3月1日（秋季）10月1日（春季）</p>			</td>		</tr>		<tr>			<td style="width:15.06%">			<p>心理学</p>			</td>			<td style="width:21.54%">			<p>Psychology</p>			</td>			<td style="width:15.06%">			<p>MA</p>			</td>			<td style="width:48.34%">			<p>2月15日（秋季）</p>			</td>		</tr>		<tr>			<td style="width:15.06%">			<p>体育科学</p>			</td>			<td style="width:21.54%">			<p>Sport Sciences</p>			</td>			<td style="width:15.06%">			<p>MA</p>			</td>			<td style="width:48.34%">			<p>3月1日（秋季）</p>			</td>		</tr>	</tbody></table><p>*</p><p><strong>注</strong>：秋季学期申请发放TA奖学金，春季学期无。</p><p><strong>参考资料：</strong></p><p><a href="http://www.qianmu.org/redirect?code=orDtO5ZLks07EK0gHHHHHcfVbZH3YA2yjZq7q7dbIKNrHGtEAy9YsB8lVfrgesWIQOVRP7k3F6ec81oLcFexfyqQAKgKhNvT9rqQBKiLkM4Y_zX7HP0TyW02QB7dWmUdYkIW4fgBR8H9st9XhLyXKQgRkpr1IEu8RMtmWXAUvqiOvoiISQtmK_H-KKNrujiEKs4-at" target="_blank">Graduate Degrees and Programs</a> University of the Pacific</p><h2>音乐学院</h2><p>太平洋大学音乐学院（Conservatory of Music）研究生开设有以下学位项目，分别是：</p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:19.76%">			<p><strong>项目名称</strong></p>			</td>			<td style="width:29.74%">			<p><strong>项目英文名</strong></p>			</td>			<td style="width:19.76%">			<p><strong>开设学位</strong></p>			</td>			<td style="width:30.74%">			<p><strong>申请截止日期</strong></p>			</td>		</tr>		<tr>			<td style="width:19.76%">			<p>音乐教育</p>			</td>			<td style="width:29.74%">			<p>Music Education</p>			</td>			<td style="width:19.76%">			<p>MM</p>			</td>			<td style="width:30.74%">			<p>3月1日（秋季）</p>			</td>		</tr>		<tr>			<td style="width:19.76%">			<p>音乐理疗</p>			</td>			<td style="width:29.74%">			<p>Music Therapy</p>			</td>			<td style="width:19.76%">			<p>MA</p>			</td>			<td style="width:30.74%">			<p>3月1日（秋季）</p>			</td>		</tr>	</tbody></table><p>*</p><p><strong>注</strong>：秋季学期申请发放TA奖学金，春季学期无。</p><p><strong>参考资料：</strong></p><p><a href="http://www.qianmu.org/redirect?code=SrWl9LugkKhq9VHy00000dz2fVzi5M7wxpxpomChtK1I-kew-ODpYQdhSADItW1hxc7gSKMnyBPN_fx1WiUjUBPNWLltzgJV5BziIsGy3dMmXd4ebUu4kUXAtdMKY71oxU4ROXM-b6_iAhwSCvO-bvZG_Sl0beh0xeVGv2l4FT1MbPtECFn49Py" target="_blank">Graduate Degrees and Programs</a> University of the Pacific</p><h2>教育学院</h2><p>太平洋大学教育学院（Gladys L. Benerd School of Education）研究生开设有以下学位项目，分别是：</p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:14.18%">			<p><strong>项目名称</strong></p>			</td>			<td style="width:31.44%">			<p><strong>项目英文名</strong></p>			</td>			<td style="width:22.18%">			<p><strong>开设学位</strong></p>			</td>			<td style="width:32.2%">			<p><strong>申请截止日期</strong></p>			</td>		</tr>		<tr>			<td style="width:14.18%">			<p>课程设计与教学</p>			</td>			<td style="width:31.44%">			<p>Curriculum and Instruction</p>			</td>			<td style="width:22.18%">			<p>MA M.Ed E.Dd</p>			</td>			<td style="width:32.2%">			<p>8月1日（秋季）10月1日（春季）5月1日（夏季）</p>			</td>		</tr>		<tr>			<td style="width:14.18%">			<p>教育管理与领导</p>			</td>			<td style="width:31.44%">			<p>Educational Administration and Leadership</p>			</td>			<td style="width:22.18%">			<p>MA E.Dd</p>			</td>			<td style="width:32.2%">			<p>8月1日（秋季）10月1日（春季）5月1日（夏季）</p>			</td>		</tr>		<tr>			<td style="width:14.18%">			<p>心理学<a href="http://www.qianmu.org/特殊教育" target="_blank">特殊教育</a></p>			</td>			<td style="width:31.44%">			<p>Psychology</p>			</td>			<td style="width:22.18%">			<p>MA E.Ds</p>			</td>			<td style="width:32.2%">			<p>8月1日（秋季）10月1日（春季）5月1日（夏季）</p>			</td>		</tr>	</tbody></table><p>*</p><p><strong>参考资料：</strong></p><p><a href="http://www.qianmu.org/redirect?code=lreSUwaSk-uzkAyHSSSSSEYImrY_M6VqQ8Q8fcTpsG3ziyJxvDKrIabZ2imrJ95DkOoQ2FR_9TRfcXnDqTs6m6RfcT0BHGJQ21RGsK5_EY5fsYBUE3Uu4kUXAtdMKY71oxUXKnCMKV7NNrBGd_zQVGfxM3PaQGHgQOH-MftaNnPaQGgxMzsrKlyB" target="_blank">Graduate Degrees and Programs</a> University of the Pacific</p><h2>商学院</h2><p>太平洋大学商学院（Eberhardt School of Business）研究生开设有以下学位项目，分别是：</p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:14.6%">			<p><strong>项目名称</strong></p>			</td>			<td style="width:46.56%">			<p><strong>项目英文名</strong></p>			</td>			<td style="width:16.62%">			<p><strong>开设学位</strong></p>			</td>			<td style="width:22.22%">			<p><strong>申请截止日期</strong></p>			</td>		</tr>		<tr>			<td style="width:14.6%">			<p>工商管理</p>			</td>			<td style="width:46.56%">			<p>Management of Business Administration</p>			</td>			<td style="width:16.62%">			<p>MBA</p>			</td>			<td style="width:22.22%">			<p>3月1日（秋季）10月1日（春季）</p>			</td>		</tr>		<tr>			<td style="width:14.6%">			<p>会计</p>			</td>			<td style="width:46.56%">			<p>Accounting</p>			</td>			<td style="width:16.62%">			<p>MBA M.Acc</p>			</td>			<td style="width:22.22%">			<p>3月1日（秋季）10月1日（春季）</p>			</td>		</tr>	</tbody></table><p>*</p><p><strong>参考资料：</strong></p><p><a href="http://www.qianmu.org/redirect?code=urKrNAmTwdft_1Elkkkkk82nr-2UyfBdRgRgwLx6p0szJFIdJeZgGh86KQZzp4s6RSBoc0zTQ07pbDs9P_oO8OJ5X_WdI2MRSD6LhapUeNRU8aRSnNPLSMPaejRU0vhzDAPa09-U05hlD6-6vzrmgzC2FK4EgLYEILSLTmLM4DoMkI9gbJy2Us68" target="_blank">Graduate Degrees and Programs</a> University of the Pacific</p><h2>工程与计算机科学学院</h2><p>太平洋大学工程与计算机科学学院（School of Engineering and Computer Science）研究生只开设了一项研究生项目，即工程科学（Engineering Sciences）。该项目只提供硕士学位（MS），秋季或春季学期申请申请均可，秋季申请截止日期是3月1日，春季申请截止日期是10月1日。秋季学期申请可申请TA。*</p><p>太平洋大学的工程学科共分以下五个专业：</p><ul>	<li>土木工程（Civil Engineering） ：分<a href="http://www.qianmu.org/环境工程" target="_blank">环境工程</a>与结构工程两个方向</li>	<li>计算机工程（Computer Engineering）</li>	<li>电气工程（Electrical Engineering）</li>	<li>计算机科学（Computer Science）</li>	<li>机械工程（Mechanical Engineering）*(2)</li></ul><p><strong>参考资料：</strong></p><p>(1)&nbsp;<a href="http://www.qianmu.org/redirect?code=qrTydPtOwp7HogVxKLfQKXdWfL0tUwJdqwyJ5GnGhlIGso_1CzNQmuAuU_feugXArLLdkNE2v9UXF8sAg2EOE1DSJcyMpW1DRX__Dur1DZT-KeBQOaEcKvt84zqQLxepq9h5xBdtKnZzqQO0AmBjByxCd62thz_rBi52gXBII9aYMAJ172uU7eGJhlTwi4NtiB7IpaYREhONtS" target="_blank">Graduate Degrees and Programs</a> University of the Pacific</p><p>(2)&nbsp;<a href="http://www.qianmu.org/redirect?code=PrgaXqInkkP-G5xpKKKKKpLg30RPnWZBHwHw19droFCvQhJIsrQgJMS6cokgHIZ_c0L3pob7aoS4wvZiarYRrO9VwK56RWqYok9TSK9VwcqUNAyuTkdh5kdUTcYUFXyUzkdMP-QhPoWRq52SP6nh55xkQFhBRNJro0hkohJP1RZ0Hjlv3zlw2iM5NoiG2WiE8zf5hRnP" target="_blank">Master of Science in Engineering Science</a></p><h2>国际研究学院</h2><p>太平洋大学国际研究学院（School of International Studies）研究生只开设了一项研究生项目，即国际文化关系（Intercultural Relation）。该项目只提供硕士学位（MA）。*</p><p><strong>参考资料：</strong></p><p><a href="http://www.qianmu.org/redirect?code=zrQ-nH7ALEo5iISfFFFFFjlGmzlRxua8K1K38lu-ohtVqeYC8jY04-rZ8kLQV-qP3GLnCEbQ0epQ8dXK3s_8MdldsIH8Z2-ipOnoTj-nMjzf2IzG2Tpc9Yy6MGx5uIzcRIkXT0hNlKIHH_3LPtGtPfVMh0-FeGqp95SUkauDuoRY9UuYJ1mnb2O5RAQZ" target="_blank">Master&rsquo;s Degree</a> &nbsp;University of the Pacific</p><h2>药学与健康科学学院</h2><p>太平洋大学药学与健康科学学院（Thomas J. Long School of Pharmacy and Health Sciences）研究生开设有以下学位项目，分别是：</p><table border="1" cellpadding="0" cellspacing="0">	<tbody>		<tr>			<td style="width:22.9%">			<p><strong>项目名称</strong></p>			</td>			<td style="width:39.9%">			<p><strong>项目英文名</strong></p>			</td>			<td style="width:16.66%">			<p><strong>开设学位</strong></p>			</td>			<td style="width:20.54%">			<p><strong>申请截止日期</strong></p>			</td>		</tr>		<tr>			<td style="width:22.9%">			<p>药学</p>			</td>			<td style="width:39.9%">			<p>Pharmacy</p>			</td>			<td style="width:16.66%">			<p>PharmD</p>			</td>			<td style="width:20.54%">			<p>-</p>			</td>		</tr>		<tr>			<td style="width:22.9%">			<p><a href="http://www.qianmu.org/物理疗法" target="_blank">物理治疗</a></p>			</td>			<td style="width:39.9%">			<p>Physical Therapy</p>			</td>			<td style="width:16.66%">			<p>DPT</p>			</td>			<td style="width:20.54%">			<p>11月3日（秋季）</p>			</td>		</tr>		<tr>			<td style="width:22.9%">			<p><a href="http://www.qianmu.org/药理学" target="_blank">药理学</a>与化学</p>			</td>			<td style="width:39.9%">			<p>Pharmaceutical and Chemical Sciences</p>			</td>			<td style="width:16.66%">			<p>MS PhD</p>			</td>			<td style="width:20.54%">			<p>2月1日（秋季）10月1日（春季）</p>			</td>		</tr>		<tr>			<td style="width:22.9%">			<p>言语语言病理学</p>			</td>			<td style="width:39.9%">			<p>Speech-Language Pathology</p>			</td>			<td style="width:16.66%">			<p>MS</p>			</td>			<td style="width:20.54%">			<p>2月1日（秋季）</p>			</td>		</tr>		<tr>			<td style="width:22.9%">			<p>工业<a href="http://www.qianmu.org/药剂学" target="_blank">药剂学</a></p>			</td>			<td style="width:39.9%">			<p>Industrial Pharmaceutics</p>			</td>			<td style="width:16.66%">			<p>MS</p>			</td>			<td style="width:20.54%">			<p>-</p>			</td>		</tr>	</tbody></table><p>*</p><p><strong>参考资料：</strong></p><p><a href="http://www.qianmu.org/redirect?code=zrQ-nHVmwnkBwmWJPU_51UOFNV9bBlWfsRKgYwkCdpbf2s7di1DD-1260NdpnJ8sKVGFZRPGN4x_dXbaATp2k1daF4DAymfPHLraP5wFt0RwNMQrFCR54Y4d0zOs56-JsKhEp5LEn_tdpO1H5LtldEn18sTbm1MbqfYzGczysdL-DcAzxssx45KKf-JkAnPYAhXTtKpnm3OU4k" target="_blank">Graduate Degrees and Programs</a> University of the Pacific</p><h2>法学院</h2><p>太平洋大学法学院（Pacific McGeorge School of Law）研究生开设有以下学位项目，分别是：</p><p><a href="http://www.qianmu.org/LLM" target="_blank">LLM</a>：跨国贸易实践（Transnatianal Business Practice）、美国法律与政策（US Law &amp; Policy）、水资源法（Water Resources Law）</p><ul>	<li>JD</li>	<li>JSD：国际水资源法（International Water Resources Law）*</li></ul><p>参考资料：</p><p><a href="http://www.qianmu.org/redirect?code=Hr3vKzAsLWal5kkFvvvvv0vysgkEP8CpyNZxZxHe9um7R4yO9vWS8-6S0jO1UPcIS-n7w0_WPMO6kEv4fwdyroM0SkDnsAB771sxognA3CU8l2A0ifqbekrh" target="_blank">Pacific McGeorge School of Law</a> University of the Pacific</p><h2>牙医学院</h2><p>太平洋大学牙医学院（Arthur A. Dugoni School of Dentistry）研究生只开设了一项研究生项目，即牙医学（Dentistry）。该项目提供DDS和MS 学位。*</p><p><strong>参考资料：</strong></p><p><a href="http://www.qianmu.org/redirect?code=hrfXwivWLs_unDAUHHHHHKDN1MDVaz9pAEAE7wub3tQryxqpP67me9_WmCR7BSHDbC1TOjRwiURfeKxDgUl2u2RfeUpbvpud0CEMQqBIP0mxP8Bx4imXQ4jXB0exPV3XgR0uoauwDRewibUzQRoNDneNdBiR-meGzmIG4BNt-y7R-mezdBuYiyeA" target="_blank">Graduate Degrees and Programs</a> University of the Pacific</p></div>
+					
+	           </div>
+	           <div id="authorTrueName" style="float: right;"></div><br>
+				
+	           <div class="col-md-12">
+	           		<div id="cmt" style="position: relative;"><a name="comments" style="margin-top:150px;"></a>
+		           			<div id="lastEditTime" style="position: absolute;top: 18px;right: 10px;">2019-09-19</div>
+		           			<div style="position: absolute;top: 18px;right: 100px;">最后修改时间：</div>
+	           		</div>
+	           </div>
+			  </div>
+              </div>
+            </div>
+            <!-- /.row -->
+          </div>
+        </div>
+      </div>
+      <!-- /.row -->
+    </div>
+  </div>
+</div>
+
+
+<script type="text/javascript">
+	var ctx= '',uId='',vl='', wsip = 'ws://www.qianmu.org:8080/',ve='';
+	var vipendtime="";
+	var et='';
+	var b_name = navigator.appName; 
+	var b_version = navigator.appVersion; 
+	var version = b_version.split(";"); 
+	var trim_Version=version[1].replace(/[ ]/g,"");
+	if (b_name == "Microsoft Internet Explorer") { 
+
+	if (trim_Version == "MSIE7.0" || trim_Version == "MSIE6.0" ||trim_Version == "MSIE8.0") { 
+		alert("IE浏览器版本过低，请到指定网站去下载相关版本"); 
+	 		window.location.href="http://jiaoxueyun.com/download.jsp"; 
+		} 
+	} 
+</script>
+<script src="/r/plugins/bower_components/jquery/dist/jquery.min.js"></script>
+<script src="/r/release/js/all.js?v=1.2"></script>
+<script type='text/javascript'>
+    (function(m, ei, q, i, a, j, s) {
+        m[i] = m[i] || function() {
+            (m[i].a = m[i].a || []).push(arguments)
+        };
+        j = ei.createElement(q),
+            s = ei.getElementsByTagName(q)[0];
+        j.async = true;
+        j.charset = 'UTF-8';
+        j.src = 'https://static.meiqia.com/dist/meiqia.js?_=t';
+        s.parentNode.insertBefore(j, s);
+    })(window, document, 'script', '_MEIQIA');
+    _MEIQIA('entId', 99735);
+</script>
+ 
+ 
+<script type="text/javascript">
+function inadd(){
+	 var incontent = $("#intext").val();
+	 var inpid = $("#inpid").val();
+	 var itemId=1598;
+	 
+	 $.ajax({
+			url:ctx+"/addComment",
+			data:{itemId:itemId,content:incontent,type:'item',pid:inpid},
+			dataType:"json",
+			type:"post",
+			success:function(resp){
+				if(resp.success){
+					$("#pl").val(resp.msg);
+					location.reload();
+				}else{
+					if("needlogin"==resp.status){
+						$.fn.loginShow();
+					}else{
+						$.fn.notify("温馨提示",resp.msg);
+					}
+				}
+			}
+		});
+}
+
+var itemId = '1598' ;
+var editLevel  = '';
+if(itemId==''){
+	itemId=2006;
+}
+var needlogin = '1';
+	var needFill = '0';
+ 	var ads = '';  
+var needpay = '0';
+var vipnotice = '' ;
+if(vl=='0'){
+	
+}
+$(document).ready(function(){
+	if(needlogin=='1'){
+		location.href = "/loginView";
+	}
+	console.log(vipnotice);
+	if(uId!=''&&vipnotice>0&&vipnotice<3){
+		 swal({   
+	           title: "您的VIP即将到期",   
+	           text: "到期时间"+vipendtime,   
+	           type: "warning",   
+	           showCancelButton: true,   
+	           confirmButtonColor: "#DD6B55",   
+	           confirmButtonText: "购买VIP", 
+	           cancelButtonText:'我知道了',
+	           closeOnConfirm: true 
+	       }, function(){   
+	           location.href=ctx+"/zone/vippay2?vipRange=12";
+	       });
+	}
+	  
+	  /* if(ads=='0'){
+			var fillContent = new Ads({
+				closeClick:true,
+				render : function() {
+					return $.ajax({
+						url : ctx + "/getAds",
+						async : false,
+						dataType : 'text'
+					}).responseText;
+				}
+			});
+			fillContent.show();
+			$(document).scroll(function() {
+				fillContent.reposition();
+			});
+		}  */
+});
+</script>
+<script type="text/javascript">
+//反馈纠错
+$(document).ready(function(){
+	//$.fn.addCmt();
+	var itemId=1598;
+  	$("#cmt").comments({
+  		url:ctx+'/listComment',
+  		param:{itemId:itemId,type:'item'},
+  		total:"commentCount",
+  		submit:function(opts){
+  			var content = opts.content;
+  			var pid = opts.pid;
+  			if(content==""&&content.trim()==""){
+  				$.fn.notify("温馨提示","请输入评论内容");
+  				return ;
+  			}
+  			$.ajax({
+  				url:ctx+"/addComment",
+  				data:{itemId:itemId,content:content,type:'item',pid:pid},
+  				dataType:"json",
+  				type:"post",
+  				success:function(resp){
+  					if(resp.success){
+  						location.reload();
+  					}else{
+  						if("needlogin"==resp.status){
+  							$.fn.loginShow();
+  						}else{
+  							$.fn.notify("温馨提示",resp.msg);
+  						}
+  					}
+  				}
+  			});
+  		}
+  	});
+});
+
+</script>
+<script type="text/javascript" src="/static/standard/ckeditor/ckeditor.js"></script>
+<script src="/static/standard/ckeditor/adapters/jquery.js"></script> 
+<script src="/r/plugins/bower_components/bootstrap-treeview-master/dist/bootstrap-treeview.min.js"></script>
+<script type="text/javascript" src="/resources/plugins/qianmu/js/wiki.js?v=1.2"></script>
+</body>
+</html>
